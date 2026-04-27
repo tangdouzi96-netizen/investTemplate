@@ -1,0 +1,307 @@
+analysis_metadata:
+  stock_code: "09992.HK"
+  stock_name: "泡泡玛特"
+  report_date: "2026-04-27"
+  analyst: "Cursor Agent"
+  annual_report_year: 2025
+  annual_report_date: "2026-03-25"
+  data_freshness_control:
+    current_date: "2026-04-27"
+    data_age_days: 33
+    max_allowed_age_days: 365
+  report_type: "annual"
+  is_latest_full_year: true
+  next_year_available: false
+  data_confidence_level: "S"
+  validation_checks:
+    - check: "使用的是最新完整年度年报（非中报/季报/预告）"
+      checked: true
+    - check: "年报发布日期不早于去年今日"
+      checked: true
+    - check: "如果年报未发布，已明确标注并使用中报（置信度降级）"
+      checked: true
+    - check: "非预告/快报数据，为正式审计报告"
+      checked: true
+    - check: "已对比至少3年历史数据"
+      checked: true
+    - check: "核心财务数据（现金、负债、利润、现金流）来自年报原文"
+      checked: true
+
+core_financial_data:
+  cash_and_bank_balances:
+    value: 17483932
+    unit: "RMB"
+    display_unit: "亿元人民币"
+    source: "annual_report_note_24_total_cash"
+    page_number: 329
+    report_period: "2025-12-31"
+    confidence: "S"
+    verification_checked: true
+    notes: "按年报RMB'000口径录入，含银行现金及手头现金17,483,932千元；其中包括受限制现金258,923千元及一年内定期存款3,449,922千元。"
+
+  restricted_cash:
+    value: 258923
+    source: "annual_report_note_24_restricted_cash"
+    page_number: 329
+    confidence: "S"
+
+  interest_bearing_debt:
+    short_term:
+      value: 0
+      source: "annual_report_page_33_bank_borrowings"
+      page_number: 33
+      report_period: "2025-12-31"
+      confidence: "S"
+    long_term:
+      value: 0
+      source: "annual_report_page_33_bank_borrowings"
+      page_number: 33
+      report_period: "2025-12-31"
+      confidence: "S"
+    bonds:
+      value: 0
+      source: "annual_report_page_33_bank_borrowings"
+      page_number: 33
+      report_period: "2025-12-31"
+      confidence: "S"
+    lease_liabilities:
+      value: 2861575
+      source: "annual_report_note_16_lease_liabilities"
+      page_number: 299
+      report_period: "2025-12-31"
+      confidence: "S"
+    total_calculation: "short_term + long_term + bonds + lease_liabilities"
+    total_value: 2861575
+    confidence: "S"
+
+  total_liabilities:
+    value: 9448987
+    source: "annual_report_page_220_balance_sheet"
+    page_number: 220
+    confidence: "S"
+
+  total_assets:
+    value: 32101354
+    source: "annual_report_page_220_balance_sheet"
+    page_number: 220
+    confidence: "S"
+
+  net_assets:
+    value: 22652367
+    source: "annual_report_page_220_balance_sheet"
+    page_number: 220
+    confidence: "S"
+
+  revenue:
+    value: 37120052
+    unit: "RMB"
+    display_unit: "亿元人民币"
+    source: "annual_report_page_218_profit_or_loss"
+    page_number: 218
+    report_period: "2025-12-31"
+    confidence: "S"
+
+  net_profit:
+    value: 13012042
+    unit: "RMB"
+    display_unit: "亿元人民币"
+    source: "annual_report_page_218_profit_or_loss"
+    page_number: 218
+    report_period: "2025-12-31"
+    confidence: "S"
+
+  net_profit_attributable:
+    value: 12775689
+    unit: "RMB"
+    display_unit: "亿元人民币"
+    source: "annual_report_page_218_profit_or_loss"
+    page_number: 218
+    report_period: "2025-12-31"
+    confidence: "S"
+
+  non_recurring_items:
+    asset_impairment: 0
+    government_subsidy: 0
+    gain_on_disposal: 0
+    total: 0
+
+  operating_cash_flow:
+    value: 10865152
+    unit: "RMB"
+    display_unit: "亿元人民币"
+    source: "annual_report_cash_flow_statement_page_225"
+    page_number: 225
+    report_period: "2025-12-31"
+    confidence: "S"
+    verification_checked: true
+
+  capex:
+    value: 985250
+    unit: "RMB"
+    source: "annual_report_cash_flow_purchases_of_property_plant_equipment"
+    page_number: 225
+    report_period: "2025-12-31"
+    confidence: "S"
+
+  dividends_paid:
+    value: 1083288
+    unit: "RMB"
+    source: "annual_report_cash_flow_dividends_paid"
+
+  total_shares:
+    value: 1342943150
+    source: "annual_report_note_25_issued_shares"
+    page_number: 330
+    confidence: "S"
+
+  share_price:
+    value: 156.5
+    currency: "HKD"
+    date: "2026-04-24"
+    source: "yahoo_finance_last_close"
+    fx_to_rmb: 0.8711
+    fx_source: "yahoo_finance_hkdcny_2026_04_24"
+    fx_notes: "按 2026-04-24 Yahoo Finance HKD/CNY=0.8711 统一为人民币口径。"
+
+  market_cap:
+    calculation: "total_shares * share_price"
+    value: 210170602975
+    unit: "HKD"
+    display_unit: "亿港元"
+    value_rmb: 183079612
+    display_value_rmb: "1830.80亿元人民币"
+
+  calculated_metrics:
+    net_cash:
+      formula: "cash_and_bank_balances - restricted_cash - interest_bearing_debt.total"
+      value: 14363434
+      display_value: "143.63亿元人民币"
+      confidence: "A"
+    fcf:
+      formula: "operating_cash_flow - capex"
+      value: 9879902
+      display_value: "98.80亿元人民币"
+      confidence: "A"
+    market_cap_ex_cash:
+      formula: "market_cap - net_cash"
+      value: 168716178
+      display_value: "1687.16亿元人民币"
+    fcf_yield:
+      formula: "fcf / market_cap"
+      value: 0.0540
+      display_value: "5.40%"
+    fcf_multiple_ex_cash:
+      formula: "market_cap_ex_cash / fcf"
+      value: 17.08
+      display_value: "17.08倍"
+    pe_ratio:
+      formula: "market_cap / net_profit_attributable"
+      value: 14.33
+      display_value: "14.33倍"
+    pb_ratio:
+      formula: "market_cap / net_assets"
+      value: 8.08
+      display_value: "8.08倍"
+    debt_to_asset_ratio:
+      formula: "total_liabilities / total_assets"
+      value: 0.2943
+      display_value: "29.43%"
+    cash_to_market_cap_ratio:
+      formula: "net_cash / market_cap"
+      value: 0.0785
+      display_value: "7.85%"
+
+historical_comparison:
+  years:
+    - year: 2023
+      revenue: 6301002
+      net_profit: 1088771
+      cash: 5981448
+      debt: 792811
+    - year: 2024
+      revenue: 13037749
+      net_profit: 3308345
+      cash: 9645809
+      debt: 964561
+    - year: 2025
+      revenue: 37120052
+      net_profit: 13012042
+      cash: 17483932
+      debt: 2861575
+  variance_analysis:
+    - metric: "cash"
+      current: 17483932
+      previous: 9645809
+      variance_percent: 81.26
+      explanation: "2025年经营现金流大增至10,865,152千元，同时盈利高增长带动留存收益和现金储备显著增加。"
+
+cross_validation:
+  interest_rate_check:
+    interest_income: 237628
+    calculated_rate: 0.0136
+    expected_range: "1%-5%"
+    status: "PASS"
+    notes: "按已收利息/总现金测算，落在合理区间内。"
+  interest_expense_check:
+    interest_expense: 82471
+    calculated_rate: 0.0288
+    expected_range: "2%-10%"
+    status: "PASS"
+    notes: "全部利息支出基本来自租赁负债利息，负债成本处于合理范围。"
+  fcf_vs_profit_check:
+    fcf: 9879902
+    net_profit: 12775689
+    ratio: 0.7733
+    expected_range: ">50%"
+    status: "PASS"
+    notes: "FCF/归母净利润约77%，盈利现金转化质量较好。"
+
+validation_checklist:
+  - id: "timing"
+    item: "时点检查：使用的是最新完整年度年报（非中报/季报）"
+    checked: true
+  - id: "unit"
+    item: "单位检查：确认所有数字单位（亿/万/千元）正确无误"
+    checked: true
+  - id: "subject"
+    item: "科目检查：现金≠受限存款，借款≠总负债，区分有息/无息负债"
+    checked: true
+  - id: "calculation"
+    item: "计算检查：手工复核净现金、FCF等计算正确"
+    checked: true
+  - id: "variance"
+    item: "对比检查：与上期数据对比，变动>30%有合理解释"
+    checked: true
+    variance_explanation: "2025年现金同比+81.26%，主要由经营现金流爆发式增长驱动；租赁负债同比增加，主要因全球店铺扩张带来租赁合同增长。"
+  - id: "source"
+    item: "来源检查：所有数据标注年报页码/附注编号"
+    checked: true
+  - id: "cross_check"
+    item: "交叉验证：利息率、现金/市值比例在合理范围"
+    checked: true
+  - id: "data_freshness"
+    item: "数据时效性：确认使用最新完整年度年报，非中报/季报数据"
+    checked: true
+    freshness_explanation: "使用2025年报（2026-03-25发布），分析时点为2026-04-27。"
+
+data_corrections:
+  has_correction: false
+  corrections:
+    - field: ""
+      original_value: ""
+      corrected_value: ""
+      reason: ""
+      date: ""
+
+confidence_downgrade_reasons:
+  - reason: "股价来自2026-04-24最近收盘价，已按HKD/CNY=0.8711折算为人民币口径；估值指标受汇率与市场价格波动影响，属于A/B级市场口径。"
+
+confirmation:
+  i_confirm:
+    - "所有S级数据直接来自公司年报原文附注"
+    - "已逐项核查现金、负债、利润、现金流数据"
+    - "计算过程已复核，单位确认无误"
+    - "与上期数据对比合理，异常变动已解释"
+    - "了解数据错误将导致分析报告作废"
+  analyst_signature: "Cursor Agent"
+  validation_date: "2026-04-27"

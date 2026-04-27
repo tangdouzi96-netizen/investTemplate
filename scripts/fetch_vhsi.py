@@ -1,22 +1,35 @@
 # -*- coding: utf-8 -*-
 """
-港股恒指波幅指数(VHSI)抓取脚本 V1.0 (V5.5.13版)
-每日抓取 ^VHSI 收盘价，作为港股情绪主锚
+港股恒指波幅指数(VHSI)抓取脚本 V1.1 (V5.5.14版)
+优先抓取当前可用的 Yahoo Finance 符号，作为港股情绪主锚。
 """
 import yfinance as yf
 from datetime import datetime
 import json
 import os
 
-VHSI_SYMBOL = "^VHSI"  # Yahoo Finance 代码
+VHSI_SYMBOLS = ["^HSIL", "^VHSI"]  # Yahoo Finance 代码，^VHSI 已失效时回退到 ^HSIL
 OUTPUT_FILE = "08-决策追踪/vhsi_monitoring.json"
 
 
 def fetch_vhsi():
-    ticker = yf.Ticker(VHSI_SYMBOL)
-    hist = ticker.history(period="5d")
-    if hist.empty:
-        raise ValueError("Failed to fetch VHSI data")
+    hist = None
+    symbol_used = None
+    last_error = None
+
+    for symbol in VHSI_SYMBOLS:
+        try:
+            ticker = yf.Ticker(symbol)
+            candidate = ticker.history(period="5d")
+            if not candidate.empty:
+                hist = candidate
+                symbol_used = symbol
+                break
+        except Exception as exc:  # pragma: no cover - 网络异常或符号失效
+            last_error = exc
+
+    if hist is None or hist.empty:
+        raise ValueError(f"Failed to fetch VHSI data: {last_error}")
 
     latest = hist.iloc[-1]
     vhsi = round(float(latest["Close"]), 2)
@@ -25,6 +38,7 @@ def fetch_vhsi():
         "date": hist.index[-1].strftime("%Y-%m-%d"),
         "vhsi_close": vhsi,
         "level": get_vhsi_level(vhsi),
+        "source_symbol": symbol_used,
         "timestamp": datetime.now().isoformat(),
     }
 
