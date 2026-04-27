@@ -159,12 +159,17 @@ core_financial_data:
     currency: "HKD"
     date: "2026-04-24"
     source: "yahoo_finance_last_close"
+    fx_to_rmb: 0.8711
+    fx_source: "yahoo_finance_hkdcny_2026_04_24"
+    fx_notes: "按 2026-04-24 Yahoo Finance HKD/CNY=0.8711 统一为人民币口径。"
 
   market_cap:
     calculation: "total_shares * share_price"
     value: 210170602975
     unit: "HKD"
     display_unit: "亿港元"
+    value_rmb: 183079612252
+    display_value_rmb: "1830.80亿元人民币"
 
   calculated_metrics:
     net_cash:
@@ -179,32 +184,32 @@ core_financial_data:
       confidence: "A"
     market_cap_ex_cash:
       formula: "market_cap - net_cash"
-      value: 0
-      display_value: "待统一币种后计算"
+      value: 168716178252
+      display_value: "1687.16亿元人民币"
     fcf_yield:
       formula: "fcf / market_cap"
-      value: 0
-      display_value: "待统一币种后计算"
+      value: 0.0540
+      display_value: "5.40%"
     fcf_multiple_ex_cash:
       formula: "market_cap_ex_cash / fcf"
-      value: 0
-      display_value: "待统一币种后计算"
+      value: 17.08
+      display_value: "17.08倍"
     pe_ratio:
       formula: "market_cap / net_profit_attributable"
-      value: 0
-      display_value: "待统一币种后计算"
+      value: 14.33
+      display_value: "14.33倍"
     pb_ratio:
       formula: "market_cap / net_assets"
-      value: 0
-      display_value: "待统一币种后计算"
+      value: 8.08
+      display_value: "8.08倍"
     debt_to_asset_ratio:
       formula: "total_liabilities / total_assets"
       value: 0.2943
       display_value: "29.43%"
     cash_to_market_cap_ratio:
       formula: "net_cash / market_cap"
-      value: 0
-      display_value: "待统一币种后计算"
+      value: 0.0785
+      display_value: "7.85%"
 
 historical_comparison:
   years:
@@ -289,7 +294,7 @@ data_corrections:
       date: ""
 
 confidence_downgrade_reasons:
-  - reason: "股价与市值采用2026-04-24最近收盘价（港元），与年报人民币口径存在币种差异，部分估值倍数待统一币种后再计算。"
+  - reason: "股价来自2026-04-24最近收盘价，已按HKD/CNY=0.8711折算为人民币口径；估值指标受汇率与市场价格波动影响，属于A/B级市场口径。"
 
 confirmation:
   i_confirm:
