@@ -393,8 +393,11 @@ class DataValidator:
         shares = core.get('total_shares', {}).get('value', 0)
         price = core.get('share_price', {}).get('value', 0)
         profit = core.get('net_profit_attributable', {}).get('value', 0)
-        
+        market_cap_data = core.get('market_cap', {})
         market_cap = shares * price
+        # 港股/A股混合场景下，股价和财报可能使用不同币种。
+        # 若 YAML 已显式提供统一币种后的市值，则优先用该口径校验估值倍数。
+        market_cap_for_valuation = market_cap_data.get('value_rmb', market_cap_data.get('value', market_cap))
         
         # 校验净现金计算
         net_cash_expected = cash - restricted - debt_total
@@ -417,12 +420,12 @@ class DataValidator:
         # 校验FCF倍数
         fcf_multiple = metrics.get('fcf_multiple_ex_cash', {}).get('value', 0)
         if fcf_multiple > 0 and fcf_expected > 0:
-            market_cap_ex_cash = market_cap - net_cash_expected
+            market_cap_ex_cash = market_cap_for_valuation - net_cash_expected
             expected_multiple = market_cap_ex_cash / fcf_expected if fcf_expected != 0 else 0
             if abs(expected_multiple - fcf_multiple) > 0.1:
                 self.warnings.append(
                     f"[CALC] 剔除现金FCF倍数计算可能有误: "
-                    f"({market_cap} - {net_cash_expected}) / {fcf_expected} = "
+                    f"({market_cap_for_valuation} - {net_cash_expected}) / {fcf_expected} = "
                     f"{expected_multiple:.2f}, 但填写为 {fcf_multiple}"
                 )
         

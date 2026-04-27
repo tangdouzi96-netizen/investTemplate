@@ -168,7 +168,7 @@ core_financial_data:
     value: 210170602975
     unit: "HKD"
     display_unit: "亿港元"
-    value_rmb: 183079612252
+    value_rmb: 183079612
     display_value_rmb: "1830.80亿元人民币"
 
   calculated_metrics:
@@ -184,7 +184,7 @@ core_financial_data:
       confidence: "A"
     market_cap_ex_cash:
       formula: "market_cap - net_cash"
-      value: 168716178252
+      value: 168716178
       display_value: "1687.16亿元人民币"
     fcf_yield:
       formula: "fcf / market_cap"
