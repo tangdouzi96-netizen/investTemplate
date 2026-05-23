@@ -26,6 +26,8 @@ npm-debug.log*
 # 本地环境
 .env
 .env.local
+.claude/settings.json
+.claude/settings.local.json
 
 # Python
 __pycache__/

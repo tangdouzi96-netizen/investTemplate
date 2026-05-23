@@ -1,0 +1,77 @@
+{
+  "lastUpdated": "2026-05-23",
+  "companies": {
+    "泸州老窖": {
+      "code": "000568.SZ",
+      "industry": "白酒",
+      "assetType": "轻资产",
+      "fcfThreshold": ">60%",
+      "status": "normal",
+      "warnings": 0,
+      "updatePrompt": "更新泸州老窖（000568.SZ）风险跟踪指标。",
+      "indicators": [
+        {"dim": "现金真实性", "name": "FCF/NP", "value": "64.0%", "threshold": ">60%", "status": "green", "trend": "→", "confidence": "S", "note": "FCF=71.23(年报S)-1.93(年报现金流量表'购建固定资产')=69.30亿，NP=108.31亿(S)。OCF偏低因去库存，关注恢复。"},
+        {"dim": "资产质量", "name": "净现金增减", "value": "+273亿", "threshold": ">0", "status": "green", "trend": "→", "confidence": "S", "note": "货币资金273.42亿，有息负债≈0，财务费用-5.12亿为净利息收入。年报原文提取。"},
+        {"dim": "资产质量", "name": "投资CF/NP", "value": "~3.7%", "threshold": "<50%", "status": "green", "trend": "→", "confidence": "S", "note": "购建固定资产1.93亿+投资支付2.10亿=4.03亿/108.31亿≈3.7%。数据均取自年报现金流量表原文。极轻资产，投资支出极低。"},
+        {"dim": "盈利质量", "name": "OCF/NP", "value": "65.8%", "threshold": ">50%", "status": "yellow", "trend": "↓", "confidence": "S", "note": "71.23亿/108.31亿。年报原文提取。去库存期回款减少，正常年份>100%。关注恢复至>100%的时点。"},
+        {"dim": "盈利质量", "name": "非经常损益/NP", "value": "0.7%", "threshold": "<20%", "status": "green", "trend": "→", "confidence": "S", "note": "扣非107.60亿 vs 归母108.31亿，差异0.66%。年报原文提取。利润几乎全部来自主业。"},
+        {"dim": "盈利质量", "name": "净现金/总资产", "value": "42.2%", "threshold": ">10%", "status": "green", "trend": "→", "confidence": "S", "note": "273.42亿/647.95亿。年报原文提取。A股白酒中资产质量最高档，现金占比极大。"},
+        {"dim": "盈利质量", "name": "毛利率趋势", "value": "86.6%", "threshold": "稳定或上升", "status": "green", "trend": "↑", "confidence": "S", "note": "中高档酒类毛利率>86.6%(年报原文)，行业调整期终端价格未崩塌，品牌力坚挺。"},
+        {"dim": "管理层", "name": "关联交易", "value": "无异常", "threshold": "无异常", "status": "green", "trend": "—", "confidence": "S", "note": "年报核查无异常关联交易披露。泸州老窖集团(国有)治理规范。"},
+        {"dim": "管理层", "name": "大股东减持", "value": "无", "threshold": "无", "status": "green", "trend": "—", "confidence": "S", "note": "泸州老窖集团(国有)持股稳定，年报+公开记录核查无减持。"},
+        {"dim": "增长质量", "name": "应收增速/营收增速", "value": "健康", "threshold": "≤1.0", "status": "green", "trend": "→", "confidence": "B", "note": "应收仅607万元(年末)，较年初-45%。营收-17.5%。二级来源(财经网站)，待年报原文确认。应收收缩快于营收→回款健康。"},
+        {"dim": "行业基准", "name": "毛利率 vs 行业P10", "value": "P5以内", "threshold": ">P10", "status": "green", "trend": "→", "confidence": "B", "note": "86.6%毛利率在白酒行业排前五，远超P10(~55-60%)。行业排名来自公开渠道估算。"},
+        {"dim": "🔍行业专属", "name": "批价/出厂价比", "value": "~155%", "threshold": ">95%", "status": "green", "trend": "→", "confidence": "C", "note": "国窖1573批价~850-860元(B)/出厂价~550元(C业内估算)。批价来自渠道数据，出厂价非公开。2025全年批价仅回撤4%。"},
+        {"dim": "🔍行业专属", "name": "合同负债/营收比", "value": "~10.8%", "threshold": ">15%", "status": "yellow", "trend": "↓", "confidence": "S", "note": "2026Q1合同负债27.9亿/年化营收~257亿。年报+季报原文提取。去库存期经销商打款意愿下降，关注是否企稳。"}
+      ]
+    },
+    "泡泡玛特": {
+      "code": "09992.HK",
+      "industry": "潮玩IP",
+      "assetType": "轻资产",
+      "fcfThreshold": ">60%",
+      "status": "warning",
+      "warnings": 2,
+      "updatePrompt": "更新泡泡玛特（09992.HK）风险跟踪指标。",
+      "indicators": [
+        {"dim": "现金真实性", "name": "FCF/NP", "value": "75.9%", "threshold": ">60%", "status": "green", "trend": "→", "confidence": "S", "note": "FCF=108.65-11.71=96.94亿，NP=127.76亿。OCF和CAPEX均从年报PDF现金流量表原文提取。直营模式现金真实。"},
+        {"dim": "资产质量", "name": "净现金增减", "value": "+137.8亿", "threshold": ">0", "status": "green", "trend": "↑", "confidence": "S", "note": "现金137.75亿(年报MD&A原文)-有息负债0(年报明确'无任何银行借款')。上年现金61.09亿→净增76.66亿。第三方数据此前错误报告有息负债28.62亿。"},
+        {"dim": "资产质量", "name": "投资CF/NP", "value": "9.2%", "threshold": "<50%", "status": "green", "trend": "→", "confidence": "S", "note": "购建物业厂房设备9.85亿+无形资产1.86亿=11.71亿/127.76亿。年报PDF现金流量表原文。轻资产IP公司，投资支出远低于阈值。"},
+        {"dim": "盈利质量", "name": "OCF/NP", "value": "85.0%", "threshold": ">50%", "status": "green", "trend": "→", "confidence": "S", "note": "108.65亿/127.76亿。年报PDF现金流量表原文。直营模式无渠道压货，现金流质量高。"},
+        {"dim": "盈利质量", "name": "非经常损益/NP", "value": "~2.4%", "threshold": "<20%", "status": "green", "trend": "→", "confidence": "B", "note": "经调整净利130.84亿 vs 归母127.76亿，差异2.4%。二级来源。非经常性影响很小。年报PDF中可进一步验证。"},
+        {"dim": "盈利质量", "name": "净现金/总资产", "value": "42.9%", "threshold": ">10%", "status": "green", "trend": "↑", "confidence": "S", "note": "137.75亿(年报S级)/321.01亿(B级)。年报明确资产负债率29.4%、零银行借款。资产质量极优。"},
+        {"dim": "盈利质量", "name": "毛利率趋势", "value": "72.1%", "threshold": "稳定或上升", "status": "green", "trend": "↑", "confidence": "B", "note": "2025年72.1% vs 2024年66.8%，+5.3pp。二级来源。高毛利毛绒占比提升+海外直营比例上升驱动。年报PDF中毛利率可进一步验证。"},
+        {"dim": "管理层", "name": "关联交易", "value": "无异常", "threshold": "无异常", "status": "green", "trend": "—", "confidence": "S", "note": "年报PDF核查：无关联方异常交易。审计与风控部直报董事会。发生1起员工贪污诉讼已结案→内部控制有效运行。"},
+        {"dim": "管理层", "name": "大股东减持", "value": "2024.10减持15.6亿", "threshold": "无", "status": "red", "trend": "—", "confidence": "S", "note": "王宁2024.10通过GWF+Hehuo配售2,170万股，均价HK$71.98，套现15.62亿港元。港交所披露+多家媒体交叉验证。合规但减分。"},
+        {"dim": "增长质量", "name": "应收增速/营收增速", "value": "0.50", "threshold": "≤1.0", "status": "green", "trend": "→", "confidence": "B", "note": "贸易应收款9.21亿 vs 4.78亿(+92.8%)，营收+184.7%。二级来源(资产负债表)。年报PDF附注确认应收增加4.43亿→增速远低于营收→赊销未失控。"},
+        {"dim": "行业基准", "name": "毛利率 vs 行业P10", "value": "行业领先", "threshold": ">P10", "status": "green", "trend": "→", "confidence": "B", "note": "72.1%毛利率在潮玩/IP授权行业绝对领先，远超行业P10。品牌溢价+直营高毛利。行业排名为定性判断。"},
+        {"dim": "🔍行业专属", "name": "2-10名IP营收增速", "value": "全线正增长", "threshold": ">0", "status": "green", "trend": "↑", "confidence": "B", "note": "SKULLPANDA 35.4亿(+170%)、CRYBABY 29.3亿(+151%)、MOLLY 29.0亿、DIMOO 27.8亿(+205%)、星星人20.6亿(+1600%)。6大IP超20亿，17个IP过亿(B级公开渠道)。多IP矩阵强劲，不依赖单一IP。"},
+        {"dim": "🔍行业专属", "name": "海外平均单店营收增速", "value": "~+66%", "threshold": ">0", "status": "green", "trend": "↑", "confidence": "C", "note": "海外收入162.7亿(+291.9%)，全球门店630家(净增109家)。海外单店营收~0.58亿(C级估算，门店数未精确拆分)。开店同时营收效率大幅提升。"}
+      ]
+    },
+    "陕西煤业": {
+      "code": "601225.SH",
+      "industry": "煤炭",
+      "assetType": "重资产",
+      "fcfThreshold": ">30%",
+      "status": "normal",
+      "warnings": 0,
+      "updatePrompt": "更新陕西煤业（601225.SH）风险跟踪指标。",
+      "indicators": [
+        {"dim": "现金真实性", "name": "FCF/NP", "value": "108.6%", "threshold": ">30%", "status": "green", "trend": "→", "confidence": "S", "note": "FCF=182.09亿，NP=167.65亿。经营现金流352.69亿，CAPEX 170.60亿。年报PDF原文提取+现金流量表补充资料。煤矿折旧巨大致FCF>NP。"},
+        {"dim": "资产质量", "name": "净现金增减", "value": "~20亿", "threshold": ">0", "status": "yellow", "trend": "↓", "confidence": "S", "note": "现金218.60亿，长期借款198.22亿，净现金≈20.38亿。年报原文提取。受限资金99.38亿。重资产矿业天然负债偏高。"},
+        {"dim": "资产质量", "name": "投资CF/NP", "value": "101.8%", "threshold": "<50%", "status": "red", "trend": "→", "confidence": "S", "note": "购建固定资产170.60亿/NP 167.65亿。年报现金流量表原文提取。CAPEX/NP≈102%，矿业维持性资本开支极高，但配合ROE 17.9%→投入有效。"},
+        {"dim": "盈利质量", "name": "OCF/NP", "value": "210.4%", "threshold": ">50%", "status": "green", "trend": "→", "confidence": "S", "note": "352.69亿/167.65亿。年报原文提取。矿业特征：折旧巨大、经营现金流远超净利润。真实变现能力极强。"},
+        {"dim": "盈利质量", "name": "非经常损益/NP", "value": "~8.5%", "threshold": "<20%", "status": "green", "trend": "→", "confidence": "S", "note": "扣非153.45亿 vs 归母167.65亿，差额14.2亿(含投资收益38.97亿)。年报原文提取。非经常性占比合理。"},
+        {"dim": "盈利质量", "name": "净现金/总资产", "value": "~9.3%", "threshold": ">10%", "status": "yellow", "trend": "→", "confidence": "S", "note": "现金218.60亿/总资产2362.69亿=9.3%。年报原文提取。重资产行业特征，接近阈值。煤矿资源储量115亿吨未计入。"},
+        {"dim": "盈利质量", "name": "毛利率趋势", "value": "~29.1%", "threshold": "稳定或上升", "status": "yellow", "trend": "↓", "confidence": "S", "note": "(1581.79-1122.14)/1581.79=29.1%。年报原文提取。煤价从860→703元/吨(-18%)，毛利率承压。关注煤价企稳信号。"},
+        {"dim": "管理层", "name": "关联交易", "value": "资产注入(公允)", "threshold": "无异常", "status": "green", "trend": "—", "confidence": "S", "note": "陕煤集团资源/资产注入(煤电一体化)。年报核查+公开信息。定价公允，对小股东有利。"},
+        {"dim": "管理层", "name": "大股东减持", "value": "无", "threshold": "无", "status": "green", "trend": "—", "confidence": "S", "note": "陕西省国资委控股，年报+公开记录核查无减持。"},
+        {"dim": "增长质量", "name": "应收增速/营收增速", "value": "预警", "threshold": "≤1.0", "status": "yellow", "trend": "↑", "confidence": "B", "note": "应收票据+账款年末65.88亿 vs 年初~51亿(+28%)，营收-14.1%(S级)。营收收缩但应收扩张→回款压力加大。应收/营收=4.2%，绝对值仍低。需关注后续季报是否恶化。"},
+        {"dim": "行业基准", "name": "毛利率 vs 行业P10", "value": "行业领先", "threshold": ">P10", "status": "green", "trend": "→", "confidence": "B", "note": "29.1%毛利率在煤炭行业中成本优势显著。吨煤成本行业最低之一(B级公开渠道)。陕西优质矿区+露天开采占比高。"},
+        {"dim": "🔍行业专属", "name": "5500大卡煤价/长协基准", "value": "~104%", "threshold": ">80%", "status": "green", "trend": "↓", "confidence": "B", "note": "2025年均价~703元/吨，长协基准~675元/吨(B级公开市场数据)。同比-18.4%。2026Q1继续低位。煤价仍高于长协基准但贴近。"},
+        {"dim": "🔍行业专属", "name": "长协合同占比", "value": "~80%", "threshold": "年报披露值", "status": "green", "trend": "→", "confidence": "C", "note": "行业惯例约70-80%(C级估算，待年报确认)。长协占比高意味着利润稳定性强，抵御市场煤价波动能力强。"}
+      ]
+    }
+  }
+}

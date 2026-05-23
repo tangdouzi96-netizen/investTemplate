@@ -13,6 +13,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '🎯 模拟持仓', link: '/模拟持仓/持仓' },
+      { text: '⚠️ 风险跟踪', link: '/risk-dashboard.html' },
       { text: '分析模板', link: '/个股分析标准模版' },
       { text: '版本日志', link: '/CHANGELOG' }
     ],
@@ -112,7 +113,8 @@ export default defineConfig({
           { text: '牧原股份_002714_投资分析报告', link: '/07-分析输出/牧原股份_002714_投资分析报告' },
           { text: '分众传媒_002027_投资分析报告', link: '/07-分析输出/分众传媒_002027_投资分析报告' },
           { text: '青岛啤酒_600600_投资分析报告', link: '/07-分析输出/青岛啤酒_600600_投资分析报告' },
-          { text: '华润医药_03320_投资分析报告', link: '/07-分析输出/华润医药_03320_投资分析报告' }
+          { text: '华润医药_03320_投资分析报告', link: '/07-分析输出/华润医药_03320_投资分析报告' },
+          { text: '青岛港_06198_投资分析报告', link: '/07-分析输出/青岛港_06198_投资分析报告' }
         ]
       },
       {
@@ -126,7 +128,8 @@ export default defineConfig({
         text: '🤖 08-决策追踪',
         collapsed: true,
         items: [
-          { text: '🎯 模拟持仓', link: '/模拟持仓/持仓' }
+          { text: '🎯 模拟持仓', link: '/模拟持仓/持仓' },
+          { text: '⚠️ 风险跟踪预警', link: '/risk-dashboard.html' }
         ]
       }
       ]

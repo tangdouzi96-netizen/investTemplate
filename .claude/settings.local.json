@@ -4,7 +4,22 @@
       "WebSearch",
       "WebFetch(domain:github.com)",
       "Bash(cd \"D:\\\\project\\\\investTemplate\" && cp config/data_validation_template.yaml config/validation_test.yaml)",
-      "Bash(cd \"D:\\\\project\\\\investTemplate\" && python scripts/validate_data.py config/validation_test.yaml)"
+      "Bash(cd \"D:\\\\project\\\\investTemplate\" && python scripts/validate_data.py config/validation_test.yaml)",
+      "Bash(git clone *)",
+      "Bash(mkdir -p D:/Chengxu/FindSkills)",
+      "Bash(curl -L -o D:/Chengxu/FindSkills/skills.zip \"https://github.com/vercel-labs/skills/archive/refs/heads/main.zip\")",
+      "Read(//d/Chengxu/FindSkills/skills/**)",
+      "Bash(rm -f D:/Chengxu/FindSkills/skills.zip)",
+      "Bash(ls -la D:/Chengxu/FindSkills/ && echo \"---\" && ls D:/Chengxu/FindSkills/skills/find-skills/)",
+      "Read(//d/Chengxu/FindSkills/**)",
+      "Bash(npx skills *)",
+      "Bash(curl -sL \"https://api.github.com/repos/jackwener/OpenCLI\")",
+      "Bash(ls D:/Chengxu/OpenCLI/ 2>&1)",
+      "Read(//d/Chengxu/OpenCLI/**)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(gh api *)",
+      "Read(//c/Users/WINDOWS/AppData/Local/Temp/**)",
+      "Read(//c/Users/WINDOWS/AppData/Local/**)"
     ]
   }
 }
