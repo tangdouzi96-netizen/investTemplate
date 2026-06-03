@@ -1,0 +1,1437 @@
+
+=== PDF p80 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+綜合利潤表
+Consolidated Income Statement
+截至2021 年12 月31 日止年度
+For the year ended 31 December 2021
+160
+161
+2021
+2020
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Revenue 收入
+5
+1,556,158
+1,315,346
+Cost of sales 銷售成本
+7
+(436,535)
+(362,443)
+Gross profit 毛利
+1,119,623
+952,903
+  Distribution and selling expenses 分銷及銷售開支
+7
+(186,368)
+(168,917)
+  General and administrative expenses and others 一般及行政開支及其他
+  — General and administrative expenses 一般及行政開支
+7
+(155,312)
+(135,534)
+  — Net impairment losses on financial assets 金融資產之減值計提
+7
+(7
+
+=== PDF p81 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+綜合全面收益表
+Consolidated Statement of Comprehensive Income
+截至2021 年12 月31 日止年度
+For the year ended 31 December 2021
+162
+163
+2021
+2020
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Profit for the year 年度利潤
+651,543
+567,881
+Other comprehensive (losses)/income: 其他綜合（虧損）╱收益：
+Item that may be reclassified to profit or loss 可能重新分類至損益的項目
+  Currency translation differences 貨幣兌換差額
+(635)
+15,474
+Item that will not be reclassified to profit or loss 不會重新分類至損益的項目
+  Change in fair value of financial asset at fair value through other co
+
+=== PDF p82 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+綜合資產負債表
+Consolidated Balance Sheet
+於2021 年12 月31 日
+As at 31 December 2021
+164
+165
+2021
+2020
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Assets 資產
+Non-current assets 非流動資產
+  Property, plant and equipment 物業、廠房及設備
+16
+183,309
+187,379
+  Right-of-use assets 使用權資產
+15
+214,255
+194,442
+  Intangible assets 無形資產
+17
+60,953
+54,836
+  Investments accounted for using the equity method 按權益法入賬之投資
+11
+57,896
+17,763
+  Financial asset at fair value through other comprehensive income 以公允價值計量且其變動計入其他綜合收益的金融資產
+18
+5,463
+6,108
+  Deposits p
+
+=== PDF p83 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+綜合權益變動表
+Consolidated Statement of Changes in Equity
+截至2021 年12 月31 日止年度
+For the year ended 31 December 2021
+166
+167
+Attributable to owners of the Company 本公司擁有人應佔
+Share
+capital
+股本
+Merger
+reserve
+合併儲備
+Other
+reserves
+其他儲備
+Statutory
+reserve
+法定儲備
+Exchange
+reserve
+匯兌儲備
+Retained
+earnings
+保留收益
+Total
+總額
+Non–
+controlling
+interests
+非控股權益
+Total
+equity
+權益總額
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+At 1 January 2020 於2020年1月1日
+938,789
+(13,124)
+(1,9
+
+=== PDF p84 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+綜合現金流量表
+Consolidated Statement of Cash Flows
+截至2021 年12 月31 日止年度
+For the year ended 31 December 2021
+168
+169
+2021
+2020
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Cash flows from operating activities 經營活動所產生的現金流量
+  Cash generated from operations 經營所產生之現金
+27(a)
+915,005
+327,589
+  Income tax paid 已付所得稅
+(137,835)
+(211,535)
+Net cash generated from operating activities 經營活動所產生的現金淨額
+777,170
+116,054
+Cash flows from investing activities 投資活動所產生的現金流量
+  Interest received 已收利息
+5,044
+28,855
+  Dividends received 已收股息
+180
+165
+ 
+
+=== PDF p85 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+ 
+ 
+170
+171
+1	 GENERAL INFORMATION 
+Beijing Tong Ren Tang Chinese Medicine Company Limited (the “Company”) and its subsidiaries (together the 
+“Group”) are engaged in manufacturing, retail and wholesale of Chinese medicine products and healthcare products 
+and provision of Chinese medical consultation and treatments. The immediate holding company of the Company is 
+Tong Ren Tang Technologies Co. Ltd. (“Tong Ren Tang Technologies”) which is a join
+
+=== PDF p86 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+172
+173
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(a)	 Basis of preparation (Continued) 
+(ii)	 New standard, amendments to standards and interpretations which are not 
+yet effective 
+The following are new standard, amendments to standards and interpretations that have been published 
+and are mandatory for the Group’s accounting periods beginning on or after 1 January 2022 or later 
+periods, but have not been early adopted by
+
+=== PDF p87 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+174
+175
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(b)	 Subsidiaries (Continued)
+(i)	
+Consolidation (Continued)
+Business combinations (Continued)
+The Group recognises any non-controlling interest in the acquiree on an acquisition-by-acquisition 
+basis. Non-controlling interests in the acquiree that are present ownership interests and entitle their 
+holders to a proportionate share of the entity’s net assets in the event of li
+
+=== PDF p88 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+176
+177
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(c)	 Associates 
+An associate is an entity over which the Group has significant influence but not control, generally 
+accompanying a shareholding of between 20% and 50% of the voting rights. Investments in associates are 
+accounted for using the equity method of accounting. Under the equity method, the investment is initially 
+recognised at cost, and the carrying amount is in
+
+=== PDF p89 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+178
+179
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(e)	 Segment reporting 
+Operating segments are reported in a manner consistent with the internal reporting provided to the chief 
+operating decision-maker. The chief operating decision-maker, who is responsible for allocating resources 
+and assessing performance of the operating segments, has been identified as the Company’s executive 
+directors that makes strategic decisions
+
+=== PDF p90 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+180
+181
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(g)	 Property, plant and equipment 
+Buildings comprise mainly a factory, offices and retail shops. All property, plant and equipment are stated at 
+historical cost less depreciation. Historical cost includes expenditure that is directly attributable to the 
+acquisition of the items. 
+Subsequent costs are included in the asset’s carrying amount or recognised as a separate asse
+
+=== PDF p91 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+182
+183
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(i)	 Impairment of non-financial assets 
+Assets that have an indefinite useful life or intangible assets not ready to use are not subject to amortisation 
+and are tested annually for impairment. Assets that are subject to amortisation are reviewed for impairment 
+whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. An 
+impairme
+
+=== PDF p92 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+184
+185
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(j)	 Financial assets (Continued) 
+(iii)	 Measurement (Continued)
+(b)	
+Debt instruments 
+Subsequent measurement of debt instruments depends on the Group’s business model for 
+managing the asset and the cash flow characteristics of the asset. The Group classified its debt 
+instruments into financial assets at amortised cost: 
+Amortised cost: Assets that are held for collection
+
+=== PDF p93 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+186
+187
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(p)	 Trade and other payables 
+Trade payables are obligations to pay for goods or services that have been acquired in the ordinary course of 
+business from suppliers. Trade and other payables are classified as current liabilities if payment is due within 
+one year or less (or in the normal operating cycle of the business if longer). If not, they are presented as 
+non-current 
+
+=== PDF p94 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+188
+189
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(s)	 Current and deferred income tax (Continued)
+(ii)	 Deferred income tax 
+Deferred income tax is provided in full, using the liability method, on temporary differences arising 
+between the tax bases of assets and liabilities and their carrying amounts in the consolidated financial 
+statements. However, deferred tax liabilities are not recognised if they arise from the initi
+
+=== PDF p95 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+190
+191
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(u)	 Provisions 
+Provisions are recognised when the Group has a present legal or constructive obligation as a result of past 
+events; it is probable that an outflow of resources will be required to settle the obligation; and the amount has 
+been reliably estimated. Provisions are not recognised for future operating losses. 
+Where there are a number of similar obligations, the
+
+=== PDF p96 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+192
+193
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(w)	Interest income 
+Interest income on financial assets at amortised cost calculated using the effective interest method is 
+recognised in the consolidated statement of income statement as part of finance income, net.
+Interest income is presented as finance income where it is earned from financial assets that are held for cash 
+management purposes, see Note 10 below. Any oth
+
+=== PDF p97 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+194
+195
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+2	 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued) 
+(y)	 Leases (Continued)
+The Group is exposed to potential future increases in variable lease payments based on an index or rate, 
+which are not included in the lease liability until they take effect. When adjustments to lease payments based 
+on an index or rate take effect, the lease liability is reassessed and adjusted against the right-of-use asset. 
+Lease payments are allo
+
+=== PDF p98 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+196
+197
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+3	 FINANCIAL RISK MANAGEMENT (Continued)
+(a)	 Financial risk factors (Continued)
+(i)	
+Market risk (Continued)
+(1)	
+Foreign exchange risk (Continued)
+At 31 December 2021, if Renminbi had strengthened/weakened by 5% against Hong Kong dollar, 
+with all other variables held constant, the profit before income tax for the year ended 31 
+December 2021 would have been HK$20,096,000 (2020: HK$23,294,000) higher/lower, mainly as 
+a result of fo
+
+=== PDF p99 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+198
+199
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+3	 FINANCIAL RISK MANAGEMENT (Continued) 
+(a)	 Financial risk factors (Continued) 
+(ii)	 Credit risk (Continued) 
+(2)	
+Impairment of financial assets (Continued)
+Trade receivables (Continued)
+Measurement of expected credit loss on individual basis
+The receivables relating to customers with known financial difficulties or with significant doubt on 
+collection of receivables are assessed individually for provision for impairment allowan
+
+=== PDF p100 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+200
+201
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+3	 FINANCIAL RISK MANAGEMENT (Continued) 
+(a)	 Financial risk factors (Continued) 
+(iii)	 Liquidity risk 
+The Group’s policy is to maintain sufficient cash and cash equivalents to meet its working capital 
+requirements. The Group has steady cash inflow from operations and has adequate financial resources 
+to fund its operations and future expansions. As at 31 December 2021, the Group’s financial liabilities 
+were mainly trade and othe
+
+=== PDF p101 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+202
+203
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+3	 FINANCIAL RISK MANAGEMENT (Continued) 
+(c)	 Fair value estimation (Continued)
+There were no transfers between any levels during the year. 
+The Group’s financial asset at FVOCI is included in level 1. 
+Details on the fair value measurement for financial asset at FVOCI are set out in Note 18 to the consolidated 
+financial statements. 
+The rest of the Group’s financial assets are classified as financial assets and are measured at amor
+
+=== PDF p102 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+204
+205
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+5	 SEGMENT INFORMATION (Continued)
+Segment assets include property, plant and equipment, right-of-use assets, intangible assets, investments 
+accounted for using equity method, financial asset at fair value through other comprehensive income, deposits paid 
+for purchase of property, plant and equipment and intangible assets, deferred income tax assets, inventories, trade 
+receivables and other current assets, short-term bank deposits 
+
+=== PDF p103 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+206
+207
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+5	 SEGMENT INFORMATION (Continued) 
+(a)	 Analysis of consolidated income statement (Continued) 
+Hong Kong
+香港
+Mainland China
+中國內地
+Overseas
+海外
+Total
+總計
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+Year ended 31 December 2020 截至2020年12月31日止年度
+Segment revenue 分部收入
+971,433
+623,345
+337,995
+1,932,773
+Inter-segment revenue 分部間收入
+(424,994)
+(192,315)
+(118)
+(617,427)
+Revenue from external customers 來自外部客戶之收入
+546,439
+431,030
+337,877
+1,315,346
+
+
+=== PDF p104 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+208
+209
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+5	 SEGMENT INFORMATION (Continued)
+(b)	 Analysis of consolidated balance sheet 
+Hong Kong
+香港
+Mainland China
+中國內地
+Overseas
+海外
+Total
+總計
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+At 31 December 2021 於2021年12月31日
+Segment assets and liabilities 分部資產及負債
+Total assets 總資產
+2,815,098
+581,373
+438,511
+3,834,982
+Investments accounted for using the equity method 按權益法入賬之投資
+9,260
+40,599
+8,037
+57,896
+Additions to non-current assets (1) 非流動資產之增加(
+
+=== PDF p105 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+210
+211
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+5	 SEGMENT INFORMATION (Continued)
+(e)	 Information about geographical areas 
+The Company is domiciled in Hong Kong. An analysis of revenue from external customers and non-current 
+assets of the Group by geographical area is set out below:
+(i)	
+Revenue(1)
+2021
+2020
+HK$’000 千港元
+HK$’000 千港元
+Hong Kong 香港
+688,395
+546,439
+Mainland China 中國內地
+426,418
+431,030
+Macao 澳門
+266,037
+169,552
+Australia 澳大利亞
+48,542
+52,243
+Canada 加拿大
+45,114
+41,081
+New 
+
+=== PDF p106 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+212
+213
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+5	 SEGMENT INFORMATION (Continued)
+(f)	 Assets and liabilities related to contracts with customers
+The Group has recognised the following liabilities related to contract with customers:
+At 
+31 December 2021
+於2021年12月31日
+At 
+31 December 2020
+於2020年12月31日
+HK$’000 千港元
+HK$’000 千港元
+Contract liabilities — Service income 合同負債 — 服務收入
+4,508
+3,734
+The Group has not recognised any contract assets related to contract with customers as at 31 Decem
+
+=== PDF p107 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+214
+215
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+7	 EXPENSES BY NATURE 
+2021
+2020
+HK$’000 千港元
+HK$’000 千港元
+Cost of inventories sold (Note 20) 出售存貨成本（附註20）
+351,189
+284,198
+Employee benefit expenses (Note 8) 僱員福利開支（附註8）
+216,711
+183,587
+COVID-19-related rent concessions 新型冠狀病毒肺炎相關租金減讓
+(483)
+(3,360)
+Expenses relating to short-term leases 短期租賃費用
+14,291
+13,042
+Variable lease payments not included in the measurement of lease liabilities (note) 
+不包括於租賃負債內的可變租賃付款費用（附註）
+205
+193
+Amortisation of
+
+=== PDF p108 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+216
+217
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+8	 EMPLOYEE BENEFIT EXPENSES, INCLUDING DIRECTORS’ 
+EMOLUMENTS
+2021
+2020
+HK$’000 千港元
+HK$’000 千港元
+Salaries, wages and bonuses 薪金、工資及花紅
+187,914
+164,366
+Pension costs — defined contribution plans 退休金成本 — 定額供款計畫
+15,484
+8,380
+Other benefits 其他福利
+13,313
+10,841
+216,711
+183,587
+During the years ended 31 December 2020 and 2021, there is no forfeited contributions of the Group utilised and 
+available at the year-end to reduce future contributio
+
+=== PDF p109 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+218
+219
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+9	 BENEFITS AND INTERESTS OF DIRECTORS (DISCLOSURES 
+REQUIRED BY SECTION 383 OF THE HONG KONG 
+COMPANIES ORDINANCE (CAP. 622), COMPANIES 
+(DISCLOSURE OF INFORMATION ABOUT BENEFITS OF 
+DIRECTORS) REGULATION (CAP. 622G) AND HK LISTING 
+RULES)
+(a)	 Directors’ emoluments
+The remuneration of every director for the years ended 31 December 2021 and 2020 are set out below:
+Emoluments paid or receivable in respect of a person’s services as a d
+
+=== PDF p110 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+220
+221
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+9	 BENEFITS AND INTERESTS OF DIRECTORS (DISCLOSURES 
+REQUIRED BY SECTION 383 OF THE HONG KONG 
+COMPANIES ORDINANCE (CAP. 622), COMPANIES 
+(DISCLOSURE OF INFORMATION ABOUT BENEFITS OF 
+DIRECTORS) REGULATION (CAP. 622G) AND HK LISTING 
+RULES) (Continued)
+(a)	 Directors’ emoluments (Continued)
+No directors of the Company waived or returned any emoluments and no emoluments were paid by the Group 
+to any of the directors of the Company as 
+
+=== PDF p111 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+222
+223
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+11	INVESTMENTS ACCOUNTED FOR USING THE EQUITY 
+METHOD
+(a)	 The amounts recognised in the consolidated balance sheet are as 
+follows:
+2021
+2020
+HK$’000 千港元
+HK$’000 千港元
+At 31 December 於12月31日
+Joint ventures 合營企業
+17,297
+17,763
+Associates 聯營公司
+40,599
+–
+57,896
+17,763
+(b)	 The amounts recognised in the consolidated income statement are as 
+follows:
+2021
+2020
+HK$’000 千港元
+HK$’000 千港元
+For the year ended 31 December 截至12月31日止年度
+Joint ventures 合
+
+=== PDF p112 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+224
+225
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+11	INVESTMENTS ACCOUNTED FOR USING THE EQUITY 
+METHOD (Continued)
+(d)	 Interests in associates
+(i)	
+Set out below is the associate of the Group as at 31 December 2021 which, in the opinion of the 
+directors, is material to the Group.
+On 30 September 2021, the Group completed the acquisition of 40% of the equity interests in Beijing 
+Tong Ren Tang WM Dianorm Biotech Co., Limited (the “Target Company”) from an independent third 
+party a
+
+=== PDF p113 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+226
+227
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+11	INVESTMENTS ACCOUNTED FOR USING THE EQUITY 
+METHOD (Continued) 
+(d)	 Interests in associates (Continued)
+(i)	
+Set out below is the associate of the Group as at 31 December 2021 which, in the opinion of the 
+directors, is material to the Group. (Continued)
+Summarised financial information for an associate
+2021
+HK$’000 千港元
+Revenue 收入
+80,336
+Interest income 利息收入
+211
+Depreciation 折舊
+(522)
+Amortisation 攤銷
+(602)
+Income tax expense 所得稅費用
+
+
+=== PDF p114 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+228
+229
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+12	INCOME TAX EXPENSE
+Hong Kong profits tax has been provided for at the rate of 16.5% (2020: 16.5%) on the estimated assessable profit 
+for the year. PRC corporate income tax has been provided at the rate of 25% (2020: 25%) on the estimated 
+assessable profits for the year of the subsidiaries operating in the Mainland China. Taxation on overseas profits has 
+been calculated on the estimated assessable profit for the year at the rates
+
+=== PDF p115 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+230
+231
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+14	DIVIDENDS
+The dividends paid in 2021 and 2020 were HK$200,904,000 (HK$0.24 per share) and HK$192,533,000 (HK$0.23 per 
+share) respectively. There was no interim dividend declared or paid in 2021 and 2020. Dividend in respect of the year 
+ended 31 December 2021 of HK$0.28 per share, amounting to a total dividend of HK$234,388,000, is to be 
+proposed at the annual general meeting on 10 June 2022. These financial statements do not ref
+
+=== PDF p116 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+232
+233
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+16	PROPERTY, PLANT AND EQUIPMENT
+Freehold land
+永久業權土地
+Buildings
+樓宇
+Leasehold
+improvement
+租賃物業裝修
+Plant and
+machinery
+廠房及機器
+Furniture
+and
+equipment
+傢俱及設備
+Motor
+vehicles
+汽車
+Total
+合計
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+Year ended 31 December 2020 截至2020年12月31日止年度
+Opening net book amount 期初帳面淨值
+48,149
+100,970
+16,907
+13,512
+14,242
+1,089
+194,869
+  Additions 增加
+–
+–
+2,179
+1,984
+2,690
+1,044
+7,897
+
+
+=== PDF p117 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+234
+235
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+17	INTANGIBLE ASSETS
+The net book value of the Group’s intangible assets is analysed as follows:
+Goodwill
+商譽
+Computer software
+電腦軟件
+Other intangible 
+assets
+其他無形資產
+Total
+總額
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+At 1 January 2020 於2020年1月1日
+49,419
+–
+11,250
+60,669
+Amortisation (Note 7) 攤銷（附註7）
+–
+–
+(5,814)
+(5,814)
+Currency translation difference 貨幣兌換差額
+–
+–
+(19)
+(19)
+At 31 December 2020 and 1 January 2021 於2020年12月31日及2021年1月1日
+
+
+=== PDF p118 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+236
+237
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+19	DEFERRED INCOME TAX
+The analysis of deferred income tax assets and liabilities is as follows:
+2021
+2020
+HK$’000 千港元
+HK$’000 千港元
+Deferred income tax assets 遞延所得稅資產
+45,931
+32,449
+  — Set-off of deferred tax liabilities pursuant to set-off provisions 按照抵銷規定所抵銷的遞延所得稅負債
+(23,881)
+(19,385)
+Deferred income tax assets, net 淨遞延所得稅資產
+22,050
+13,064
+Deferred income tax liabilities 遞延所得稅負債
+(31,028)
+(25,081)
+  — Set-off of deferred tax liabilitie
+
+=== PDF p119 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+238
+239
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+19	DEFERRED INCOME TAX (Continued)
+Deferred income tax assets are recognised for tax loss carry-forwards to the extent that the realisation of the related 
+tax benefit through future taxable profits is probable. The Group did not recognise deferred income tax assets of 
+approximately HK$10,859,000 (2020: HK$12,970,000) in respect of tax losses amounting to approximately 
+HK$60,091,000 (2020: HK$71,209,000) at 31 December 2021 that can
+
+=== PDF p120 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+240
+241
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+21	TRADE RECEIVABLES AND OTHER CURRENT ASSETS 
+(Continued)
+Notes: (Continued)
+(c)	
+Retail sales at the Group’s stores are usually made in cash or by debit or credit cards. For wholesales to customers (including 
+related parties), the Group grants credit periods ranging from 30 to 180 days (2020: 30 to 90 days).
+At 31 December 2021 and 2020, the aging analysis of trade receivables based on invoice date (including amounts due from 
+rela
+
+=== PDF p121 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+242
+243
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+22	CASH AND BANK BALANCES
+2021
+2020
+HK$’000 千港元
+HK$’000 千港元
+Cash and cash equivalents 現金及現金等價物
+  — Cash at bank and on hand 銀行及庫存現金
+652,482
+497,829
+  — Short-term bank deposits with original maturities within three months 原期限為三個月或以內之短期銀行存款
+1,007,822
+928,211
+1,660,304
+1,426,040
+Short-term bank deposits with original maturities exceeding three months 原期限為三個月以上之短期銀行存款
+615,264
+421,097
+Total 總計
+2,275,568
+1,847,137
+At 31 December 2021, the 
+
+=== PDF p122 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+244
+245
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+24	RESERVES
+Merger reserve
+(note a)
+合併儲備
+（附註a）
+Other
+reserves
+其他儲備
+Statutory reserve
+(note b)
+法定儲備
+（附註b）
+Exchange
+reserve
+匯兌儲備
+Retained
+earnings
+保留收益
+Total
+總計
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+At 1 January 2020 於2020年1月1日
+(13,124)
+(1,975)
+6,229
+(18,112)
+1,747,694
+1,720,712
+Comprehensive income 綜合收益
+  Profit for the year 年度利潤
+–
+–
+–
+–
+542,456
+542,456
+Other comprehensive (losses)/income 其他綜合（虧損）╱收益
+ 
+
+=== PDF p123 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+246
+247
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+25	BORROWINGS
+2021
+2020
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Non-current 非流動
+  — Secured bank borrowing 有抵押銀行貸款
+(a)-(c)
+56
+59
+  — Unsecured government loan 無抵押政府借款
+(d)
+743
+1,993
+Total non-current borrowings 非流動借貸總額
+799
+2,052
+Current 流動
+  — Unsecured government loan 無抵押政府借款
+(d)
+480
+260
+Total current borrowings 流動借貸總額
+480
+260
+Total borrowings 借貸總額
+1,279
+2,312
+Notes:
+(a)	
+The bank borrowing is secured by the freehold land and building of the 
+
+=== PDF p124 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+248
+249
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+26	TRADE AND OTHER PAYABLES (Continued)
+(b)	
+The carrying amounts of the Group’s trade and other payables are denominated in the following currencies:
+2021
+2020
+HK$’000 千港元
+HK$’000 千港元
+Hong Kong dollar 港元
+59,367
+52,685
+Renminbi 人民幣
+36,619
+46,559
+Canadian dollar 加元
+6,132
+6,111
+Australian dollar 澳元
+5,204
+5,660
+South African rand 南非蘭特
+4,836
+5,236
+Singapore dollar 新加坡元
+2,560
+2,519
+United States dollar 美元
+1,521
+6,757
+Other currencies 其他貨幣
+
+
+=== PDF p125 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+250
+251
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+27 綜合現金流量表附註（續）
+(c) 融資活動所產生的現金流量調節
+(i) 
+其他變動包括應計利息，新型冠狀病毒肺炎相關租金減讓和租賃變更。
+28 承擔
+(a) 資本承擔
+(b) 租賃承擔
+本集團已確認租賃為使用權資產，以下所載之短期及低價值租賃除外：
+於2020 年12 月31 日，本集團已承諾但未開始的未折現未來租賃付款額為
+14,059,000 港元。這些租賃承諾在2021 年租賃期開始日時被確認為使用權資
+產。於2021 年12 月31 日，本集團無相關未開始執行的租賃承擔。
+27	NOTES TO CONSOLIDATED STATEMENT OF CASH FLOWS 
+(Continued)
+(c)	 Reconciliation of cash flows from financing activities
+Borrowings
+借貸
+Lease liabilities
+租賃負債
+Total
+合計
+HK$’000 千港元
+HK$’000 千港元
+
+
+=== PDF p126 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+252
+253
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+29 重大關聯方交易
+於2021 年12 月31 日，同仁堂集團公司的兩間附屬公司同仁堂科技及同仁堂股份有限
+公司分別直接持有本公司38.05% 及33.62% 權益。同仁堂股份有限公司亦為同仁堂
+科技的控股股東。同仁堂股份有限公司實際持有本公司71.67% 股權。餘下28.33%
+的股份被廣泛持有。
+本公司董事會視同仁堂科技為直接控股公司、同仁堂股份有限公司為中間控股公司及
+同仁堂集團公司為最終控股公司，該等公司均於中國註冊成立。
+除該等綜合財務報表其他章節所披露者外，下列交易乃與關連方進行：
+(a) 銷售及購買產品
+(b) 品牌使用費
+(c) 租金開支
+於2021 年12 月31 日，本集團就相關物業租賃確認應付同系附屬公司的租賃負
+債4,761,000 港元（2020 年：9,336,000 港元）。
+29	SIGNIFICANT RELATED PARTY TRANSACTIONS
+At 31 December 2021, two subsidiaries
+
+=== PDF p127 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+254
+255
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+29 重大關聯方交易（續）
+(d) 廣告代理服務費用
+(e) 主要管理人員薪酬
+主要管理人員包括執行及非執行董事和高級管理人員。就僱員服務向主要管理
+人員支付或應付的酬金如下：
+附註：
+(i) 
+該等交易於一般業務過程中按雙方協定的價格及條款進行。
+(ii) 
+品牌使用費乃本公司根據品牌使用權協議按該等合營企業營業收入的1% 和稅
+前利潤的1.5% 的較高者收取。根據該等協議，該等合營企業獲准以「同仁堂」
+品牌名稱營運。
+30 主要附屬公司，合營企業及聯營公司
+下文載列於2021 年及2020 年12 月31 日的主要附屬公司，合營企業及聯營公司：
+29	SIGNIFICANT RELATED PARTY TRANSACTIONS (Continued)
+(d)	 Advertising agency services expense
+2021
+2020
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Advertising agency serv
+
+=== PDF p128 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+256
+257
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+30 主要附屬公司，合營企業及聯營公司（續）
+Name 名稱
+Place of incorporation and kind of legal entity
+註冊成立的地點及法人實體類型
+Principal activities and place of operation
+主要業務及經營地點
+Particulars of issued
+share capital
+已發行股本詳情
+Effective equity interest held
+所持實際權益
+2021
+2020
+(a)	
+Subsidiaries (Continued) 附屬公司（續）
+(i)	
+Directly held by the Company (Continued) 本公司直接持有（續）
+Beijing Tong Ren Tang Gulf FZ-LLC
+北京同仁堂海灣有限公司
+United Arab Emirates, limited liability company
+阿拉伯聯合酋長國，
+
+=== PDF p129 ===
+二零二一年年報
+北京同仁堂國藥有限公司
+Annual Report 2021
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+ 
+ 
+258
+259
+綜合財務報表附註
+Notes to the Consolidated Financial Statements
+30 主要附屬公司，合營企業及聯營公司（續）
+Name 名稱
+Place of incorporation and kind of legal entity
+註冊成立的地點及法人實體類型
+Principal activities and place of operation
+主要業務及經營地點
+Particulars of issued
+share capital
+已發行股本詳情
+Effective equity interest held
+所持實際權益
+2021
+2020
+(a)	
+Subsidiaries (Continued) 附屬公司（續）
+(ii)	
+Indirectly held by the Company 本公司間接持有
+Beijing Tong Ren Tang Melbourne Pty Limited
+北京同仁堂（墨爾本）有限公司
+Australia, limited liability company
+澳大利亞，有限公司
+Retail of

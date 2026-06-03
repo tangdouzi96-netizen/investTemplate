@@ -1,0 +1,218 @@
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+168
+Annual Report 2023
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+169
+二零二三年年報
+北京同仁堂國藥有限公司
+1	
+GENERAL INFORMATION
+Beijing Tong Ren Tang Chinese Medicine Company Limited (the “Company”) and its subsidiaries (together the 
+“Group”) are engaged in manufacturing, retail and wholesale of Chinese medicine products and healthcare products 
+and provision of Chinese medical consultation and treatments. The immediate holding company of the Company is 
+Tong Ren Tang Technologies Co. Ltd. (“Tong Ren Tang Technologies”) which is a joint stock limited company 
+established in the People’s Republic of China (the “PRC”) and is listed on the Main Board of The Stock Exchange of 
+Hong Kong Limited. The intermediate holding company of the Company is Beijing Tong Ren Tang Company Limited, 
+(“Tong Ren Tang Ltd.”) which is a joint stock limited company incorporated in the PRC and is listed on the Shanghai 
+Stock Exchange. The ultimate holding company of the Company is China Beijing Tong Ren Tang Group Co., Ltd. 
+(“Tong Ren Tang Holdings”) which is a company incorporated in the PRC.
+The Company is a limited liability company incorporated in Hong Kong. The address of its registered office is Room 
+1405–1409, Office Tower, Convention Plaza, 1 Harbour Road, Wanchai, Hong Kong. 
+The shares of the Company were listed on GEM of the Stock Exchange starting from 7 May 2013 and were 
+transferred to be listed on the Main Board of the Stock Exchange starting from 29 May 2018.
+These consolidated financial statements are presented in Hong Kong dollars (HK$), unless otherwise stated. These 
+consolidated financial statements have been approved for issue by the Board of Directors on 14 March 2024. 
+2	
+BASIS OF PREPARATION 
+The consolidated financial statements have been prepared in accordance with Hong Kong Financial Reporting 
+Standards (“HKFRSs”) and requirements of the Hong Kong Companies Ordinance Cap. 622. The consolidated 
+financial statements have been prepared under the historical cost convention, as modified by the revaluation of 
+financial asset at fair value through other comprehensive income, which is carried at fair value.
+The preparation of financial statements in conformity with HKFRSs requires the use of certain critical accounting 
+estimates. It also requires management to exercise its judgment in the process of applying the Group’s accounting 
+policies. The areas involving a higher degree of judgment or complexity, or areas where assumptions and estimates 
+are significant to the consolidated financial statements are disclosed in Note 4.
+(a)	 New and amended standards adopted by the Group
+The Group has adopted the following revised framework and amendments to standards which are relevant to 
+the Group’s operations and are mandatory for the financial year beginning on 1 January 2023.
+• 
+HKFRS 17 Insurance Contracts
+• 
+Disclosure of Accounting Policies — Amendments to HKAS 1 and HKFRS Practice Statement 2
+• 
+Definition of Accounting Estimates — Amendments to HKAS 8
+• 
+Deferred Tax related to Assets and Liabilities arising from a Single Transaction — Amendments to
+HKAS 12
+• 
+International Tax Reform — Pillar Two Model Rules — Amendments to HKAS 12
+The adoption of the above revised framework and amendments to standards did not have any significant 
+financial impact on these consolidated financial statements.
+1 
+一般資料
+北京同仁堂國藥有限公司（「本公司」）及其附屬公司（統稱「本集團」）從事中藥產品
+和保健品的生產、零售及批發並提供中醫診療。本公司直接控股公司北京同仁堂科
+技發展股份有限公司（「同仁堂科技」）為於中華人民共和國（「中國」）成立的股份有
+限公司，於香港聯合交易所有限公司主板上市。本公司中間控股公司北京同仁堂股
+份有限公司（「同仁堂股份」）為於中國成立的股份有限公司，於上海證券交易所上市。
+本公司最終控股公司中國北京同仁堂（集團）有限責任公司（「同仁堂集團公司」）為
+於中國註冊成立的公司。
+本公司為在香港註冊成立的有限公司，註冊辦事處地址為香港灣仔港灣道1 號會展
+廣場辦公大樓1405–1409 室。
+本公司股份於2013 年5 月7 日在聯交所GEM 上市，並於2018 年5 月29 日轉至於聯
+交所主板上市。
+除另有註明外，該等綜合財務報表以港元（「港元」）列賬。該等綜合財務報表已於
+2024 年3 月14 日獲董事會批准刊發。
+2 
+編製基準
+綜合財務報表已按香港財務報告準則（「香港財務報告準則」）及香港《公司條例》
+（第
+622 章）編製。綜合財務報表根據歷史成本法編製，並已就以公允價值計量且其變動
+計入其他綜合收益的金融資產的重估作出修訂。
+編製符合香港財務報告準則的財務報表需採用若干關鍵會計估計。此亦需管理人員
+在應用本集團的會計政策時行使判斷。涉及高度判斷或複雜性的範疇，或涉及對綜
+合財務報表屬重大假設及估計的範疇已於附註4 披露。
+(a) 本集團採用的新準則和修訂準則
+本集團所採納與本集團業務相關且於2023 年1 月1 日或之後開始之財政年度
+須強制採用的新修訂框架、新解釋及準則之修訂如下：
+• 
+香港財務報告準則第17 號保險合約
+• 
+會計政策披露 — 香港會計準則第1 號及香港財務報告準則實務聲明第
+2 號（修訂本）
+• 
+會計估計的定義 — 香港會計準則第8 號（修訂本）
+• 
+與單一交易所產生之資產及負債有關的遞延所得稅 — 香港會計準則第
+12 號（修訂本）
+• 
+國際租稅變革 — 支柱二規則範本 — 香港會計準則第12 號（修訂本）
+採納上述新修訂框架及準則之修訂對該等合併財務報表並無任何重大財務影響。
+
+--- PAGE BREAK ---
+170
+Annual Report 2023
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+171
+二零二三年年報
+北京同仁堂國藥有限公司
+綜合財務報表附註
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+2 
+編製基準（續）
+(b) 尚未生效的新訂準則，準則之修訂及解釋
+下列新訂準則，準則之修訂及解釋與本集團於2024 年1 月1 日或之後開始的
+會計期或較後期間強制實行，惟本集團並無提早採納。
+香港詮釋第5 號（二零二零年）
+財務報表之呈列 — 借款人對包含隨時要
+求償還條文之有期貸款之分類(1)
+香港會計準則第1 號（修訂本）
+有契約的非流動負債(1)
+香港會計準則第1 號（修訂本）
+負債分類為流動或非流動(1)
+香港財務報告準則第16 號
+（修訂本）
+售後回租中的租賃責任(1)
+香港會計準則第7 號及香港財務
+報告準則第7 號（修訂本）
+供應商融資安排(1)
+香港會計準則第21 號（修訂本）
+缺乏可兌換性(2)
+香港財務報告準則第10 號及香港
+會計準則第28 號（修訂本）
+投資者與其聯營公司或合營企業之間之資
+產出售或注資(3)
+(1) 
+於2024 年1 月1 日或以後開始的會計期間生效
+(2) 
+於2025 年1 月1 日或以後開始的會計期間生效
+(3) 
+生效日期待定
+本集團現正評估首次應用上述與本集團有關之新訂準則及修訂之潛在影響。
+目前尚無法說明該等標準、詮釋及修訂本是否會對本集團的經營業績和財務
+狀況造成重大影響。
+3 
+財務風險管理
+(a) 財務風險因素
+本集團業務面對多項財務風險：市場風險（包括外匯風險及現金流利率風險）、
+信貸風險及流動資金風險。本集團的整體風險管理方案專注於金融市場的不
+可預測性，致力減低對本集團財務表現的潛在不利影響。風險管理由本集團
+內各個別實體的管理人員進行。
+(i) 
+市場風險
+(1) 
+外匯風險
+各個別集團實體擁有自身的功能貨幣。各個別集團實體的外匯風
+險來自以非集團實體功能貨幣的貨幣計值的未來商業交易或已
+確認資產或負債。
+本集團經營國際業務，故面對不同貨幣產生的外匯風險，主要涉
+及人民幣。本集團現時並無任何外幣對沖政策。本集團通過嚴密
+監控外幣匯率波動控制外匯風險。
+2023 年12 月31 日，倘人民幣兌港元升值╱貶值5%，而所有其
+他變量保持不變，則截至2023 年12 月31 日止年度的除所得稅前
+利潤增加╱減少12,100,000 港元（2022 年：19,717,000 港元），
+主要是由於換算中國內地附屬公司（其功能貨幣為人民幣）所持
+港元計值的貿易應付款項的外匯收益╱損失所致。管理層認為其
+他外幣產生的風險對本集團並不重大。
+2	
+BASIS OF PREPARATION (Continued)
+(b)	 New standards, amendments to standards and interpretations which are 
+not yet effective
+The following are new standard, amendments to standards and interpretations that have been published and 
+are mandatory for the Group’s accounting periods beginning on or after 1 January 2024 or later periods, but 
+have not been early adopted by the Group.
+Hong Kong Interpretation 5 (2020)
+Presentation of Financial Statements — Classification by the 
+Borrower of a Term Loan that Contains a Repayment on 
+Demand Clause (1)
+HKAS 1 (Amendments)
+Non-current Liabilities with Covenants (1)
+HKAS 1 (Amendments)
+Classification of Liabilities as Current or Non-current (1)
+HKFRS 16 (Amendments)
+Lease Liability in a Sale and Leaseback (1)
+HKAS 7 and HKFRS 7 (Amendments)
+Supplier finance arrangements (1)
+HKAS 21 (Amendments)
+Lack of Exchangeability (2)
+HKFRS 10 and HKAS 28 (Amendments)
+Sales or Contribution of Assets between an Investor and 
+its Associate or Joint Venture (3)
+(1)	
+Effective for the accounting period beginning on or after 1 January 2024
+(2)	
+Effective for the accounting period beginning on or after 1 January 2025
+(3)	
+Effective date to be determined
+The Group is in the process of assessing potential impact of the above new standards and amendments that 
+are relevant to the Group upon initial application. It is not yet in a position to state whether these standards, 
+interpretations, and amendments will have a significant impact on the Group’s results of operations and 
+financial position.
+3	
+FINANCIAL RISK MANAGEMENT
+(a)	 Financial risk factors
+The Group’s activities expose it to a variety of financial risks: market risk (including foreign exchange risk and 
+cash flow interest rate risk), credit risk and liquidity risk. The Group’s overall risk management programme 
+focuses on the unpredictability of financial markets and seeks to minimise potential adverse effects on the 
+Group’s financial performance. Risk management is carried out by management of each individual entity 
+within the Group.
+(i)	
+Market risk
+(1)	
+Foreign exchange risk
+Each individual group entity has its own functional currency. Foreign exchange risk to each 
+individual group entity arises when future commercial transactions or recognised assets or 
+liabilities are denominated in a currency that is not the group entity’s functional currency.
+The Group operates internationally and is exposed to foreign exchange risk arising from various 
+currency exposures, primarily with respect to Renminbi. The Group currently does not have a 
+foreign currency hedging policy. The Group manages its foreign currencies risk by closely 
+monitoring the movement of the foreign currency rates.
+At 31 December 2023, if Renminbi had strengthened/weakened by 5% against Hong Kong dollar, 
+with all other variables held constant, the profit before income tax for the year ended 31 
+December 2023 would have been HK$12,100,000 (2022: HK$19,717,000) higher/lower , mainly as 
+a result of foreign exchange gains/losses on translation of Hong Kong dollar-denominated trade 
+payables held by a subsidiary in the Mainland China whose functional currency is Renminbi. 
+Whereas, the exposure arising from the other foreign currencies is not significant to the Group.
+
+--- PAGE BREAK ---

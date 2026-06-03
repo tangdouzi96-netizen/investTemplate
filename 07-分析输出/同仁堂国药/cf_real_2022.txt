@@ -1,0 +1,232 @@
+--- PDF p91 ---
+182
+183
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+1	
+GENERAL INFORMATION
+Beijing Tong Ren Tang Chinese Medicine Company Limited (the “Company”) and its subsidiaries (together the 
+“Group”) are engaged in manufacturing, retail and wholesale of Chinese medicine products and healthcare products 
+and provision of Chinese medical consultation and treatments. The immediate holding company of the Company is 
+Tong Ren Tang Technologies Co. Ltd. (“Tong Ren Tang Technologies”) which is a joint stock limited company 
+established in the People’s Republic of China (the “PRC”) and is listed on the Main Board of The Stock Exchange of 
+Hong Kong Limited. The intermediate holding company of the Company is Beijing Tong Ren Tang Company Limited, 
+(“Tong Ren Tang Ltd.”) which is a joint stock limited company incorporated in the PRC and is listed on the Shanghai 
+Stock Exchange. The ultimate holding company of the Company is China Beijing Tong Ren Tang Group Co., Ltd. 
+(“Tong Ren Tang Holdings”) which is a company incorporated in the PRC.
+The Company is a limited liability company incorporated in Hong Kong. The address of its registered office is Room 
+1405–1409, Office Tower, Convention Plaza, 1 Harbour Road, Wanchai, Hong Kong.
+The shares of the Company were listed on GEM of the Stock Exchange starting from 7 May 2013 and were 
+transferred to be listed on the Main Board of the Stock Exchange starting from 29 May 2018.
+These consolidated financial statements are presented in Hong Kong dollars (HK$), unless otherwise stated. These 
+consolidated financial statements have been approved for issue by the Board of Directors on 13 March 2023.
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The principal accounting policies applied in the preparation of these consolidated financial statements are set out 
+below. These policies have been consistently applied to all the years presented, unless otherwise stated.
+(a)	 Basis of preparation
+The consolidated financial statements have been prepared in accordance with Hong Kong Financial Reporting 
+Standards (“HKFRSs”) and requirements of the Hong Kong Companies Ordinance Cap. 622. The consolidated 
+financial statements have been prepared under the historical cost convention, as modified by the revaluation 
+of financial asset at fair value through other comprehensive income, which is carried at fair value.
+The preparation of financial statements in conformity with HKFRSs requires the use of certain critical 
+accounting estimates. It also requires management to exercise its judgment in the process of applying the 
+Group’s accounting policies. The areas involving a higher degree of judgment or complexity, or areas where 
+assumptions and estimates are significant to the consolidated financial statements are disclosed in Note 4.
+(i)	
+New and amended standards adopted by the Group
+The Group has adopted the following revised framework and amendments to standards which are 
+relevant to the Group’s operations and are mandatory for the financial year beginning on 1 January 
+2022
+• 
+Property, Plant and Equipment: Proceeds before Intended Use — Amendments to HKAS 16
+• 
+Onerous Contracts — Cost of Fulfilling a Contract — Amendments to HKAS 37
+• 
+Annual Improvements to HKFRS Standards 2018–2020
+• 
+Reference to the Conceptual Framework — Amendments to HKFRS 3
+• 
+Covid-19 Related Rent Concessions beyond 30 June 2021 — Amendment to HKFRS 16 (March 
+2021) 
+• 
+Amendments to AG 5 Merger Accounting for Common Control Combinations 
+The adoption of the above revised framework and amendments to standards did not have any 
+significant financial impact on these consolidated financial statements.
+1 
+一般資料
+北京同仁堂國藥有限公司（「本公司」）及其附屬公司（統稱「本集團」）從事中藥產品
+和保健品的生產、零售及批發並提供中醫診療。本公司直接控股公司北京同仁堂科
+技發展股份有限公司（「同仁堂科技」）為於中華人民共和國（「中國」）成立的股份有
+限公司，於香港聯合交易所有限公司主板上市。本公司中間控股公司北京同仁堂股
+份有限公司（「同仁堂股份」）為於中國成立的股份有限公司，於上海證券交易所上市。
+本公司最終控股公司中國北京同仁堂（集團）有限責任公司（「同仁堂集團公司」）為
+於中國註冊成立的公司。
+本公司為在香港註冊成立的有限公司，註冊辦事處地址為香港灣仔港灣道1 號會展
+廣場辦公大樓1405–1409 室。
+本公司股份於2013 年5 月7 日在聯交所GEM 上市，並於2018 年5 月29 日轉至於聯
+交所主板上市。
+除另有註明外，該等綜合財務報表以港元（「港元」）列賬。該等綜合財務報表已於
+2023 年3 月13 日獲董事會批准刊發。
+2 
+主要會計政策概要
+編製該等合併財務報告所採用的主要會計政策如下。除另有註明外，該等政策貫徹
+應用於呈列的所有年度。
+(a) 編製基準
+綜合財務報表已按香港財務報告準則（「香港財務報告準則」）及香港《公司條例》
+（第622 章）編製。綜合財務報表根據歷史成本法編製，並已就以公允價值計
+量且其變動計入其他綜合收益的金融資產的重估作出修訂。
+編製符合香港財務報告準則的財務報表需採用若干關鍵會計估計。此亦需管
+理人員在應用本集團的會計政策時行使判斷。涉及高度判斷或複雜性的範疇，
+或涉及對綜合財務報表屬重大假設及估計的範疇已於附註4 披露。
+(i) 
+本集團採用的新準則和修訂準則
+本集團所採納與本集團業務相關且於2022 年1 月1 日或之後開始之財
+政年度須強制採用的新修訂框架、新解釋及準則之修訂如下：
+• 
+物業、廠房及設備：作擬定用途前的所得款項 — 香港會計準則
+第16 號（修訂本）
+• 
+虧損合約 — 履行合約的成本 — 香港會計準則第37 號（修訂本）
+• 
+對香港財務報告準則二零一八年至二零二零年之年度改進
+• 
+引用概念框架 — 香港財務報告準則第3 號（修訂本）
+• 
+2021 年6 月30 日之後疫情相關租金減讓修訂 — 香港財務報告準
+則第16 號（修訂本）
+• 
+會計指引第5 號（經修訂） — 共同控制合併的合併會計處理
+採納上述新修訂框架及準則之修訂對該等合併財務報表並無任何重大
+財務影響。
+
+--- PDF p92 ---
+184
+185
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(a) 編製基準（續）
+(ii) 
+尚未生效的新訂準則，準則之修訂及解釋
+下列新訂準則，準則之修訂及解釋與本集團於2023 年1 月1 日或之後
+開始的會計期或較後期間強制實行，惟本集團並無提早採納。
+香港詮釋第5 號（二零二零年）財務報表之呈列 — 借款人對包含隨時
+ 要求償還條文之有期貸款之分類(2)
+香港會計準則第1 號（修訂本）有契約的非流動負債(2)
+香港會計準則第1 號（修訂本）負債分類為流動或非流動(2)
+香港財務報告準則第16 號
+ （修訂本）
+售後回租中的租賃責任(2)
+香港財務報告準則第17 號
+ （新準則）
+保險合約(1)
+香港會計準則第1 號及
+ 香港財務報告準則實務聲明
+ 第2 號（修訂本）
+會計政策披露(1)
+香港會計準則第8 號（修訂本）會計估計的定義(1)
+香港會計準則第12 號
+ （修訂本）
+與單一交易所產生之資產及負債有關
+ 的遞延所得稅(1)
+香港財務報告準則第10 號及
+ 香港會計準則第28 號
+ （修訂本）
+與合資或關聯企業間之資產出售或
+ 投入(3)
+(1) 
+於2023 年1 月1 日或以後開始的會計期間生效
+(2) 
+於2024 年1 月1 日或以後開始的會計期間生效
+(3) 
+生效日期待定
+本集團現正評估首次應用上述與本集團有關之新訂準則及修訂之潛在
+影響。目前尚無法說明該等標準、詮釋及修訂本是否會對本集團的經
+營業績和財務狀況造成重大影響。
+(b) 附屬公司
+(i) 
+合併
+附屬公司為本集團對其有控制權的實體（包括結構實體）。當本集團具
+有承擔或享有參與有關實體所得之可變回報的風險或權利，並能透過
+其在該實體的權力影響該等回報，則本集團對該實體具有控制權。附
+屬公司自控制權轉至本集團當日起合併計算，並自該控制權終止當日
+起不再合併計算。
+業務合併
+對於共同控制下的業務收購乃根據香港會計指引第5 號「共同控制合併
+的合併會計處理」以合併會計法入賬。收購法用作本集團非共同控制之
+業務合併的入賬方法。就收購附屬公司所轉讓的代價為所轉讓資產、
+被收購方前擁有者產生的負債及本集團所發行股權的公允價值。所轉
+讓的代價包括或有代價安排產生的任何資產或負債的公允價值。業務
+合併中所收購可識別資產與所承擔負債及或有負債，初步以彼等於收
+購日期的公允價值計量以及及子公司中任何現有股權的公允價值。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(a)	 Basis of preparation (Continued)
+(ii)	 New standards, amendments to standards and interpretations which are not 
+yet effective
+The following are new standard, amendments to standards and interpretations that have been published 
+and are mandatory for the Group’s accounting periods beginning on or after 1 January 2023 or later 
+periods, but have not been early adopted by the Group.
+Hong Kong Interpretation 5 (2020)
+Presentation of Financial Statements — Classification 
+  by the Borrower of a Term Loan that Contains a 
+  Repayment on Demand Clause (2)
+HKAS 1 (Amendments)
+Non-current Liabilities with Covenants (2)
+HKAS 1 (Amendments)
+Classification of Liabilities as Current or Non-current (2)
+HKFRS 16 (Amendments)
+Lease Liability in a Sale and Leaseback (2)
+HKFRS 17 (New Standard)
+Insurance Contracts (1)
+HKAS 1 and HKFRS Practice Statement 2 
+  (Amendments)
+Disclosure of Accounting Policies (1)
+HKAS 8 (Amendments)
+Definition of Accounting Estimates (1)
+HKAS 12 (Amendments)
+Deferred Tax related to Assets and Liabilities arising from 
+  a Single Transaction (1)
+HKFRS 10 and HKAS 28 (Amendments)
+Sales or Contribution of Assets between an Investor and 
+  its Associate or Joint Venture (3)
+(1)	
+Effective for the accounting period beginning on or after 1 January 2023
+(2)	
+Effective for the accounting period beginning on or after 1 January 2024
+(3)	
+Effective date to be determined
+The Group is in the process of assessing potential impact of the above new standards and amendments 
+that are relevant to the Group upon initial application. It is not yet in a position to state whether these 
+standards, interpretations, and amendments will have a significant impact on the Group’s results of 
+operations and financial position.
+(b)	 Subsidiaries
+(i)	
+Consolidation
+A subsidiary is an entity (including a structured entity) over which the Group has control. The Group 
+controls an entity where the Group is exposed to, or has rights to, variable returns from its involvement 
+with the entity and has the ability to affect those returns through its power to direct the activities of the 
+entity. Subsidiaries are fully consolidated from the date on which control is transferred to the Group. 
+They are deconsolidated from the date that control ceases.
+Business combinations
+For acquisitions of businesses under common control, merger accounting method stipulated under 
+Hong Kong Accounting Guideline 5 “Merger Accounting for Common Control Combinations” is used. 
+The Group applies the acquisition method to account for business combinations not under common 
+control. The consideration transferred for the acquisition of a subsidiary is the fair values of the assets 
+transferred, the liabilities incurred to the former owners of the acquiree and the equity interests issued 
+by the Group. The consideration transferred also includes the fair value of any asset or liability resulting 
+from a contingent consideration arrangement, and fair value of any pre-existing equity interest in the 
+subsidiary. Identifiable assets acquired and liabilities and contingent liabilities assumed in a business 
+combination are measured initially at their fair values at the acquisition date.
+

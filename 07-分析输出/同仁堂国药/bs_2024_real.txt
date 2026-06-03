@@ -1,0 +1,502 @@
+=== PDF p61 ===
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+Beijing Tong Ren Tang Chinese Medicine Company Limited                 Annual Report  2024
+116
+     二零二四年年報 
+北京同仁堂國藥有限公司
+117
+合併財務狀況表
+As at 31 December 2024
+於2024年12月31日
+2024
+2023
+Notes 附註
+HK$’000 千港元
+HK$’000 千港元
+Assets 資產
+Non-current assets 非流動資產
+Property, plant and equipment 物業、廠房及設備
+17
+211,111
+213,816
+Right-of-use assets 使用權資產
+16(a)
+201,234
+211,810
+Intangible assets 無形資產
+18
+67,313
+56,387
+Investments accounted for using the equity method 按權益法入賬之投資
+11
+53,546
+51,968
+Financial asset at fair value through other comprehensive income 
+以公允價值計量且其變動計入其他綜合收益的金融資產
+19
+8,643
+7,833
+Prepayments and deposits 預付款項和押金
+16,445
+11,187
+Deferred income tax assets, net 淨遞延所得稅資產
+20
+35,486
+37,122
+593,778
+590,123
+Current assets 流動資產
+Inventories 存貨
+21
+1,589,016
+1,011,649
+Trade receivables and other current assets 貿易應收款項及其他流動資產
+22
+556,978
+453,980
+Short-term bank deposits with original maturities exceeding three months 
+原期限為三個月以上之短期銀行存款
+23
+46,679
+1,378,879
+Cash and cash equivalents 現金及現金等價物
+23
+1,773,074
+999,814
+3,965,747
+3,844,322
+Total assets 總資產
+4,559,525
+4,434,445
+Equity and liabilities 權益及負債
+Equity attributable to owners of the Company 本公司擁有人應佔權益
+Share capital 股本
+24
+938,789
+938,789
+Reserves 儲備
+— Other reserves 其他儲備
+(58,377)
+(43,189)
+— Retained earnings 留存收益
+3,194,948
+2,970,913
+4,075,360
+3,866,513
+Non-controlling interests 非控股權益
+171,074
+154,177
+Total equity 權益總額
+4,246,434
+4,020,690
+Liabilities 負債
+Non-current liabilities 非流動負債
+Borrowings 借貸
+25
+142
+166
+Lease liabilities 租賃負債
+16(b)
+65,799
+75,227
+Deferred income tax liabilities, net 淨遞延所得稅負債
+20
+8,708
+8,444
+Retirement benefit obligations 退休福利承擔
+3,088
+—
+77,737
+83,837
+Current liabilities 流動負債
+Borrowings 借貸
+25
+71
+166
+Trade and other payables 貿易及其他應付款項
+26
+157,308
+245,408
+Lease liabilities 租賃負債
+16(b)
+57,408
+56,254
+Current income tax liabilities 當期所得稅負債
+20,567
+28,090
+235,354
+329,918
+Total liabilities 總負債
+313,091
+413,755
+Total equity and liabilities 權益及負債總額
+4,559,525
+4,434,445
+The consolidated financial statements on pages 112 to 243 were approved by the Board of Directors on 28 March 
+2025 and were signed on its behalf.
+Gu Hai Ou
+Chen Fei
+Director
+Director
+The above consolidated statement of financial position should be read in conjunction with the accompanying notes.
+第112至243頁的合併財務報表於2025年3月28日獲董事會批准，並由以下代表簽署。
+顧海鷗
+陳飛
+董事
+董事
+以上合併財務報表應與隨附附註一併閱讀。
+
+=== PDF p62 ===
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+Beijing Tong Ren Tang Chinese Medicine Company Limited                 Annual Report  2024
+118
+     二零二四年年報 
+北京同仁堂國藥有限公司
+119
+合併權益變動表
+For the year ended 31 December 2024
+截至2024年12月31日止年度
+Attributable to owners of the Company 本公司擁有人應佔
+ 
+Share 
+capital
+Merger 
+reserve
+Other 
+reserves
+Statutory 
+reserve
+Exchange 
+reserve
+Retained 
+earnings
+Total
+Non-
+controlling 
+interests
+Total 
+equity
+股本
+合併儲備
+其他儲備
+法定儲備
+匯兌儲備
+留存收益
+總額非控股權益
+權益總額
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+At 1 January 2023 於2023年1月1日
+938,789
+(13,124)
+(9,609)
+6,229
+(24,562)
+2,706,763
+3,604,486
+134,307
+3,738,793
+Comprehensive income 綜合收益
+Profit for the year 年度利潤
+—
+—
+—
+—
+—
+540,393
+540,393
+50,194
+590,587
+Other comprehensive income/(losses) 其他綜合收益╱（虧損）
+Change in fair value of financial asset at fair value through other comprehensive income 
+以公允價值計量且其變動計入其他綜合收益的金融資產公允價值變動
+—
+—
+(1,785)
+—
+—
+—
+(1,785)
+—
+(1,785)
+Currency translation differences 貨幣兌換差額
+— Group 本集團
+—
+—
+—
+—
+310
+—
+310
+904
+1,214
+— Joint ventures and an associate 合營企業及聯營公司
+—
+—
+—
+—
+(648)
+—
+(648)
+—
+(648)
+Total comprehensive income/(losses) 綜合收益╱（虧損）總額
+—
+—
+(1,785)
+—
+(338)
+540,393
+538,270
+51,098
+589,368
+Transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易
+Dividends paid 已付股息
+—
+—
+—
+—
+—
+(276,243)
+(276,243)
+(31,228)
+(307,471)
+Total transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易的總額
+—
+—
+—
+—
+—
+(276,243)
+(276,243)
+(31,228)
+(307,471)
+At 31 December 2023 於2023年12月31日
+938,789
+(13,124)
+(11,394)
+6,229
+(24,900)
+2,970,913
+3,866,513
+154,177
+4,020,690
+At 1 January 2024 於2024年1月1日
+938,789
+(13,124)
+(11,394)
+6,229
+(24,900)
+2,970,913
+3,866,513
+154,177
+4,020,690
+Comprehensive income 綜合收益
+Profit for the year 年度利潤
+—
+—
+—
+—
+—
+500,278
+500,278
+28,889
+529,167
+Other comprehensive income/(losses) 其他綜合收益╱（虧損）
+Change in fair value of financial asset at fair value through other comprehensive income 
+以公允價值計量且其變動計入其他綜合收益的金融資產公允價值變動
+—
+—
+810
+—
+—
+—
+810
+—
+810
+Currency translation differences 貨幣兌換差額
+— Group 本集團
+—
+—
+—
+—
+(15,520)
+—
+(15,520)
+(3,382)
+(18,902)
+— Joint ventures and associates 合營企業及聯營公司
+—
+—
+—
+—
+(478)
+—
+(478)
+—
+(478)
+Total comprehensive income/(losses) 綜合收益╱（虧損）總額
+—
+—
+810
+—
+(15,998)
+500,278
+485,090
+25,507
+510,597
+Transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易
+Dividends paid 已付股息
+—
+—
+—
+—
+—
+(276,243)
+(276,243)
+(29,823)
+(306,066)
+Capital contributions from non-controlling shareholders 來自非控股股東的資本出資
+—
+—
+—
+—
+—
+—
+—
+21,213
+21,213
+Total transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易的總額
+—
+—
+—
+—
+—
+(276,243)
+(276,243)
+(8,610)
+(284,853)
+At 31 December 2024 於2024年12月31日
+938,789
+(13,124)
+(10,584)
+6,229
+(40,898)
+3,194,948
+4,075,360
+171,074
+4,246,434
+The above consolidated statement of changes in equity should be read in conjunction with the accompanying 
+notes.
+以上合併權益變動表應與隨附附註一併閱讀。
+
+=== PDF p63 ===
+CONSOLIDATED STATEMENT OF CASH FLOWS
+Beijing Tong Ren Tang Chinese Medicine Company Limited                 Annual Report  2024
+120
+     二零二四年年報 
+北京同仁堂國藥有限公司
+121
+合併現金流量表
+For the year ended 31 December 2024
+截至2024年12月31日止年度
+2024
+2023
+Notes 附註
+HK$’000 千港元
+HK$’000 千港元
+Cash flows from operating activities 經營活動所產生的現金流量
+Cash (used in)/generated from operations 經營（所用）╱所產生之現金
+27(a)
+(108,836)
+691,872
+Hong Kong profits tax paid 已付香港利得稅
+(96,870)
+(194,428)
+Overseas tax paid 已付海外稅
+(11,545)
+(36,613)
+Net cash (used in)/generated from operating activities 經營活動（所用）╱所產生的現金淨額
+(217,251)
+460,831
+Cash flows from investing activities 投資活動所產生的現金流量
+Interest received 已收利息
+65,420
+68,930
+Dividends received 已收股息
+391
+240
+Decrease/(increase) in short-term bank deposits with original maturities exceeding three months 
+原期限為三個月以上之短期銀行存款減少╱（增加）
+1,332,200
+(1,125,881)
+Proceeds from disposal of property, plant and equipment 出售物業、廠房及設備所得款項
+27(b)
+3
+56
+Purchase of property, plant and equipment and intangible assets 購買物業、廠房及設備及無形資產
+(12,527)
+(9,757)
+Prepayments paid for purchase of property, plant and equipment and intangible assets
+購買物業、廠房及設備及無形資產的預付款項
+(30,641)
+(12,109)
+Net cash generated from/(used in) investing activities 投資活動所產生╱（所用）現金淨額
+1,354,846
+(1,078,521)
+Cash flows from financing activities 融資活動所產生的現金流量
+Principal elements of lease payments 租賃付款額的本金部分
+(63,847)
+(58,512)
+Capital contributions from non-controlling shareholders 來自非控股股東的資本出資
+21,213
+—
+Dividends paid to the Company’s shareholders 已付本公司股東的股息
+(276,243)
+(276,243)
+Dividends paid to non-controlling interests of subsidiaries 已付子公司非控股權益的股息
+(29,823)
+(31,228)
+Interest paid 已付利息
+27(c)
+(6,481)
+(5,978)
+Repayment of borrowing 償還借貸
+27(c)
+(119)
+(220)
+Net cash used in financing activities 融資活動所用現金淨額
+(355,300)
+(372,181)
+Net increase/(decrease) in cash and cash equivalents 現金及現金等價物增加╱（減少）淨額
+782,295
+(989,871)
+Cash and cash equivalents at beginning of year 年初之現金及現金等價物
+999,814
+1,990,966
+Exchange losses on cash and cash equivalents 現金及現金等價物匯兌虧損
+(9,035)
+(1,281)
+Cash and cash equivalents at end of year 年終之現金及現金等價物
+23
+1,773,074
+999,814
+The above consolidated statement of cash flows should be read in conjunction with the accompanying notes.
+以上合併現金流量表應與隨附附註一併閱讀。
+

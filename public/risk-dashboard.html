@@ -108,12 +108,35 @@
 
   /* ── Status bar ── */
   .status-bar {
-    display: flex; gap: 20px; margin-bottom: 20px; padding: 14px 20px;
+    display: flex; gap: 20px; margin-bottom: 16px; padding: 14px 20px;
     background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius);
   }
   .status-bar-item { display: flex; align-items: center; gap: 8px; font-size: 0.85rem; }
   .status-bar-label { color: var(--text-muted); }
   .status-bar-value { font-weight: 600; }
+
+  /* ── View toggle ── */
+  .view-toggle-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 12px;
+  }
+  .view-toggle-group {
+    display: flex; background: var(--card-bg); border: 1px solid var(--border);
+    border-radius: var(--radius-sm); overflow: hidden;
+  }
+  .view-toggle-btn {
+    padding: 6px 16px; font-size: 0.8rem; cursor: pointer;
+    background: transparent; color: var(--text-muted); border: none;
+    transition: all .2s; font-weight: 500;
+  }
+  .view-toggle-btn:not(:last-child) { border-right: 1px solid var(--border); }
+  .view-toggle-btn:hover { color: var(--text); background: rgba(255,255,255,0.03); }
+  .view-toggle-btn.active {
+    background: var(--accent); color: #fff;
+  }
+  .history-note {
+    font-size: 0.72rem; color: var(--text-muted);
+  }
 
   /* ── Table ── */
   .table-card {
@@ -139,6 +162,22 @@
   .note-cell { color: var(--text-muted); font-size: 0.73rem; }
   .empty-state { padding: 60px; text-align: center; color: var(--text-muted); font-size: 0.9rem; }
   .empty-state-icon { font-size: 3rem; margin-bottom: 12px; }
+
+  /* ── Matrix table specific ── */
+  .matrix-table { overflow-x: auto; }
+  .matrix-table th { white-space: nowrap; text-align: center; font-size: 0.75rem; }
+  .matrix-table th:first-child { text-align: left; }
+  .matrix-table th:nth-child(2) { text-align: left; }
+  .matrix-table th:last-child { text-align: left; }
+  .matrix-table td { text-align: center; }
+  .matrix-table td:first-child { text-align: left; }
+  .matrix-table td:nth-child(2) { text-align: left; }
+  .matrix-table td:last-child { text-align: left; }
+  .matrix-cell {
+    font-family: 'JetBrains Mono', 'Consolas', 'Courier New', monospace;
+    font-weight: 600; font-size: 0.82rem; white-space: nowrap;
+  }
+  .matrix-na { color: var(--text-muted); font-style: italic; }
 
   /* ── Status dots ── */
   .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; }
@@ -194,6 +233,12 @@
   }
   .copy-btn:hover { opacity: 0.9; }
   .copy-btn.copied { background: var(--green); }
+
+  /* ── responsive ── */
+  @media (max-width: 900px) {
+    .sidebar { width: 180px; min-width: 180px; }
+    .main-content { padding: 16px; }
+  }
 </style>
 </head>
 <body>
@@ -215,7 +260,7 @@
     <div class="main-header-right">
       <span class="last-update" id="lastUpdate">加载中…</span>
       <button class="refresh-btn" onclick="location.reload()">🔄 刷新</button>
-      <button class="update-btn" id="updateBtn" style="display:none" onclick="openModal()">✏️ 更新</button>
+      <button class="update-btn editor-only" id="updateBtn" style="display:none" onclick="openModal()">✏️ 更新</button>
     </div>
   </div>
   <div class="main-content" id="mainContent">
@@ -227,7 +272,7 @@
 </div>
 
 <!-- ════ Modal ════ -->
-<dialog id="updateModal">
+<dialog class="editor-only" id="updateModal">
   <div class="modal-header">
     <h3>✏️ 更新风险指标</h3>
     <button class="modal-close" onclick="closeModal()">✕</button>
@@ -241,17 +286,23 @@
 </dialog>
 
 <script>
+const EMBEDDED_DATA = null;
 const DATA_URL = 'risk-data.json';
 let riskData = null;
 let activeCompany = null;
+let currentView = 'snapshot'; // 'snapshot' | 'history'
 
 async function loadData() {
   try {
-    const resp = await fetch(DATA_URL);
-    riskData = await resp.json();
+    if (typeof EMBEDDED_DATA !== 'undefined' && EMBEDDED_DATA !== null) {
+      riskData = EMBEDDED_DATA;
+      document.querySelectorAll('.editor-only').forEach(el => el.remove());
+    } else {
+      const resp = await fetch(DATA_URL);
+      riskData = await resp.json();
+    }
     document.getElementById('lastUpdate').textContent = '最后更新：' + riskData.lastUpdated;
     renderSidebar();
-    // auto-select first company
     const first = Object.keys(riskData.companies)[0];
     if (first) selectCompany(first);
   } catch (e) {
@@ -293,24 +344,30 @@ function renderSidebar() {
 
 function selectCompany(name) {
   activeCompany = name;
+  currentView = 'snapshot'; // reset to snapshot on company switch
   const c = riskData.companies[name];
 
-  // highlight sidebar
   document.querySelectorAll('.sidebar-item').forEach((el, i) => {
     const companyName = Object.keys(riskData.companies)[i];
     el.classList.toggle('active', companyName === name);
   });
 
-  // header
   document.getElementById('mainTitle').textContent = name;
   document.getElementById('mainTags').innerHTML = `
     <span class="tag">${c.code}</span>
     <span class="tag">${c.industry}</span>
     <span class="tag">${c.assetType}</span>
     <span class="tag">FCF/NP ${c.fcfThreshold}</span>`;
-  document.getElementById('updateBtn').style.display = '';
+  const updateBtn = document.getElementById('updateBtn');
+if (updateBtn) updateBtn.style.display = '';
 
-  // status bar
+  renderTableView();
+}
+
+function renderTableView() {
+  if (!activeCompany) return;
+  const c = riskData.companies[activeCompany];
+
   const redCount = c.indicators.filter(i => i.status === 'red').length;
   const yellowCount = c.indicators.filter(i => i.status === 'yellow').length;
   const unknownCount = c.indicators.filter(i => i.status === 'unknown').length;
@@ -319,7 +376,34 @@ function selectCompany(name) {
   else if (c.status === 'warning') { statusText = '🟡 关注'; statusColor = 'var(--yellow)'; }
   else { statusText = '🔴 预警'; statusColor = 'var(--red)'; }
 
-  // table
+  const hasHistory = c.indicators.some(ind => ind.history);
+  const years = ['2021', '2022', '2023', '2024', '2025'];
+
+  let tableHtml;
+  if (currentView === 'snapshot') {
+    tableHtml = buildSnapshotTable(c);
+  } else {
+    tableHtml = buildHistoryTable(c, years, hasHistory);
+  }
+
+  document.getElementById('mainContent').innerHTML = `
+    <div class="status-bar">
+      <div class="status-bar-item"><span class="status-bar-label">状态</span><span class="status-bar-value" style="color:${statusColor}">${statusText}</span></div>
+      <div class="status-bar-item"><span class="status-bar-label">🔴 预警</span><span class="status-bar-value" style="color:var(--red)">${redCount}</span></div>
+      <div class="status-bar-item"><span class="status-bar-label">🟡 关注</span><span class="status-bar-value" style="color:var(--yellow)">${yellowCount}</span></div>
+      <div class="status-bar-item"><span class="status-bar-label">⬜ 待更新</span><span class="status-bar-value" style="color:var(--text-muted)">${unknownCount}</span></div>
+    </div>
+    <div class="view-toggle-bar">
+      <div class="view-toggle-group">
+        <button class="view-toggle-btn ${currentView === 'snapshot' ? 'active' : ''}" onclick="switchView('snapshot')">📸 快照</button>
+        <button class="view-toggle-btn ${currentView === 'history' ? 'active' : ''}" onclick="switchView('history')">📅 历史追溯</button>
+      </div>
+      <span class="history-note">${currentView === 'history' ? '5年并排对比 · 精确值 + 状态色' : '最新数据快照 · 点击「历史追溯」查看5年趋势'}</span>
+    </div>
+    ${tableHtml}`;
+}
+
+function buildSnapshotTable(c) {
   let rows = '';
   c.indicators.forEach(ind => {
     let dotClass = 'dot-gray';
@@ -345,24 +429,18 @@ function selectCompany(name) {
         <td class="thr">${ind.threshold}</td>
         <td>${trendHtml}</td>
         <td style="text-align:center"><span class="conf-badge conf-${conf}" title="${confTitle}">${conf}</span></td>
-        <td class="note-cell">${ind.note}</td>
+        <td class="note-cell">${ind.note || ''}</td>
       </tr>`;
   });
 
-  document.getElementById('mainContent').innerHTML = `
-    <div class="status-bar">
-      <div class="status-bar-item"><span class="status-bar-label">状态</span><span class="status-bar-value" style="color:${statusColor}">${statusText}</span></div>
-      <div class="status-bar-item"><span class="status-bar-label">🔴 预警</span><span class="status-bar-value" style="color:var(--red)">${redCount}</span></div>
-      <div class="status-bar-item"><span class="status-bar-label">🟡 关注</span><span class="status-bar-value" style="color:var(--yellow)">${yellowCount}</span></div>
-      <div class="status-bar-item"><span class="status-bar-label">⬜ 待更新</span><span class="status-bar-value" style="color:var(--text-muted)">${unknownCount}</span></div>
-    </div>
+  return `
     <div class="table-card">
       <table>
         <thead>
           <tr>
             <th style="width:110px">维度</th>
             <th style="width:140px">指标</th>
-            <th style="width:140px">当前值</th>
+            <th style="width:150px">当前值</th>
             <th style="width:110px">阈值</th>
             <th style="width:40px">趋势</th>
             <th style="width:55px">置信度</th>
@@ -374,11 +452,65 @@ function selectCompany(name) {
     </div>`;
 }
 
+function buildHistoryTable(c, years, hasHistory) {
+  let rows = '';
+  c.indicators.forEach(ind => {
+    const isIndustry = ind.dim.startsWith('🔍');
+    const dimClass = isIndustry ? 'dim-sep' : '';
+
+    let cells = '';
+    years.forEach(yr => {
+      const h = ind.history && ind.history[yr];
+      if (h) {
+        let dotClass = 'dot-gray';
+        if (h.status === 'green') dotClass = 'dot-green';
+        else if (h.status === 'yellow') dotClass = 'dot-yellow';
+        else if (h.status === 'red') dotClass = 'dot-red';
+        cells += `<td class="matrix-cell"><span class="dot ${dotClass}"></span>${h.value}</td>`;
+      } else {
+        cells += `<td class="matrix-cell matrix-na">—</td>`;
+      }
+    });
+
+    rows += `
+      <tr class="${dimClass}">
+        <td class="dim-label">${ind.dim}</td>
+        <td>${ind.name}</td>
+        ${cells}
+        <td class="thr">${ind.threshold}</td>
+      </tr>`;
+  });
+
+  return `
+    <div class="table-card matrix-table">
+      <table>
+        <thead>
+          <tr>
+            <th style="width:110px">维度</th>
+            <th style="width:140px">指标</th>
+            <th style="width:130px">2021</th>
+            <th style="width:130px">2022</th>
+            <th style="width:130px">2023</th>
+            <th style="width:130px">2024</th>
+            <th style="width:130px">2025</th>
+            <th style="width:110px">阈值</th>
+          </tr>
+        </thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </div>`;
+}
+
+function switchView(view) {
+  currentView = view;
+  renderTableView();
+}
+
 // ── Modal ──
 function openModal() {
   if (!activeCompany) return;
   const c = riskData.companies[activeCompany];
-  document.getElementById('promptBox').value = `更新${activeCompany}风险跟踪指标`;
+  document.getElementById('promptBox').value = c.updatePrompt || `更新${activeCompany}风险跟踪指标`;
   document.getElementById('copyBtn').textContent = '📋 复制指令';
   document.getElementById('copyBtn').classList.remove('copied');
   document.getElementById('updateModal').showModal();
@@ -396,9 +528,12 @@ function copyCmd() {
 }
 
 document.addEventListener('DOMContentLoaded', loadData);
-document.getElementById('updateModal').addEventListener('click', e => {
-  if (e.target === document.getElementById('updateModal')) closeModal();
-});
+const updateModal = document.getElementById('updateModal');
+if (updateModal) {
+  updateModal.addEventListener('click', e => {
+    if (e.target === updateModal) closeModal();
+  });
+}
 </script>
 </body>
 </html>

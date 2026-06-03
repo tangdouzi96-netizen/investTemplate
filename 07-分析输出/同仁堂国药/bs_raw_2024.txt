@@ -1,0 +1,458 @@
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+Beijing Tong Ren Tang Chinese Medicine Company Limited                 Annual Report  2024
+118
+     二零二四年年報 
+北京同仁堂國藥有限公司
+119
+合併權益變動表
+For the year ended 31 December 2024
+截至2024年12月31日止年度
+Attributable to owners of the Company 本公司擁有人應佔
+ 
+Share 
+capital
+Merger 
+reserve
+Other 
+reserves
+Statutory 
+reserve
+Exchange 
+reserve
+Retained 
+earnings
+Total
+Non-
+controlling 
+interests
+Total 
+equity
+股本
+合併儲備
+其他儲備
+法定儲備
+匯兌儲備
+留存收益
+總額非控股權益
+權益總額
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+HK$’000 
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+At 1 January 2023 於2023年1月1日
+938,789
+(13,124)
+(9,609)
+6,229
+(24,562)
+2,706,763
+3,604,486
+134,307
+3,738,793
+Comprehensive income 綜合收益
+Profit for the year 年度利潤
+—
+—
+—
+—
+—
+540,393
+540,393
+50,194
+590,587
+Other comprehensive income/(losses) 其他綜合收益╱（虧損）
+Change in fair value of financial asset at fair value through other comprehensive income 
+以公允價值計量且其變動計入其他綜合收益的金融資產公允價值變動
+—
+—
+(1,785)
+—
+—
+—
+(1,785)
+—
+(1,785)
+Currency translation differences 貨幣兌換差額
+— Group 本集團
+—
+—
+—
+—
+310
+—
+310
+904
+1,214
+— Joint ventures and an associate 合營企業及聯營公司
+—
+—
+—
+—
+(648)
+—
+(648)
+—
+(648)
+Total comprehensive income/(losses) 綜合收益╱（虧損）總額
+—
+—
+(1,785)
+—
+(338)
+540,393
+538,270
+51,098
+589,368
+Transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易
+Dividends paid 已付股息
+—
+—
+—
+—
+—
+(276,243)
+(276,243)
+(31,228)
+(307,471)
+Total transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易的總額
+—
+—
+—
+—
+—
+(276,243)
+(276,243)
+(31,228)
+(307,471)
+At 31 December 2023 於2023年12月31日
+938,789
+(13,124)
+(11,394)
+6,229
+(24,900)
+2,970,913
+3,866,513
+154,177
+4,020,690
+At 1 January 2024 於2024年1月1日
+938,789
+(13,124)
+(11,394)
+6,229
+(24,900)
+2,970,913
+3,866,513
+154,177
+4,020,690
+Comprehensive income 綜合收益
+Profit for the year 年度利潤
+—
+—
+—
+—
+—
+500,278
+500,278
+28,889
+529,167
+Other comprehensive income/(losses) 其他綜合收益╱（虧損）
+Change in fair value of financial asset at fair value through other comprehensive income 
+以公允價值計量且其變動計入其他綜合收益的金融資產公允價值變動
+—
+—
+810
+—
+—
+—
+810
+—
+810
+Currency translation differences 貨幣兌換差額
+— Group 本集團
+—
+—
+—
+—
+(15,520)
+—
+(15,520)
+(3,382)
+(18,902)
+— Joint ventures and associates 合營企業及聯營公司
+—
+—
+—
+—
+(478)
+—
+(478)
+—
+(478)
+Total comprehensive income/(losses) 綜合收益╱（虧損）總額
+—
+—
+810
+—
+(15,998)
+500,278
+485,090
+25,507
+510,597
+Transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易
+Dividends paid 已付股息
+—
+—
+—
+—
+—
+(276,243)
+(276,243)
+(29,823)
+(306,066)
+Capital contributions from non-controlling shareholders 來自非控股股東的資本出資
+—
+—
+—
+—
+—
+—
+—
+21,213
+21,213
+Total transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易的總額
+—
+—
+—
+—
+—
+(276,243)
+(276,243)
+(8,610)
+(284,853)
+At 31 December 2024 於2024年12月31日
+938,789
+(13,124)
+(10,584)
+6,229
+(40,898)
+3,194,948
+4,075,360
+171,074
+4,246,434
+The above consolidated statement of changes in equity should be read in conjunction with the accompanying 
+notes.
+以上合併權益變動表應與隨附附註一併閱讀。
+
+CONSOLIDATED STATEMENT OF CASH FLOWS
+Beijing Tong Ren Tang Chinese Medicine Company Limited                 Annual Report  2024
+120
+     二零二四年年報 
+北京同仁堂國藥有限公司
+121
+合併現金流量表
+For the year ended 31 December 2024
+截至2024年12月31日止年度
+2024
+2023
+Notes 附註
+HK$’000 千港元
+HK$’000 千港元
+Cash flows from operating activities 經營活動所產生的現金流量
+Cash (used in)/generated from operations 經營（所用）╱所產生之現金
+27(a)
+(108,836)
+691,872
+Hong Kong profits tax paid 已付香港利得稅
+(96,870)
+(194,428)
+Overseas tax paid 已付海外稅
+(11,545)
+(36,613)
+Net cash (used in)/generated from operating activities 經營活動（所用）╱所產生的現金淨額
+(217,251)
+460,831
+Cash flows from investing activities 投資活動所產生的現金流量
+Interest received 已收利息
+65,420
+68,930
+Dividends received 已收股息
+391
+240
+Decrease/(increase) in short-term bank deposits with original maturities exceeding three months 
+原期限為三個月以上之短期銀行存款減少╱（增加）
+1,332,200
+(1,125,881)
+Proceeds from disposal of property, plant and equipment 出售物業、廠房及設備所得款項
+27(b)
+3
+56
+Purchase of property, plant and equipment and intangible assets 購買物業、廠房及設備及無形資產
+(12,527)
+(9,757)
+Prepayments paid for purchase of property, plant and equipment and intangible assets
+購買物業、廠房及設備及無形資產的預付款項
+(30,641)
+(12,109)
+Net cash generated from/(used in) investing activities 投資活動所產生╱（所用）現金淨額
+1,354,846
+(1,078,521)
+Cash flows from financing activities 融資活動所產生的現金流量
+Principal elements of lease payments 租賃付款額的本金部分
+(63,847)
+(58,512)
+Capital contributions from non-controlling shareholders 來自非控股股東的資本出資
+21,213
+—
+Dividends paid to the Company’s shareholders 已付本公司股東的股息
+(276,243)
+(276,243)
+Dividends paid to non-controlling interests of subsidiaries 已付子公司非控股權益的股息
+(29,823)
+(31,228)
+Interest paid 已付利息
+27(c)
+(6,481)
+(5,978)
+Repayment of borrowing 償還借貸
+27(c)
+(119)
+(220)
+Net cash used in financing activities 融資活動所用現金淨額
+(355,300)
+(372,181)
+Net increase/(decrease) in cash and cash equivalents 現金及現金等價物增加╱（減少）淨額
+782,295
+(989,871)
+Cash and cash equivalents at beginning of year 年初之現金及現金等價物
+999,814
+1,990,966
+Exchange losses on cash and cash equivalents 現金及現金等價物匯兌虧損
+(9,035)
+(1,281)
+Cash and cash equivalents at end of year 年終之現金及現金等價物
+23
+1,773,074
+999,814
+The above consolidated statement of cash flows should be read in conjunction with the accompanying notes.
+以上合併現金流量表應與隨附附註一併閱讀。
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+Beijing Tong Ren Tang Chinese Medicine Company Limited                 Annual Report  2024
+122
+     二零二四年年報 
+北京同仁堂國藥有限公司
+123
+ 合併財務報表附註
+1 
+GENERAL INFORMATION
+Beijing Tong Ren Tang Chinese Medicine Company Limited (the “Company”) and its subsidiaries (together the 
+“Group”) are engaged in manufacturing, retail and wholesale of Chinese medicine products and healthcare 
+products and provision of Chinese medical consultation and treatments. The immediate holding company of 
+the Company is Tong Ren Tang Technologies Co. Ltd. (“Tong Ren Tang Technologies”) which is a joint stock 
+limited company established in the People’s Republic of China (the “PRC”) and is listed on the Main Board 
+of The Stock Exchange of Hong Kong Limited. The intermediate holding company of the Company is Beijing 
+Tong Ren Tang Company Limited, (“Tong Ren Tang Ltd.”) which is a joint stock limited company 
+incorporated in the PRC and is listed on the Shanghai Stock Exchange. The ultimate holding company of the 
+Company is China Beijing Tong Ren Tang Group Co., Ltd. (“Tong Ren Tang Holdings”) which is a company 
+incorporated in the PRC.
+The Company is a limited liability company incorporated in Hong Kong. The address of its registered office is 
+Room 1405–1409, Office Tower, Convention Plaza, 1 Harbour Road, Wanchai, Hong Kong.
+The shares of the Company were listed on GEM of the Stock Exchange starting from 7 May 2013 and were 
+transferred to be listed on the Main Board of the Stock Exchange starting from 29 May 2018.
+These consolidated financial statements have been approved for issue by the Board of Directors on 28 
+March 2025.
+2 BASIS OF PREPARATION
+These financial statements have been prepared in accordance with HKFRS Accounting Standards (which 
+comprise all Hong Kong Financial Reporting Standards, Hong Kong Accounting Standards and 
+Interpretations) as issued by the Hong Kong Institute of Certified Public Accountants, and the Hong Kong 
+Companies Ordinance. They have been prepared under the historical cost convention, except for financial 
+asset at fair value through other comprehensive income, which have been measured at fair value. These 
+financial statements are presented in Hong Kong dollars and all values are rounded to the nearest thousand 
+except when otherwise indicated.
+The preparation of financial statements in conformity with HKFRS Accounting Standards requires the use of 
+certain critical accounting estimates. It also requires management to exercise its judgement in the process of 
+applying the Group’s accounting policies. The areas involving a higher degree of judgement or complexity, or 
+areas where assumptions and estimates are significant to the consolidated financial statements are set out in 
+Note 4 to the consolidated financial statements.
+Basis of consolidation
+The consolidated financial statements include the financial statements of the Companies and its subsidiaries 
+for the year ended 31 December 2024. A subsidiary is an entity (including a structured entity), directly or 
+indirectly, controlled by the Company. Control is achieved when the Group is exposed, or has rights, to 
+variable returns from its involvement with the investee and has the ability to affect those returns through its 
+power over the investee (i.e., existing rights that give the Group the current ability to direct the relevant 
+activities of the investee).
+Generally, there is a presumption that a majority of voting rights results in control. When the Company has 
+less than a majority of the voting or similar rights of an investee, the Group considers all relevant facts and 
+circumstances in assessing whether it has power over an investee, including:
+(a) 
+the contractual arrangement with the other vote holders of the investee;
+(b) 
+rights arising from other contractual arrangements; and
+(c) 
+the Group’s voting rights and potential voting rights.
+The financial statements of the subsidiaries are prepared for the same reporting period as the Company, 
+using consistent accounting policies. The results of subsidiaries are consolidated from the date on which the 
+Group obtains control, and continue to be consolidated until the date that such control ceases.
+Profit or loss and each component of other comprehensive income are attributed to the owners of the parent 
+of the Group and to the non-controlling interests, even if this results in the non-controlling interests having a 
+deficit balance. All intra-group assets and liabilities, equity, income, expenses and cash flows relating to 
+transactions between members of the Group are eliminated in full on consolidation.
+1 
+一般資料
+北京同仁堂國藥有限公司（「本公司」）及其附屬公司（統稱「本集團」）從事中藥產品
+和保健品的生產、零售及批發並提供中醫診療。本公司直接控股公司北京同仁堂
+科技發展股份有限公司（「同仁堂科技」）為於中華人民共和國（「中國」）成立的股份
+有限公司，於香港聯合交易所有限公司主板上市。本公司中間控股公司北京同仁
+堂股份有限公司（「同仁堂股份」）為於中國成立的股份有限公司，於上海證券交易
+所上市。本公司最終控股公司中國北京同仁堂（集團）有限責任公司（「同仁堂集團
+公司」）為於中國註冊成立的公司。
+本公司為在香港註冊成立的有限公司，註冊辦事處地址為香港灣仔港灣道1號會
+展廣場辦公大樓1405–1409室。
+本公司股份於2013年5月7日在聯交所GEM上市，並於2018年5月29日轉至於聯交
+所主板上市。
+該等合併財務報表已於2025年3月28日獲董事會批准刊發。
+2 編製基準
+該等財務報表乃根據香港會計師公會頒佈之香港財務報告準則會計準則（包括所
+有香港財務報告準則、香港會計準則詮釋）及香港公司條例編製。其乃按歷史成本
+慣例編製，惟以公允價值計量且其變動計入其他綜合收益的金融資產按公允價值
+計量除外。該等財務報表均以港元呈列，除另有指明外，所有金額均調整至最接
+近千元。
+編製符合香港財務報告準則會計準則的財務報表需採用若干關鍵會計估計。此亦
+需管理人員在應用本集團的會計政策時行使判斷。涉及高度判斷或複雜性的範疇，
+或涉及對合併財務報表屬重大假設及估計的範疇載於合併財務報表附註4。
+合併基準
+合併財務報表包括本公司及其附屬公司截至2024年12月31日止年度之財務報表。
+附屬公司指受本公司直接或間接控制的實體（包括結構性實體）。倘本集團透過參
+與投資對象業務的浮動回報承擔風險或享有權利，並有能力透過對投資對象的權
+力（即賦予本集團現有能力指示投資對象相關活動的既存權利）影響該等回報時，
+即取得控制權。
+於一般情況下，均存在多數投票權形成控制權的推定。倘本公司擁有少於投資對
+象的大多數投票權或類似權利，則本集團於評估其是否擁有對投資對象的權力時
+會考慮一切相關事實及情況，包括：
+(a) 
+與投資對象其他投票權持有人的合約安排；
+(b) 
+其他合約安排所產生的權利；及
+(c) 
+本集團的投票權及潛在投票權。
+附屬公司的財務報表按與本公司一致的會計政策且以相同的報告期間編製。附屬
+公司的業績自本集團取得控制權之日起合併入賬，並持續合併入賬至該控制權終
+止之日為止。
+損益及其他綜合收益之各組成部分乃歸屬於本集團母公司擁有人及非控股權益，
+即使此將導致非控股權益錄得虧損結餘。有關本集團成員公司間交易之所有集團
+內資產及負債、權益、收入、開支及現金流量在合併入賬時悉數對銷。
+

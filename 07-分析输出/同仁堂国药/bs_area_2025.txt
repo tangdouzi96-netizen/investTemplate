@@ -1,0 +1,435 @@
+BEIJING TONG REN TANG CHINESE MEDICINE COMPANY LIMITED
+Annual Report  2025
+112
+北京同仁堂國藥有限公司
+二零二五年年報
+113
+合併財務狀況表
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+As at 31 December 2025
+於2025年12月31日
+2025
+2024
+Notes 附註
+HK$’000 千港元
+HK$’000 千港元
+Assets 資產
+Non-current assets 非流動資產
+Property, plant and equipment 物業、廠房及設備
+17
+225,460
+211,111
+Right-of-use assets 使用權資產
+16(a)
+200,008
+201,234
+Intangible assets 無形資產
+18
+64,494
+67,313
+Investments accounted for using the equity method 按權益法入賬之投資
+11
+42,585
+53,546
+Financial asset at fair value through other comprehensive income
+以公允價值計量且其變動計入其他綜合收益的金融資產
+19
+6,813
+8,643
+Prepayments and deposits預付款項和押金
+24,361
+16,445
+Deferred income tax assets, net淨遞延所得稅資產
+20
+32,261
+35,486
+595,982
+593,778
+Current assets 流動資產
+Inventories 存貨
+21
+1,341,633
+1,589,016
+Trade receivables and other current assets 貿易應收款項及其他流動資產
+22
+443,899
+556,978
+Short-term bank deposits with original maturities exceeding three months
+原期限為三個月以上之短期銀行存款
+23
+51,377
+46,679
+Cash and cash equivalents 現金及現金等價物
+23
+2,227,847
+1,773,074
+4,064,756
+3,965,747
+Total assets 總資產
+4,660,738
+4,559,525
+Equity and liabilities 權益及負債
+Equity attributable to owners of the Company 本公司擁有人應佔權益
+Share capital 股本
+24
+938,789
+938,789
+Reserves 儲備
+— Other reserves 其他儲備
+(50,078)
+(58,377)
+— Retained earnings 留存收益
+3,299,179
+3,194,948
+4,187,890
+4,075,360
+Non-controlling interests 非控股權益
+180,971
+171,074
+Total equity 權益總額
+4,368,861
+4,246,434
+Liabilities 負債
+Non-current liabilities 非流動負債
+Borrowings 借貸
+25
+71
+142
+Lease liabilities 租賃負債
+16(b)
+74,171
+65,799
+Deferred income tax liabilities, net 淨遞延所得稅負債
+20
+7,185
+8,708
+Retirement benefit obligations 退休福利承擔
+3,602
+3,088
+85,029
+77,737
+Current liabilities 流動負債
+Borrowings借貸
+25
+71
+71
+Trade and other payables 貿易及其他應付款項
+26
+125,611
+157,308
+Lease liabilities 租賃負債
+16(b)
+52,227
+57,408
+Current income tax liabilities 當期所得稅負債
+28,939
+20,567
+206,848
+235,354
+Total liabilities 總負債
+291,877
+313,091
+Total equity and liabilities 權益及負債總額
+4,660,738
+4,559,525
+The consolidated financial statements on pages 108 to 239 were approved by the Board of Directors on 20 March 
+2026 and were signed on its behalf.
+Yan Han
+Yue Zheng
+Director
+Director
+The above consolidated statement of financial position should be read in conjunction with the accompanying notes.
+第108 至 239 頁的綜合財務報表於2026年3月20日獲董事會批准，並由以下代表簽署。
+嚴晗
+樂拯
+董事
+董事
+以上合併財務狀況表應與隨附附註一併閱讀。
+
+BEIJING TONG REN TANG CHINESE MEDICINE COMPANY LIMITED
+Annual Report  2025
+114
+北京同仁堂國藥有限公司
+二零二五年年報
+115
+綜合權益變動表
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+For the year ended 31 December 2025
+截至2025年12月31日止年度
+Attributable to owners of the Company 本公司擁有人應佔
+ 
+Share 
+capital
+Merger 
+reserve
+Other 
+reserves
+Statutory 
+reserve
+Exchange 
+reserve
+Retained 
+earnings
+Total
+Non-
+controlling 
+interests
+Total 
+equity
+股本
+合併儲備
+其他儲備
+法定儲備
+匯兌儲備
+留存收益
+總額非控股權益
+權益總額
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+At 1 January 2024 於2024年1月1日
+938,789
+(13,124)
+(11,394)
+6,229
+(24,900)
+2,970,913
+3,866,513
+154,177
+4,020,690
+Comprehensive income 綜合收益
+Profit for the year 年度利潤
+—
+—
+—
+—
+—
+500,278
+500,278
+28,889
+529,167
+Other comprehensive income/(losses) 其他綜合收益╱（虧損）
+Change in fair value of financial asset at fair value through other comprehensive income
+以公允價值計量且其變動計入其他綜合收益的金融資產公允價值變動
+—
+—
+810
+—
+—
+—
+810
+—
+810
+Currency translation differences 貨幣兌換差額
+— Group 本集團
+—
+—
+—
+—
+(15,520)
+—
+(15,520)
+(3,382)
+(18,902)
+— Joint ventures and associates 合營企業及聯營公司
+—
+—
+—
+—
+(478)
+—
+(478)
+—
+(478)
+Total comprehensive income/(losses) 綜合收益╱（虧損）總額
+—
+—
+810
+—
+(15,998)
+500,278
+485,090
+25,507
+510,597
+Transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易
+Dividends paid 已付股息
+—
+—
+—
+—
+—
+(276,243)
+(276,243)
+(29,823)
+(306,066)
+Capital contributions from non-controlling shareholders 來自非控股股東的資本出資
+—
+—
+—
+—
+—
+—
+—
+21,213
+21,213
+Total transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易的總額
+—
+—
+—
+—
+—
+(276,243)
+(276,243)
+(8,610)
+(284,853)
+At 31 December 2024 於2024年12月31日
+938,789
+(13,124)
+(10,584)
+6,229
+(40,898)
+3,194,948
+4,075,360
+171,074
+4,246,434
+At 1 January 2025 於2025年1月1日
+938,789
+(13,124)
+(10,584)
+6,229
+(40,898)
+3,194,948
+4,075,360
+171,074
+4,246,434
+Comprehensive income 綜合收益
+Profit for the year 年度利潤
+—
+—
+—
+—
+—
+397,216
+397,216
+19,643
+416,859
+Other comprehensive income/(losses) 其他綜合收益╱（虧損）
+Change in fair value of financial asset at fair value through other comprehensive losses
+以公允價值計量且其變動計入其他綜合損失的金融資產公允價值變動
+—
+—
+(1,830)
+—
+—
+—
+(1,830)
+—
+(1,830)
+Group’s Currency translation differences 本集團貨幣兌換差額
+—
+—
+—
+—
+7,452
+7,452
+2,124
+9,576
+Share of other comprehensive loss of joint ventures and associates 應佔合營公司和聯營公司的其他綜合虧損
+—
+—
+—
+—
+1,411
+—
+1,411
+—
+1,411
+Reclassification adjustment for a foreign operation disposed of during the year 因處置境外經營而進行的重分類調整
+—
+—
+—
+—
+25
+—
+25
+(958)
+(933)
+Total comprehensive income/(losses) 綜合收益╱（虧損）總額
+—
+—
+(1,830)
+—
+8,888
+397,216
+404,274
+20,809
+425,083
+Transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易
+Dividends paid 已付股息
+—
+—
+—
+—
+—
+(292,985)
+(292,985)
+(19,912)
+(312,897)
+Share of reserves of an associate 應佔聯營公司儲備
+—
+—
+1,241
+—
+—
+—
+1,241
+—
+1,241
+Capital contributions from non-controlling shareholders 來自非控股股東的資本出資
+—
+—
+—
+—
+—
+—
+—
+9,000
+9,000
+Total transactions with owners in their capacity as owners 與權益擁有人以其擁有人的身份進行的交易的總額
+—
+—
+1,241
+—
+—
+(292,985)
+(291,744)
+(10,912)
+(302,656)
+At 31 December 2025 於2025年12月31日
+938,789
+(13,124)
+(11,173)
+6,229
+(32,010)
+3,299,179
+4,187,890
+180,971
+4,368,861
+The above consolidated statement of changes in equity should be read in conjunction with the accompanying 
+notes.
+以上綜合權益變動表應與隨附附註一併閱讀。

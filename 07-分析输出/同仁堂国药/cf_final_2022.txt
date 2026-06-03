@@ -1,0 +1,204 @@
+180
+181
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+CONSOLIDATED STATEMENT OF CASH FLOWS
+綜合現金流量表
+截至2022年12月31日止年度
+For the year ended 31 December 2022
+2022
+2021
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Cash flows from operating activities 經營活動所產生的現金流量
+  Cash generated from operations 經營所產生之現金
+28(a)
+566,607
+915,005
+  Income tax paid 已付所得稅
+(19,163)
+(137,835)
+Net cash generated from operating activities 經營活動所產生的現金淨額
+547,444
+777,170
+Cash flows from investing activities 投資活動所產生的現金流量
+  Interest received 已收利息
+14,561
+5,044
+  Dividends received 已收股息
+225
+180
+  Decrease/(increase) in short-term bank deposits with original maturities exceeding three months 
+  原期限為三個月以上之短期銀行存款減少╱（增加）
+362,267
+(194,167)
+  Proceeds from disposal of property, plant and equipment 出售物業、廠房及設備所得款
+28(b)
+127
+22
+  Purchase of property, plant and equipment and intangible assets 購買物業、廠房及設備及無形資產
+(36,577)
+(10,354)
+  Prepayments paid for purchase of property, plant and intangible assets 
+  購買物業、廠房及設備及無形資產的已付按金
+(1,932)
+(13,074)
+  Acquisition of an associate 收購聯營公司
+–
+(39,832)
+  Acquisition of a subsidiary, net of cash and cash equivalents acquired 收購子公司（現金及現金等價物淨額）
+(196)
+–
+  Acquisition of further interest in a subsidiary 收購子公司額外權益
+(3,063)
+(13,553)
+Net cash generated from/(used in) investing activities 投資活動所產生╱（所用）現金淨額
+335,412
+(265,734)
+Cash flows from financing activities 融資活動所產生的現金流量
+  Principal elements of lease payments 租賃付款額的本金部分
+(56,042)
+(50,496)
+  Capital injections by non-controlling interests 非控制權益注資
+–
+738
+  Dividends paid to the Company’s shareholders 已付本公司股東的股息
+(443,663)
+(200,904)
+  Dividends paid to non-controlling interests of subsidiaries 已付子公司非控股權益的股息
+(30,617)
+(23,501)
+  Interest paid 已付利息
+(4,661)
+(4,707)
+  Proceeds from borrowing 借貸所得款
+–
+387
+  Repayment of borrowing 償還借貸
+(433)
+(166)
+Net cash used in financing activities 融資活動所用現金淨額
+(535,416)
+(278,649)
+Net increase in cash and cash equivalents 現金及現金等價物增加淨額
+347,440
+232,787
+  Cash and cash equivalents at beginning of year 年初之現金及現金等價物
+1,660,304
+1,426,040
+  Exchange (losses)/gains on cash and cash equivalents 現金及現金等價物匯兌（虧損）╱收益
+(16,778)
+1,477
+Cash and cash equivalents at end of year 年終之現金及現金等價物
+1,990,966
+1,660,304
+The above consolidated statement of cash flows should be read in conjunction with the accompanying notes.
+以上綜合現金流量表應與隨附附註一併閱讀。
+
+182
+183
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+1	
+GENERAL INFORMATION
+Beijing Tong Ren Tang Chinese Medicine Company Limited (the “Company”) and its subsidiaries (together the 
+“Group”) are engaged in manufacturing, retail and wholesale of Chinese medicine products and healthcare products 
+and provision of Chinese medical consultation and treatments. The immediate holding company of the Company is 
+Tong Ren Tang Technologies Co. Ltd. (“Tong Ren Tang Technologies”) which is a joint stock limited company 
+established in the People’s Republic of China (the “PRC”) and is listed on the Main Board of The Stock Exchange of 
+Hong Kong Limited. The intermediate holding company of the Company is Beijing Tong Ren Tang Company Limited, 
+(“Tong Ren Tang Ltd.”) which is a joint stock limited company incorporated in the PRC and is listed on the Shanghai 
+Stock Exchange. The ultimate holding company of the Company is China Beijing Tong Ren Tang Group Co., Ltd. 
+(“Tong Ren Tang Holdings”) which is a company incorporated in the PRC.
+The Company is a limited liability company incorporated in Hong Kong. The address of its registered office is Room 
+1405–1409, Office Tower, Convention Plaza, 1 Harbour Road, Wanchai, Hong Kong.
+The shares of the Company were listed on GEM of the Stock Exchange starting from 7 May 2013 and were 
+transferred to be listed on the Main Board of the Stock Exchange starting from 29 May 2018.
+These consolidated financial statements are presented in Hong Kong dollars (HK$), unless otherwise stated. These 
+consolidated financial statements have been approved for issue by the Board of Directors on 13 March 2023.
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The principal accounting policies applied in the preparation of these consolidated financial statements are set out 
+below. These policies have been consistently applied to all the years presented, unless otherwise stated.
+(a)	 Basis of preparation
+The consolidated financial statements have been prepared in accordance with Hong Kong Financial Reporting 
+Standards (“HKFRSs”) and requirements of the Hong Kong Companies Ordinance Cap. 622. The consolidated 
+financial statements have been prepared under the historical cost convention, as modified by the revaluation 
+of financial asset at fair value through other comprehensive income, which is carried at fair value.
+The preparation of financial statements in conformity with HKFRSs requires the use of certain critical 
+accounting estimates. It also requires management to exercise its judgment in the process of applying the 
+Group’s accounting policies. The areas involving a higher degree of judgment or complexity, or areas where 
+assumptions and estimates are significant to the consolidated financial statements are disclosed in Note 4.
+(i)	
+New and amended standards adopted by the Group
+The Group has adopted the following revised framework and amendments to standards which are 
+relevant to the Group’s operations and are mandatory for the financial year beginning on 1 January 
+2022
+• 
+Property, Plant and Equipment: Proceeds before Intended Use — Amendments to HKAS 16
+• 
+Onerous Contracts — Cost of Fulfilling a Contract — Amendments to HKAS 37
+• 
+Annual Improvements to HKFRS Standards 2018–2020
+• 
+Reference to the Conceptual Framework — Amendments to HKFRS 3
+• 
+Covid-19 Related Rent Concessions beyond 30 June 2021 — Amendment to HKFRS 16 (March 
+2021) 
+• 
+Amendments to AG 5 Merger Accounting for Common Control Combinations 
+The adoption of the above revised framework and amendments to standards did not have any 
+significant financial impact on these consolidated financial statements.
+1 
+一般資料
+北京同仁堂國藥有限公司（「本公司」）及其附屬公司（統稱「本集團」）從事中藥產品
+和保健品的生產、零售及批發並提供中醫診療。本公司直接控股公司北京同仁堂科
+技發展股份有限公司（「同仁堂科技」）為於中華人民共和國（「中國」）成立的股份有
+限公司，於香港聯合交易所有限公司主板上市。本公司中間控股公司北京同仁堂股
+份有限公司（「同仁堂股份」）為於中國成立的股份有限公司，於上海證券交易所上市。
+本公司最終控股公司中國北京同仁堂（集團）有限責任公司（「同仁堂集團公司」）為
+於中國註冊成立的公司。
+本公司為在香港註冊成立的有限公司，註冊辦事處地址為香港灣仔港灣道1 號會展
+廣場辦公大樓1405–1409 室。
+本公司股份於2013 年5 月7 日在聯交所GEM 上市，並於2018 年5 月29 日轉至於聯
+交所主板上市。
+除另有註明外，該等綜合財務報表以港元（「港元」）列賬。該等綜合財務報表已於
+2023 年3 月13 日獲董事會批准刊發。
+2 
+主要會計政策概要
+編製該等合併財務報告所採用的主要會計政策如下。除另有註明外，該等政策貫徹
+應用於呈列的所有年度。
+(a) 編製基準
+綜合財務報表已按香港財務報告準則（「香港財務報告準則」）及香港《公司條例》
+（第622 章）編製。綜合財務報表根據歷史成本法編製，並已就以公允價值計
+量且其變動計入其他綜合收益的金融資產的重估作出修訂。
+編製符合香港財務報告準則的財務報表需採用若干關鍵會計估計。此亦需管
+理人員在應用本集團的會計政策時行使判斷。涉及高度判斷或複雜性的範疇，
+或涉及對綜合財務報表屬重大假設及估計的範疇已於附註4 披露。
+(i) 
+本集團採用的新準則和修訂準則
+本集團所採納與本集團業務相關且於2022 年1 月1 日或之後開始之財
+政年度須強制採用的新修訂框架、新解釋及準則之修訂如下：
+• 
+物業、廠房及設備：作擬定用途前的所得款項 — 香港會計準則
+第16 號（修訂本）
+• 
+虧損合約 — 履行合約的成本 — 香港會計準則第37 號（修訂本）
+• 
+對香港財務報告準則二零一八年至二零二零年之年度改進
+• 
+引用概念框架 — 香港財務報告準則第3 號（修訂本）
+• 
+2021 年6 月30 日之後疫情相關租金減讓修訂 — 香港財務報告準
+則第16 號（修訂本）
+• 
+會計指引第5 號（經修訂） — 共同控制合併的合併會計處理
+採納上述新修訂框架及準則之修訂對該等合併財務報表並無任何重大
+財務影響。

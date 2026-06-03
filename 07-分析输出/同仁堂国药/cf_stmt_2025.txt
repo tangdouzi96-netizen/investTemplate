@@ -1,0 +1,208 @@
+BEIJING TONG REN TANG CHINESE MEDICINE COMPANY LIMITED
+Annual Report  2025
+116
+北京同仁堂國藥有限公司
+二零二五年年報
+117
+綜合現金流量表
+CONSOLIDATED STATEMENT OF CASH FLOWS
+For the year ended 31 December 2025
+截至2025年12月31日止年度
+2025
+2024
+Notes 附註
+HK$’000 千港元
+HK$’000 千港元
+Cash flows from operating activities 經營活動所產生的現金流量
+Cash generated from/(used in) operations 經營所產生╱（所用）之現金
+27(a)
+906,645
+(108,836)
+Hong Kong profits tax paid 已付香港利得稅
+(67,695)
+(96,870)
+Overseas tax paid 已付海外稅
+(9,430)
+(11,545)
+Net cash generated from/(used in) operating activities 經營活動所產生╱（所用）的現金淨額
+829,520
+(217,251)
+Cash flows from investing activities 投資活動所產生的現金流量
+Interest received 已收利息
+44,172
+65,420
+Dividends received 已收股息
+202
+391
+(Increase)/decrease in short-term bank deposits with original maturities exceeding three months
+原期限為三個月以上之短期銀行存款（增加）╱減少
+(4,698)
+1,332,200
+Proceeds from disposal of property, plant and equipment 出售物業、廠房及設備所得款項
+27(b)
+82
+3
+Purchase of property, plant and equipment and intangible assets 購買物業、廠房及設備及無形資產
+(26,678)
+(12,527)
+Prepayments paid for purchase of property, plant and equipment and intangible assets
+購買物業、廠房及設備及無形資產的預付款項
+(14,505)
+(30,641)
+Net cash (used in)/generated from investing activities 投資活動（所用）╱所產生現金淨額
+(1,425)
+1,354,846
+Cash flows from financing activities 融資活動所產生的現金流量
+Principal elements of lease payments 租賃付款額的本金部分
+(68,082)
+(63,847)
+Capital contributions from non-controlling shareholders 來自非控股股東的資本出資
+9,000
+21,213
+Dividends paid to the Company’s shareholders 已付本公司股東的股息
+(292,985)
+(276,243)
+Dividends paid to non-controlling interests of subsidiaries 已付子公司非控股權益的股息
+(19,912)
+(29,823)
+Payment to non-controlling interests upon liquidation of a subsidiary 支付子公司清算款予非控股權益
+(933)
+—
+Interest paid 已付利息
+27(c)
+(5,660)
+(6,481)
+Repayment of borrowing 償還借貸
+27(c)
+(71)
+(119)
+Net cash used in financing activities 融資活動所用現金淨額
+(378,643)
+(355,300)
+Net increase in cash and cash equivalents 現金及現金等價物增加淨額
+449,452
+782,295
+Cash and cash equivalents at beginning of year 年初之現金及現金等價物
+1,773,074
+999,814
+Exchange losses on cash and cash equivalents 現金及現金等價物匯兌虧損
+5,321
+(9,035)
+Cash and cash equivalents at end of year 年終之現金及現金等價物
+23
+2,227,847
+1,773,074
+The above consolidated statement of cash flows should be read in conjunction with the accompanying notes.
+以上綜合現金流量表應與隨附附註一併閱讀。
+
+--- PAGE BREAK ---
+BEIJING TONG REN TANG CHINESE MEDICINE COMPANY LIMITED
+Annual Report  2025
+118
+北京同仁堂國藥有限公司
+二零二五年年報
+119
+合併財務報表附註
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+1 
+GENERAL INFORMATION
+Beijing Tong Ren Tang Chinese Medicine Company Limited (the “Company”) and its subsidiaries (together 
+the“Group”) are engaged in manufacturing, retail and wholesale of Chinese medicine products and healthcare 
+products and provision of Chinese medical consultation and treatments. The immediate holding company of 
+the Company is Tong Ren Tang Technologies Co. Ltd. (“Tong Ren Tang Technologies”) which is a joint stock 
+limited company established in the People’s Republic of China (the “PRC”) and is listed on the Main Board 
+of The Stock Exchange of Hong Kong Limited. The intermediate holding company of the Company is Beijing 
+Tong Ren Tang Company Limited, (“Tong Ren Tang Ltd.”) which is a joint stock limited company 
+incorporated in the PRC and is listed on the Shanghai Stock Exchange. The ultimate holding company of the 
+Company is China Beijing Tong Ren Tang Group Co., Ltd. (“Tong Ren Tang Holdings”) which is a company 
+incorporated in the PRC.
+The Company is a limited liability company incorporated in Hong Kong. The address of its registered office is 
+Room 1405–1409, Office Tower, Convention Plaza, 1 Harbour Road, Wanchai, Hong Kong.
+The shares of the Company were listed on GEM of the Stock Exchange starting from 7 May 2013 and were 
+transferred to be listed on the Main Board of the Stock Exchange starting from 29 May 2018.
+These consolidated financial statements have been approved for issue by the Board of Directors on 
+20 March 2026.
+2 
+BASIS OF PREPARATION
+These financial statements have been prepared in accordance with HKFRS Accounting Standards (which 
+comprise all Hong Kong Financial Reporting Standards, Hong Kong Accounting Standards (“HKASs”) and 
+Interpretations) as issued by the Hong Kong Institute of Certified Public Accountants (“HKICPA”) and the 
+Hong Kong Companies Ordinance. They have been prepared under the historical cost convention, except for 
+financial asset at fair value through other comprehensive income, which has been measured at fair value. 
+These financial statements are presented in Hong Kong dollars and all values are rounded to the nearest 
+thousand except when otherwise indicated.
+The preparation of Group’s financial statements in conformity with HKFRS Accounting Standards requires the 
+use of certain critical accounting estimates. It also requires management to exercise its judgement in the 
+process of applying the Group’s accounting policies. The areas involving a higher degree of judgement or 
+complexity, or areas where assumptions and estimates are significant to the consolidated financial 
+statements are set out in Note 4 to the consolidated financial statements.
+Basis of consolidation
+The consolidated financial statements include the financial statements of the Company and its subsidiaries 
+(collectively referred to as the “Group”) for the year ended 31 December 2025. A subsidiary is an entity 
+(including a structured entity), directly or indirectly, controlled by the Company. Control is achieved when the 
+Group is exposed, or has rights, to variable returns from its involvement with the investee and has the ability 
+to affect those returns through its power over the investee (i.e., existing rights that give the Group the current 
+ability to direct the relevant activities of the investee).
+Generally, there is a presumption that a majority of voting rights results in control. When the Company has 
+less than a majority of the voting or similar rights of an investee, the Group considers all relevant facts and 
+circumstances in assessing whether it has power over an investee, including:
+(a) 
+the contractual arrangement with the other vote holders of the investee; 
+(b) 
+rights arising from other contractual arrangements; and
+(c) 
+the Group’s voting rights and potential voting rights.
+The financial statements of the subsidiaries are prepared for the same reporting period as the Company, 
+using consistent accounting policies. The results of subsidiaries are consolidated from the date on which the 
+Group obtains control, and continue to be consolidated until the date that such control ceases.
+Profit or loss and each component of other comprehensive income are attributed to the owners of the parent 
+of the Group and to the non-controlling interests, even if this results in the non-controlling interests having a 
+deficit balance. All intra-group assets and liabilities, equity, income, expenses and cash flows relating to 
+transactions between members of the Group are eliminated in full on consolidation. 
+1 
+一般資料
+北京同仁堂國藥有限公司（「本公司」）及其附屬公司（統稱「本集團」）從事中藥產品
+和保健品的生產、零售及批發並提供中醫診療。本公司直接控股公司北京同仁堂
+科技發展股份有限公司（「同仁堂科技」）為於中華人民共和國（「中國」）成立的股份
+有限公司，於香港聯合交易所有限公司主板上市。本公司中間控股公司北京同仁
+堂股份有限公司（「同仁堂股份」）為於中國成立的股份有限公司，於上海證券交易
+所上市。本公司最終控股公司中國北京同仁堂（集團）有限責任公司（「同仁堂集團
+公司」）為於中國註冊成立的公司。
+本公司為在香港註冊成立的有限公司，註冊辦事處地址為香港灣仔港灣道1號會
+展廣場辦公大樓1405–1409室。
+本公司股份於2013年5月7日在聯交所GEM上市，並於2018年5月29日轉至於聯交
+所主板上市。
+該等合併財務報表已於2026年3月20日獲董事會批准刊發。
+2 
+編製基準
+該等財務報表乃根據香港會計師公會頒佈之香港財務報告準則會計準則（包括所
+有香港財務報告準則、香港會計準則詮釋）及香港公司條例編製。其乃按歷史成本
+慣例編製，惟以公允價值計量且其變動計入其他綜合收益的金融資產按公允價值
+計量除外。該等財務報表均以港元呈列，除另有指明外，所有金額均調整至最接
+近千元。
+編製符合香港財務報告準則會計準則的集團財務報表需採用若干關鍵會計估計。
+此亦需管理人員在應用本集團的會計政策時行使判斷。涉及高度判斷或複雜性的
+範疇，或涉及對合併財務報表屬重大假設及估計的範疇載於合併財務報表附註4。
+合併基準
+合併財務報表包括本公司及其附屬公司截至2025年12月31日止年度之財務報表。
+附屬公司指受本公司直接或間接控制的實體（包括結構性實體）。倘本集團透過參
+與投資對象業務的浮動回報承擔風險或享有權利，並有能力透過對投資對象的權
+力（即賦予本集團現有能力指示投資對象相關活動的既存權利）影響該等回報時，
+即取得控制權。
+於一般情況下，均存在多數投票權形成控制權的推定。倘本公司擁有少於投資對
+象的大多數投票權或類似權利，則本集團於評估其是否擁有對投資對象的權力時
+會考慮一切相關事實及情況，包括：
+(a) 
+與投資對象其他投票權持有人的合約安排；
+(b) 
+其他合約安排所產生的權利；及
+(c) 
+本集團的投票權及潛在投票權。
+附屬公司的財務報表按與本公司一致的會計政策且以相同的報告期間編製。附屬
+公司的業績自本集團取得控制權之日起合併入賬，並持續合併入賬至該控制權終
+止之日為止。
+損益及其他綜合收益之各組成部分乃歸屬於本集團母公司擁有人及非控股權益，
+即使此將導致非控股權益錄得虧損結餘。有關本集團成員公司間交易之所有集團
+內資產及負債、權益、收入、開支及現金流量在合併入賬時悉數對銷。
+
+--- PAGE BREAK ---

@@ -1,0 +1,240 @@
+BEIJING TONG REN TANG CHINESE MEDICINE COMPANY LIMITED
+Annual Report  2025
+118
+北京同仁堂國藥有限公司
+二零二五年年報
+119
+合併財務報表附註
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+1 
+GENERAL INFORMATION
+Beijing Tong Ren Tang Chinese Medicine Company Limited (the “Company”) and its subsidiaries (together 
+the“Group”) are engaged in manufacturing, retail and wholesale of Chinese medicine products and healthcare 
+products and provision of Chinese medical consultation and treatments. The immediate holding company of 
+the Company is Tong Ren Tang Technologies Co. Ltd. (“Tong Ren Tang Technologies”) which is a joint stock 
+limited company established in the People’s Republic of China (the “PRC”) and is listed on the Main Board 
+of The Stock Exchange of Hong Kong Limited. The intermediate holding company of the Company is Beijing 
+Tong Ren Tang Company Limited, (“Tong Ren Tang Ltd.”) which is a joint stock limited company 
+incorporated in the PRC and is listed on the Shanghai Stock Exchange. The ultimate holding company of the 
+Company is China Beijing Tong Ren Tang Group Co., Ltd. (“Tong Ren Tang Holdings”) which is a company 
+incorporated in the PRC.
+The Company is a limited liability company incorporated in Hong Kong. The address of its registered office is 
+Room 1405–1409, Office Tower, Convention Plaza, 1 Harbour Road, Wanchai, Hong Kong.
+The shares of the Company were listed on GEM of the Stock Exchange starting from 7 May 2013 and were 
+transferred to be listed on the Main Board of the Stock Exchange starting from 29 May 2018.
+These consolidated financial statements have been approved for issue by the Board of Directors on 
+20 March 2026.
+2 
+BASIS OF PREPARATION
+These financial statements have been prepared in accordance with HKFRS Accounting Standards (which 
+comprise all Hong Kong Financial Reporting Standards, Hong Kong Accounting Standards (“HKASs”) and 
+Interpretations) as issued by the Hong Kong Institute of Certified Public Accountants (“HKICPA”) and the 
+Hong Kong Companies Ordinance. They have been prepared under the historical cost convention, except for 
+financial asset at fair value through other comprehensive income, which has been measured at fair value. 
+These financial statements are presented in Hong Kong dollars and all values are rounded to the nearest 
+thousand except when otherwise indicated.
+The preparation of Group’s financial statements in conformity with HKFRS Accounting Standards requires the 
+use of certain critical accounting estimates. It also requires management to exercise its judgement in the 
+process of applying the Group’s accounting policies. The areas involving a higher degree of judgement or 
+complexity, or areas where assumptions and estimates are significant to the consolidated financial 
+statements are set out in Note 4 to the consolidated financial statements.
+Basis of consolidation
+The consolidated financial statements include the financial statements of the Company and its subsidiaries 
+(collectively referred to as the “Group”) for the year ended 31 December 2025. A subsidiary is an entity 
+(including a structured entity), directly or indirectly, controlled by the Company. Control is achieved when the 
+Group is exposed, or has rights, to variable returns from its involvement with the investee and has the ability 
+to affect those returns through its power over the investee (i.e., existing rights that give the Group the current 
+ability to direct the relevant activities of the investee).
+Generally, there is a presumption that a majority of voting rights results in control. When the Company has 
+less than a majority of the voting or similar rights of an investee, the Group considers all relevant facts and 
+circumstances in assessing whether it has power over an investee, including:
+(a) 
+the contractual arrangement with the other vote holders of the investee; 
+(b) 
+rights arising from other contractual arrangements; and
+(c) 
+the Group’s voting rights and potential voting rights.
+The financial statements of the subsidiaries are prepared for the same reporting period as the Company, 
+using consistent accounting policies. The results of subsidiaries are consolidated from the date on which the 
+Group obtains control, and continue to be consolidated until the date that such control ceases.
+Profit or loss and each component of other comprehensive income are attributed to the owners of the parent 
+of the Group and to the non-controlling interests, even if this results in the non-controlling interests having a 
+deficit balance. All intra-group assets and liabilities, equity, income, expenses and cash flows relating to 
+transactions between members of the Group are eliminated in full on consolidation. 
+1 
+一般資料
+北京同仁堂國藥有限公司（「本公司」）及其附屬公司（統稱「本集團」）從事中藥產品
+和保健品的生產、零售及批發並提供中醫診療。本公司直接控股公司北京同仁堂
+科技發展股份有限公司（「同仁堂科技」）為於中華人民共和國（「中國」）成立的股份
+有限公司，於香港聯合交易所有限公司主板上市。本公司中間控股公司北京同仁
+堂股份有限公司（「同仁堂股份」）為於中國成立的股份有限公司，於上海證券交易
+所上市。本公司最終控股公司中國北京同仁堂（集團）有限責任公司（「同仁堂集團
+公司」）為於中國註冊成立的公司。
+本公司為在香港註冊成立的有限公司，註冊辦事處地址為香港灣仔港灣道1號會
+展廣場辦公大樓1405–1409室。
+本公司股份於2013年5月7日在聯交所GEM上市，並於2018年5月29日轉至於聯交
+所主板上市。
+該等合併財務報表已於2026年3月20日獲董事會批准刊發。
+2 
+編製基準
+該等財務報表乃根據香港會計師公會頒佈之香港財務報告準則會計準則（包括所
+有香港財務報告準則、香港會計準則詮釋）及香港公司條例編製。其乃按歷史成本
+慣例編製，惟以公允價值計量且其變動計入其他綜合收益的金融資產按公允價值
+計量除外。該等財務報表均以港元呈列，除另有指明外，所有金額均調整至最接
+近千元。
+編製符合香港財務報告準則會計準則的集團財務報表需採用若干關鍵會計估計。
+此亦需管理人員在應用本集團的會計政策時行使判斷。涉及高度判斷或複雜性的
+範疇，或涉及對合併財務報表屬重大假設及估計的範疇載於合併財務報表附註4。
+合併基準
+合併財務報表包括本公司及其附屬公司截至2025年12月31日止年度之財務報表。
+附屬公司指受本公司直接或間接控制的實體（包括結構性實體）。倘本集團透過參
+與投資對象業務的浮動回報承擔風險或享有權利，並有能力透過對投資對象的權
+力（即賦予本集團現有能力指示投資對象相關活動的既存權利）影響該等回報時，
+即取得控制權。
+於一般情況下，均存在多數投票權形成控制權的推定。倘本公司擁有少於投資對
+象的大多數投票權或類似權利，則本集團於評估其是否擁有對投資對象的權力時
+會考慮一切相關事實及情況，包括：
+(a) 
+與投資對象其他投票權持有人的合約安排；
+(b) 
+其他合約安排所產生的權利；及
+(c) 
+本集團的投票權及潛在投票權。
+附屬公司的財務報表按與本公司一致的會計政策且以相同的報告期間編製。附屬
+公司的業績自本集團取得控制權之日起合併入賬，並持續合併入賬至該控制權終
+止之日為止。
+損益及其他綜合收益之各組成部分乃歸屬於本集團母公司擁有人及非控股權益，
+即使此將導致非控股權益錄得虧損結餘。有關本集團成員公司間交易之所有集團
+內資產及負債、權益、收入、開支及現金流量在合併入賬時悉數對銷。
+
+BEIJING TONG REN TANG CHINESE MEDICINE COMPANY LIMITED
+Annual Report  2025
+120
+北京同仁堂國藥有限公司
+二零二五年年報
+121
+合併財務報表附註（續）
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+2 
+BASIS OF PREPARATION (CONTINUED)
+Basis of consolidation (Continued)
+The Group reassesses whether or not it controls an investee if facts and circumstances indicate that there 
+are changes to one or more of the three elements of control described above. A change in the ownership 
+interest of a subsidiary, without a loss of control, is accounted for as an equity transaction.
+If the Group loses control over a subsidiary, it derecognises the related assets (including goodwill), liabilities, 
+any non-controlling interest and the exchange fluctuation reserve; and recognises the fair value of any 
+investment retained and any resulting surplus or deficit in profit or loss. The Group’s share of components 
+previously recognised in other comprehensive income is reclassified to profit or loss or retained profits, as 
+appropriate, on the same basis as would be required if the Group had directly disposed of the related assets 
+or liabilities.
+(a) 
+Changes in accounting policies and disclosures
+The Group has adopted amendments to HKAS 21 Lack of Exchangeability for the first time for the 
+current year’s financial statements. The Group has not early adopted any other standard or 
+amendment that has been issued but is not yet effective.
+Amendments to HKAS 21 specify how an entity shall assess whether a currency is exchangeable into 
+another currency and how it shall estimate a spot exchange rate at a measurement date when 
+exchangeability is lacking. The amendments require disclosures of information that enable users of 
+financial statements to understand the impact of a currency not being exchangeable. As the currencies 
+that the Group had transacted in and the functional currencies of overseas subsidiaries, branches, joint 
+ventures and associates for translation into the Group’s presentation currency were exchangeable, the 
+amendments did not have any impact on the Group’s financial statements.
+In addition, the HKICPA has issued amendments to Illustrative Examples on HKFRS 7, HKFRS 18, 
+HKAS 1, HKAS 8, HKAS 36 and HKAS 37 Disclosures about Uncertainties in the Financial Statements, 
+which added illustrative examples in the corresponding HKFRS Accounting Standards. These examples 
+reflect existing requirements in the corresponding HKFRS Accounting Standards to report the effects of 
+uncertainties in the financial statements using climate-related examples. Therefore, the amendments do 
+not have an effective date or transitional provisions.
+(b) 
+Issued but not yet effective HKFRS Accounting Standards
+The Group has not applied the following new and amended HKFRS Accounting standards, that have 
+been issued but are not yet effective, in these financial statements. The Group intends to apply these 
+new and amended HKFRS Accounting standards, if applicable, when they become effective.
+HKFRS 18
+Presentation and Disclosure in Financial Statements(2)
+HKFRS 19 and its amendments
+Subsidiaries without Public Accountability: Disclosures(2)
+Amendments to HKFRS 9 and 
+HKFRS 7
+Amendments to the Classification and Measurement of 
+Financial Instruments(1)
+Amendments to HKFRS 9 and 
+HKFRS 7
+Contracts Referencing Nature-dependent Electricity(1)
+Amendments to HKFRS 10 and 
+HKAS 28
+Sale or Contribution of Assets between an Investor and its 
+Associate or Joint Venture(3)
+Amendments to HKAS 21
+Translation to a Hyperinflationary Presentation Currency(2)
+Annual Improvements to 
+HKFRS Accounting Standards — 
+Volume 11
+Amendments to HKFRS 1, HKFRS 7, HKFRS 9, HKFRS 10 
+and HKAS 7(1)
+(1) 
+Effective for annual periods beginning on or after 1 January 2026
+(2) 
+Effective for annual/reporting periods beginning on or after 1 January 2027
+(3) 
+No mandatory effective date yet determined but available for adoption
+2 
+編製基準（續）
+合併基準（續）
+倘事實及情況表明上文所列三項控制因素其中一項或多項改變，則本集團會重新
+評估其是否仍然控制被投資對象。附屬公司的擁有權權益變動（不涉及失去控制
+權）按權益交易方式入賬。
+倘本集團失去對附屬公司之控制權，則其終止確認相關資產（包括商譽）、負債、
+任何非控股權益及外匯波動儲備，並於損益中確認任何保留投資的公允價值及由
+此產生的任何盈餘或虧絀。本集團應佔先前於其他綜合收益確認的部分重新分類
+至損益或保留盈利（如適用），並採用如本集團已直接出售相關資產或負債所規定
+的相同基準。
+(a) 
+會計政策及披露的變動
+本集團已於本年度財務報表首次採納香港會計準則第21號「缺乏可兌換性」
+的修訂。本集團未提前採納任何其他已頒佈但尚未生效的準則或修訂。
+香港會計準則第21號的修訂訂明一間實體如何評估貨幣是否可兌換為另一
+種貨幣及於缺乏可兌換性的情況下，其於計量日期如何估計即期匯率。該
+等修訂要求披露資料，使得財務報表使用者可了解貨幣不可兌換的影響。
+由於集團進行交易的貨幣以及海外附屬公司、分公司、合營企業和聯營公
+司用於折算為集團列報貨幣的功能貨幣均可兌換，因此這些修改對集團的
+財務報表沒有任何影響。
+此外，香港會計師公會已發佈修訂《香港財務報告準則第7號、第18號、香
+港會計準則第1號、第8號、第36號及第37號「財務報表不確定性披露」示
+例》，在相應的香港財務報告準則中新增了示例。這些示例反映了相應香港
+財務報告準則中關於使用氣候相關示例報告財務報表不確定性影響的現有
+要求。因此，這些修訂沒有生效日期或過渡性規定。
+(b) 已頒佈但尚未生效的香港財務報告準則會計準則
+本集團並未於該等財務報表內應用下列已頒佈但尚未生效之新訂及經修訂
+準則。本集團擬於該等新訂及經修訂準則生效時予以應用（如適用）。
+香港財務報告準則第18號
+財務報表之呈列及披露(2)
+香港財務報告準則第19號
+無公開問責制之附屬公司：
+披露項目(2)
+香港財務報告準則第9號及
+香港財務報告準則第7號之修訂
+金融工具之分類與計量之修訂(1)
+香港財務報告準則第9號及
+香港財務報告準則第7號之修訂
+涉及依賴自然的電力的合約(1)
+香港財務報告準則第10號及
+香港會計準則第28號之修訂
+投資者與其聯營公司或合營
+企業之間之資產出售或注資(3)
+香港會計準則第21號之修訂
+換算為惡性通貨膨脹呈列貨幣(2)
+香港財務報告準則會計準則之
+年度改進 — 第11卷
+香港財務報告準則第1號、香港
+財務報告準則第7號、香港財
+務報告準則第9號、香港財務
+報告準則第10號及香港會計
+準則第7號之修訂(1)
+(1) 
+於2026年1月1日或以後開始的年度期間生效
+(2) 
+於2027年1月1日或以後開始的年度╱報告期間生效
+(3) 
+並無待定強制生效日期但可供採納
+

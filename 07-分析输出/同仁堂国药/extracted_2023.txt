@@ -1,0 +1,60 @@
+
+=== PL ===
+revenue: er 2023 | 2023 | 2022 | Note 附註 | HK$’000 千港元 | HK$’000 千港元 | Revenue 收入 | 5 | 1,524,945 | 1,731,095 | Cost of sales 銷售成本 | 7 | (477,702) | (580,955) | Gross profit 毛利 | 1,047,243 | 1,150,140 |   Distribution and selling expenses 分銷及銷售開支 | 7 | (231,261) | (187,224) |   General and administrative expen
+
+cost:  千港元 | HK$’000 千港元 | Revenue 收入 | 5 | 1,524,945 | 1,731,095 | Cost of sales 銷售成本 | 7 | (477,702) | (580,955) | Gross profit 毛利 | 1,047,243 | 1,150,140 |   Distribution and selling expenses 分銷及銷售開支 | 7 | (231,261) | (187,224) |   General and administrative expenses 一般及行政開支 | 7 | (179,029) | (154,457) |   Net i
+
+gross_profit: ,731,095 | Cost of sales 銷售成本 | 7 | (477,702) | (580,955) | Gross profit 毛利 | 1,047,243 | 1,150,140 |   Distribution and selling expenses 分銷及銷售開支 | 7 | (231,261) | (187,224) |   General and administrative expenses 一般及行政開支 | 7 | (179,029) | (154,457) |   Net impairment losses on financial assets 金
+
+dist_selling: ) | (580,955) | Gross profit 毛利 | 1,047,243 | 1,150,140 |   Distribution and selling expenses 分銷及銷售開支 | 7 | (231,261) | (187,224) |   General and administrative expenses 一般及行政開支 | 7 | (179,029) | (154,457) |   Net impairment losses on financial assets 金融資產之淨減值損失 | 7 | (21,185) | (6,479) |   Other gains, net 淨其他利得 | 6 | 
+
+admin:  selling expenses 分銷及銷售開支 | 7 | (231,261) | (187,224) |   General and administrative expenses 一般及行政開支 | 7 | (179,029) | (154,457) |   Net impairment losses on financial assets 金融資產之淨減值損失 | 7 | (21,185) | (6,479) |   Other gains, net 淨其他利得 | 6 | 8,381 | 9,595 | Operating profit 經營利潤 | 624,149 | 811,575 |   Finance income 財務收益 | 10 | 7
+
+impairment: strative expenses 一般及行政開支 | 7 | (179,029) | (154,457) |   Net impairment losses on financial assets 金融資產之淨減值損失 | 7 | (21,185) | (6,479) |   Other gains, net 淨其他利得 | 6 | 8,381 | 9,595 | Operating profit 經營利潤 | 624,149 | 811,575 |   Finance income 財務收益 | 10 | 72,878 | 20,588 |   Finance costs 財務支出 | 10 | (5,978) | (4,661) |   Finance inc
+
+other_gains:  financial assets 金融資產之淨減值損失 | 7 | (21,185) | (6,479) |   Other gains, net 淨其他利得 | 6 | 8,381 | 9,595 | Operating profit 經營利潤 | 624,149 | 811,575 |   Finance income 財務收益 | 10 | 72,878 | 20,588 |   Finance costs 財務支出 | 10 | (5,978) | (4,661) |   Finance income, net 淨財務收益 | 66,900 | 15,927 |   Share of losses of
+
+finance_income: 381 | 9,595 | Operating profit 經營利潤 | 624,149 | 811,575 |   Finance income 財務收益 | 10 | 72,878 | 20,588 |   Finance costs 財務支出 | 10 | (5,978) | (4,661) |   Finance income, net 淨財務收益 | 66,900 | 15,927 |   Share of losses of investments accounted for using the equity method 應佔按權益法入賬之投資虧損 | 11 | (3,259)
+
+finance_costs:  | 811,575 |   Finance income 財務收益 | 10 | 72,878 | 20,588 |   Finance costs 財務支出 | 10 | (5,978) | (4,661) |   Finance income, net 淨財務收益 | 66,900 | 15,927 |   Share of losses of investments accounted for using the equity method 應佔按權益法入賬之投資虧損 | 11 | (3,259) | (1,540) | Profit before income tax 除所得稅
+
+pretax: he equity method 應佔按權益法入賬之投資虧損 | 11 | (3,259) | (1,540) | Profit before income tax 除所得稅前利潤 | 687,790 | 825,962 |   Income tax expense 所得稅開支 | 13 | (97,203) | (134,669) | Profit for the year 年度利潤 | 590,587 | 691,293 | Profit attributable to: 以下人士應佔利潤： |   Owners of the Company 本公司擁有人 | 540,393 | 645,875 |   No
+
+tax: rofit before income tax 除所得稅前利潤 | 687,790 | 825,962 |   Income tax expense 所得稅開支 | 13 | (97,203) | (134,669) | Profit for the year 年度利潤 | 590,587 | 691,293 | Profit attributable to: 以下人士應佔利潤： |   Owners of the Company 本公司擁有人 | 540,393 | 645,875 |   Non-controlling interests 非控股權益 | 12 | 50,194 | 45,41
+
+net_profit:  |   Income tax expense 所得稅開支 | 13 | (97,203) | (134,669) | Profit for the year 年度利潤 | 590,587 | 691,293 | Profit attributable to: 以下人士應佔利潤： |   Owners of the Company 本公司擁有人 | 540,393 | 645,875 |   Non-controlling interests 非控股權益 | 12 | 50,194 | 45,418 | 590,587 | 691,293 | Earnings per share attributabl
+
+attrib_owners: 0,587 | 691,293 | Profit attributable to: 以下人士應佔利潤： |   Owners of the Company 本公司擁有人 | 540,393 | 645,875 |   Non-controlling interests 非控股權益 | 12 | 50,194 | 45,418 | 590,587 | 691,293 | Earnings per share attributable to owners of the Company for the year (expressed in HK$ per share)  | 年內本公司擁有人應佔每股盈利（以
+
+eps: ressed in HK$ per share)  | 年內本公司擁有人應佔每股盈利（以每股港元列示） | Basic and diluted earnings per share 每股基本及攤薄盈利 | 14 | 0.65 | 0.77 | The above consolidated income statement should be read in conjunction with the accompanying notes. | 以上綜合利潤表應與隨附附註一併閱讀。 |  |  | ==============================================
+
+
+=== BS ===
+ppe:  千港元 | Assets 資產 |   |   | Non-current assets 非流動資產 |   |   |   | Property, plant and equipment 物業、廠房及設備 | 17 | 213,816 | 206,681 | Right-of-use assets 使用權資產 | 16 | 211,810 | 186,669 | Intangible assets 無形資產 | 18 | 56,387 | 59,706 | Investments accounted for using the equity method 按權益法入賬之投資 | 11 | 51,968 | 52,996 | Financial as
+
+inventories: 37,122 | 14,814 | 590,123 | 542,208 | Current assets 流動資產 | Inventories 存貨 | 21 | 1,011,649 | 469,784 | Trade receivables and other current assets 貿易應收款項及其他流動資產 | 22 | 453,980 | 969,324 | Short-term bank deposits 短期銀行存款 | 23 | 1,378,879 | 252,997 | Cash and cash equivalents 現金及現金等價物 | 23 | 999,814 | 1,9
+
+trade_recv: t assets 流動資產 | Inventories 存貨 | 21 | 1,011,649 | 469,784 | Trade receivables and other current assets 貿易應收款項及其他流動資產 | 22 | 453,980 | 969,324 | Short-term bank deposits 短期銀行存款 | 23 | 1,378,879 | 252,997 | Cash and cash equivalents 現金及現金等價物 | 23 | 999,814 | 1,990,966 | 3,844,322 | 3,683,071 | Total assets 總資產 | 4,434,445 | 4,225,279 | 
+
+short_term_deposits: r current assets 貿易應收款項及其他流動資產 | 22 | 453,980 | 969,324 | Short-term bank deposits 短期銀行存款 | 23 | 1,378,879 | 252,997 | Cash and cash equivalents 現金及現金等價物 | 23 | 999,814 | 1,990,966 | 3,844,322 | 3,683,071 | Total assets 總資產 | 4,434,445 | 4,225,279 | Equity and liabilities 權益及負債 | Equity attributable to owners
+
+cash: rt-term bank deposits 短期銀行存款 | 23 | 1,378,879 | 252,997 | Cash and cash equivalents 現金及現金等價物 | 23 | 999,814 | 1,990,966 | 3,844,322 | 3,683,071 | Total assets 總資產 | 4,434,445 | 4,225,279 | Equity and liabilities 權益及負債 | Equity attributable to owners of the Company 本公司擁有人應佔權益 | Share capital 股本 | 24 | 938,789 | 938,789 | 
+
+total_assets: 現金及現金等價物 | 23 | 999,814 | 1,990,966 | 3,844,322 | 3,683,071 | Total assets 總資產 | 4,434,445 | 4,225,279 | Equity and liabilities 權益及負債 | Equity attributable to owners of the Company 本公司擁有人應佔權益 | Share capital 股本 | 24 | 938,789 | 938,789 | Reserves 儲備 | 25 | — Other reserves 其他儲備 | (43,189) | (41,066) | — R
+
+total_liabilities: iabilities 當期所得稅負債 | 28,090 | 140,811 | 329,918 | 418,574 | Total liabilities 總負債 | 413,755 | 486,486 | Total equity and liabilities 權益及負債總額 | 4,434,445 | 4,225,279 | The consolidated financial statements on pages 158 to 271 were approved by the Board of Directors on 14 M |  | ===================
+
+total_equity: on-controlling interests 非控股權益 | 12 | 154,177 | 134,307 | Total equity 權益總額 | 4,020,690 | 3,738,793 | Liabilities 負債 | Non-current liabilities 非流動負債 | Borrowings 借貸 | 26 | 166 | 333 | Lease liabilities 租賃負債 | 75,227 | 60,401 | Deferred income tax liabilities, net 淨遞延所得稅負債 | 20 | 8,444 | 7,178 | 83,837 | 67,9
+
+share_capital:  attributable to owners of the Company 本公司擁有人應佔權益 | Share capital 股本 | 24 | 938,789 | 938,789 | Reserves 儲備 | 25 | — Other reserves 其他儲備 | (43,189) | (41,066) | — Retained earnings 保留收益 | 2,970,913 | 2,706,763 | 3,866,513 | 3,604,486 | Non-controlling interests 非控股權益 | 12 | 154,177 | 134,307 | Total equ
+
+retained_earnings: s 儲備 | 25 | — Other reserves 其他儲備 | (43,189) | (41,066) | — Retained earnings 保留收益 | 2,970,913 | 2,706,763 | 3,866,513 | 3,604,486 | Non-controlling interests 非控股權益 | 12 | 154,177 | 134,307 | Total equity 權益總額 | 4,020,690 | 3,738,793 | Liabilities 負債 | Non-current liabilities 非流動負債 | Borrowings 借貸 | 26 | 166 | 333 | 
+
+
+=== CF ===
+operating_cf: NOT FOUND
+
+capex: 量且其變動計入其他綜合收益的金融資產 | 19 | 7,833 | 9,618 | Prepayments for purchase of property, plant and equipment and intangible assets  | 購買物業、廠房及設備以及無形資產的預付款 | 11,187 | 11,724 | Deferred income tax assets, net 淨遞延所得稅資產 | 20 | 37,122 | 14,814 | 590,123 | 542,208 | Current assets 流動資產 | Inventories 存貨 | 21 | 1,011,649 | 469,784 | Trade receivables and other current assets 貿易應收款項及其他流動資產 | 22 | 453,980 | 969,324 
+
+dividends: lling interests 與非控制權益進行的交易 | – | – | – | – | – | – | – | 191 | 191 | Dividends paid 已付股息 | – | – | – | – | – | (443,663) | (443,663) | (30,617) | (474,280) | Total transactions with owners in their capacity as owners 與權益所有者以其所有者的身份進行的交易的總額 | – | – | – | – | – | (443,663) | (443,663) | (30,426) | (474,089) | At 31 December 2022 於2022年12月31日 | 938,789 | (13,124) | (9,609) | 6,229 | (24,562) | 2,706
+

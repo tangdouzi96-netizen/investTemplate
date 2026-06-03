@@ -1,0 +1,1945 @@
+
+============================================================
+PDF p83
+============================================================
+164
+165
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+INDEPENDENT AUDITOR’S REPORT
+獨立核數師報告
+To the Members of Beijing Tong Ren Tang Chinese Medicine Company Limited
+(incorporated in Hong Kong with limited liability)
+OPINION
+What we have audited
+The consolidated financial statements of Beijing Tong Ren Tang Chinese Medicine Company Limited (the “Company”) and 
+its subsidiaries (the “Group”), which are set out on pages 172 to 281, comprise:
+• 
+the consolidated balance sheet as at 31 December 2022;
+• 
+the consolidated income statement for the year then ended;
+• 
+the consolidated statement of comprehensive income for the year then ended;
+• 
+the consolidated statement of changes in equity for the year then ended;
+• 
+the consolidated statement of cash flows for the year then ended; and
+• 
+the notes to the consolidated financial statements, which include significant accounting policies and other 
+explanatory information.
+Our opinion
+In our opinion, the consolidated financial statements give a true and fair view of the consolidated financial position of the 
+Group as at 31 December 2022, and of its consolidated financial performance and its consolidated cash flows for the year 
+then ended in accordance with Hong Kong Financial Reporting Standards (“HKFRSs”) issued by the Hong Kong Institute 
+of Certified Public Accountants (“HKICPA”) and have been properly prepared in compliance with the Hong Kong 
+Companies Ordinance.
+BASIS FOR OPINION
+We conducted our audit in accordance with Hong Kong Standards on Auditing (“HKSAs”) issued by the HKICPA. Our 
+responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the 
+Consolidated Financial Statements section of our report.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Independence
+We are independent of the Group in accordance with the HKICPA’s Code of Ethics for P
+
+============================================================
+PDF p84
+============================================================
+166
+167
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+INDEPENDENT AUDITOR’S REPORT
+獨立核數師報告
+其他信息
+貴公司董事須對其他信息負責。其他信息包括年報內的所有信息，但不包括綜合財務報表
+及我們的核數師報告。
+我們對綜合財務報表的意見並不涵蓋其他信息，我們亦不對該等其他信息發表任何形式的
+鑒證結論。
+結合我們對綜合財務報表的審計，我們的責任是閱讀其他信息，在此過程中，考慮其他信
+息是否與綜合財務報表或我們在審計過程中所了解的情況存在重大抵觸或者似乎存在重
+大錯誤陳述的情況。
+基於我們已執行的工作，如果我們認為其他信息存在重大錯誤陳述，我們需要報告該事實。
+在這方面，我們沒有任何報告。
+Key Audit Matter
+How our audit addressed the Key Audit Matter
+關鍵審計事項
+我們的審計如何處理關鍵審計事項
+Revenue recognition — sales of products
+Refer to notes 2.(v)(i) and 5 to the Group’s 
+consolidated financial statements. Revenue 
+from sales of goods amounted to HK$1,682 
+million for the year ended 31 December 2022.
+Revenue from sales of healthcare products and 
+Chinese medicine to wholesalers and retailers is 
+recognised when the customers takes 
+possession of and accepts the Group’s 
+products, which generally occurs when the 
+products are delivered to the location 
+designated by the wholesalers or to the 
+customers at retail shop.
+We focused on this area due to the huge volume 
+of revenue transactions generated from sales of 
+products to a large number of customers, 
+including retailers and wholesalers and the overall 
+magnitude of revenue to the consolidated 
+financial statements.
+We understood, evaluated and tested, on a sample basis, 
+management’s relevant controls in respect of the Group’s retail 
+sales and wholesales transactions from contract approval, goods 
+delivery, recording of sales to cash receipts. In addition, we tested 
+the general control environment of the information technology 
+systems and the selected automatic controls that were related to 
+retail sales.
+Furthermore, we conducted testing of revenue, on a sample basis, 
+by examining the relevant supporting documents, including but not 
+limited to sales orders, invoices, goods delivery notes and cash 
+receipts.
+Obtained independent confirmations from a selection of wholesalers 
+to confirm the Group’s sales transaction amounts to the
+
+============================================================
+PDF p85
+============================================================
+168
+169
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+INDEPENDENT AUDITOR’S REPORT
+獨立核數師報告
+董事及審計委員會就綜合財務報表須承擔的責任
+貴公司董事須負責根據香港會計師公會頒布的《香港財務報告準則》及香港《公司條例》擬
+備真實而中肯的綜合財務報表，並對其認為為使綜合財務報表的擬備不存在由於欺詐或錯
+誤而導致的重大錯誤陳述所需的內部控制負責。
+在擬備綜合財務報表時，董事負責評估 貴集團持續經營的能力，並在適用情況下披露與
+持續經營有關的事項，以及使用持續經營為會計基礎，除非董事有意將 貴集團清盤或停
+止經營，或別無其他實際的替代方案。
+審計委員會須負責監督 貴集團的財務報告過程。
+核數師就審計綜合財務報表承擔的責任
+我們的目標，是對綜合財務報表整體是否不存在由於欺詐或錯誤而導致的重大錯誤陳述取
+得合理保證，並出具包括我們意見的核數師報告。我們僅按照香港《公司條例》第405 條
+向 閣下（作為整體）報告我們的意見，除此之外本報告別無其他目的。我們不會就本報告
+的內容向任何其他人士負上或承擔任何責任。合理保證是高水平的保證，但不能保證按照
+《香港審計準則》進行的審計，在某一重大錯誤陳述存在時總能發現。錯誤陳述可以由欺詐
+或錯誤引起，如果合理預期它們單獨或匯總起來可能影響綜合財務報表使用者依賴綜合財
+務報表所作出的經濟決定，則有關的錯誤陳述可被視作重大。
+在根據《香港審計準則》進行審計的過程中，我們運用了專業判斷，保持了專業懷疑態度。
+我們亦：
+• 
+識別和評估由於欺詐或錯誤而導致綜合財務報表存在重大錯誤陳述的風險，設計及
+執行審計程序以應對這些風險，以及獲取充足和適當的審計憑證，作為我們意見的
+基礎。由於欺詐可能涉及串謀、偽造、蓄意遺漏、虛假陳述，或凌駕於內部控制之
+上，因此未能發現因欺詐而導致的重大錯誤陳述的風險高於未能發現因錯誤而導致
+的重大錯誤陳述的風險。
+• 
+了解與審計相關的內部控制，以設計適當的審計程序，但目的並非對 貴集團內部
+控制的有效性發表意見。
+• 
+評價董事所採用會計政策的恰當性及作出會計估計和相關披露的合理性。
+• 
+對董事採用持續經營會計基礎的恰當性作出結論。根據所獲取的審計憑證，確定是
+否存在與事項或情況有關的重大不確定性，從而可能導致對 貴集團的持續經營能
+力產生重大疑慮。如果我們認為存在重大不確定性，則有必要在核數師報告中提請
+使用者注意綜合財務報表中的相關披露。假若有關的披露不足，則我們應當發表非
+無保留意見。我們的結論是基於核數師報告日止所取得的審計憑證。然而，未來事
+項或情況可能導致 貴集團不能持續經營。
+• 
+評價綜合財務報表的整體列報方式、結構和內容，包括披露，以及綜合財務報表是
+否中肯反映交易和事項。
+• 
+就 貴集團內實體或業務活動的財務信息獲取充足、適當的審計憑證，以便對綜合
+財務報表發表意見。我們負責 貴集團審計的方向、監督和執行。我們為審計意見
+承擔全部責任。
+除其他事項外，我們與審計委員會溝通了計劃的審計範圍、時間安排、重大審計發現等，
+包括我們在審計中識別出內部控制的任何重大缺陷。
+RESPONSIBILITIES OF DIRECTORS AND THE AUDIT COMMITTEE 
+FOR THE CONSOLIDATED FINANCIAL STATEMENTS
+The directors of the Company are responsible for the preparation of the consolidated financial statements that give a true 
+and fair view in accordance with HKFRSs issued by the HKICPA and the Hong Kong Companies Ordinance, and for such 
+internal control as the directors determine is necessary to enable the preparation of consolidated financial statements that 
+are free from material misstatement, whether due to fraud or error.
+In preparing the consolidated financial statements, the directors are responsible for asse
+
+============================================================
+PDF p86
+============================================================
+170
+171
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+INDEPENDENT AUDITOR’S REPORT
+獨立核數師報告
+我們還向審計委員會提交聲明，說明我們已符合有關獨立性的相關專業道德要求，並與他
+們溝通有可能合理地被認為會影響我們獨立性的所有關係和其他事項，以及在適用的情況
+下，用以消除對獨立性產生威脅的行動或採取的防範措施。
+從與審計委員會溝通的事項中，我們確定哪些事項對本期綜合財務報表的審計最為重要，
+因而構成關鍵審計事項。我們在核數師報告中描述這些事項，除非法律法規不允許公開披
+露這些事項，或在極端罕見的情況下，如果合理預期在我們報告中溝通某事項造成的負面
+後果超過產生的公眾利益，我們決定不應在報告中溝通該事項。
+出具本獨立核數師報告的審計項目合夥人是何振宇。
+羅兵咸永道會計師事務所
+執業會計師
+香港，2023 年3 月13 日
+We also provide the Audit Committee with a statement that we have complied with relevant ethical requirements regarding 
+independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear 
+on our independence, and where applicable, actions taken to eliminate threats or safeguards applied.
+From the matters communicated with the Audit Committee, we determine those matters that were of most significance in 
+the audit of the consolidated financial statements of the current period and are therefore the key audit matters. We 
+describe these matters in our auditor’s report unless law or regulation precludes public disclosure about the matter or 
+when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the 
+adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such 
+communication.
+The engagement partner on the audit resulting in this independent auditor’s report is Ho Chun Yu.
+PricewaterhouseCoopers
+Certified Public Accountants
+Hong Kong, 13 March 2023
+
+
+============================================================
+PDF p87
+============================================================
+172
+173
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+CONSOLIDATED INCOME STATEMENT
+綜合利潤表
+截至2022年12月31日止年度
+For the year ended 31 December 2022
+2022
+2021
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Revenue 收入
+5
+1,731,095
+1,556,158
+Cost of sales 銷售成本
+7
+(580,955)
+(436,535)
+Gross profit 毛利
+1,150,140
+1,119,623
+  Distribution and selling expenses 分銷及銷售開支
+7
+(187,224)
+(186,368)
+  General and administrative expenses 一般及行政開支
+7
+(154,457)
+(155,312)
+  Net impairment losses on financial assets 金融資產之減值計提
+7
+(6,479)
+(7,522)
+  Other gains, net 淨其他利得
+6
+9,595
+8,039
+Operating profit 經營利潤
+811,575
+778,460
+  Finance income 財務收益
+10
+20,588
+4,377
+  Finance costs 財務支出
+10
+(4,661)
+(4,707)
+  Finance income/(costs), net 淨財務收益╱（支出）
+15,927
+(330)
+  Share of (losses)/profits of investments accounted for using the equity method 
+  應佔按權益法入賬之投資（虧損）╱利潤
+11
+(1,540)
+261
+Profit before income tax 除所得稅前利潤
+825,962
+778,391
+  Income tax expense 所得稅開支
+13
+(134,669)
+(126,848)
+Profit for the year 年度利潤
+691,293
+651,543
+Profit attributable to: 以下人士應佔利潤：
+  Owners of the Company 本公司擁有人
+645,875
+607,838
+  Non-controlling interests 非控股權益
+12
+45,418
+43,705
+691,293
+651,543
+Earnings per share attributable to owners of the Company for the year (expressed in HK$ per share) 
+年內本公司擁有人應佔每股盈利（以每股港元列示）
+Basic and diluted earnings per share 每股基本及攤薄盈利
+14
+0.77
+0.73
+The above consolidated income statement should be read in conjunction with the accompanying notes.
+以上綜合利潤表應與隨附附註一併閱讀。
+
+
+============================================================
+PDF p88
+============================================================
+174
+175
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+綜合全面收益表
+截至2022年12月31日止年度
+For the year ended 31 December 2022
+2022
+2021
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Profit for the year 年度利潤
+691,293
+651,543
+Other comprehensive (losses)/income: 其他綜合（虧損）╱收益：
+Item that may be reclassified to profit or loss 可能重新分類至損益的項目
+  Currency translation differences 貨幣兌換差額
+(22,070)
+(635)
+Item that will not be reclassified to profit or loss 不會重新分類至損益的項目
+  Change in fair value of financial asset at fair value through other comprehensive income 
+  以公允價值計量且其變動計入其他綜合收益的金融資產公允價值變動
+19
+4,155
+(645)
+Other comprehensive losses for the year 年度其他綜合虧損
+(17,915)
+(1,280)
+Total comprehensive income for the year 年度綜合收益總額
+673,378
+650,263
+Attributable to: 以下人士應佔：
+  Owners of the Company 本公司擁有人
+629,976
+607,857
+  Non-controlling interests 非控股權益
+12
+43,402
+42,406
+Total comprehensive income for the year 年度綜合收益總額
+673,378
+650,263
+The above consolidated statement of comprehensive income should be read in conjunction with the accompanying notes.
+以上綜合全面收益表應與隨附附註一併閱讀。
+
+
+============================================================
+PDF p89
+============================================================
+176
+177
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+CONSOLIDATED BALANCE SHEET
+綜合資產負債表
+於2022年12月31日
+As at 31 December 2022
+2022
+2021
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Assets 資產
+Non-current assets 非流動資產
+  Property, plant and equipment 物業、廠房及設備
+17
+206,681
+183,309
+  Right-of-use assets 使用權資產
+16
+186,669
+214,255
+  Intangible assets 無形資產
+18
+59,706
+60,953
+  Investments accounted for using the equity method 按權益法入賬之投資
+11
+52,996
+57,896
+  Financial asset at fair value through other comprehensive income 
+  以公允價值計量且其變動計入其他綜合收益的金融資產
+19
+9,618
+5,463
+  Prepayments for purchase of property, plant and equipment and intangible assets 
+  購買物業、廠房及設備以及無形資產的預付款
+11,724
+14,245
+  Deferred income tax assets, net 淨遞延所得稅資產
+20
+14,814
+22,050
+542,208
+558,171
+Current assets 流動資產
+  Inventories 存貨
+21
+469,784
+431,865
+  Trade receivables and other current assets 貿易應收款項及其他流動資產
+22
+969,324
+569,378
+  Short-term bank deposits 短期銀行存款
+23
+252,997
+615,264
+  Cash and cash equivalents 現金及現金等價物
+23
+1,990,966
+1,660,304
+3,683,071
+3,276,811
+Total assets 總資產
+4,225,279
+3,834,982
+Equity and liabilities 權益及負債
+Equity attributable to owners of the Company 本公司擁有人應佔權益
+  Share capital 股本
+24
+938,789
+938,789
+  Reserves 儲備
+25
+  — Other reserves 其他儲備
+(41,066)
+(25,167)
+  — Retained earnings 保留收益
+2,706,763
+2,504,551
+3,604,486
+3,418,173
+Non-controlling interests 非控股權益
+12
+134,307
+121,331
+Total equity 權益總額
+3,738,793
+3,539,504
+Liabilities 負債
+Non-current liabilities 非流動負債
+  Borrowings 借貸
+26
+333
+799
+  Lease liabilities 租賃負債
+60,401
+74,475
+  Deferred income tax liabilities, net 淨遞延所得稅負債
+20
+7,178
+7,147
+67,912
+82,421
+Current liabilities 流動負債
+  Borrowings 借貸
+26
+219
+480
+  Trade and other payables 貿易及其他應付款項
+27
+235,415
+127,550
+  Lease liabilities 租賃負債
+42,129
+52,722
+  Current income tax liabilities 當期所得稅負債
+140,811
+32,305
+418,574
+213,057
+Total liabilities 總負債
+486,486
+295,478
+Total equity and liabilities 權益及負債總額
+4,225,279
+3,834,982
+The consolidated financial statements on pages 172 to 281 were approved 
+
+============================================================
+PDF p90
+============================================================
+178
+179
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+綜合權益變動表
+截至2022年12月31日止年度
+For the year ended 31 December 2022
+Attributable to owners of the Company 本公司擁有人應佔
+Share 
+capital
+股本
+Merger 
+reserve
+合併儲備
+Other 
+reserves
+其他儲備
+Statutory 
+reserve
+法定儲備
+Exchange 
+reserve
+匯兌儲備
+Retained 
+earnings
+保留收益
+Total
+總額
+Non-
+controlling 
+interests
+非控股權益
+Total 
+equity
+權益總額
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+HK$’000
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+千港元
+At 1 January 2021 於2021年1月1日
+938,789
+(13,124)
+(6,850)
+6,229
+(5,172)
+2,097,617
+3,017,489
+112,021
+3,129,510
+Comprehensive income 綜合收益
+  Profit for the year 年度利潤
+–
+–
+–
+–
+–
+607,838
+607,838
+43,705
+651,543
+Other comprehensive (losses)/income 其他綜合（虧損）╱收益
+  Change in fair value of financial asset at fair value through other comprehensive income 
+  以公允價值計量且其變動計入其他綜合收益的金融資產公允價值變動
+–
+–
+(645)
+–
+–
+–
+(645)
+–
+(645)
+  Currency translation differences 貨幣兌換差額
+    — Group 本集團
+–
+–
+–
+–
+624
+–
+624
+(1,299)
+(675)
+    — Joint ventures and an associate 合營企業及聯營公司
+–
+–
+–
+–
+40
+–
+40
+–
+40
+Total comprehensive (losses)/income 綜合（虧損）╱收益總額
+–
+–
+(645)
+–
+664
+607,838
+607,857
+42,406
+650,263
+Transactions with owners in their capacity as owners 與權益所有者以其所有者的身份進行的交易
+Capital injections to a subsidiary 向附屬公司注資
+–
+–
+–
+–
+–
+–
+–
+738
+738
+Transactions with non-controlling interests (Note 31) 與非控制權益進行的交易（附註31）
+–
+–
+(6,269)
+–
+–
+–
+(6,269)
+(10,333)
+(16,602)
+Dividends paid 已付股息
+–
+–
+–
+–
+–
+(200,904)
+(200,904)
+(23,501)
+(224,405)
+Total transactions with owners in their capacity as owners 與權益所有者以其所有者的身份進行的交易的總額
+–
+–
+(6,269)
+–
+–
+(200,904)
+(207,173)
+(33,096)
+(240,269)
+At 31 December 2021 於2021年12月31日
+938,789
+(13,124)
+(13,764)
+6,229
+(4,508)
+2,504,551
+3,418,173
+121,331
+3,539,504
+At 1 January 2022 於2022年1月1日
+938,789
+(13,124)
+(13,764)
+6,229
+(4,508)
+2,504,551
+3,418,173
+121,331
+3,539,504
+Comprehensive income 綜合收益
+  Profit for the year 年度利潤
+–
+–
+–
+–
+–
+645,875
+645,875
+45,418
+691,293
+Other comprehens
+
+============================================================
+PDF p91
+============================================================
+180
+181
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+CONSOLIDATED STATEMENT OF CASH FLOWS
+綜合現金流量表
+截至2022年12月31日止年度
+For the year ended 31 December 2022
+2022
+2021
+Note 附註
+HK$’000 千港元
+HK$’000 千港元
+Cash flows from operating activities 經營活動所產生的現金流量
+  Cash generated from operations 經營所產生之現金
+28(a)
+566,607
+915,005
+  Income tax paid 已付所得稅
+(19,163)
+(137,835)
+Net cash generated from operating activities 經營活動所產生的現金淨額
+547,444
+777,170
+Cash flows from investing activities 投資活動所產生的現金流量
+  Interest received 已收利息
+14,561
+5,044
+  Dividends received 已收股息
+225
+180
+  Decrease/(increase) in short-term bank deposits with original maturities exceeding three months 
+  原期限為三個月以上之短期銀行存款減少╱（增加）
+362,267
+(194,167)
+  Proceeds from disposal of property, plant and equipment 出售物業、廠房及設備所得款
+28(b)
+127
+22
+  Purchase of property, plant and equipment and intangible assets 購買物業、廠房及設備及無形資產
+(36,577)
+(10,354)
+  Prepayments paid for purchase of property, plant and intangible assets 
+  購買物業、廠房及設備及無形資產的已付按金
+(1,932)
+(13,074)
+  Acquisition of an associate 收購聯營公司
+–
+(39,832)
+  Acquisition of a subsidiary, net of cash and cash equivalents acquired 收購子公司（現金及現金等價物淨額）
+(196)
+–
+  Acquisition of further interest in a subsidiary 收購子公司額外權益
+(3,063)
+(13,553)
+Net cash generated from/(used in) investing activities 投資活動所產生╱（所用）現金淨額
+335,412
+(265,734)
+Cash flows from financing activities 融資活動所產生的現金流量
+  Principal elements of lease payments 租賃付款額的本金部分
+(56,042)
+(50,496)
+  Capital injections by non-controlling interests 非控制權益注資
+–
+738
+  Dividends paid to the Company’s shareholders 已付本公司股東的股息
+(443,663)
+(200,904)
+  Dividends paid to non-controlling interests of subsidiaries 已付子公司非控股權益的股息
+(30,617)
+(23,501)
+  Interest paid 已付利息
+(4,661)
+(4,707)
+  Proceeds from borrowing 借貸所得款
+–
+387
+  Repayment of borrowing 償還借貸
+(433)
+(166)
+Net cash used in financing activities 融資活動所用現金淨額
+(535,416)
+(278,649)
+Net increase in cash and cash equivalents 現金及現金等價物增加淨額
+347,440
+232,787
+  Cash and cash equivalents at beginni
+
+============================================================
+PDF p92
+============================================================
+182
+183
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+1	
+GENERAL INFORMATION
+Beijing Tong Ren Tang Chinese Medicine Company Limited (the “Company”) and its subsidiaries (together the 
+“Group”) are engaged in manufacturing, retail and wholesale of Chinese medicine products and healthcare products 
+and provision of Chinese medical consultation and treatments. The immediate holding company of the Company is 
+Tong Ren Tang Technologies Co. Ltd. (“Tong Ren Tang Technologies”) which is a joint stock limited company 
+established in the People’s Republic of China (the “PRC”) and is listed on the Main Board of The Stock Exchange of 
+Hong Kong Limited. The intermediate holding company of the Company is Beijing Tong Ren Tang Company Limited, 
+(“Tong Ren Tang Ltd.”) which is a joint stock limited company incorporated in the PRC and is listed on the Shanghai 
+Stock Exchange. The ultimate holding company of the Company is China Beijing Tong Ren Tang Group Co., Ltd. 
+(“Tong Ren Tang Holdings”) which is a company incorporated in the PRC.
+The Company is a limited liability company incorporated in Hong Kong. The address of its registered office is Room 
+1405–1409, Office Tower, Convention Plaza, 1 Harbour Road, Wanchai, Hong Kong.
+The shares of the Company were listed on GEM of the Stock Exchange starting from 7 May 2013 and were 
+transferred to be listed on the Main Board of the Stock Exchange starting from 29 May 2018.
+These consolidated financial statements are presented in Hong Kong dollars (HK$), unless otherwise stated. These 
+consolidated financial statements have been approved for issue by the Board of Directors on 13 March 2023.
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The principal accounting policies applied in the preparation of these consolidated financial statements are set out 
+below. These policies have been consistently applied to all the years presented, unle
+
+============================================================
+PDF p93
+============================================================
+184
+185
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(a) 編製基準（續）
+(ii) 
+尚未生效的新訂準則，準則之修訂及解釋
+下列新訂準則，準則之修訂及解釋與本集團於2023 年1 月1 日或之後
+開始的會計期或較後期間強制實行，惟本集團並無提早採納。
+香港詮釋第5 號（二零二零年）財務報表之呈列 — 借款人對包含隨時
+ 要求償還條文之有期貸款之分類(2)
+香港會計準則第1 號（修訂本）有契約的非流動負債(2)
+香港會計準則第1 號（修訂本）負債分類為流動或非流動(2)
+香港財務報告準則第16 號
+ （修訂本）
+售後回租中的租賃責任(2)
+香港財務報告準則第17 號
+ （新準則）
+保險合約(1)
+香港會計準則第1 號及
+ 香港財務報告準則實務聲明
+ 第2 號（修訂本）
+會計政策披露(1)
+香港會計準則第8 號（修訂本）會計估計的定義(1)
+香港會計準則第12 號
+ （修訂本）
+與單一交易所產生之資產及負債有關
+ 的遞延所得稅(1)
+香港財務報告準則第10 號及
+ 香港會計準則第28 號
+ （修訂本）
+與合資或關聯企業間之資產出售或
+ 投入(3)
+(1) 
+於2023 年1 月1 日或以後開始的會計期間生效
+(2) 
+於2024 年1 月1 日或以後開始的會計期間生效
+(3) 
+生效日期待定
+本集團現正評估首次應用上述與本集團有關之新訂準則及修訂之潛在
+影響。目前尚無法說明該等標準、詮釋及修訂本是否會對本集團的經
+營業績和財務狀況造成重大影響。
+(b) 附屬公司
+(i) 
+合併
+附屬公司為本集團對其有控制權的實體（包括結構實體）。當本集團具
+有承擔或享有參與有關實體所得之可變回報的風險或權利，並能透過
+其在該實體的權力影響該等回報，則本集團對該實體具有控制權。附
+屬公司自控制權轉至本集團當日起合併計算，並自該控制權終止當日
+起不再合併計算。
+業務合併
+對於共同控制下的業務收購乃根據香港會計指引第5 號「共同控制合併
+的合併會計處理」以合併會計法入賬。收購法用作本集團非共同控制之
+業務合併的入賬方法。就收購附屬公司所轉讓的代價為所轉讓資產、
+被收購方前擁有者產生的負債及本集團所發行股權的公允價值。所轉
+讓的代價包括或有代價安排產生的任何資產或負債的公允價值。業務
+合併中所收購可識別資產與所承擔負債及或有負債，初步以彼等於收
+購日期的公允價值計量以及及子公司中任何現有股權的公允價值。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(a)	 Basis of preparation (Continued)
+(ii)	 New standards, amendments to standards and interpretations which are not 
+yet effective
+The following are new standard, amendments to standards and interpretations that have been published 
+and are mandatory for the Group’s accounting periods beginning on or after 1 January 2023 or later 
+periods, but have not been early adopted by the Group.
+Hong Kong Interpretation 5 (2020)
+Presentation of Financial Statements — Classification 
+  by the Borrower of a Term Loan that Contains a 
+  Repayment on Demand Clause (2)
+HKAS 1 (Amendments)
+Non-current Liabilities with Covenants (2)
+HKAS 1 (Amendments)
+Classification of Liabilities as Current or Non-current (2)
+HKFRS 16 (Amendments)
+Lease Liability in a Sale and Leaseback (2)
+HKFRS 17 (New Sta
+
+============================================================
+PDF p94
+============================================================
+186
+187
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(b) 附屬公司（續）
+(i) 
+合併（續）
+業務合併（續）
+本集團按逐項收購基準確認被收購方的任何非控股權益。屬現時所有
+權權益且賦予持有人權利於清盤時按比例享有實體資產淨值的被收購
+方非控股權益按公允價值或現時所有權權益按比例應佔被收購方可識
+別資產淨值的確認金額計量。除非香港財務報告準則要求採用其他計
+量基準，否則其他所有非控股權益部份均按收購日期的公允價值計量。
+收購相關成本在產生時支銷。
+倘業務合併分階段進行，則收購方先前所持被收購方股權於收購日期
+的賬面值按收購日期的公允價值重新計量，重新計量所產生的任何收
+益或虧損於損益確認。
+商譽按所轉撥代價、被收購方非控股權益金額及被收購方先前股權於
+收購日的公允價值超出所收購可識別資產淨值公允價值的部分計量。
+倘所轉讓代價、已確認非控股權益及計量的先前所持權益總額低於議
+價購買所收購附屬公司資產淨值之公允價值，則差額直接於合併收益
+表確認。
+集團內交易、結餘及集團及公司間交易所得未變現收益予以對銷。未
+變現虧損亦予以對銷。必要時，附屬公司之呈報數額已予以調整，以
+與本集團會計政策保持一致。
+不導致控制權變動之附屬公司所有權權益變動
+不導致失去控制權之非控股權益交易入賬列作權益交易 — 即以彼等為
+擁有人之身份與附屬公司擁有人進行交易。任何已付代價的公允價值
+與應佔所收購附屬公司資產淨值賬面值相關部分的差額於權益列賬。
+向非控股權益出售的收益或虧損亦於權益列賬。
+出售附屬公司
+倘本集團不再有控制權，則其於該實體之任何保留權益按失去控制權
+當日之公允價值重新計量，而賬面值變動則於損益確認。對於其後入
+賬列作聯營公司、合營企業或金融資產的保留權益，公允價值指初始
+賬面值。此外，先前於其他綜合收益確認與該實體有關的任何金額按
+猶如本集團已直接出售相關資產或負債的方式入賬。這可能意味著先
+前於其他綜合收益確認的金額重分類至損益。
+(ii) 
+獨立財務報表
+於附屬公司、聯營公司和合營企業的投資以成本扣除減值入賬。成本
+包括投資的直接應佔成本。本公司將來自附屬公司、聯營公司和合營
+企業的業績按已收及應收股息入賬。
+倘投資附屬公司、聯營公司和合營企業收取之股息超過附屬公司、聯
+營公司和合營企業於股息宣派期之綜合收益總額或獨立財務報表之投
+資賬面值超過綜合財務報表被投資公司資產淨值（包括商譽）之賬面值，
+則須對該等投資進行減值測試。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(b)	 Subsidiaries (Continued)
+(i)	
+Consolidation (Continued)
+Business combinations (Continued)
+The Group recognises any non-controlling interest in the acquiree on an acquisition-by-acquisition 
+basis. Non-controlling interests in the acquiree that are present ownership interests and entitle their 
+holders to a proportionate share of the entity’s net assets in the event of liquidation are measured at 
+either fair value or the present ownership interests’ proportionate share in the recognised amounts of 
+the acquiree’s identifiable net assets. All other components of non-controlling interests are measured at 
+their acquisition date fair value, unless another measurement basis is required by HKFRS.
+Acquisition-related costs are expensed as incurred.
+If the b
+
+============================================================
+PDF p95
+============================================================
+188
+189
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(c) 聯營公司
+聯營公司指本集團對其有重大影響力但並無控制權的實體，一般附帶擁有其
+20% 至50% 投票權的股權。於聯營公司的投資採用權益會計法列賬。根據權
+益法，投資初始以成本確認，於收購日期後，賬面值增加或減少，確認投資
+者應佔被投資方利潤或虧損。本集團於聯營公司的投資包括收購時識別的商
+譽。收購聯營公司的所有權權益後，聯營公司的成本與本集團應佔聯營公司
+可識別資產及負債的公允價值淨額的任何差額入賬列作商譽。
+倘於聯營公司的所有權權益減少但仍保留重大影響力，則僅須將過往按比例
+於其他綜合收益確認金額的部份，於適當情況下重新劃分至損益入賬。
+本集團應佔收購後的利潤或虧損於收益表確認，而應佔收購後的其他綜合收
+益變動在其他綜合收益確認，並相應調整投資的賬面值。本集團應佔聯營公
+司虧損等於或超過所持聯營公司權益（包括任何其他無抵押應收款項）時，本
+集團不再確認虧損，除非本集團因此產生法定或推定責任或代聯營公司支付
+款項。
+本集團於各報告日釐定有否客觀證據顯示於聯營公司的投資出現減值。倘證
+實為減值，則本集團會計算出減值金額（於聯營公司可收回金額與其賬面值
+之差額）並於收益表的「應佔按權益法入賬之投資虧損╱利潤」確認該金額。
+本集團及其聯營公司間之上下游交易所產生利潤及虧損於本集團財務報表確
+認，惟僅以非關連投資方於聯營公司的權益為限。除非有證據顯示交易中所
+轉讓的資產出現減值，否則未變現虧損亦應予以對銷。聯營公司會計政策已
+於必要時變更，以確保與本集團採納的政策一致。
+於聯營公司股權的攤薄收益或虧損於收益表確認。
+(d) 合營安排
+本集團已對所有合營安排應用香港財務報告準則第11 號。根據香港財務報告
+準則第11 號，於合營安排的投資視乎各投資方的合約權利及責任分類為合營
+業務或合營企業。本集團已評估合營安排的性質，將其釐定為合營企業。投
+資合營企業按權益法入賬。
+根據權益會計法，於合營企業之權益初步按成本確認，隨後調整以確認本集
+團應佔收購後利潤或虧損及其他綜合收益之變動。本集團於合營企業的投資
+包括收購時產生的商譽。收購合營企業的所有權權益時，合營企業的成本與
+本集團應佔合營企業可識別資產及負債的公允價值淨額的任何差額入賬列作
+商譽。倘本集團應佔合營企業之虧損等於或超過所持合營企業之權益（包括
+實際屬於本集團於合營企業投資淨額之任何長期權益），本集團不再確認虧損，
+除非本集團產生責任或代合營企業付款，則作別論。
+本集團與其合營企業交易之未變現收益會對銷，以本集團所持合營企業之權
+益為限。除非有證據顯示交易中所轉讓資產出現減值，否則未變現虧損亦會
+對銷。合營企業的會計政策如有需要已改變以符合集團採納的政策。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(c)	 Associates
+An associate is an entity over which the Group has significant influence but not control, generally 
+accompanying a shareholding of between 20% and 50% of the voting rights. Investments in associates are 
+accounted for using the equity method of accounting. Under the equity method, the investment is initially 
+recognised at cost, and the carrying amount is increased or decreased to recognise the investor’s share of the 
+profit or loss of the investee after the date of acquisition. The Group’s investments in associates include 
+goodwill identified on acquisition. Upon the acquisition of the ownership interest in an asso
+
+============================================================
+PDF p96
+============================================================
+190
+191
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(e) 分部報告
+營運分部的呈報方式與向主要經營決策者提供的內部報告一致。主要經營決
+策者負責分配資源及評估營運分部表現，已確定為作出策略決定的本公司執
+行董事。
+(f) 
+外幣換算
+(i) 
+功能及呈報貨幣
+本集團旗下各實體之財務報表所列項目均採用有關實體營業所在主要
+經濟環境之貨幣（「功能貨幣」）為計算單位。綜合財務報表以港元（「港
+元」）列賬。港元乃本公司之功能貨幣及本集團之呈報貨幣。
+(ii) 
+交易及結餘
+外幣交易按交易當日或項目重新計量估值當日通行之匯率換算為功能
+貨幣。該等交易結算和以外幣計值的貨幣資產及負債按年結匯率換算
+產生之外幣匯兌損益，於收益表確認。
+(iii) 集團公司
+所有集團實體（並無惡性通貨膨脹經濟的貨幣）的業績及財務狀況的功
+能貨幣如有別於呈報貨幣，均按以下方式換算為呈報貨幣：
+— 
+於各資產負債表呈列的資產及負債按有關資產負債表結算日的
+收市匯率換算；
+— 
+各收益表的收支按平均匯率換算（除非該平均匯率並非在有關交
+易當日通行的匯率累積影響的合理估計內，在該情況下，收支按
+有關交易當日的匯率換算）；及
+— 
+所有因此而產生的貨幣兌換差額於其他綜合收益確認。
+因收購海外業務而產生的商譽及公允價值調整，均視作有關海外業務
+的資產與負債，並按收市匯率換算。所產生的貨幣兌換差額在其他綜
+合收益確認。
+(iv) 出售海外業務
+對於出售海外業務（即出售本集團一項海外業務的全部權益、或涉及失
+去對一間附屬公司（包括一項海外業務）之控制權的出售、涉及失去對
+一間合營企業（包括一項海外業務）之共同控制權的出售、或涉及失去
+對一間聯營公司（包括一項海外業務）之重大影響力的出售），本公司擁
+有人就該業務於權益累計的所有貨幣兌換差額均重新分類至損益。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(e)	 Segment reporting
+Operating segments are reported in a manner consistent with the internal reporting provided to the chief 
+operating decision-maker. The chief operating decision-maker, who is responsible for allocating resources 
+and assessing performance of the operating segments, has been identified as the Company’s executive 
+directors that makes strategic decisions.
+(f)	 Foreign currency translation
+(i)	
+Functional and presentation currency
+Items included in the financial statements of each of Group’s entities are measured using the currency 
+of the primary economic environment in which the entity operates (“the functional currency”). The 
+consolidated financial statements are presented in Hong Kong dollars (“HK$”), which is the Company’s 
+functional and the Group’s presentation currency.
+(ii)	 Transactions and balances
+Foreign currency transactions are translated into the functional currency using the exchange rates 
+prevailing at the dates of the transactions or valuation where items are re-measure
+
+============================================================
+PDF p97
+============================================================
+192
+193
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(g) 物業、廠房及設備
+樓宇主要為廠房、辦公室及零售商舖。所有物業、廠房及設備按歷史成本減
+折舊列賬。歷史成本包括收購該等項目直接引致的開支。
+其後成本僅在與該項目有關的未來經濟利益可能流入本集團而且該項目成本
+能可靠計量時，方會計入資產賬面值或確認為獨立資產（如適用）。已更換零
+件的賬面值會終止入賬。所有其他維修及保養支出在其發生的報告期內於收
+益表支銷。
+永久業權土地並無計提折舊。物業、廠房及設備的折舊以將其成本扣除剩餘
+價值，於估計可使用年期直線法計算，有關估計可使用年期如下：
+— 樓宇 
+25 至50 年
+— 租賃物業裝修 
+剩餘租期或可使用年期的較短者
+— 廠房及機器 
+3 至12 年
+— 汽車 
+5 至8 年
+— 傢俱及設備 
+2.5 至12 年
+資產的剩餘價值及可使用年期均在各報告期末檢討及調整（如適用）。
+倘資產的賬面值高於其估計可收回金額，其賬面值將即時撇減至可收回金額（附
+註2(i)）。
+(h) 無形資產
+(i) 
+商譽
+商譽產生自收購子公司，並相當於所轉讓對價，被收購方的非控制性
+權益金額以及享有的被收購方過往的權益在收購日的公允價值超過本
+集團獲得的被收購方的可辨認淨資產公允價值的數額。
+商譽不攤銷，但對商譽的減值檢討每年進行，如事件或情況轉變顯示
+可能存在減值，則更頻密地檢討。出售一間企業之損益包括與該售出
+企業有關之商譽之賬面值。
+就減值測試而言，在業務合併中購入的商譽會分配至每個現金產出單
+元或現金產出單元組（預期可從合併中獲取協同利益）。商譽被分配的
+每個單元或單元組指在主體內商譽被監控作內部管理用途的最底層次。
+商譽在經營分部層次進行監控。
+(ii) 
+客戶合同關係
+在業務合併中購入的客戶合同關係按購買日的公允價值列賬。客戶合
+同關係有限定的可使用年期，並按成本減累計攤銷列賬。攤銷是按客
+戶關係的十年預計可使用年期利用直線法分攤計算。
+(iii) 其他無形資產
+本集團的其他無形資產中包括管理合同，獨家供貨合同以及電腦軟件。
+這些無形資產均有限定的可使用年期，並按成本減累計攤銷列賬。攤
+銷是按之預計可使用年期利用直線法分攤計算。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(g)	 Property, plant and equipment
+Buildings comprise mainly a factory, offices and retail shops. All property, plant and equipment are stated at 
+historical cost less depreciation. Historical cost includes expenditure that is directly attributable to the 
+acquisition of the items.
+Subsequent costs are included in the asset’s carrying amount or recognised as a separate asset, as 
+appropriate, only when it is probable that future economic benefits associated with the item will flow to the 
+Group and the cost of the item can be measured reliably. The carrying amount of the replaced part is 
+derecognised. All other repairs and maintenance are charged to the income statement during the reporting 
+period in which they are incurred.
+Freehold land is not depreciated. Depreciation on property, plant and equipment is calculated using the 
+straight-line method to alloc
+
+============================================================
+PDF p98
+============================================================
+194
+195
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(i) 
+非金融資產的減值
+無確定使用年期的資產或尚未可供使用的無形資產毋須作攤銷，並每年進行
+減值測試。當有事件出現或情況改變顯示賬面值可能無法收回時，則須檢討
+須攤銷的資產有否減值。倘資產的賬面值高於其可收回金額，則按差額確認
+減值虧損。可收回金額以資產的公允價值扣除銷售成本或使用價值兩者之較
+高者為準。評估減值時，資產按可分開識別現金流量的最低層次組合（現金產
+出單元）分組。除商譽外，已減值的非金融資產均在每個報告日檢討減值是否
+可以撥回。
+(j) 
+金融資產
+(i) 
+分類
+本集團按以下計量類別對金融資產進行分類：
+• 
+後續以公允價值計量且其變動計入其他綜合收益的金融資產，及
+• 
+以攤餘成本計量的金融資產。
+該分類取決於主體管理金融資產的業務模式以及該資產的合同現金流
+量特徵。
+對於非交易性的權益工具投資，其分類將取決於本集團在初始確認時
+是否作出不可撤銷的選擇而將其指定為以公允價值計量且其變動計入
+其他綜合收益。
+僅當管理該等資產的業務模式發生變化時，本集團才對債權投資進行
+重分類。
+(ii) 
+確認和終止確認
+常規方式購買及出售的金融資產於交易日確認。交易日是指本集團承
+諾購買或出售資產的日期。當收取金融資產現金流量的權利已到期或
+已轉讓，且本集團已經轉移了金融資產所有權上幾乎所有的風險和報酬，
+金融資產即終止確認。
+(iii) 計量
+對於不被分類為以公允價值計量且其變動計入損益的金融資產，本集
+團以其公允價值加上可直接歸屬於獲得該項金融資產的交易費用進行
+初始確認。
+(a) 
+權益工具
+本集團以公允價值對所有權益投資進行後續計量。如果本集團管
+理層選擇將權益投資的公允價值利得和損失計入其他綜合收益，
+則當終止確認該項投資時，不會將公允價值利得和損失重分類至
+損益。對於股利，當本集團已確立收取股利的權利時，該等投資
+的股利才作為其他收益而計入損益。
+對於以公允價值計量且其變動計入其他綜合收益的權益投資，其
+減值損失（以及減值損失轉回）不在其他公允價值變動外單獨列示。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(i)	 Impairment of non-financial assets
+Assets that have an indefinite useful life or intangible assets not ready to use are not subject to amortisation 
+and are tested annually for impairment. Assets that are subject to amortisation are reviewed for impairment 
+whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. An 
+impairment loss is recognised for the amount by which the asset’s carrying amount exceeds its recoverable 
+amount. The recoverable amount is the higher of an asset’s fair value less costs of disposal and value in use. 
+For the purposes of assessing impairment, assets are grouped at the lowest levels for which there are 
+separately identifiable cash flows (CGUs). Non-financial assets other than goodwill that suffered an impairment 
+are reviewed for possible reversal of the impairment at each reporting date.
+(j)	 Financial assets
+(i)	
+Clas
+
+============================================================
+PDF p99
+============================================================
+196
+197
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(j) 
+金融資產（續）
+(iii) 計量（續）
+(b) 
+債務工具
+債務工具的後續計量取決於本集團管理該資產的業務模式以及
+該資產的現金流量特徵。本集團將債務工具分為以攤餘成本計量
+的金融資產：
+以攤餘成本計量：對於持有以收取合同現金流量的資產，如果合
+同現金流量僅代表對本金和利息的支付，則該資產以攤餘成本計
+量。該等金融資產的利息收入以實際利率法計算迸計入財務收入。
+終止確認時產生的利得或損失直接計入損益，並與匯兌利得和損
+失一同列示在其他利得╱（損失）中。減值損失作為單獨的科目在
+損益表中列報。
+(iv) 減值
+對於以攤餘成本計量的債務工具，本集團就其預期信用損失做出前瞻
+性評估。減值方法取決於其信用風險是否顯著增加。
+對於貿易應收款項，本集團採用香港財務報告準則第9 號允許的簡化方
+法，在初始確認時計量貿易應收款項整個存續期的預期信用損失，詳
+見附註3(a)(ii)。
+(k) 抵銷金融工具
+當有法定可執行權利抵銷金融資產與金融負債的已確認金額，且有意以淨額
+基準結算或同時變現資產及結清負債，則可將金融資產與金融負債互相抵銷，
+並在資產負債表呈報淨額。法定可執行權利不得視乎未來事件而定且於日常
+業務過程中及公司或交易對手違約、無力償債或破產時須可執行。
+(l) 
+存貨
+存貨按成本與可變現淨值兩者之較低者入賬。成本按加權平均法釐定。製成
+品及在製品成本包括原材料、直接勞工、其他直接成本及相關生產費用（以正
+常產能計算）。可變現淨值按日常業務過程中的估計售價減適用浮動銷售開
+支計算。
+(m) 貿易應收款項及其他流動資產
+貿易應收款項為日常業務過程中就已出售商品或所履行服務應收客戶的款項。
+其他流動資產包括預付款項、按金及其他應收款項。倘預期於一年或以內（倘
+時間較長，則於業務的正常運營週期內）追收貿易應收款項及其他流動資產，
+則該等款項分類為流動資產，否則呈列為非流動資產。
+貿易應收款項及其他流動資產，預付款項除外，初步以公允價值確認，其後
+按攤銷成本以實際利率法計量，並扣除減值撥備，詳見附註2(j)(iv) 及3(a)(ii)。
+(n) 現金及現金等價物
+合併現金流量表中，現金及現金等價物包括庫存現金、銀行活期存款、其他
+原期限為三個月或以內之短期高流動性投資。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(j)	 Financial assets (Continued)
+(iii)	 Measurement (Continued)
+(b)	
+Debt instruments
+Subsequent measurement of debt instruments depends on the Group’s business model for 
+managing the asset and the cash flow characteristics of the asset. The Group classified its debt 
+instruments into financial assets at amortised cost:
+Amortised cost: Assets that are held for collection of contractual cash flows where those cash 
+flows represent solely payments of principal and interest are measured at amortised cost. Interest 
+income from these financial assets is included in finance income using the effective interest rate 
+method. Any gain or loss arising on derecognition is recognised directly in profit or loss and 
+presented in other gains/(losses) together with foreign exchange gains and losses. Impairment 
+losses 
+
+============================================================
+PDF p100
+============================================================
+198
+199
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(o) 股本
+普通股分類為權益。
+直接歸屬於發行新股份的新增成本於權益列賬為所得款項的扣減（已扣除稅項）。
+(p) 貿易及其他應付款項
+貿易應付款項為在日常業務過程中就自供應商購入貨品或服務的付款責任。
+倘預期貿易及其他應付款項於一年或以內（倘時間較長，則於業務的正常營
+運週期內）到期，則該等款項分類為流動負債，否則呈列為非流動負債。
+貿易及其他應付款項初步以公允價值確認，其後按攤銷成本以實際利率法計量。
+(q) 借貸
+借貸按公允價值並扣除產生的交易費用為初始確認。借貸其後按攤銷成本列
+賬﹔所得款（扣除交易成本）與贖回價值的任何差額利用實際利率法於借貸期
+間內在合併收益表確認。
+設立融資額度時支付的費用在部份或全部融資將會很可能提取時確認為貸款
+的交易費用。在此情況下，費用遞延至貸款提取為止。如沒有證據證明部份
+或全部融資額度將會很可能被提取，則該費用資本化作為流動資金服務的預
+付款，並按有關的融資額度期間攤銷。
+除非本集團可無條件將負債的結算遞延至結算日後最少12 個月，否則借貸分
+類為流動負債。
+(r) 
+借貸成本
+直接歸屬於收購、興建或生產合資格資產（指必須經一段長時間處理以作其
+預定用途或銷售的資產）的一般及指定借貸成本，加入該等資產的成本內，直
+至資產大致上備妥供其預定用途或銷售為止。
+就特定借貸，因有待合資格資產的支出而臨時投資賺取的投資收入，應自合
+資格資本化的借貸成本中扣除。
+所有其他借貸成本在產生期內的損益中確認。
+(s) 
+即期及遞延所得稅
+期內所得稅開支或抵免按當期應課稅收入與按各司法權區的適用稅率計算，
+並就由於暫時性差異及未抵扣稅務虧損而導致的遞延稅項資產及負債作出調整。
+(i) 
+即期所得稅
+即期所得稅支出乃根據 貴公司的附屬公司營運及產生應課稅收入的
+國家於報告期末已頒佈或實質頒佈的稅務法例計算。管理層就適用稅
+務規例受詮釋所規限的情況定期評估報稅表的狀況，並在適當情況下
+根據預期須向稅務機關支付的金額設定撥備。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(o)	 Share capital
+Ordinary shares are classified as equity.
+Incremental costs directly attributable to the issue of new shares are shown in equity as a deduction, net of 
+tax, from the proceeds.
+(p)	 Trade and other payables 
+Trade payables are obligations to pay for goods or services that have been acquired in the ordinary course of 
+business from suppliers. Trade and other payables are classified as current liabilities if payment is due within 
+one year or less (or in the normal operating cycle of the business if longer). If not, they are presented as 
+non-current liabilities.
+Trade and other payables are recognised initially at fair value and subsequently measured at amortised cost 
+using the effective interest method.
+(q)	 Borrowings
+Borrowings are recognised initially at fair value, net of transaction costs incurred. Borrowings are subsequently 
+carried at amortised cost; any difference between the proceeds (net 
+
+============================================================
+PDF p101
+============================================================
+200
+201
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(s) 
+即期及遞延所得稅（續）
+(ii) 
+遞延所得稅
+遞延所得稅利用負債法按資產及債的稅基與資產及負債在合併財務資
+料的賬面值之間產生的暫時性差額悉數撥備。然而，倘遞延稅項負債
+來自對商譽的初步確認，則不會確認遞延稅項負債。倘遞延所得稅來
+自在交易（不包括業務合併）中對資產或負債的初步確認，而在交易時
+不影響會計或應課稅溢利或虧損並且不會產生相等的應納稅額，則亦
+不會將遞延所得稅列賬。遞延所得稅採用於報告期末或之前已頒佈或
+實質上已頒佈，並在有關遞延所得稅資產變現或遞延所得稅負債結算
+時預期將會適用的稅率（及法例）而釐定。
+遞延稅項資產僅於可能有未來應課稅溢利用作抵銷暫時性差額及虧損
+時確認。
+倘 貴公司有能力控制撥回暫時性差額的時間及該等差額很可能不會
+於可見將來撥回，則不會就海外業務投資的賬面值及稅基之間的暫時
+性差額確認遞延稅項負債及資產。
+(iii) 抵銷
+倘有法定可執行權力將即期稅項資產與負債相互抵銷而遞延稅項結餘
+涉及同一稅務機關，則遞延稅項資產及負債可予相互抵銷。倘有關實
+體有法定可執行權力可抵銷及有意按淨值基準結算，或有意同時變現
+資產及結算負債，則即期稅項資產及稅項負債可相互抵銷。
+即期及遞延所得稅於損益確認，惟有關於其他全面收益或直接於權益
+確認的項目除外。在此情況下，稅項亦分別於其他全面收益或直接於
+權益確認。
+(t) 
+僱員福利
+本集團公司實施多項退休後計劃，該等計劃為定額供款計劃，一般透過向保
+險公司或受託人管理基金付款而獲得資金。本集團已根據強制性公積金計劃
+條例為香港僱員訂立強積金計劃，及亦為中國內地及海外國家╱地區的僱員
+參與當地相關部門組織及規管的僱員退休金計劃。
+(i) 
+退休金責任
+定額供款計劃為本集團向獨立實體支付固定供款的退休金計劃。倘基
+金並無持有足夠資產以於本期間及過往期間就僱員服務向全體僱員支
+付福利，則本集團並無作出進一步供款的法定或推定責任。
+(ii) 
+獎金計劃
+本集團於合約規定或因過往慣例產生推定責任時確認撥備。
+(iii) 離職福利
+本集團將在正常退休日期之前終止僱傭關係或當僱員接受自願裁員以
+換取這些福利時，支付離職福利。本集團在下列日期中較早者確認離
+職福利：(a) 當本集團不能再撤回這些福利的提議時；和(b) 當公司確認
+屬於香港會計準則第37 號範圍內並涉及支付離職福利的成本時。如果
+提出鼓勵自願裁員的要約，解僱福利是根據預期接受要約的員工人數
+來衡量的。報告期結束後超過12 個月到期的福利按現值折現。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(s)	 Current and deferred income tax (Continued)
+(ii)	 Deferred income tax
+Deferred income tax is provided in full, using the liability method, on temporary differences arising 
+between the tax bases of assets and liabilities and their carrying amounts in the consolidated financial 
+statements. However, deferred tax liabilities are not recognised if they arise from the initial recognition 
+of goodwill. Deferred income tax is also not accounted for if it arises from initial recognition of an asset 
+or liability in a transaction other than a business combination that at the time of the transaction affects 
+neither accounting nor taxable profit or loss and does not give rise to equal taxable and deductible 
+
+============================================================
+PDF p102
+============================================================
+202
+203
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(u) 撥備
+倘本集團因過往事件而須承擔現有法定或推定責任，資源很可能流出以履行
+有關責任，而相關金額能可靠估計，則會確認撥備。未來的營運虧損則不會
+確認撥備。
+倘出現多項類似責任，經考慮整體責任類別釐定是否須支出資金以解除責任。
+即使同類責任內任何一個項目支出資金的可能不大，仍會確認撥備。
+撥備按照預期須償付有關責任的開支以稅前折現利率貼現的現值計量，該利
+率反映當時市場對貨幣時間價值和有關責任特定風險的評估。隨時間流逝而
+增加的撥備確認為利息開支。
+(v) 收入確認
+(i) 
+銷售貨品
+本集團銷售保健品及中藥予批發商及個別客戶。收入予批發商及個別
+客戶在批發商擁有及接受產品時確認，這一般在產品送達至批發商指
+定地點時發生或在零售門店。
+批發
+批發方面，批發商對出售產品的管道及價格有充分酌情權，且並無未
+履行的責任可影響批發商接受產品。在產品到達指定地點、陳舊過時
+及虧損風險已轉嫁批發商，而批發商已根據銷售合約接受產品、接納
+規定已失效或本集團有客觀證據顯示符合接納的所有標準時，方會確
+認交付。銷售按銷售合約指定的價格入賬。
+在於銷售存在30 天至180 天內的信用期，與市場慣例相同，故沒有融
+資成分。
+本集團在貨品交付時確認應收款，因為此時收回對價的權利是無條件的，
+本集團僅需等待客戶付款。
+零售
+零售方面，本集團透過連鎖零售商舖銷售產品。銷售貨品於集團實體
+向客戶銷售產品時確認。零售通常以現金或信用卡結付。
+(ii) 
+服務收益
+本集團於其零售商舖提供中醫診療。服務收益於向客戶提供服務後確認，
+以現金或信用卡結付。
+(iii) 品牌使用費收益
+品牌使用費收益乃就海外實體使用「同仁堂」品牌根據總營業額按預定
+費率收取。品牌使用費於海外實體確認銷售時按應計基準於收益表確認。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(u)	 Provisions
+Provisions are recognised when the Group has a present legal or constructive obligation as a result of past 
+events; it is probable that an outflow of resources will be required to settle the obligation; and the amount has 
+been reliably estimated. Provisions are not recognised for future operating losses.
+Where there are a number of similar obligations, the likelihood that an outflow will be required in settlement is 
+determined by considering the class of obligations as a whole. A provision is recognised even if the likelihood 
+of an outflow with respect to any one item included in the same class of obligations may be small.
+Provisions are measured at the present value of the expenditures expected to be required to settle the 
+obligation using a pre-tax discount rate that reflects current market assessments of the time value of money 
+and the risks specific to the obligation. The increase in the provision due to passage of time is recognised as 
+interest expense.
+(v)	 Revenue recognit
+
+============================================================
+PDF p103
+============================================================
+204
+205
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(v) 收入確認（續）
+(iv) 融資組成部分
+本集團預計合同中承諾向客戶交付貨品或提供服務的時間與客戶付款
+的時間間隔不會超過一年。因此，本集團不因貨幣時間價值而調整任
+何交易價格。
+(w) 利息收益
+按實際利率法計算的以攤餘成本計量的金融資產利息收益於合併利潤表中確
+認為財務收益 — 淨額的一部分。
+出於現金管理目的而持有的金融資產的利息收益列示為財務收入，參見下文
+附註10。所有其他利息收益計入其他收益。
+除後續會發生信用減值的金融資產外，按金融資產的賬面餘額和實際利率計
+算利息收益。對已發生信用減值的金融資產，按照其扣除減值準備的賬面餘
+額和實際利率計算利息收益。
+(x) 股利收益
+股利源自以公允價值計量且其變動計入其他綜合收益的金融資產。當本集團
+已確定收取股利的權利時，股利於合併利潤表中確認為其他淨利得。
+(y) 租賃
+本集團在租賃資產可供其使用的當日將租賃確認為使用權資產和相應的負債。
+貴集團租用若干物業，作為辦事處和零售門店。有關租約一般訂明2 至5 年固
+定期限。租約條款逐次磋商，每項租約各有不同條款條件。租賃協議不會施
+加任何約定，惟租賃資產不得用作借貸抵押。
+租賃產生的資產和負債按現值進行初始計量。租賃負債包括以下租賃付款額
+的淨現值：
+(i) 
+固定付款額（包括實質固定付款額），扣除任何應收的租賃激勵；
+(ii) 
+基於指數或比率確定的可變租賃付款額，採用租賃期開始日的指數或
+比率進行初始計量；以及
+(iii) 
+在租賃期反映出本集團將行使選擇權的情況下終止租賃的罰款金額。
+當本集團合理確定將行使續租選擇權時，租賃付款額也納入負債的計量中。
+租賃付款額按租賃內含利率折現。本集團的租賃內含利率通常無法直接確定，
+在此情況下，應採用承租人的增量借款利率，即承租人在類似經濟環境下獲
+得與使用權資產價值接近的資產，在類似期間以類似抵押條件借入資金而必
+須支付的利率。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(v)	 Revenue recognition (Continued)
+(iv)	 Financing components
+The Group does not expect to have any contracts where the period between the transfer of the 
+promised goods or services to the customer and payment by the customer exceeds one year. As a 
+consequence, the Group does not adjust any of the transaction prices for the time value of money.
+(w)	Interest income
+Interest income on financial assets at amortised cost calculated using the effective interest method is 
+recognised in the consolidated statement of income statement as part of finance income, net.
+Interest income is presented as finance income where it is earned from financial assets that are held for cash 
+management purposes, see Note 10 below. Any other interest income is included in other income.
+Interest income is calculated by applying the effective interest rate to the gross carrying amount of a financial 
+asset except for financial assets that subsequently become credit-impair
+
+============================================================
+PDF p104
+============================================================
+206
+207
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+2 
+主要會計政策概要（續）
+(y) 租賃（續）
+使用權資產按成本計量，包括：
+(i) 
+租賃負債的初始計量金額；
+(ii) 
+在租賃期開始日或之前支付的租賃付款額扣除收到的租賃激勵；
+(iii) 
+初始直接費用；以及
+(iv) 
+復原成本。
+使用權資產一般在資產的使用壽命與租賃期兩者孰短的期間內按直線法計提
+折舊。
+與短期物業和設備租賃及所有低價值資產租賃相關的付款額按直線法確認為
+費用，計入損益。短期租賃是指租賃期為12 個月或者小於12 個月的租賃。
+(z) 股息分派
+向本公司股東分派的股息在股息獲本公司股東或董事（如適用）批准的期間於
+本集團及本公司財務報表確認為負債。
+(aa) 政府補助
+在合理保證將收到政府補助且本集團將遵守所有附帶條件的情況下，以公允
+價值確認政府補助。
+與成本相關的政府補助，在與所需補償的成本相匹配的必要期間內，遞延並
+在損益中確認。
+3 
+財務風險管理
+(a) 財務風險因素
+本集團業務面對多項財務風險：市場風險（包括外匯風險及現金流利率風險）、
+信貸風險及流動資金風險。本集團的整體風險管理方案專注於金融市場的不
+可預測性，致力減低對本集團財務表現的潛在不利影響。風險管理由本集團
+內各個別實體的管理人員進行。
+(i) 
+市場風險
+(1) 
+外匯風險
+各個別集團實體擁有自身的功能貨幣。各個別集團實體的外匯風
+險來自以非集團實體功能貨幣的貨幣計值的未來商業交易或已
+確認資產或負債。
+本集團經營國際業務，故面對不同貨幣產生的外匯風險，主要涉
+及採購時的人民幣。本集團現時並無任何外幣對沖政策。本集團
+通過嚴密監控外幣匯率波動控制外匯風險。
+2022 年12 月31 日，倘人民幣兌港元升值╱貶值5%，而所有其
+他變量保持不變，則截至2022 年12 月31 日止年度的除所得稅前
+利潤增加╱減少19,717,000 港元（2021 年：20,096,000 港元），
+主要是由於換算中國內地附屬公司（其功能貨幣為人民幣）所持
+港元計值的貿易應付款項的外匯收益╱損失所致。管理層認為其
+他外幣產生的風險對本集團並不重大。
+2	
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+(Continued)
+(y)	 Leases (Continued)
+Right-of-use assets are measured at cost comprising the following:
+(i)	
+the amount of the initial measurement of lease liability;
+(ii)	
+any lease payments made at or before the commencement date less any lease incentives received;
+(iii)	
+any initial direct costs, and
+(iv)	
+restoration costs.
+Right-of-use assets are generally depreciated over the shorter of the asset’s useful life and the lease term on a 
+straight-line basis.
+Payments associated with short-term leases of properties and equipment and all leases of low-value assets 
+are recognised on a straight-line basis as an expense in profit or loss. Short-term leases are leases with a 
+lease term of 12 months or less.
+(z)	 Dividend distribution
+Dividend distribution to the Company’s shareholders is recognised as a liability in the Group’s and the 
+Company’s financial statements in the period in which the dividen
+
+============================================================
+PDF p105
+============================================================
+208
+209
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+3 
+財務風險管理（續）
+(a) 財務風險因素（續）
+(i) 
+市場風險（續）
+(2) 
+現金流利率風險
+除短期銀行存款及銀行結餘外，本集團並無重大計息資產或負債。
+於2022 年12 月31 日，倘銀行存款利率上升100 個（2021：50 個）
+基點，而所有其他變量保持不變，則主要由於銀行存款利息收益
+增加，年度除所得稅前利潤將增加24,424,000 元（2021 年：
+11,373,000 港元）。
+(ii) 
+信貸風險
+信貸風險來自銀行存款、貿易應收款項（包括來自直接控股公司，同系
+附屬公司，合營企業和聯營公司的貿易應收款項）及其他流動資產。
+(1) 
+風險管理
+基本上所有銀行結餘及定期存款乃存放於國有金融機構及公開
+市場上市的知名銀行知名銀行。管理層認為 貴集團的信貸風險
+有限，因該等銀行為領先及具信譽，且獲評估為具有低信貸風險
+的銀行。因此，預期信貸虧損微不足道。所有銀行存款均存放於
+具有良好信貸評級的銀行以減低風險。對於貿易應收款項（包括
+來自集團公司的貿易應收款項）及其他流動資產（（不包括預付款
+項），本集團考慮對手方的財務狀況、信貸歷史及其他因素評估
+其信貸質素。管理人員亦定期審查該等應收款項可否收回，並跟
+進有關糾紛或逾期款項（如有）。貿易應收款項一般的信用期在
+30 至90 天（2021 年：30 天至90 天）之間，特定客戶有機會授予
+更長的信用期限，並根據具體情況進行評估和批准，信用期最長
+可達180 天。管理人員認為，對方拖欠款項的風險較低。本集團
+並無持有任何抵押品作為擔保。
+於2022 年12 月31 日，在不考慮最終控股公司所控制的實體下，
+有3 名客戶（2021 年：2 名客戶）個別於本集團貿易應收款項總額
+超過10%。來自該等客戶的貿易應收款項金額佔本集團貿易應
+收款項總額49%（2021 年：59%）。
+(2) 
+金融資產減值
+應收賬款
+對於應收營業款及其他應收款，本集團採用信用政策監控信用風
+險水平。一般而言，不同客戶及債務人的信用期會根據客戶及債
+務人的財務狀況、獲得第三方擔保的能力、信用記錄以及其他因
+素（如當前市場狀況）進行定期評估。鑑於主要客戶對整體收入
+的重要性，本集團對主要客戶的信譽和財務實力的變化敏感。
+本集團採用香港財務報告準則第9 號的簡化方法計量預期信用損
+失，即對所有貿易應收款項按照整個存續期的預期損失計提損失
+撥備。為降低該風險，本集團及時監控其應收賬款結餘應在一段
+時間內支付。
+管理層考慮客戶的信貸風險及預期信用損失時亦根據客戶的業
+務性質，外部研究給出的債務人在預期年限內的違約率、不同客
+戶及行業過去的回款和違約記錄等因素。本集團使用違約概率
+(PD)、違約風險敞口(EAD) 和違約損失率(LGD) 來衡量客戶的信
+用風險和預期信用損失率。
+3	
+FINANCIAL RISK MANAGEMENT (Continued)
+(a)	 Financial risk factors (Continued)
+(i)	
+Market risk (Continued)
+(2)	
+Cash flow interest rate risk
+Other than short-term bank deposits and bank balances, the Group does not have significant 
+interest-bearing assets or liabilities.
+At 31 December 2022, if the interest rates on bank deposits had been 100 (2021: 50) basis-points 
+higher with all other variables held constant, profit before income tax for the year would have 
+been HK$24,424,000 (2021: HK$11,373,000) higher, respectively, mainly as a result of higher 
+interest income on bank deposits.
+(ii)	 Credit risk
+Credit risk arises from bank deposits and trade r
+
+============================================================
+PDF p106
+============================================================
+210
+211
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+3 
+財務風險管理（續）
+(a) 財務風險因素（續）
+(ii) 
+信貸風險（續）
+(2) 
+金融資產減值（續）
+應收賬款（續）
+預期信用損失率經調整以反映當前及前瞻性信息，例如影響客戶
+結清應收款項能力的宏觀經濟因素。本集團已將其商品和服務銷
+售所在國家的國內生產總值確定為最相關的因素，並根據國內生
+產總值的預期變化相應調整預期信用損失率。
+於2022 年12 月31 日，已知財務困難或應收賬款收回存在重大疑
+慮的客戶相關的應收款項的信貸風險已大幅增而管理層認為此
+應收賬款定義為違約，相關的應收款項為3,126,000 港元（2021
+年：3,411,000 港元），相關的損失撥備餘額為3,126,000 港元
+（2021 年：3,411,000 港元）。詳情請參閱附註22。
+對於已確認減值撥備的應收賬款，當本集團預計無法收回更多的
+現金時，則核銷該項應收賬款。
+於2022 年12 月31 日，應收賬款中286,958,000 港元（2021 年：
+54,103,000 港元）來自關聯方，其中已逾期的應收賬款為
+51,644,000 港元（2021 年：1,357,000 港元）。鑒於過去關聯方
+無重大違約且前瞻性估計的影響不重大，因此關聯方的預期信用
+損失極小。於2022 年12 月31 日，關聯方應收賬款撥備餘額為
+225,000 港元（2021 年：40,000 港元）。
+於2022 年12 月31 日，應收剩餘款項653,430,000 港元（2021
+年：483,700,000 港元），其中497,734,000 港元（2021 年：
+378,247,000 港元）尚未逾期而預期損失率為0.01%–13.65%
+（2021 年：0.02%–3.17%）。損失撥備為16,933,000 港元（2021
+年：11,286,000 港元）。於2022 年12 月31 日，倘若該貿易應收
+款項的預期損失率利率上升300 個基點，而所有其他變量保持不
+變，損失撥備將增加19,603,000 港元（2021 年：14,511,000 港
+元）。
+以攤餘成本計量的的其他金融資產
+對於按攤銷成本列賬的其他金融資產， 貴集團採用12 個月預計
+信用虧損或全期預計信用虧損方式，視乎初始確認後信貸風險有
+否大幅增加而定。倘若應收款項初始確認後信貸風險大幅增加，
+減值計量為全期預計信用虧損。管理層考慮其他因素後，對歷史
+規律進行分析，達成結論認為，經評估的信貸風險較低，因此按
+攤銷成本列賬的其他金融資產的預計信用虧損並不重大。
+以攤餘成本計量的其他金融資產的減值損失在經營利潤中列報
+為減值損失淨額。後續收回的之前沖銷的金額在相同項目中貸記。
+本集團的政策是維持充裕的現金及現金等價物以滿足其營運資
+金需求。本集團有穩定的經營業務現金流入及充足財務資源，可
+為其業務及未來擴張提供資金。於2022 年12 月31 日，本集團的
+金融負債主要為196,883,000 港元（2021 年：88,390,000 港元）
+之貿易及其他應付款項；1 0 2 , 5 3 0 , 0 0 0 港元（2 0 2 1 年：
+127,197,000 港元）之租賃負債以及552,000 港元（2021 年：
+1,279,000 港元）之借款。
+根據合同期限的金融負債到期日組別分析如下，披露的金額為合
+同未折現現金流量。
+3	
+FINANCIAL RISK MANAGEMENT (Continued)
+(a)	 Financial risk factors (Continued)
+(ii)	 Credit risk (Continued)
+(2)	
+Impairment of financial assets (Continued)
+Trade receivables (Continued)
+The expected credit loss rates are adjusted to reflect current and forward-looking information 
+such as macroeconomic factors affecting the ability of the customers to settle the receivables. 
+The Group has identified the GDP of the count
+
+============================================================
+PDF p107
+============================================================
+212
+213
+二零二二年年報
+北京同仁堂國藥有限公司
+Annual Report 2022
+Beijing Tong Ren Tang Chinese Medicine Company Limited
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+3 
+財務風險管理（續）
+(a) 財務風險因素（續）
+(iii) 流動資金風險（續）
+(b) 資本管理
+本集團管理資本旨在保障本集團有能力按持續經營基準繼續營運，為股東帶
+來回報，同時令其他權益持有人獲益，並維持優化的資本結構以減少資金成本。
+資本總額為資產負債表所示「權益」。為維持或調整資本架構，本集團或會調
+整向股東派付的股息金額、向股東退還資本、發行新股份或出售資產以減少
+債務。
+(c) 公允價值估計
+本集團於2022 年12 月31 日的以公允價值計量且其變動計入其他綜合收益的
+金融資產按照估值技術中所運用到的輸入的層級歸類為如下三層：
+• 
+相同資產或負債在活躍市場的報價（未經調整）
+（第1 層）。
+• 
+除了第1 層所包括的報價外，該資產和負債的可觀察的其他輸入，可為
+直接（即例如價格）或間接（即源自價格）
+（第2 層）。
+• 
+資產和負債並非依據可觀察市場數據的輸入（即非可觀察輸入）
+（第3 層）。
+年內各層級之間並無轉撥。
+3	
+FINANCIAL RISK MANAGEMENT (Continued)
+(a)	 Financial risk factors (Continued)
+(iii) Liquidity risk (Continued)
+Less than 
+1 year
+少於一年
+Between 1 and 
+2 years
+一至二年
+Between 2 and 
+5 years
+二至五年
+Over 5 years
+多於五年
+Total
+總計
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+At 31 December 2022 於2022年12月31日
+Trade and other payables 貿易及其他應付款項
+196,883
+–
+–
+–
+196,883
+Lease liabilities 租賃負債
+44,838
+26,355
+29,184
+9,078
+109,455
+Borrowings 借款
+220
+166
+167
+–
+553
+Total 總計
+241,941
+26,521
+29,351
+9,078
+306,891
+Less than 
+1 year
+少於一年
+Between 1 and
+2 years
+一至二年
+Between 2 and
+5 years
+二至五年
+Over 5 years
+多於五年
+Total
+總計
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+HK$’000 千港元
+At 31 December 2021 於2021年12月31日
+Trade and other payables 貿易及其他應付款項
+88,390
+–
+–
+–
+88,390
+Lease liabilities 租賃負債
+55,890
+33,477
+32,558
+12,756
+134,681
+Borrowings 借款
+481
+467
+333
+–
+1,281
+Total 總計
+144,761
+33,944
+32,891
+12,756
+224,352
+(b)	 Capital management
+The Group’s objectives when managing capital are to safeguard the Group’s ability to continue as a going 
+concern in order to provide returns for shareholders and benefits for other stakeholders and to maintain an 
+optimal capital structure to reduce the cost of capital.
+Total capital is calculated as ‘equity’ as shown in the consolidated balance sheet. In order to maintain or 
+adjust the capital structure, the Group may adjust the amount of dividends paid to shareholders, return capital 
+to

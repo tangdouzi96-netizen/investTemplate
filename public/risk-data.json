@@ -1,28 +1,431 @@
 {
-  "lastUpdated": "2026-05-23",
+  "lastUpdated": "2026-05-24",
   "companies": {
     "泸州老窖": {
       "code": "000568.SZ",
       "industry": "白酒",
       "assetType": "轻资产",
       "fcfThreshold": ">60%",
-      "status": "normal",
-      "warnings": 0,
+      "status": "warning",
+      "warnings": 3,
       "updatePrompt": "更新泸州老窖（000568.SZ）风险跟踪指标。",
       "indicators": [
-        {"dim": "现金真实性", "name": "FCF/NP", "value": "64.0%", "threshold": ">60%", "status": "green", "trend": "→", "confidence": "S", "note": "FCF=71.23(年报S)-1.93(年报现金流量表'购建固定资产')=69.30亿，NP=108.31亿(S)。OCF偏低因去库存，关注恢复。"},
-        {"dim": "资产质量", "name": "净现金增减", "value": "+273亿", "threshold": ">0", "status": "green", "trend": "→", "confidence": "S", "note": "货币资金273.42亿，有息负债≈0，财务费用-5.12亿为净利息收入。年报原文提取。"},
-        {"dim": "资产质量", "name": "投资CF/NP", "value": "~3.7%", "threshold": "<50%", "status": "green", "trend": "→", "confidence": "S", "note": "购建固定资产1.93亿+投资支付2.10亿=4.03亿/108.31亿≈3.7%。数据均取自年报现金流量表原文。极轻资产，投资支出极低。"},
-        {"dim": "盈利质量", "name": "OCF/NP", "value": "65.8%", "threshold": ">50%", "status": "yellow", "trend": "↓", "confidence": "S", "note": "71.23亿/108.31亿。年报原文提取。去库存期回款减少，正常年份>100%。关注恢复至>100%的时点。"},
-        {"dim": "盈利质量", "name": "非经常损益/NP", "value": "0.7%", "threshold": "<20%", "status": "green", "trend": "→", "confidence": "S", "note": "扣非107.60亿 vs 归母108.31亿，差异0.66%。年报原文提取。利润几乎全部来自主业。"},
-        {"dim": "盈利质量", "name": "净现金/总资产", "value": "42.2%", "threshold": ">10%", "status": "green", "trend": "→", "confidence": "S", "note": "273.42亿/647.95亿。年报原文提取。A股白酒中资产质量最高档，现金占比极大。"},
-        {"dim": "盈利质量", "name": "毛利率趋势", "value": "86.6%", "threshold": "稳定或上升", "status": "green", "trend": "↑", "confidence": "S", "note": "中高档酒类毛利率>86.6%(年报原文)，行业调整期终端价格未崩塌，品牌力坚挺。"},
-        {"dim": "管理层", "name": "关联交易", "value": "无异常", "threshold": "无异常", "status": "green", "trend": "—", "confidence": "S", "note": "年报核查无异常关联交易披露。泸州老窖集团(国有)治理规范。"},
-        {"dim": "管理层", "name": "大股东减持", "value": "无", "threshold": "无", "status": "green", "trend": "—", "confidence": "S", "note": "泸州老窖集团(国有)持股稳定，年报+公开记录核查无减持。"},
-        {"dim": "增长质量", "name": "应收增速/营收增速", "value": "健康", "threshold": "≤1.0", "status": "green", "trend": "→", "confidence": "B", "note": "应收仅607万元(年末)，较年初-45%。营收-17.5%。二级来源(财经网站)，待年报原文确认。应收收缩快于营收→回款健康。"},
-        {"dim": "行业基准", "name": "毛利率 vs 行业P10", "value": "P5以内", "threshold": ">P10", "status": "green", "trend": "→", "confidence": "B", "note": "86.6%毛利率在白酒行业排前五，远超P10(~55-60%)。行业排名来自公开渠道估算。"},
-        {"dim": "🔍行业专属", "name": "批价/出厂价比", "value": "~155%", "threshold": ">95%", "status": "green", "trend": "→", "confidence": "C", "note": "国窖1573批价~850-860元(B)/出厂价~550元(C业内估算)。批价来自渠道数据，出厂价非公开。2025全年批价仅回撤4%。"},
-        {"dim": "🔍行业专属", "name": "合同负债/营收比", "value": "~10.8%", "threshold": ">15%", "status": "yellow", "trend": "↓", "confidence": "S", "note": "2026Q1合同负债27.9亿/年化营收~257亿。年报+季报原文提取。去库存期经销商打款意愿下降，关注是否企稳。"}
+        {
+          "dim": "现金真实性",
+          "name": "FCF/NP",
+          "value": "47.9%",
+          "threshold": ">60%",
+          "status": "red",
+          "trend": "→",
+          "confidence": "S",
+          "note": "FCF=71.23-19.33=51.90亿，NP=108.31亿。年报PDF现金流量表P82-83原文(S级)。CAPEX=19.33亿(此前1.93亿为10倍误差, 2026-05-24勘误)。FCF/NP低于60%阈值。",
+          "history": {
+            "2021": {
+              "value": "71.9%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "69.7%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "69.0%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "133.6%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "47.9%",
+              "status": "red"
+            }
+          }
+        },
+        {
+          "dim": "资产质量",
+          "name": "净现金增减",
+          "value": "-33.8亿",
+          "threshold": ">0",
+          "status": "yellow",
+          "trend": "↓",
+          "confidence": "S",
+          "note": "期末净现金206.41亿(货币273.42-有息负债67.01)-期初净现金240.21亿(货币335.78-一年内到期32.77-长期借款62.80)。年报PDF P74-76(S级)。去库存期OCF 71亿<分红85亿+CAPEX 19亿, 存量现金消耗。",
+          "history": {
+            "2021": {
+              "value": "+134.3亿",
+              "status": "green"
+            },
+            "2022": {
+              "value": "+145.0亿",
+              "status": "green"
+            },
+            "2023": {
+              "value": "+158.7亿",
+              "status": "green"
+            },
+            "2024": {
+              "value": "+240.2亿",
+              "status": "green"
+            },
+            "2025": {
+              "value": "-33.8亿",
+              "status": "yellow"
+            }
+          }
+        },
+        {
+          "dim": "资产质量",
+          "name": "CAPEX/NP",
+          "value": "17.8%",
+          "threshold": "<50%",
+          "status": "green",
+          "trend": "↑",
+          "confidence": "S",
+          "note": "CAPEX(购建固定资产)19.33亿/NP 108.31亿。年报合并CF P82(S级)。此前误用投资活动现金流出合计(含理财21亿)=37.2%, 修正为CAPEX口径。扩产期在建工程+156%但CAPEX/NP仍<20%, 轻资产特征未变。",
+          "history": {
+            "2021": {
+              "value": "24.9%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "10.0%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "11.3%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "8.8%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "17.8%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "OCF/NP",
+          "value": "65.8%",
+          "threshold": ">50%",
+          "status": "yellow",
+          "trend": "↓",
+          "confidence": "S",
+          "note": "71.23亿/108.31亿。年报PDF合并现金流量表P82原文(S级)。去库存期回款减少，正常年份>100%。关注恢复至>100%的时点。",
+          "history": {
+            "2021": {
+              "value": "96.8%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "79.7%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "80.4%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "142.4%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "65.8%",
+              "status": "yellow"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "非经常损益/NP",
+          "value": "0.7%",
+          "threshold": "<20%",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "扣非107.60亿 vs 归母108.31亿，差异0.66%。年报PDF原文(S级)。利润几乎全部来自主业。",
+          "history": {
+            "2021": {
+              "value": "~1.2%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "~1.0%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "~0.8%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "~0.9%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "0.7%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "净现金/总资产",
+          "value": "31.9%",
+          "threshold": ">10%",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "206.41亿/647.95亿。年报PDF P74-76原文(S级)。有息负债67.01亿纳入计算。此前高估(42.2%)因遗漏有息负债。仍远超10%阈值。",
+          "history": {
+            "2021": {
+              "value": "31.1%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "28.2%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "25.1%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "35.2%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "31.9%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "毛利率趋势",
+          "value": "86.6%",
+          "threshold": "稳定或上升",
+          "status": "green",
+          "trend": "↑",
+          "confidence": "S",
+          "note": "合并口径：(营收257.31-营业成本34.42)/257.31=86.62%。年报合并PL P79原文(S级)。另：P11传统渠道毛利率86.96%(分渠道口径，略高于整体)。行业调整期毛利率仅微降0.9pp，品牌力坚挺。",
+          "history": {
+            "2021": {
+              "value": "85.7%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "86.6%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "88.3%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "87.5%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "86.6%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "管理层",
+          "name": "关联交易",
+          "value": "无异常",
+          "threshold": "无异常",
+          "status": "green",
+          "trend": "—",
+          "confidence": "S",
+          "note": "年报PDF核查无异常关联交易披露。泸州老窖集团(国有)治理规范。审计：信永中和，标准无保留意见(S级)。",
+          "history": {
+            "2021": {
+              "value": "无异常",
+              "status": "green"
+            },
+            "2022": {
+              "value": "无异常",
+              "status": "green"
+            },
+            "2023": {
+              "value": "无异常",
+              "status": "green"
+            },
+            "2024": {
+              "value": "无异常",
+              "status": "green"
+            },
+            "2025": {
+              "value": "无异常",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "管理层",
+          "name": "大股东减持",
+          "value": "无",
+          "threshold": "无",
+          "status": "green",
+          "trend": "—",
+          "confidence": "S",
+          "note": "泸州老窖集团(国有)持股稳定，年报PDF+公开记录核查无减持(S级)。",
+          "history": {
+            "2021": {
+              "value": "无",
+              "status": "green"
+            },
+            "2022": {
+              "value": "无",
+              "status": "green"
+            },
+            "2023": {
+              "value": "无",
+              "status": "green"
+            },
+            "2024": {
+              "value": "无",
+              "status": "green"
+            },
+            "2025": {
+              "value": "无",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "增长质量",
+          "name": "应收增速/营收增速",
+          "value": "健康",
+          "threshold": "≤1.0",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "应收账款仅607万(年末P23)，较年初1,102万-45%。营收-17.5%。年报PDF原文(S级)。应收/营收<0.03%，回款健康。另有应收款项融资(银行承兑汇票)14.66亿。",
+          "history": {
+            "2021": {
+              "value": "健康",
+              "status": "green"
+            },
+            "2022": {
+              "value": "健康",
+              "status": "green"
+            },
+            "2023": {
+              "value": "健康",
+              "status": "green"
+            },
+            "2024": {
+              "value": "健康",
+              "status": "green"
+            },
+            "2025": {
+              "value": "健康",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "行业基准",
+          "name": "毛利率 vs 行业P10",
+          "value": "P5以内",
+          "threshold": ">P10",
+          "status": "green",
+          "trend": "→",
+          "confidence": "B",
+          "note": "86.6%毛利率在白酒行业排前五，远超P10(~55-60%)。行业排名来自公开渠道估算(B级)。",
+          "history": {
+            "2021": {
+              "value": "P5以内",
+              "status": "green"
+            },
+            "2022": {
+              "value": "P5以内",
+              "status": "green"
+            },
+            "2023": {
+              "value": "P5以内",
+              "status": "green"
+            },
+            "2024": {
+              "value": "P5以内",
+              "status": "green"
+            },
+            "2025": {
+              "value": "P5以内",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "🔍行业专属",
+          "name": "批价/出厂价比",
+          "value": "~155%",
+          "threshold": ">95%",
+          "status": "green",
+          "trend": "→",
+          "confidence": "C",
+          "note": "国窖1573批价~850-860元(B)/出厂价~550元(C业内估算)。批价来自渠道数据，出厂价非公开。2025全年批价仅回撤4%。",
+          "history": {
+            "2021": {
+              "value": "无数据",
+              "status": "green"
+            },
+            "2022": {
+              "value": "无数据",
+              "status": "green"
+            },
+            "2023": {
+              "value": "无数据",
+              "status": "green"
+            },
+            "2024": {
+              "value": "无数据",
+              "status": "green"
+            },
+            "2025": {
+              "value": "~155%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "🔍行业专属",
+          "name": "合同负债/营收比",
+          "value": "13.1%",
+          "threshold": ">15%",
+          "status": "yellow",
+          "trend": "↓",
+          "confidence": "S",
+          "note": "合同负债33.67亿(年末P75)/营收257.31亿=13.1%。年报PDF原文(S级)。年末数优于Q1(27.9亿)，但较年初39.78亿下降15.4%。仍在去库存期。",
+          "history": {
+            "2021": {
+              "value": "17.0%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "10.2%",
+              "status": "yellow"
+            },
+            "2023": {
+              "value": "8.8%",
+              "status": "red"
+            },
+            "2024": {
+              "value": "12.8%",
+              "status": "yellow"
+            },
+            "2025": {
+              "value": "13.1%",
+              "status": "yellow"
+            }
+          }
+        }
       ]
     },
     "泡泡玛特": {
@@ -34,19 +437,422 @@
       "warnings": 2,
       "updatePrompt": "更新泡泡玛特（09992.HK）风险跟踪指标。",
       "indicators": [
-        {"dim": "现金真实性", "name": "FCF/NP", "value": "75.9%", "threshold": ">60%", "status": "green", "trend": "→", "confidence": "S", "note": "FCF=108.65-11.71=96.94亿，NP=127.76亿。OCF和CAPEX均从年报PDF现金流量表原文提取。直营模式现金真实。"},
-        {"dim": "资产质量", "name": "净现金增减", "value": "+137.8亿", "threshold": ">0", "status": "green", "trend": "↑", "confidence": "S", "note": "现金137.75亿(年报MD&A原文)-有息负债0(年报明确'无任何银行借款')。上年现金61.09亿→净增76.66亿。第三方数据此前错误报告有息负债28.62亿。"},
-        {"dim": "资产质量", "name": "投资CF/NP", "value": "9.2%", "threshold": "<50%", "status": "green", "trend": "→", "confidence": "S", "note": "购建物业厂房设备9.85亿+无形资产1.86亿=11.71亿/127.76亿。年报PDF现金流量表原文。轻资产IP公司，投资支出远低于阈值。"},
-        {"dim": "盈利质量", "name": "OCF/NP", "value": "85.0%", "threshold": ">50%", "status": "green", "trend": "→", "confidence": "S", "note": "108.65亿/127.76亿。年报PDF现金流量表原文。直营模式无渠道压货，现金流质量高。"},
-        {"dim": "盈利质量", "name": "非经常损益/NP", "value": "~2.4%", "threshold": "<20%", "status": "green", "trend": "→", "confidence": "B", "note": "经调整净利130.84亿 vs 归母127.76亿，差异2.4%。二级来源。非经常性影响很小。年报PDF中可进一步验证。"},
-        {"dim": "盈利质量", "name": "净现金/总资产", "value": "42.9%", "threshold": ">10%", "status": "green", "trend": "↑", "confidence": "S", "note": "137.75亿(年报S级)/321.01亿(B级)。年报明确资产负债率29.4%、零银行借款。资产质量极优。"},
-        {"dim": "盈利质量", "name": "毛利率趋势", "value": "72.1%", "threshold": "稳定或上升", "status": "green", "trend": "↑", "confidence": "B", "note": "2025年72.1% vs 2024年66.8%，+5.3pp。二级来源。高毛利毛绒占比提升+海外直营比例上升驱动。年报PDF中毛利率可进一步验证。"},
-        {"dim": "管理层", "name": "关联交易", "value": "无异常", "threshold": "无异常", "status": "green", "trend": "—", "confidence": "S", "note": "年报PDF核查：无关联方异常交易。审计与风控部直报董事会。发生1起员工贪污诉讼已结案→内部控制有效运行。"},
-        {"dim": "管理层", "name": "大股东减持", "value": "2024.10减持15.6亿", "threshold": "无", "status": "red", "trend": "—", "confidence": "S", "note": "王宁2024.10通过GWF+Hehuo配售2,170万股，均价HK$71.98，套现15.62亿港元。港交所披露+多家媒体交叉验证。合规但减分。"},
-        {"dim": "增长质量", "name": "应收增速/营收增速", "value": "0.50", "threshold": "≤1.0", "status": "green", "trend": "→", "confidence": "B", "note": "贸易应收款9.21亿 vs 4.78亿(+92.8%)，营收+184.7%。二级来源(资产负债表)。年报PDF附注确认应收增加4.43亿→增速远低于营收→赊销未失控。"},
-        {"dim": "行业基准", "name": "毛利率 vs 行业P10", "value": "行业领先", "threshold": ">P10", "status": "green", "trend": "→", "confidence": "B", "note": "72.1%毛利率在潮玩/IP授权行业绝对领先，远超行业P10。品牌溢价+直营高毛利。行业排名为定性判断。"},
-        {"dim": "🔍行业专属", "name": "2-10名IP营收增速", "value": "全线正增长", "threshold": ">0", "status": "green", "trend": "↑", "confidence": "B", "note": "SKULLPANDA 35.4亿(+170%)、CRYBABY 29.3亿(+151%)、MOLLY 29.0亿、DIMOO 27.8亿(+205%)、星星人20.6亿(+1600%)。6大IP超20亿，17个IP过亿(B级公开渠道)。多IP矩阵强劲，不依赖单一IP。"},
-        {"dim": "🔍行业专属", "name": "海外平均单店营收增速", "value": "~+66%", "threshold": ">0", "status": "green", "trend": "↑", "confidence": "C", "note": "海外收入162.7亿(+291.9%)，全球门店630家(净增109家)。海外单店营收~0.58亿(C级估算，门店数未精确拆分)。开店同时营收效率大幅提升。"}
+        {
+          "dim": "现金真实性",
+          "name": "FCF/NP",
+          "value": "75.9%",
+          "threshold": ">60%",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "FCF=108.65-11.71=96.94亿，NP=127.76亿。OCF和CAPEX均从年报PDF现金流量表原文提取。直营模式现金真实。",
+          "history": {
+            "2021": {
+              "value": "52.1%",
+              "status": "red"
+            },
+            "2022": {
+              "value": "114.1%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "147.8%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "142.5%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "75.9%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "资产质量",
+          "name": "净现金增减",
+          "value": "+76.7亿",
+          "threshold": ">0",
+          "status": "green",
+          "trend": "↑",
+          "confidence": "S",
+          "note": "期末净现金137.75亿(货币137.75-有息负债0)-期初净现金61.09亿(货币61.09-有息负债0)=+76.66亿。年报原文(S级)。高增长期OCF 108亿远超CAPEX 12亿+分红, 现金加速积累。此前误填期末余额(+137.8亿)而非增减。",
+          "history": {
+            "2021": {
+              "value": "+52.7亿",
+              "status": "green"
+            },
+            "2022": {
+              "value": "+50.4亿",
+              "status": "green"
+            },
+            "2023": {
+              "value": "+59.6亿",
+              "status": "green"
+            },
+            "2024": {
+              "value": "+96.2亿",
+              "status": "green"
+            },
+            "2025": {
+              "value": "+76.7亿",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "资产质量",
+          "name": "CAPEX/NP",
+          "value": "9.2%",
+          "threshold": "<50%",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "CAPEX=购建物业厂房设备9.85亿+无形资产1.86亿=11.71亿/NP 127.76亿。年报PDF现金流量表原文(S级)。轻资产IP公司，CAPEX/NP仅个位数, 远低于阈值。",
+          "history": {
+            "2021": {
+              "value": "39.1%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "73.1%",
+              "status": "red"
+            },
+            "2023": {
+              "value": "36.2%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "16.0%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "9.2%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "OCF/NP",
+          "value": "85.0%",
+          "threshold": ">50%",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "108.65亿/127.76亿。年报PDF现金流量表原文。直营模式无渠道压货，现金流质量高。",
+          "history": {
+            "2021": {
+              "value": "91.2%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "187.2%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "184.0%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "158.5%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "85.0%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "非经常损益/NP",
+          "value": "2.4%",
+          "threshold": "<20%",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "经调整净利130.84亿 vs 归母127.76亿(年报P7财务摘要S级)。差异2.4%，非经常性影响很小。香港会计准则下调整项主要为股权激励+收购相关。",
+          "history": {
+            "2021": {
+              "value": "17.3%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "20.6%",
+              "status": "yellow"
+            },
+            "2023": {
+              "value": "10.1%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "8.8%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "2.4%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "净现金/总资产",
+          "value": "42.9%",
+          "threshold": ">10%",
+          "status": "green",
+          "trend": "↑",
+          "confidence": "S",
+          "note": "137.75亿(年报S级)/321.01亿(B级)。年报明确资产负债率29.4%、零银行借款。资产质量极优。",
+          "history": {
+            "2021": {
+              "value": "63.2%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "58.8%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "59.8%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "64.7%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "42.9%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "毛利率趋势",
+          "value": "72.1%",
+          "threshold": "稳定或上升",
+          "status": "green",
+          "trend": "↑",
+          "confidence": "S",
+          "note": "2025年72.1% vs 2024年66.8%，+5.3pp(年报P7财务摘要S级)。毛绒产品收入187亿(+561%)首次成最大品类→高毛利结构升级驱动。",
+          "history": {
+            "2021": {
+              "value": "61.4%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "57.5%",
+              "status": "red"
+            },
+            "2023": {
+              "value": "61.3%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "66.8%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "72.1%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "管理层",
+          "name": "关联交易",
+          "value": "无异常",
+          "threshold": "无异常",
+          "status": "green",
+          "trend": "—",
+          "confidence": "S",
+          "note": "年报PDF核查：无关联方异常交易。审计与风控部直报董事会。发生1起员工贪污诉讼已结案→内部控制有效运行。",
+          "history": {
+            "2021": {
+              "value": "无异常",
+              "status": "green"
+            },
+            "2022": {
+              "value": "无异常",
+              "status": "green"
+            },
+            "2023": {
+              "value": "无异常",
+              "status": "green"
+            },
+            "2024": {
+              "value": "无异常",
+              "status": "green"
+            },
+            "2025": {
+              "value": "无异常",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "管理层",
+          "name": "大股东减持",
+          "value": "2024.10减持15.6亿",
+          "threshold": "无",
+          "status": "red",
+          "trend": "—",
+          "confidence": "S",
+          "note": "王宁2024.10通过GWF+Hehuo配售2,170万股，均价HK$71.98，套现15.62亿港元。港交所披露+多家媒体交叉验证。合规但减分。",
+          "history": {
+            "2021": {
+              "value": "无",
+              "status": "green"
+            },
+            "2022": {
+              "value": "无",
+              "status": "green"
+            },
+            "2023": {
+              "value": "无",
+              "status": "green"
+            },
+            "2024": {
+              "value": "2024.10减持15.6亿",
+              "status": "red"
+            },
+            "2025": {
+              "value": "2024.10减持(历史)",
+              "status": "yellow"
+            }
+          }
+        },
+        {
+          "dim": "增长质量",
+          "name": "应收增速/营收增速",
+          "value": "0.50",
+          "threshold": "≤1.0",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "贸易应收款9.21亿(年报P226+附注P343 S级) vs 4.78亿(+92.8%)，营收+184.7%。应收增速远低于营收增速→赊销未失控。直营模式应收风险天生低。",
+          "history": {
+            "2021": {
+              "value": "0.90",
+              "status": "green"
+            },
+            "2022": {
+              "value": "4.82",
+              "status": "red"
+            },
+            "2023": {
+              "value": "1.79",
+              "status": "yellow"
+            },
+            "2024": {
+              "value": "0.46",
+              "status": "green"
+            },
+            "2025": {
+              "value": "0.50",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "行业基准",
+          "name": "毛利率 vs 行业P10",
+          "value": "行业领先",
+          "threshold": ">P10",
+          "status": "green",
+          "trend": "→",
+          "confidence": "B",
+          "note": "72.1%毛利率在潮玩/IP授权行业绝对领先，远超行业P10。品牌溢价+直营高毛利。行业排名为定性判断。",
+          "history": {
+            "2021": {
+              "value": "行业领先",
+              "status": "green"
+            },
+            "2022": {
+              "value": "行业领先",
+              "status": "green"
+            },
+            "2023": {
+              "value": "行业领先",
+              "status": "green"
+            },
+            "2024": {
+              "value": "行业领先",
+              "status": "green"
+            },
+            "2025": {
+              "value": "行业领先",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "🔍行业专属",
+          "name": "2-10名IP营收增速",
+          "value": "全线正增长",
+          "threshold": ">0",
+          "status": "green",
+          "trend": "↑",
+          "confidence": "S",
+          "note": "SKULLPANDA 35.40亿(+170.6%)、CRYBABY 29.29亿(+151.4%)、MOLLY 28.97亿(+38.4%)、DIMOO 27.77亿(+205.3%)、星星人20.56亿(+1601.8%)。年报P28 IP收入明细原文(S级)。6大IP均超20亿，17个IP过亿。多IP矩阵强劲。",
+          "history": {
+            "2021": {
+              "value": "全线正增长",
+              "status": "green"
+            },
+            "2022": {
+              "value": "部分下滑",
+              "status": "yellow"
+            },
+            "2023": {
+              "value": "全线正增长",
+              "status": "green"
+            },
+            "2024": {
+              "value": "全线正增长",
+              "status": "green"
+            },
+            "2025": {
+              "value": "全线正增长",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "🔍行业专属",
+          "name": "海外平均单店营收增速",
+          "value": "正增长",
+          "threshold": ">0",
+          "status": "green",
+          "trend": "↑",
+          "confidence": "B",
+          "note": "年报P25明确：美洲门店22→64家，'单店收入增加'。海外总收入162.7亿(亚太80.1+美洲68.1+欧洲等)。全球门店630家(S级P15)。开店与单店效率同步提升。",
+          "history": {
+            "2021": {
+              "value": "起步期",
+              "status": "green"
+            },
+            "2022": {
+              "value": "起步期",
+              "status": "green"
+            },
+            "2023": {
+              "value": "正增长",
+              "status": "green"
+            },
+            "2024": {
+              "value": "正增长",
+              "status": "green"
+            },
+            "2025": {
+              "value": "正增长",
+              "status": "green"
+            }
+          }
+        }
       ]
     },
     "陕西煤业": {
@@ -58,19 +864,422 @@
       "warnings": 0,
       "updatePrompt": "更新陕西煤业（601225.SH）风险跟踪指标。",
       "indicators": [
-        {"dim": "现金真实性", "name": "FCF/NP", "value": "108.6%", "threshold": ">30%", "status": "green", "trend": "→", "confidence": "S", "note": "FCF=182.09亿，NP=167.65亿。经营现金流352.69亿，CAPEX 170.60亿。年报PDF原文提取+现金流量表补充资料。煤矿折旧巨大致FCF>NP。"},
-        {"dim": "资产质量", "name": "净现金增减", "value": "~20亿", "threshold": ">0", "status": "yellow", "trend": "↓", "confidence": "S", "note": "现金218.60亿，长期借款198.22亿，净现金≈20.38亿。年报原文提取。受限资金99.38亿。重资产矿业天然负债偏高。"},
-        {"dim": "资产质量", "name": "投资CF/NP", "value": "101.8%", "threshold": "<50%", "status": "red", "trend": "→", "confidence": "S", "note": "购建固定资产170.60亿/NP 167.65亿。年报现金流量表原文提取。CAPEX/NP≈102%，矿业维持性资本开支极高，但配合ROE 17.9%→投入有效。"},
-        {"dim": "盈利质量", "name": "OCF/NP", "value": "210.4%", "threshold": ">50%", "status": "green", "trend": "→", "confidence": "S", "note": "352.69亿/167.65亿。年报原文提取。矿业特征：折旧巨大、经营现金流远超净利润。真实变现能力极强。"},
-        {"dim": "盈利质量", "name": "非经常损益/NP", "value": "~8.5%", "threshold": "<20%", "status": "green", "trend": "→", "confidence": "S", "note": "扣非153.45亿 vs 归母167.65亿，差额14.2亿(含投资收益38.97亿)。年报原文提取。非经常性占比合理。"},
-        {"dim": "盈利质量", "name": "净现金/总资产", "value": "~9.3%", "threshold": ">10%", "status": "yellow", "trend": "→", "confidence": "S", "note": "现金218.60亿/总资产2362.69亿=9.3%。年报原文提取。重资产行业特征，接近阈值。煤矿资源储量115亿吨未计入。"},
-        {"dim": "盈利质量", "name": "毛利率趋势", "value": "~29.1%", "threshold": "稳定或上升", "status": "yellow", "trend": "↓", "confidence": "S", "note": "(1581.79-1122.14)/1581.79=29.1%。年报原文提取。煤价从860→703元/吨(-18%)，毛利率承压。关注煤价企稳信号。"},
-        {"dim": "管理层", "name": "关联交易", "value": "资产注入(公允)", "threshold": "无异常", "status": "green", "trend": "—", "confidence": "S", "note": "陕煤集团资源/资产注入(煤电一体化)。年报核查+公开信息。定价公允，对小股东有利。"},
-        {"dim": "管理层", "name": "大股东减持", "value": "无", "threshold": "无", "status": "green", "trend": "—", "confidence": "S", "note": "陕西省国资委控股，年报+公开记录核查无减持。"},
-        {"dim": "增长质量", "name": "应收增速/营收增速", "value": "预警", "threshold": "≤1.0", "status": "yellow", "trend": "↑", "confidence": "B", "note": "应收票据+账款年末65.88亿 vs 年初~51亿(+28%)，营收-14.1%(S级)。营收收缩但应收扩张→回款压力加大。应收/营收=4.2%，绝对值仍低。需关注后续季报是否恶化。"},
-        {"dim": "行业基准", "name": "毛利率 vs 行业P10", "value": "行业领先", "threshold": ">P10", "status": "green", "trend": "→", "confidence": "B", "note": "29.1%毛利率在煤炭行业中成本优势显著。吨煤成本行业最低之一(B级公开渠道)。陕西优质矿区+露天开采占比高。"},
-        {"dim": "🔍行业专属", "name": "5500大卡煤价/长协基准", "value": "~104%", "threshold": ">80%", "status": "green", "trend": "↓", "confidence": "B", "note": "2025年均价~703元/吨，长协基准~675元/吨(B级公开市场数据)。同比-18.4%。2026Q1继续低位。煤价仍高于长协基准但贴近。"},
-        {"dim": "🔍行业专属", "name": "长协合同占比", "value": "~80%", "threshold": "年报披露值", "status": "green", "trend": "→", "confidence": "C", "note": "行业惯例约70-80%(C级估算，待年报确认)。长协占比高意味着利润稳定性强，抵御市场煤价波动能力强。"}
+        {
+          "dim": "现金真实性",
+          "name": "FCF/NP",
+          "value": "108.6%",
+          "threshold": ">30%",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "FCF=182.09亿，NP=167.65亿。经营现金流352.69亿，CAPEX 170.60亿。年报PDF原文提取+现金流量表补充资料。煤矿折旧巨大致FCF>NP。",
+          "history": {
+            "2021": {
+              "value": "204.1%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "130.9%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "130.4%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "127.3%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "108.6%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "资产质量",
+          "name": "净现金增减",
+          "value": "-91.6亿",
+          "threshold": ">0",
+          "status": "red",
+          "trend": "↓",
+          "confidence": "S",
+          "note": "期末净现金~20.38亿(货币218.60-长期借款198.22)-期初净现金~112亿=-91.6亿。年报原文提取(S级)。煤价下行+高分红+高CAPEX三重消耗。受限资金99.38亿。此前误填期末余额(~20亿)而非增减。",
+          "history": {
+            "2021": {
+              "value": "~442亿",
+              "status": "green"
+            },
+            "2022": {
+              "value": "~422亿",
+              "status": "green"
+            },
+            "2023": {
+              "value": "~172亿",
+              "status": "green"
+            },
+            "2024": {
+              "value": "~112亿",
+              "status": "green"
+            },
+            "2025": {
+              "value": "-91.6亿",
+              "status": "red"
+            }
+          }
+        },
+        {
+          "dim": "资产质量",
+          "name": "CAPEX/NP",
+          "value": "101.8%",
+          "threshold": "<100%",
+          "status": "red",
+          "trend": "↑",
+          "confidence": "S",
+          "note": "CAPEX(购建固定资产)170.60亿/NP 167.65亿。年报现金流量表原文(S级)。重资产矿业CAPEX天然偏高, 配合ROE 17.9%→投入有效。阈值<100%为矿业放宽标准(轻资产<50%)。此前误标为'投资CF/NP'。",
+          "history": {
+            "2021": {
+              "value": "37.7%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "29.0%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "51.3%",
+              "status": "yellow"
+            },
+            "2024": {
+              "value": "62.1%",
+              "status": "yellow"
+            },
+            "2025": {
+              "value": "101.8%",
+              "status": "red"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "OCF/NP",
+          "value": "210.4%",
+          "threshold": ">50%",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "352.69亿/167.65亿。年报原文提取。矿业特征：折旧巨大、经营现金流远超净利润。真实变现能力极强。",
+          "history": {
+            "2021": {
+              "value": "241.8%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "159.9%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "181.7%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "189.4%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "210.4%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "非经常损益/NP",
+          "value": "~8.5%",
+          "threshold": "<20%",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "扣非153.45亿 vs 归母167.65亿，差额14.2亿(含投资收益38.97亿)。年报原文提取。非经常性占比合理。",
+          "history": {
+            "2021": {
+              "value": "~3.1%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "~16.3%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "~-16.2%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "~5.4%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "~8.5%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "净现金/总资产",
+          "value": "~9.3%",
+          "threshold": ">10%",
+          "status": "yellow",
+          "trend": "→",
+          "confidence": "S",
+          "note": "现金218.60亿/总资产2362.69亿=9.3%。年报原文提取。重资产行业特征，接近阈值。煤矿资源储量115亿吨未计入。",
+          "history": {
+            "2021": {
+              "value": "~21.8%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "~19.6%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "~8.9%",
+              "status": "yellow"
+            },
+            "2024": {
+              "value": "~4.9%",
+              "status": "yellow"
+            },
+            "2025": {
+              "value": "~9.3%",
+              "status": "yellow"
+            }
+          }
+        },
+        {
+          "dim": "盈利质量",
+          "name": "毛利率趋势",
+          "value": "~29.1%",
+          "threshold": "稳定或上升",
+          "status": "yellow",
+          "trend": "↓",
+          "confidence": "S",
+          "note": "(1581.79-1122.14)/1581.79=29.1%。年报原文提取。煤价从860→703元/吨(-18%)，毛利率承压。关注煤价企稳信号。",
+          "history": {
+            "2021": {
+              "value": "~35.9%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "~45.0%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "~37.9%",
+              "status": "yellow"
+            },
+            "2024": {
+              "value": "~32.7%",
+              "status": "yellow"
+            },
+            "2025": {
+              "value": "~29.1%",
+              "status": "yellow"
+            }
+          }
+        },
+        {
+          "dim": "管理层",
+          "name": "关联交易",
+          "value": "资产注入(公允)",
+          "threshold": "无异常",
+          "status": "green",
+          "trend": "—",
+          "confidence": "S",
+          "note": "陕煤集团资源/资产注入(煤电一体化)。年报核查+公开信息。定价公允，对小股东有利。",
+          "history": {
+            "2021": {
+              "value": "资产注入(公允)",
+              "status": "green"
+            },
+            "2022": {
+              "value": "资产注入(公允)",
+              "status": "green"
+            },
+            "2023": {
+              "value": "资产注入(公允)",
+              "status": "green"
+            },
+            "2024": {
+              "value": "资产注入(公允)",
+              "status": "green"
+            },
+            "2025": {
+              "value": "资产注入(公允)",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "管理层",
+          "name": "大股东减持",
+          "value": "无",
+          "threshold": "无",
+          "status": "green",
+          "trend": "—",
+          "confidence": "S",
+          "note": "陕西省国资委控股，年报+公开记录核查无减持。",
+          "history": {
+            "2021": {
+              "value": "无",
+              "status": "green"
+            },
+            "2022": {
+              "value": "无",
+              "status": "green"
+            },
+            "2023": {
+              "value": "无",
+              "status": "green"
+            },
+            "2024": {
+              "value": "无",
+              "status": "green"
+            },
+            "2025": {
+              "value": "无",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "增长质量",
+          "name": "应收增速/营收增速",
+          "value": "+37.9%/-14.1%",
+          "threshold": "≤1.0",
+          "status": "yellow",
+          "trend": "↑",
+          "confidence": "S",
+          "note": "应收合计66.82亿(票据6.63+账款59.25+融资0.94) vs 48.45亿(+37.9%)，营收-14.1%。年报PDF P80原文(S级)。营收收缩但应收扩张→煤价下行期客户付款方式恶化(票据+837%)。应收/营收=4.2%绝对值仍低。",
+          "history": {
+            "2021": {
+              "value": "+25%/+60%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "+25%/+9.5%",
+              "status": "yellow"
+            },
+            "2023": {
+              "value": "+40%/+8.8%",
+              "status": "yellow"
+            },
+            "2024": {
+              "value": "+38%/+1.5%",
+              "status": "yellow"
+            },
+            "2025": {
+              "value": "+37.9%/-14.1%",
+              "status": "red"
+            }
+          }
+        },
+        {
+          "dim": "行业基准",
+          "name": "毛利率 vs 行业P10",
+          "value": "自产煤46.9%",
+          "threshold": ">P10",
+          "status": "green",
+          "trend": "→",
+          "confidence": "S",
+          "note": "自产煤毛利率46.86%(年报P18原文S级)，贸易煤仅1.39%，整体29.1%。自产煤毛利率在煤炭行业处于绝对领先(中国神华自产煤~35%、中煤能源~28%)。吨煤成本行业最低之一。",
+          "history": {
+            "2021": {
+              "value": "自产煤62.3%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "自产煤66.8%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "自产煤59.5%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "自产煤45.5%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "自产煤46.9%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "🔍行业专属",
+          "name": "5500大卡煤价/长协基准",
+          "value": "101.3%",
+          "threshold": ">80%",
+          "status": "green",
+          "trend": "↓",
+          "confidence": "S",
+          "note": "秦皇岛年均703元/吨，NCEI长协年末执行价694元/吨(年报P12原文S级)。全年长协均价680元/吨。煤价仍高于长协基准但贴近（此前B级数据有偏差）。",
+          "history": {
+            "2021": {
+              "value": "157.7%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "176.1%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "134.0%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "122.9%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "101.3%",
+              "status": "green"
+            }
+          }
+        },
+        {
+          "dim": "🔍行业专属",
+          "name": "长协合同占比",
+          "value": "未披露具体%",
+          "threshold": "年报披露值",
+          "status": "green",
+          "trend": "→",
+          "confidence": "B",
+          "note": "年报P36明确'严格履行长协合同'但未披露长协占比具体数字。自产煤销量15,985万吨，均价443.78元/吨(S级P19)。长协占比为行业惯例70-80%估算，待公司IR确认。",
+          "history": {
+            "2021": {
+              "value": "未披露具体%",
+              "status": "green"
+            },
+            "2022": {
+              "value": "未披露具体%",
+              "status": "green"
+            },
+            "2023": {
+              "value": "未披露具体%",
+              "status": "green"
+            },
+            "2024": {
+              "value": "未披露具体%",
+              "status": "green"
+            },
+            "2025": {
+              "value": "未披露具体%",
+              "status": "green"
+            }
+          }
+        }
       ]
     }
   }
