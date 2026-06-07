@@ -1,0 +1,352 @@
+
+============================================================
+📄 第173页
+============================================================
+For the year ended 31 December 2022 截至2022年12月31日止年度
+CONSOLIDATED STATEMENT OF CASH FLOWS
+綜合現金流量表
+中國食品有限公司  年報 2022 171
+ 
+ 
+ 
+ 
+ 
+2022
+2021
+2022年
+2021年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Cash flows from operating activities
+經營業務所得之現金流
+Cash generated from operations
+經營業務所得之現金
+32(a)
+1,555,019
+1,431,200
+Interest paid
+已付利息
+(3,508)
+(148)
+Income tax paid
+已付所得稅
+(410,445)
+(357,064)
+ 
+ 
+ 
+ 
+ 
+Net cash from operating activities
+經營業務所得之現金淨額
+1,141,066
+1,073,988
+ 
+ 
+ 
+ 
+ 
+Cash flows from investing activities 投資活動所得之現金流
+Acquisition of addition interests 
+in subsidiaries
+收購於附屬公司之
+新增權益
+–
+(230,050)
+Purchases of property, plant and 
+equipment
+購置物業、廠房及設備
+(881,894)
+(713,578)
+Purchases of intangible assets
+購置無形資產
+(6,813)
+(13,626)
+Proceeds from disposal of 
+property, plant and equipment
+出售物業、廠房及設備
+所得款項
+11,437
+8,017
+Proceeds from disposal of assets 
+classified as held for sale
+出售分類為持有待售資
+產之所得款項
+–
+23,711
+Dividends received from associates 已收聯營公司股息
+–
+10,438
+Interest received
+已收利息
+18,827
+30,893
+Withdrawal of pledged bank 
+deposits
+提取已抵押銀行存款
+–
+10,540
+Receipt of government grants
+收到政府補助
+7,217
+27,015
+ 
+ 
+ 
+ 
+ 
+Net cash used in investing activities 投資活動所用現金淨額
+(851,226)
+(846,640)
+ 
+ 
+ 
+ 
+ 
+Cash flows from financing activities 融資活動所得現金流
+Repayments of bank borrowings
+償還銀行借款
+–
+(20,000)
+Principle elements of lease 
+payments
+租賃付款部分
+(49,595)
+(45,741)
+Dividends paid to the Company’s 
+shareholders
+向本公司股東支付股息
+(297,051)
+(248,953)
+Dividends paid to non-controlling 
+interests in subsidiaries
+向附屬公司非控股權益
+支付股息
+(497,489)
+(181,366)
+ 
+ 
+ 
+ 
+ 
+Net cash used in financing 
+activities
+融資活動所用現金淨額
+(844,135)
+(496,060)
+ 
+ 
+ 
+ 
+ 
+Net decrease in cash and cash 
+equivalents
+現金及現金等值項目減
+少淨額
+(554,295)
+(268,712)
+Cash and cash equivalents at the 
+beginning of the financial year
+於財政年度初之現金及
+現金等值項目
+1,591,703
+1,860,415
+ 
+ 
+ 
+ 
+ 
+Cash and cash equivalents at end 
+of year
+年終之現金及現金等值
+項目
+23
+1,037,408
+1,591,703
+ 
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第174页
+============================================================
+For the year ended 31 December 2022 截至2022年12月31日止年度
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+CHINA FOODS LIMITED ANNUAL REPORT 2022
+172
+1 
+CORPORATE INFORMATION
+China Foods Limited (the “Company”) is a limited liability 
+company incorporated in Bermuda. The registered office of 
+the Company is located at Clarendon House, 2 Church Street, 
+Hamilton HM 11, Bermuda.
+The Company is a subsidiary of China Foods (Holdings) 
+Limited, a company incorporated in the British Virgin Islands. 
+In the opinion of the directors of the Company (the 
+“Directors”), the ultimate holding company is COFCO 
+Corporation, which is a state-owned enterprise registered in 
+the People’s Republic of China (the “PRC”).
+During the year, the Company and its subsidiaries (collectively 
+referred to as the “Group”) were involved in processing, 
+bottling and distribution of sparkling beverage products, and 
+distribution of still beverage products.
+The consolidated financial statements are presented in 
+Renminbi (“RMB”), which is also the Company’s functional 
+currency.
+2 
+BASIS OF PREPARATION
+Compliance with HKFRS and HKCO
+The consolidated financial statements of the Group have 
+been prepared in accordance with Hong Kong Financial 
+Reporting Standards (HKFRS) and the disclosure requirements 
+of the Hong Kong Companies Ordinance (HKCO) Cap. 622.
+The consolidated financial statements have been prepared 
+on a going concern basis notwithstanding that the Group 
+had net current liabilities of RMB1,297,030,000 at the end 
+of the reporting period. In preparing these consolidated 
+financial statements, the Directors have given careful 
+consideration to the current and anticipated future liquidity 
+of the Group. Taking into account, inter alia, (i) the unutilized 
+loan facilities at the end of the reporting period, and (ii) the 
+expected net cash inflows generated from the Group’s 
+operations for the next twelve months. The Directors are of 
+the opinion that the Group will be able to meet its liabilities 
+as and when they fall due. Accordingly, the Directors consider 
+that the preparation of these consolidated financial statements 
+on a going concern basis is appropriate.
+1 
+公司資料
+中國食品有限公司（「本公司」）為一家
+於百慕達註冊成立的有限責任公司。
+本公司之註冊辦事處位於Clarendon 
+House, 2 Church Street, Hamilton 
+HM 11, Bermuda。
+本公司乃在英屬維爾京群島註冊成立
+的中國食品（控股）有限公司的附屬公
+司。本公司董事（「董事」）認為，最終
+控股公司為於中華人民共和國（「中
+國」）註冊的國有企業中糧集團有限公
+司。
+於本年度，本公司及其附屬公司（統
+稱「本集團」）參與加工、裝瓶及分銷
+汽水飲料產品以及分銷不含氣飲料產
+品。
+綜合財務報表以人民幣（「人民幣」）列
+報，人民幣亦為本公司的功能貨幣。
+2 
+編製基準
+符合香港財務報告準則及香港公司條例
+本集團的綜合財務報表已根據香港財
+務報告準則（香港財務報告準則）及第
+622章香港《公司條例》的披露規定編
+製。
+儘管本集團於報告期末有流動負債淨
+額人民幣1,297,030,000元，本綜合
+財務報表按持續經營基準編製。在編
+製此等綜合財務報表時，董事已審慎
+考慮本集團目前及預期未來流動資
+金。經考慮（其中包括）(i)於報告期末
+尚未使用的貸款授信；及(ii)本集團
+未來十二個月透過經營業務所產生的
+預期現金流入淨額，董事認為，本集
+團將能夠應付其到期負債。因此，董
+事認為按持續經營基準編製此等綜合
+財務報表乃屬適當。
+
+============================================================
+📄 第175页
+============================================================
+For the year ended 31 December 2022 截至2022年12月31日止年度
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+中國食品有限公司  年報 2022 173
+2 
+編製基準（續）
+歷史成本約定
+綜合財務報表以歷史成本為基礎編
+製，但下列情況除外：
+‧ 
+若干金融資產－以公平值計量
+‧ 
+持有待售資產－按賬面價值和
+公平值減去出售成本中的較低
+者計量
+本集團採用的新準則及修訂準則
+本集團於2022年1月1日起的年度報
+告期間首次應用以下修訂：
+‧ 
+物業、廠房及設備－作擬定用
+途前之所得款項－香港會計準
+則第16號（修訂本）
+‧ 
+虧損合約－履行一份合約之成
+本－香港會計準則第37號（修
+訂本）
+‧ 
+2018年至2020年香港財務報
+告準則之年度改進週期，及
+‧ 
+提述概念框架－香港財務報告
+準則第3號（修訂本）
+‧ 
+於2021年6月30日後之新冠肺
+炎疫情相關租金減免－香港財
+務報告準則第16號（修訂本）
+（2021年3月）
+（「香港財務報告
+準則第16號（修訂本）
+（2021年3
+月）」）
+‧ 
+經修訂會計指引第5號共同控
+制合併的合併會計法
+上述修訂對前期確認的金額並無任何
+影響，預計不會對本期間或未來期間
+產生重大影響。
+2 
+BASIS OF PREPARATION (continued)
+Historical cost convention
+The consolidated financial statements have been prepared 
+on a historical cost basis, except for the following:
+• 
+certain financial assets – measured at fair value
+• 
+assets held for sale – measured at the lower of carrying 
+amount and fair value less cost to sell
+New and amended standards adopted by the Group
+The Group has applied the following amendments for the 
+first time for their annual reporting period commencing 1 
+January 2022:
+• 
+Property, Plant and Equipment: Proceeds before 
+Intended Use – Amendments to HKAS 16
+• 
+Onerous Contracts – Cost of Fulfilling a Contract – 
+Amendments to HKAS 37
+• 
+Annual Improvements to HKFRS Standards 2018-
+2020, and
+• 
+Reference to the Conceptual Framework – Amendments 
+to HKFRS 3
+• 
+Covid-19 Related Rent Concessions beyond 30 June 
+2021 – Amendment to HKFRS 16 (March 2021) (the 
+“HKFRS 16 Amendment (March 2021)”)
+• 
+Amendments to AG 5 Merger Accounting for Common 
+Control Combinations
+The amendments listed above did not have any impact on 
+the amounts recognised in prior periods and are not expected 
+to significantly affect the current or future periods.

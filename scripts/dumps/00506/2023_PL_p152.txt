@@ -1,0 +1,266 @@
+
+============================================================
+📄 第152页
+============================================================
+For the year ended 31 December 2023 截至2023年12月31日止年度
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+CHINA FOODS LIMITED ANNUAL REPORT 2023
+150
+22 存貨
+22.1 存貨的會計政策
+原材料及製成品按成本與可變
+現淨值兩者中之較低者列賬。
+成本包括直接材料、直接勞工
+及適當比例的可變及固定間接
+開支，後者按正常營運能力分
+配。成本不包括借貸成本。成本
+按加權平均成本分配至個別存
+貨項目。購入存貨之成本於扣
+除返利及折扣後釐定。可變現
+淨值為日常業務過程中之估計
+售價減估計完成成本及進行銷
+售所需之估計成本。
+22.2 存貨的財務資料
+截至2023年12月31日止年度，於
+綜合損益表確認為開支的存貨
+成本為人民幣13,902,630,000元
+（2022年：人民幣13,469,507,000
+元）。
+22 INVENTORIES
+22.1 Accounting policies of inventories
+Raw materials and finished goods are stated at the 
+lower of cost and net realisable value. Cost comprises 
+direct materials, direct labour and an appropriate 
+proportion of variable and fixed overhead expenditure, 
+the latter being allocated on the basis of normal 
+operating capacity. Cost excludes borrowing costs. 
+Costs are assigned to individual items of inventory on 
+the basis of weighted average costs. Costs of purchased 
+inventory are determined after deducting rebates and 
+discounts. Net realisable value is the estimated selling 
+price in the ordinary course of business less the 
+estimated costs of completion and the estimated costs 
+necessary to make the sale.
+22.2 Financial information of inventories
+ 
+ 
+ 
+ 
+2023
+2022
+2023年
+2022年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Raw materials
+原料
+413,384
+407,594
+Finished goods
+製成品
+1,323,345
+1,480,108
+ 
+ 
+ 
+ 
+1,736,729
+1,887,702
+ 
+ 
+ 
+ 
+The cost of inventories recognised as an expense in 
+the consolidated statement of profit or loss amounted 
+to RMB13,902,630,000 for the year ended 31 
+December 2023 (2022: RMB13,469,507,000).
+
+============================================================
+📄 第153页
+============================================================
+For the year ended 31 December 2023 截至2023年12月31日止年度
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+中國食品有限公司  年報 2023 151
+23 現金及現金等值項目（續）
+23.1 現金及現金等值項目的會計政
+策
+就呈列現金流量表而言，現金
+及現金等值項目包括庫存現
+金、金融機構通知存款、原到期
+日為三個月或以下可隨時轉換
+為已知金額現金且價值變動風
+險不大之其他短期高流動性投
+資及銀行透支。銀行透支於財
+務狀況表之流動負債內之借貸
+中呈列。
+本集團的現金及現金等值項目
+僅包括庫存現金及金融機構通
+知存款。
+23.2 現金及現金等值項目的財務資
+料
+存放於銀行之現金乃按每日銀
+行存款利率計算之浮息利率賺
+取利息。銀行結餘及抵押銀行
+存款存入最近並無違約記錄之
+信譽良好之銀行。
+23 CASH AND CASH EQUIVALENTS (continued)
+23.1 Accounting policies of cash and cash equivalents
+For the purpose of presentation in the statement of 
+cash flows, cash and cash equivalents includes cash 
+on hand, deposits held at call with financial institutions, 
+other short-term, highly liquid investments with original 
+maturities of three months or less that are readily 
+convertible to known amounts of cash and which are 
+subject to an insignificant risk of changes in value, 
+and bank overdrafts. Bank overdrafts are shown within 
+borrowings in current liabilities in the statement of 
+financial position.
+The Group’s cash and cash equivalents only includes 
+cash on hand and deposits held at call with financial 
+institutions.
+23.2 Financial information of cash and cash equivalents
+ 
+ 
+ 
+ 
+2023
+2022
+2023年
+2022年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Cash and bank balances
+現金及銀行結餘
+2,293,015
+1,037,408
+Pledged bank deposits
+抵押銀行存款
+11,275
+2,916
+ 
+ 
+ 
+ 
+2,304,290
+1,040,324
+Less: Pledged bank deposits 
+for bills payable (note 25)
+減：就應付票據抵押之
+銀行存款（附註25）
+(11,275)
+(2,916)
+ 
+ 
+ 
+ 
+Cash and cash equivalents
+現金及現金等值項目
+2,293,015
+1,037,408
+ 
+ 
+ 
+ 
+Cash at banks earns interest at floating rates based 
+on daily bank deposit rates. The bank balances and 
+pledged bank deposits are deposited with creditworthy 
+banks with no recent history of default.
+
+============================================================
+📄 第154页
+============================================================
+For the year ended 31 December 2023 截至2023年12月31日止年度
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+CHINA FOODS LIMITED ANNUAL REPORT 2023
+152
+24 股本
+25 應付貿易賬款及票據
+25.1 應付貿易賬款及票據的會計政
+策
+該等金額指於財政年度完結前
+向本集團提供貨品及服務而尚
+未支付之負債。除非付款於報
+告期後12個月內到期，否則貿
+易及其他應付款項呈列為流動
+負債。該等金融資產初步按公
+平值確認，其後以實際利率法
+按攤銷成本計量。
+應付貿易賬款及票據為不計
+息，一般的付款期分別為一至
+三個月及一至六個月。
+24 SHARE CAPITAL
+ 
+ 
+ 
+ 
+Number of 
+shares
+Share capital
+股份數目
+股本
+HKD’000
+千港元
+ 
+ 
+ 
+ 
+Authorised:
+法定：
+4,000,000,000 ordinary shares of 
+HKD 0.10 each
+4,000,000,000股每股
+面值0.10港元之普通股
+4,000,000,000
+400,000
+ 
+ 
+ 
+ 
+Issued and fully paid
+已發行及繳足
+At 1 January, 31 December 2022 
+and 2023 2,797,223,396 
+ordinary shares of HKD 0.10 
+each
+於2022年及
+2023年1月1日、12月31日
+2,797,223,396股每股
+面值0.10港元之普通股
+2,797,223,396
+279,722
+ 
+ 
+ 
+ 
+Equivalent to RMB’000
+等於人民幣千元
+293,201
+ 
+ 
+ 
+ 
+25 TRADE AND BILLS PAYABLES
+25.1 Accounting policies of trade and bills payables
+These amounts represent liabilities for goods and 
+services provided to the Group prior to the end of 
+financial year which are unpaid. Trade and other 
+payables are presented as current liabilities unless 
+payment is not due within 12 months after the reporting 
+period. They are recognized initially at their fair value 
+and subsequently measured at amortised cost using 
+the effective interest method.
+The trade and bills payables are non-interest-bearing 
+and are normally settled in one to three months and 
+one to six months, respectively.

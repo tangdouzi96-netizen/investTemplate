@@ -1,0 +1,331 @@
+
+============================================================
+📄 第182页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2024
+180
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2024 截至2024 年12 月31 日止年度
+(Expressed in Renminbi)（以人民幣列示）
+29 股本
+30 現金流資料
+(a) 融資活動產生負債之對賬
+下表詳列本集團融資活動產生
+的負債變動，包括現金及非現
+金變動。融資活動產生的負債
+指現金流量已被或未來現金流
+量將於本集團綜合現金流量表
+中分類為融資活動現金流量的
+負債。
+29 SHARE CAPITAL
+ 
+ 
+ 
+ 
+Number of shares
+Amount
+股份數目
+金額
+HKD’000
+千港元
+ 
+ 
+ 
+ 
+Ordinary shares of  
+HKD 0.10 each
+每股面值0.10港元之 
+普通股
+Authorised
+法定
+At 1 January 2023, 31 December 
+2023, 1 January 2024 and 31 
+December 2024
+於2023年1月1日、2023年
+12月31日、2024年1月1
+日及2024年12月31日
+4,000,000,000
+400,000
+ 
+ 
+ 
+ 
+Issued and fully paid
+已發行及繳足
+At 1 January 2023, 31 December 
+2023, 1 January 2024 and 31 
+December 2024
+於2023年1月1日、2023年
+12月31日、2024年1月1
+日及2024年12月31日
+2,797,223,396
+279,722
+ 
+ 
+ 
+ 
+Equivalent to RMB’000
+等於人民幣千元
+293,201
+ 
+ 
+ 
+ 
+30 CASH FLOW INFORMATION
+(a) Reconciliation of liabilities arising from 
+financing activities
+The table below details changes in the Group’s 
+liabilities arising from financing activities, including 
+both cash and non-cash changes. Liabilities arising 
+from financing activities are those for which cash 
+flows were, or future cash flows will be, classified in 
+the Group’s consolidated statement of cash flows as 
+cash flows from financing activities.
+ 
+ 
+ 
+Lease liabilities
+租賃負債
+RMB’000
+人民幣千元
+ 
+ 
+ 
+At 1 January 2023
+於2023年1月1日
+57,709
+Interest expense
+利息支出
+4,971
+Financing cash flows
+融資現金流量
+(61,111)
+Interest payments (presented as 
+operating cash flows)
+利息付款（呈列為經營現金流量）
+(4,971)
+New leases entered
+新訂立租賃
+81,740
+Acquisition of subsidiaries (note 33)
+收購附屬公司（附註33）
+1,039
+ 
+ 
+ 
+At 31 December 2023 and  
+1 January 2024
+於2023年12月31日及 
+2024年1月1日
+79,377
+Interest expense
+利息支出
+4,747
+Financing cash flows
+融資現金流量
+(60,737)
+Interest payments (presented as 
+operating cash flows)
+利息付款（呈列為經營現金流量）
+(4,747)
+New leases entered
+新訂立租賃
+66,945
+ 
+ 
+ 
+At 31 December 2024
+於2024年12月31日
+85,585
+ 
+ 
+ 
+
+============================================================
+📄 第183页
+============================================================
+181
+中國食品有限公司 年報 2024
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2024 截至2024 年12 月31 日止年度
+(Expressed in Renminbi)（以人民幣列示）
+30 現金流資料
+(b) 非現金投資活動
+31 退休福利計劃
+本集團於香港的僱員參與根據職業
+退休計劃條例註冊之定額供款計劃
+（「職業退休計劃條例計劃」）及根據
+香港強制性公積金計劃條例成立的
+強制性公積金計劃（「強制性公積金
+計劃」）。該等計劃之資產乃由受託
+人控制之基金持有，與本集團之資
+產分開處理。強制性公積金計劃供
+款乃根據強制性公積金條例規定的
+法定限額作出。倘僱員於獲得全數
+供款前退出職業退休計劃條例計劃，
+則本集團應付供款被沒收供款之金
+額扣減。於呈報年度內，並無以該
+方式動用的沒收供款。於報告期末，
+並無因僱員退出職業退休計劃條例
+計劃而產生的沒收供款用於扣減未
+來年度的應付供款。
+本集團於中國內地的僱員為中國內
+地政府運作的國家管理退休福利計
+劃之成員。本集團須按薪酬成本的
+特定百分比向該退休福利計劃作出
+供款以支付福利。本集團對該退休
+福利計劃的唯一責任為作出規定的
+供款。
+30 CASH FLOW INFORMATION
+(b) Non-cash investing activities
+ 
+ 
+ 
+ 
+2024
+2023
+2024年
+2023年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Acquisition of the Five 
+Acquired Subsidiaries  
+(as defined in note 33)
+收購被收購的五家附屬
+公司（定義於附註33）
+–
+554,179
+ 
+ 
+ 
+ 
+31 RETIREMENT BENEFITS PLANS
+The Group’s employees in Hong Kong participates in 
+both a defined contribution scheme which is registered 
+under the Occupational Retirement Schemes Ordinance 
+(the “ORSO Scheme”) and a Mandatory Provident Fund 
+Scheme (the “MPF Scheme”) established under the 
+Mandatory Provident Fund Schemes Ordinance in Hong 
+Kong. The assets of the schemes were held separately 
+from those of the Group, in funds under the control 
+of trustees. Contributions to the MPF Scheme were 
+in accordance with the statutory limits prescribed by 
+the MPF Ordinance. Where there were employees who 
+leave the ORSO Scheme prior to vesting fully in the 
+contributions, the contributions payable by the Group 
+were reduced by the amount of forfeited contributions. No 
+forfeited contribution was utilised in this manner during 
+the years presented. At the end of the reporting periods, 
+no forfeited contribution, which arose upon employees 
+leaving the ORSO Scheme were available to reduce the 
+contributions payable in future years.
+The employees of the Group in Mainland China are 
+members of a state-managed retirement benefit scheme 
+operated by the government of Mainland China. The 
+Group is required to contribute a specific percentage of 
+payroll costs to the retirement benefit scheme to fund the 
+benefits. The only obligation of the Group with respect to 
+the retirement benefit scheme is to make the specified 
+contributions.
+
+============================================================
+📄 第184页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2024
+182
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2024 截至2024 年12 月31 日止年度
+(Expressed in Renminbi)（以人民幣列示）
+32 資本承擔
+33 業務合併
+於2023年1月1日，本集團與一家聯
+營公司可口可樂裝瓶商生產控股及
+其他股東完成了一項重組。在此重
+組中，可口可樂裝瓶商生產控股持
+有的十一家飲料生產和代加工附屬
+公司的股權被處置，而本集團以公
+平值人民幣554,179,000元收購了其
+中五家附屬公司的股權，分別是可
+口可樂裝瓶商生產（成都）有限公司、
+可口可樂裝瓶商生產（長沙）有限公
+司、可口可樂裝瓶商生產（濟南）有
+限公司、可口可樂裝瓶商生產（石家
+莊）有限公司和可口可樂裝瓶商生產
+（營口）有限公司（統稱為「五家被收
+購附屬公司」）。本集團因該重組有
+權獲得現金支付人民幣124,843,000
+元，該款項已於2024年12月31日及
+2023年12月31日列入本集團的「關
+聯公司欠款」。
+由於此次重組，於2 0 2 3 年1 月1
+日，本集團所持公平值為人民幣
+587,416,000元的若干聯營公司投資
+被終止確認，並於截至2023年12月
+31日止年度，因處置聯營公司投資
+錄得人民幣91,606,000元的處置收
+益已計入損益。
+32 CAPITAL COMMITMENTS
+ 
+ 
+ 
+ 
+2024
+2023
+2024年
+2023年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Capital expenditure in respect 
+of purchase of property, plant 
+and equipment and other 
+long-term assets contracted 
+for but not provided in 
+the consolidated financial 
+statements
+已訂約購買物業、廠房及
+設備和其他長期資產但
+尚未在綜合財務報表上
+列示的資本承擔
+64,735
+77,330
+ 
+ 
+ 
+ 
+33 BUSINESS COMBINATION
+On 1 January 2023, the Group completed a restructuring 
+with CCBMH, an associate, and other shareholders of 
+CCBMH, in which equity interests in eleven beverage 
+production and oriental-equipment-manufacture 
+subsidiaries held by CCBMH were disposed of and 
+the Group acquired equity interests in five of these 
+subsidiaries, namely Coca-Cola Bottlers Manufacturing 
+(Chengdu) Company Limited, Coca-Cola Bottlers 
+Manufacturing (Changsha) Company Limited, Coca-
+Cola Bottlers Manufacturing (Jinan) Company Limited, 
+Coca-Cola Bottlers Manufacturing (Shijiazhuang) 
+Company Limited and Coca-Cola Bottlers Manufacturing 
+(Yingkou) Company Limited (collectively named as 
+the “Five Acquired Subsidiaries”) at a fair value of 
+RMB554,179,000. The Group was entitled to a cash 
+payment of RMB124,843,000 from such restructuring, 
+which was included in amounts due from related parties 
+as at 31 December 2023 and 2024.
+As a result of this restructuring, certain of the 
+Group’s investments in associates with a fair value of 
+RMB587,416,000 were derecognised on 1 January 2023 
+and gains on disposal of investments in associates of 
+RMB91,606,000 was recorded in profit or loss during the 
+year ended 31 December 2023.

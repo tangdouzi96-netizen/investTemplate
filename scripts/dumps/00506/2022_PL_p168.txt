@@ -1,0 +1,380 @@
+
+============================================================
+📄 第168页
+============================================================
+For the year ended 31 December 2022 截至2022年12月31日止年度
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+綜合損益報表
+CHINA FOODS LIMITED ANNUAL REPORT 2022
+166
+ 
+ 
+ 
+ 
+ 
+2022
+2021
+2022年
+2021年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Revenue
+收入
+6
+20,967,837
+19,784,422
+Cost of sales
+銷售成本
+8
+(13,469,507)
+(12,723,534)
+ 
+ 
+ 
+ 
+ 
+Gross profit
+毛利
+7,498,330
+7,060,888
+Distribution and selling expenses
+分銷及銷售支出
+(5,539,212)
+(5,356,260)
+Administrative expenses
+行政支出
+(505,876)
+(495,775)
+Net impairment losses on 
+financial assets
+金融資產減值虧損淨額
+(3,825)
+(2,300)
+Other income and other gains-net
+其他收入及其他收益－
+淨額
+9
+138,645
+191,343
+ 
+ 
+ 
+ 
+ 
+Operating profit
+經營溢利
+1,588,062
+1,397,896
+Finance costs
+融資成本
+11
+(3,508)
+(4,488)
+Share of net profit of associates 
+accounted for using the equity 
+method
+使用權益法入賬之應佔
+聯營公司淨利
+13
+29,894
+29,447
+ 
+ 
+ 
+ 
+ 
+Profit before income tax
+除稅前溢利
+1,614,448
+1,422,855
+Income tax expense
+所得稅支出
+14
+(404,022)
+(348,172)
+ 
+ 
+ 
+ 
+ 
+Profit for the year
+年內溢利
+1,210,426
+1,074,683
+ 
+ 
+ 
+ 
+ 
+Profit is attributable to:
+應佔溢利：
+– Owners of the Company
+－本公司擁有人
+659,836
+572,415
+– Non-controlling interests
+－非控股權益
+550,590
+502,268
+ 
+ 
+ 
+ 
+ 
+ 
+1,210,426
+1,074,683
+ 
+ 
+ 
+ 
+ 
+Earnings per share for profit 
+attributable to the ordinary 
+equity holders of the Company:
+歸屬於本公司普通股股
+東的溢利的每股盈利：
+Basic earnings per share 
+(RMB cents)
+每股基本盈利
+（人民幣分）
+15
+23.59
+20.46
+Diluted earnings per share 
+(RMB cents)
+每股攤薄盈利
+（人民幣分）
+23.59
+20.46
+ 
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第169页
+============================================================
+For the year ended 31 December 2022 截至2022年12月31日止年度
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+綜合全面收益報表
+中國食品有限公司  年報 2022 167
+ 
+ 
+ 
+ 
+ 
+2022
+2021
+2022年
+2021年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Profit for the year
+年內溢利
+1,210,426
+1,074,683
+Other comprehensive income
+其他全面收益
+–
+–
+ 
+ 
+ 
+ 
+ 
+Total comprehensive income 
+for the year
+年內全面收益總額
+1,210,426
+1,074,683
+ 
+ 
+ 
+ 
+ 
+Total comprehensive income 
+for the year attributable to:
+應佔年內全面收益
+總額：
+– Owners of the Company
+－本公司擁有人
+659,836
+572,415
+– Non-controlling interests
+－非控股權益
+550,590
+502,268
+ 
+ 
+ 
+ 
+ 
+1,210,426
+1,074,683
+ 
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第170页
+============================================================
+As at 31 December 2022 於2022年12月31日
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+綜合財務狀況表
+CHINA FOODS LIMITED ANNUAL REPORT 2022
+168
+ 
+ 
+ 
+ 
+ 
+2022
+2021
+2022年
+2021年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Non-current assets
+非流動資產
+Property, plant and equipment
+物業、廠房及設備
+16
+5,235,033
+5,061,110
+Right-of-use assets
+使用權資產
+17
+564,247
+601,816
+Intangible assets
+無形資產
+18
+3,531,905
+3,530,039
+Deferred income tax assets
+遞延所得稅資產
+29
+315,188
+262,028
+Prepayments and other assets
+預付款項及其他資產
+10,502
+51,352
+Investments accounted for using 
+the equity method
+使用權益法入賬之投資
+13
+839,787
+812,362
+ 
+ 
+ 
+ 
+ 
+Total non-current assets
+非流動資產總額
+10,496,662
+10,318,707
+ 
+ 
+ 
+ 
+ 
+Current assets
+流動資產
+Inventories
+存貨
+22
+1,887,702
+1,933,314
+Prepayments, deposits and 
+other receivables
+預付款項、按金及其他
+應收款項
+19
+855,885
+489,089
+Trade receivables
+應收貿易款項
+21
+360,035
+327,746
+Amounts due from related parties
+關聯公司欠款
+35
+347,975
+383,963
+Cash and cash equivalents
+現金及現金等值項目
+23
+1,037,408
+1,591,703
+Pledged bank deposits
+抵押銀行存款
+23
+2,916
+18,737
+Prepaid tax
+預繳稅項
+69,163
+63,448
+Financial assets at fair value 
+through other comprehensive 
+income
+按公平值計入其他全面
+收益之金融資產
+20
+5,209
+41,357
+ 
+ 
+ 
+ 
+ 
+Total current assets
+流動資產總額
+4,566,293
+4,849,357
+ 
+ 
+ 
+ 
+ 
+Total assets
+資產總額
+15,062,955
+15,168,064
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,547 @@
+
+============================================================
+📄 第98页
+============================================================
+As at 31 December 2025 於2025年12月31日
+(Expressed in Renminbi) （以人民幣列示）
+CHINA FOODS LIMITED  ANNUAL REPORT 2025
+96
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+綜合財務狀況表
+ 
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Non-current assets
+非流動資產
+Property, plant and equipment
+物業、廠房及設備
+15
+5,607,863
+5,450,960
+Right-of-use assets
+使用權資產
+16
+638,844
+653,044
+Intangible assets
+無形資產
+17
+3,541,977
+3,544,591
+Investments in associates
+於聯營公司之投資
+18
+10,986
+194,623
+Deferred tax assets
+遞延稅項資產
+19
+455,179
+458,192
+Prepayments and other assets
+預付款項及其他資產
+23,622
+23,731
+ 
+ 
+ 
+ 
+ 
+10,278,471
+10,325,141
+ 
+ 
+ 
+ 
+ 
+Current assets
+流動資產
+Inventories
+存貨
+20
+1,629,561
+1,443,480
+Trade receivables
+應收貿易款項
+21
+329,717
+339,410
+Prepayments, deposits and other 
+receivables
+預付款項、按金及其他 
+應收款項
+22
+1,051,182
+1,096,624
+Tax recoverable
+可回收稅項
+39,286
+14,428
+Financial assets at fair value 
+through other comprehensive 
+income
+按公平值計入其他全面 
+收益之金融資產
+23
+–
+6,581
+Amounts due from related parties
+關聯公司欠款
+33(c)
+507,461
+354,166
+Restricted bank deposits
+受限制銀行存款
+24
+200
+4,133
+Cash and cash equivalents
+現金及現金等值項目
+24
+4,549,480
+4,014,404
+ 
+ 
+ 
+ 
+ 
+8,106,887
+7,273,226
+ 
+ 
+ 
+ 
+ 
+Current liabilities
+流動負債
+Trade and bills payables
+應付貿易賬款及票據
+25
+1,034,708
+804,247
+Other payables and accruals
+其他應付款項及應計負債
+26
+4,339,792
+4,827,521
+Amounts due to related parties
+欠關聯公司款項
+33(c)
+575,081
+331,614
+Tax liabilities
+稅項負債
+167,532
+168,278
+Lease liabilities
+租賃負債
+27
+39,587
+39,339
+Contract liabilities
+合約負債
+28
+1,307,963
+865,961
+ 
+ 
+ 
+ 
+ 
+7,464,663
+7,036,960
+ 
+ 
+ 
+ 
+ 
+Net current assets
+流動資產淨額
+642,224
+236,266
+ 
+ 
+ 
+ 
+ 
+Total assets less current liabilities 總資產減流動負債
+10,920,695
+10,561,407
+ 
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第99页
+============================================================
+中國食品有限公司  年報  2025
+97
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION 綜合財務狀況表
+As at 31 December 2025 於2025年12月31日
+(Expressed in Renminbi) （以人民幣列示）
+ 
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Non-current liabilities
+非流動負債
+Deferred tax liabilities
+遞延稅項負債
+19
+123,118
+97,937
+Lease liabilities
+租賃負債
+27
+28,688
+46,246
+Deferred income
+遞延收入
+207,694
+219,008
+ 
+ 
+ 
+ 
+ 
+359,500
+363,191
+ 
+ 
+ 
+ 
+ 
+Net assets
+資產淨額
+10,561,195
+10,198,216
+ 
+ 
+ 
+ 
+ 
+Capital and reserves
+股本及儲備
+Share capital
+股本
+29
+293,201
+293,201
+Share premium and reserves
+股份溢價及儲備
+6,603,137
+6,168,777
+ 
+ 
+ 
+ 
+ 
+Equity attributable to owners of 
+the Company
+本公司擁有人應佔權益
+6,896,338
+6,461,978
+Non-controlling interests
+非控股權益
+3,664,857
+3,736,238
+ 
+ 
+ 
+ 
+ 
+Total equity
+權益總額
+10,561,195
+10,198,216
+ 
+ 
+ 
+ 
+ 
+The consolidated financial statements on pages 95 to 196 were 
+approved and authorised for issue by the board of directors on 24 
+March 2026 and are signed on its behalf by:
+Zhan Zaizhong
+Tang Qiang
+展在中
+唐強
+Director
+Director
+董事
+董事
+The accompanying notes form part of these consolidated financial 
+statements.
+董事會於2026年3月24日批准及授權發行第
+95頁至第196頁的綜合財務報表，並由以下
+人士代表簽署：
+隨附的附註是本綜合財務報表的一部分。
+
+============================================================
+📄 第100页
+============================================================
+For the year ended 31 December 2025 截至2025年12月31日止年度
+(Expressed in Renminbi) （以人民幣列示）
+CHINA FOODS LIMITED  ANNUAL REPORT 2025
+98
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+綜合權益變動表
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attributable to owners of the Company
+本公司擁有人應佔
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Issued
+capital
+Share
+premium
+Capital 
+reserve
+Reserve 
+funds
+Asset 
+revaluation 
+reserve
+Retained 
+profits
+Sub-total
+Non-
+controlling 
+interests
+Total 
+equity
+已發行
+股本
+股份溢價
+資本儲備
+儲備金
+資產重估
+儲備
+保留溢利
+小計
+非控股
+權益
+權益總額
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 1 January 2024
+於2024年1月1日
+293,201
+30,820
+736,877
+24,622
+3,204
+4,926,708
+6,015,432
+3,671,524
+9,686,956
+Profit and total comprehensive 
+income for the year
+年內溢利及全面收益總額
+–
+–
+–
+–
+–
+860,535
+860,535
+562,042
+1,422,577
+Dividends recognised as 
+distribution (note 13)
+已確認為分配的股息（附註13）
+–
+–
+–
+–
+–
+(413,989)
+(413,989)
+–
+(413,989)
+Dividends declared to  
+non-controlling interests
+已宣告派發予非控股權益的 
+股息
+–
+–
+–
+–
+–
+–
+–
+(497,328)
+(497,328)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 31 December 2024 
+and 1 January 2025
+於2024年12月31日及 
+2025年1月1日
+293,201
+30,820
+736,877
+24,622
+3,204
+5,373,254
+6,461,978
+3,736,238
+10,198,216
+Profit and total comprehensive 
+income for the year
+年內溢利及全面收益總額
+–
+–
+–
+–
+–
+861,968
+861,968
+566,079
+1,428,047
+Dividends recognised as 
+distribution (note 13)
+已確認為分配的股息（附註13）
+–
+–
+–
+–
+–
+(427,608)
+(427,608)
+–
+(427,608)
+Dividends declared to  
+non-controlling interests
+已宣告派發予非控股權益的 
+股息
+–
+–
+–
+–
+–
+–
+–
+(637,460)
+(637,460)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 31 December 2025 於2025年12月31日
+293,201
+30,820
+736,877
+24,622
+3,204
+5,807,614
+6,896,338
+3,664,857
+10,561,195
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The accompanying notes form part of these consolidated financial 
+statements.
+隨附的附註是本綜合財務報表的一部分。

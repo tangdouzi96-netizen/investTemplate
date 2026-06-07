@@ -1,0 +1,382 @@
+
+============================================================
+📄 第90页
+============================================================
+CHINA FOODS LIMITED ANNUAL REPORT 2023
+88
+For the year ended 31 December 2023 截至2023年12月31日止年度
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+綜合損益報表
+ 
+ 
+ 
+ 
+ 
+2023
+2022
+2023年
+2022年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Revenue
+收入
+5
+21,446,436
+20,967,837
+Cost of sales
+銷售成本
+(13,902,630)
+(13,469,507)
+ 
+ 
+ 
+ 
+ 
+Gross profit
+毛利
+7,543,806
+7,498,330
+Distribution and selling expenses
+分銷及銷售支出
+(5,469,877)
+(5,539,212)
+Administrative expenses
+行政支出
+(530,444)
+(505,876)
+Net impairment losses on financial 
+assets
+金融資產減值損失淨額
+(22,938)
+(3,825)
+Other income and other gains-net
+其他收入及其他收益－
+淨額
+8
+328,414
+138,645
+ 
+ 
+ 
+ 
+ 
+Operating profit
+經營溢利
+1,848,961
+1,588,062
+Finance costs
+融資成本
+10
+(4,971)
+(3,508)
+Share of net profit of associates 
+accounted for using the equity 
+method
+使用權益法入賬之應佔
+聯營公司淨利
+12
+–
+29,894
+ 
+ 
+ 
+ 
+ 
+Profit before income tax
+所得稅前溢利
+7
+1,843,990
+1,614,448
+Income tax expense
+所得稅支出
+13
+(458,428)
+(404,022)
+ 
+ 
+ 
+ 
+ 
+Profit for the year
+年內溢利
+1,385,562
+1,210,426
+ 
+ 
+ 
+ 
+ 
+Profit is attributable to:
+應佔溢利：
+– Owners of the Company
+－本公司擁有人
+832,577
+659,836
+– Non-controlling interests
+－非控股權益
+552,985
+550,590
+ 
+ 
+ 
+ 
+ 
+1,385,562
+1,210,426
+ 
+ 
+ 
+ 
+ 
+Earnings per share for profit 
+attributable to the ordinary 
+equity holders of the Company:
+歸屬於本公司普通股
+股東的溢利的
+每股盈利：
+Basic earnings per share 
+(RMB cents)
+每股基本盈利
+（人民幣分）
+14
+29.76
+23.59
+Diluted earnings per share 
+(RMB cents)
+每股攤薄盈利
+（人民幣分）
+14
+29.76
+23.59
+ 
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第91页
+============================================================
+中國食品有限公司  年報 2023 89
+For the year ended 31 December 2023 截至2023年12月31日止年度
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+綜合全面收益報表
+ 
+ 
+ 
+ 
+ 
+2023
+2022
+2023年
+2022年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Profit for the year
+年內溢利
+1,385,562
+1,210,426
+Other comprehensive income
+其他全面收益
+–
+–
+ 
+ 
+ 
+ 
+ 
+Total comprehensive income 
+for the year
+年內全面收益總額
+1,385,562
+1,210,426
+ 
+ 
+ 
+ 
+ 
+Total comprehensive income 
+for the year attributable to:
+應佔年內全面收益
+總額：
+– Owners of the Company
+－本公司擁有人
+832,577
+659,836
+– Non-controlling interests
+－非控股權益
+552,985
+550,590
+ 
+ 
+ 
+ 
+ 
+1,385,562
+1,210,426
+ 
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第92页
+============================================================
+CHINA FOODS LIMITED ANNUAL REPORT 2023
+90
+As at 31 December 2023 於2023年12月31日
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+綜合財務狀況表
+ 
+ 
+ 
+ 
+ 
+2023
+2022
+2023年
+2022年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Non-current assets
+非流動資產
+Property, plant and equipment
+物業、廠房及設備
+15
+5,592,815
+5,235,033
+Right-of-use assets
+使用權資產
+16
+568,581
+564,247
+Intangible assets
+無形資產
+17
+3,543,729
+3,531,905
+Deferred income tax assets
+遞延所得稅資產
+29
+277,940
+315,188
+Prepayments and other assets
+預付款項及其他資產
+14,991
+10,502
+Investments accounted for using 
+the equity method
+使用權益法入賬之投資
+12
+252,371
+839,787
+ 
+ 
+ 
+ 
+ 
+Total non-current assets
+非流動資產總額
+10,250,427
+10,496,662
+ 
+ 
+ 
+ 
+ 
+Current assets
+流動資產
+Inventories
+存貨
+22
+1,736,729
+1,887,702
+Prepayments, deposits and other 
+receivables
+預付款項、按金及
+其他應收款項
+19
+1,073,175
+855,885
+Trade receivables
+應收貿易款項
+21
+369,973
+360,035
+Amounts due from related parties
+關聯公司欠款
+35
+427,065
+347,975
+Cash and cash equivalents
+現金及現金等值項目
+23
+2,293,015
+1,037,408
+Pledged bank deposits
+抵押銀行存款
+23
+11,275
+2,916
+Prepaid tax
+預繳稅項
+55,634
+69,163
+Financial assets at fair value 
+through other comprehensive 
+income
+按公平值計入其他
+全面收益之
+金融資產
+20
+8,314
+5,209
+ 
+ 
+ 
+ 
+ 
+Total current assets
+流動資產總額
+5,975,180
+4,566,293
+ 
+ 
+ 
+ 
+ 
+Total assets
+資產總額
+16,225,607
+15,062,955
+ 
+ 
+ 
+ 
+ 

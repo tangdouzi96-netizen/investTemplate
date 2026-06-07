@@ -1,0 +1,4416 @@
+# 泡泡玛特 2025年年报 dump
+# 文件: 泡泡玛特：二零二五年年报.pdf
+# 总页数: 370
+
+
+================================================================================
+📊 财务摘要 (共3页)
+================================================================================
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 7
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+6
+FINANCIAL SUMMARY
+財務概要
+FINANCIAL PERFORMANCE HIGHLIGHTS
+For the year ended 31 December
+截至12月31日止年度
+2025
+2024
+2023
+2022
+2021
+2025年
+2024年
+2023年
+2022年
+2021年
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Revenue
+收入
+37,120,052
+13,037,749
+6,301,002
+4,617,324 
+4,490,651
+Gross profit
+毛利
+26,764,916
+8,707,765
+3,864,071
+2,654,543 
+2,758,624
+Operating profit
+經營溢利
+16,890,474
+4,154,272
+1,230,646
+583,380 
+1,149,812
+Profit before income tax
+除所得稅前溢利
+17,036,622
+4,365,812
+1,415,755
+639,529 
+1,171,191
+Profit for the year
+年內溢利
+13,012,042
+3,308,345
+1,088,771
+475,801 
+854,567
+Profit attributable to 
+ 
+owners of the Company
+本公司擁有人
+ 
+應佔溢利
+12,775,689
+3,125,473
+1,082,344
+475,660 
+854,339
+Non-IFRS adjusted net profit
+非國際財務報告準則
+ 
+經調整純利
+13,083,646
+3,403,162
+1,190,519
+573,540 
+1,001,635
+Gross profit margin
+毛利率
+72.1%
+66.8%
+61.3%
+57.5%
+61.4%
+Net profit margin
+純利率
+35.1%
+25.4%
+17.3%
+10.3%
+19.0%
+Non-IFRS adjusted net 
+ 
+profit margin
+非國際財務報告準則
+ 經調整純利率
+35.2%
+26.1%
+18.9%
+12.4%
+22.3%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+財務業績摘要
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 8
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+7
+FINANCIAL SUMMARY
+財務概要
+財務狀況表摘要
+FINANCIAL POSITION HIGHLIGHTS
+As at 31 December
+於12月31日
+2025
+2024
+2023
+2022
+2021
+2025年
+2024年
+2023年
+2022年
+2021年
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total current assets
+總流動資產
+24,914,643
+12,236,081
+7,683,469
+6,615,535 
+6,757,289
+Total non-current assets
+總非流動資產
+7,186,711
+2,634,591
+2,285,394
+1,964,527 
+1,566,337
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total assets
+總資產
+32,101,354
+14,870,672
+9,968,863
+8,580,062
+8,323,626
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total current liabilities
+總流動負債
+7,168,161
+3,370,028
+1,733,301
+1,130,747 
+1,092,706
+Total non-current liabilities
+總非流動負債
+2,280,826
+616,005
+455,180
+483,990 
+410,914
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total liabilities
+總負債
+9,448,987
+3,986,033
+2,188,481
+1,614,737
+1,503,620
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equity attributable to 
+ 
+owners of the Company
+本公司擁有人
+ 
+應佔權益
+22,277,735
+10,683,505
+7,769,927
+6,963,288 
+6,818,182
+Non-controlling interests in 
+ 
+equity
+非控股權益
+374,632
+201,134
+10,455
+2,037 
+1,824
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total equity
+總權益
+22,652,367
+10,884,639
+7,780,382
+6,965,325
+6,820,006
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total equity and liabilities
+總權益及負債
+32,101,354
+14,870,672
+9,968,863
+8,580,062
+8,323,626
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 50
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+49
+REPORT OF DIRECTORS
+董事會報告書
+財務概要
+本公司於過去五個財政年度的業績、資產及負
+債的概要載於本年報第6至7頁。該概要並不構
+成經審核綜合財務報表的一部分。
+與持份者的關係
+僱員
+截至2025 年12月31日，我們共有10,879 名僱
+員。我們的多數僱員常駐中國。
+我們主要通過校園招聘會、招聘代理以及我們
+的公司網站及社交網絡平台等線上渠道招聘僱
+員。我們已採用健全的內部培訓政策，根據該
+等政策，內部主講人或外聘顧問定期向僱員提
+供管理、技術及其他培訓。
+根據本公司營運所屬各國家及地區之法律法
+規，我們嚴格參與並執行當地法定僱員福利計
+劃，主要包括社會保險計劃（含養老金、醫療保
+險、失業保險、工傷保險、生育保險等）、住房
+保障類計劃（如住房公積金、住房補貼等）及其
+他當地強制性福利項目。我們須按當地標準，
+以員工薪資、獎金、特定津貼及符合當地法律
+定義的薪酬性收入為基數，按規定比例供款，
+且供款金額不超過當地政府不時修訂之最高限
+額。
+我們與所有最高行政人員及絕大多數員工訂立
+有關保密、知識產權、僱傭、商業道德及不競
+爭的標準合約及協議。該等合約通常包括不競
+爭條文及在受僱於我們期間及之後有效的保密
+條文。
+我們相信我們與僱員保持良好的工作關係，且
+我們於截至2025年12月31日止年度及直至最後
+實際可行日期並無發生任何重大勞資糾紛，招
+聘經營所需員工時亦無遭遇任何難題。
+FINANCIAL SUMMARY
+A summary of the Company’s results, assets and liabilities for the last five 
+financial years are set out on pages 6 to 7 of this annual report. This summary 
+does not form part of the audited consolidated financial statements.
+RELATIONSHIP WITH STAKEHOLDERS
+Employees
+As of 31 December 2025, we had a total of 10,879 employees. The majority 
+of our employees are based in the PRC.
+We primarily recruit our employees through on-campus job fairs, recruitment 
+agencies and online channels including our corporate websites and social 
+networking platforms. We have adopted robust internal training policies, 
+pursuant to which management, technology and other training are regularly 
+provided to our employees by internally sourced speakers or externally hired 
+consultants.
+In accordance with the laws and regulations of each country and region 
+where the Company operates, we strictly participate in and implement 
+the local statutory employee benefit schemes, primarily including social 
+insurance schemes (covering pension, medical insurance, unemployment 
+insurance, work-related injury insurance, maternity insurance, etc.), housing 
+security schemes (such as housing provident fund, housing allowance, 
+etc.), and other local mandatory welfare programmes. We are required 
+to make contributions according to local standards based on employees’ 
+salaries, bonuses, specific allowances, and other remuneration income as 
+defined under local laws, at prescribed contribution rates, provided that the 
+contribution amount does not exceed the maximum limits as revised from 
+time to time by the local governments.
+We enter into standard contracts and agreements regarding confidentiality, 
+intellectual property, employment, commercial ethics and non-competition 
+with all of our executive officers and the vast majority of our employees. 
+These contracts typically include a non-competition provision and a 
+confidentiality provision effective during and after their employment with us.
+We believe that we maintain a good working relationship with our 
+employees, and we have not experienced any significant labour disputes or 
+any difficulty in recruiting staff for our operations during the year ended 31 
+December 2025 and up to the Latest Practicable Date.
+
+================================================================================
+📊 综合损益表 (共2页)
+================================================================================
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 219
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+218
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS 
+AND OTHER COMPREHENSIVE INCOME
+綜合損益及其他全面收益表
+Year ended 31 December
+截至12月31日止年度
+2025
+2024
+2025年
+2024年
+Note
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Revenue
+收益
+6
+37,120,052
+13,037,749
+Cost of sales
+銷售成本
+7
+(10,355,136)
+(4,329,984)
+ 
+ 
+ 
+ 
+ 
+Gross profit
+毛利
+26,764,916
+8,707,765
+ 
+ 
+ 
+ 
+ 
+Distribution and selling expenses
+經銷及銷售開支
+7
+(8,082,433)
+(3,650,464)
+General and administrative expenses
+一般及行政開支
+7
+(1,770,114)
+(947,093)
+Provision for impairment losses on financial 
+assets
+金融資產減值虧損撥備
+(11,805)
+(3,446)
+Other income
+其他收入
+8
+149,921
+84,288
+Other losses – net
+其他虧損－淨額
+9
+(160,011)
+(36,778)
+ 
+ 
+ 
+ 
+ 
+Operating profit
+經營溢利
+16,890,474
+4,154,272
+ 
+ 
+ 
+ 
+ 
+Finance income
+財務收入
+10
+158,966
+212,335
+Finance expenses
+財務開支
+10
+(82,471)
+(48,983)
+ 
+ 
+ 
+ 
+ 
+Finance income – net
+財務收入－淨額
+10
+76,495
+163,352
+ 
+ 
+ 
+ 
+ 
+Share of profit of investments accounted for 
+using the equity method
+分佔使用權益法入賬的投資溢利
+18
+69,653
+48,188
+ 
+ 
+ 
+ 
+ 
+Profit before income tax
+除所得稅前溢利
+17,036,622
+4,365,812
+ 
+ 
+ 
+ 
+ 
+Income tax expense
+所得稅開支
+11
+(4,024,580)
+(1,057,467)
+ 
+ 
+ 
+ 
+ 
+Profit for the year
+年內溢利
+13,012,042
+3,308,345
+ 
+ 
+ 
+ 
+ 
+Profit attributable to:
+以下應佔溢利：
+ 
+– Owners of the Company
+ 
+－本公司擁有人
+12,775,689
+3,125,473
+ 
+– Non-controlling interests
+ 
+－非控股權益
+236,353
+182,872
+ 
+ 
+ 
+ 
+ 
+13,012,042
+3,308,345
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 220
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+219
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS 
+AND OTHER COMPREHENSIVE INCOME
+綜合損益及其他全面收益表
+Year ended 31 December
+截至12月31日止年度
+2025
+2024
+2025年
+2024年
+Note
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Other comprehensive (loss)/income 
+ 
+for the year
+年內其他全面（虧損）╱收益
+Items that may be reclassified to profit or loss
+可能重新分類至損益的項目
+ 
+– Currency translation differences
+ 
+－貨幣換算差額
+(33,627)
+25,837
+ 
+ 
+ 
+ 
+ 
+Items that will not be reclassified to profit 
+ 
+or loss
+將不會重新分類至損益的項目
+ 
+– Currency translation differences
+ 
+－貨幣換算差額
+(145,957)
+126,314
+ 
+ 
+ 
+ 
+ 
+Other comprehensive (loss)/income for 
+ 
+the year, net of tax
+年內其他全面（虧損）╱收益，
+ 
+除稅後
+(179,584)
+152,151
+ 
+ 
+ 
+ 
+ 
+Total comprehensive income for the year
+年內全面收益總額
+12,832,458
+3,460,496
+ 
+ 
+ 
+ 
+ 
+Total comprehensive income for the 
+ 
+year attributable to:
+以下應佔年內全面收益總額：
+ 
+– Owners of the Company
+ 
+－本公司擁有人
+12,590,104
+3,269,817
+ 
+– Non-controlling interests
+ 
+－非控股權益
+242,354
+190,679
+ 
+ 
+ 
+ 
+ 
+12,832,458
+3,460,496
+ 
+ 
+ 
+ 
+ 
+Earnings per share for profit attributable 
+ 
+to owners of the Company
+本公司擁有人應佔溢利的每股盈利
+ 
+– Basic (expressed in RMB per share)
+ 
+－基本（以每股人民幣元表示）
+13
+9.61
+2.36
+ 
+– Diluted (expressed in RMB per share)
+ 
+－攤薄（以每股人民幣元表示）
+13
+9.58
+2.35
+ 
+ 
+ 
+ 
+ 
+The above consolidated statement of profit or loss and other comprehensive 
+income should be read in conjunction with the accompanying notes.
+以上綜合損益及其他全面收益表應與隨附附註
+一併閱讀。
+
+================================================================================
+📊 综合财务状况表 (共3页)
+================================================================================
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 221
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+220
+CONSOLIDATED BALANCE SHEET
+綜合資產負債表
+As at 31 December
+於12月31日
+2025
+2024
+2025年
+2024年
+Note
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Assets
+資產
+Non-current assets
+非流動資產
+Property, plant and equipment
+物業、廠房及設備
+14
+1,417,556
+739,378
+Intangible assets
+無形資產
+15
+208,665
+135,400
+Right-of-use assets
+使用權資產
+16
+2,791,171
+927,558
+Restricted cash
+受限制現金
+24
+256,265
+–
+Investments accounted for using the 
+ 
+equity method
+使用權益法入賬的投資
+18
+128,124
+136,783
+Financial assets at fair value through 
+ 
+profit or loss
+按公平值計入損益的金融資產
+23
+356,906
+411,880
+Prepayments and other receivables
+預付款項及其他應收款項
+21
+274,473
+136,563
+Deferred income tax assets
+遞延所得稅資產
+19
+1,753,551
+147,029
+ 
+ 
+ 
+ 
+ 
+Total non-current assets
+總非流動資產
+7,186,711
+2,634,591
+ 
+ 
+ 
+ 
+ 
+Current assets
+流動資產
+Trade receivables
+貿易應收款項
+20
+921,240
+477,723
+Inventories
+存貨
+22
+5,472,839
+1,524,521
+Prepayments and other receivables
+預付款項及其他應收款項
+21
+1,283,154
+576,594
+Financial assets at fair value through 
+ 
+profit or loss
+按公平值計入損益的金融資產
+23
+9,743
+11,434
+Restricted cash
+受限制現金
+24
+2,658
+25,649
+Term deposits with initial term over three 
+ 
+months and within one year
+初步為期三個月以上及一年以內
+ 
+的定期存款
+24
+3,449,922
+3,511,143
+Cash and cash equivalents
+現金及現金等價物
+24
+13,775,087
+6,109,017
+ 
+ 
+ 
+ 
+ 
+Total current assets
+總流動資產
+24,914,643
+12,236,081
+ 
+ 
+ 
+ 
+ 
+Total assets
+總資產
+32,101,354
+14,870,672
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 222
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+221
+CONSOLIDATED BALANCE SHEET
+綜合資產負債表
+As at 31 December
+於12月31日
+2025
+2024
+2025年
+2024年
+Note
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Equity
+權益
+Share capital
+股本
+25
+882
+882
+Shares held for share award scheme
+就股份獎勵計劃持有的股份
+26
+(7)
+(9)
+Other reserves
+其他儲備
+27
+3,123,058
+4,280,527
+Retained earnings
+保留盈利
+19,153,802
+6,402,105
+ 
+ 
+ 
+ 
+ 
+Equity attributable to owners of the 
+ 
+Company
+本公司擁有人應佔權益
+22,277,735
+10,683,505
+Non-controlling interests in equity
+非控股權益
+374,632
+201,134
+ 
+ 
+ 
+ 
+ 
+Total equity
+總權益
+22,652,367
+10,884,639
+ 
+ 
+ 
+ 
+ 
+Liabilities
+負債
+Non-current liabilities
+非流動負債
+License fees payables
+應付授權費
+30
+5,525
+14,536
+Lease liabilities
+租賃負債
+16
+2,275,301
+601,469
+ 
+ 
+ 
+ 
+ 
+Total non-current liabilities
+總非流動負債
+2,280,826
+616,005
+ 
+ 
+ 
+ 
+ 
+Current liabilities
+流動負債
+Trade payables
+貿易應付款項
+29
+1,858,216
+1,010,109
+License fees payables
+應付授權費
+30
+437,247
+341,835
+Other payables
+其他應付款項
+31
+1,777,317
+904,274
+Contract liabilities
+合約負債
+32
+393,119
+188,577
+Lease liabilities
+租賃負債
+16
+586,274
+363,092
+Current income tax liabilities
+即期所得稅負債
+2,115,988
+562,141
+ 
+ 
+ 
+ 
+ 
+Total current liabilities
+總流動負債
+7,168,161
+3,370,028
+ 
+ 
+ 
+ 
+ 
+Total liabilities
+總負債
+9,448,987
+3,986,033
+ 
+ 
+ 
+ 
+ 
+Total equity and liabilities
+總權益及負債
+32,101,354
+14,870,672
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 223
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+222
+CONSOLIDATED BALANCE SHEET
+綜合資產負債表
+以上綜合資產負債表應與隨附附註一併閱讀。
+第218頁至第366頁的綜合財務報表於2026年3月
+25日獲董事會批准，並由下列董事代表簽署：
+The above consolidated balance sheet should be read in conjunction with 
+the accompanying notes.
+The consolidated financial statements on pages 218 to 366 were approved 
+by the Board of Directors on 25 March 2026 and were signed on its behalf by:
+Mr. Wang Ning
+王寧先生
+Mr. Si De
+司德先生
+ 
+ 
+Executive Director & Chairman
+執行董事及主席
+Executive Director
+執行董事
+
+================================================================================
+📊 综合现金流量表 (共2页)
+================================================================================
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 226
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+225
+CONSOLIDATED STATEMENT OF CASH FLOWS
+綜合現金流量表
+Year ended 31 December
+截至12月31日止年度
+2025
+2024
+2025年
+2024年
+Note
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Cash flows from operating activities
+經營活動產生的現金流量
+Cash generated from operations
+經營所得現金
+34(a)
+14,704,780
+5,415,453
+Interest received
+已收利息
+237,628
+227,247
+Income tax paid
+已付所得稅
+(4,077,256)
+(688,480)
+ 
+ 
+ 
+ 
+ 
+Net cash generated from operating 
+activities
+經營活動所得現金淨額
+10,865,152
+4,954,220
+ 
+ 
+ 
+ 
+ 
+Cash flows from investing activities
+投資活動產生的現金流量
+Increase in financial assets at fair value through 
+profit or loss
+按公平值計入損益的
+ 
+金融資產增加
+3.3(a)
+(11,344,669)
+(4,351,977)
+Purchases of property, plant and equipment
+購買物業、廠房及設備
+(985,250)
+(372,668)
+Purchases of intangible assets
+購買無形資產
+(186,287)
+(144,022)
+Proceeds from disposal of financial assets at fair 
+value through profit or loss
+處置按公平值計入損益的
+ 
+金融資產所得款項
+3.3(a)
+11,486,858
+4,386,142
+Dividends received from joint ventures and an 
+associate
+收到合營企業及
+ 
+一間聯營公司股息
+–
+18,001
+Proceeds from sale of property, plant and 
+equipment, intangible assets
+出售物業、廠房及設備、
+ 
+無形資產所得款項
+34(b)
+14,507
+5,424
+Net inflow of cash arising from acquisition of a 
+subsidiary
+收購附屬公司產生的
+ 
+現金流入淨額
+36
+43,386
+–
+Placement of term deposits with initial terms 
+over three months and within one year
+存入初步為期三個月以上及
+ 
+一年以內的定期存款
+(5,593,675)
+(4,945,685)
+Redemption of term deposits with initial terms 
+over three months and within one year
+贖回初步為期三個月以上及
+ 
+一年以內的定期存款
+5,576,234
+5,413,742
+ 
+ 
+ 
+ 
+ 
+Net cash (used in)/generated from  
+investing activities
+投資活動（所使用）╱產生
+ 
+現金淨額
+(988,896)
+8,957
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 227
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+226
+CONSOLIDATED STATEMENT OF CASH FLOWS
+綜合現金流量表
+Year ended 31 December
+截至12月31日止年度
+2025
+2024
+2025年
+2024年
+Note
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Cash flows from financing activities
+融資活動產生的現金流量
+Payment of lease liabilities
+租賃負債付款
+16, 34(c)
+(608,288)
+(505,104)
+Repayment of borrowing
+償還借款
+34(c)
+–
+(15,058)
+Dividends paid
+已付股息
+34(c)
+(1,083,288)
+(378,015)
+Dividends paid to a non-controlling 
+shareholder
+向一名非控股股東派付股息
+17(a)(iv)
+(44,974)
+–
+Payments for purchase of own shares
+回購自身股份付款
+25
+–
+(78,031)
+Advance received from non-controlling interest 
+in relation to capital injection in a non-
+wholly owned subsidiary
+就注資一間非全資附屬公司
+ 
+向非控股權益收取的墊款
+17(a)(iv)
+–
+17,705
+Capital injection from non-controlling interests
+非控股權益注資
+17(a)(iv)
+15,958
+–
+Acquisition of non-controlling interests on 
+subsidiaries
+收購附屬公司非控股權益
+17(a)(iv)(v)
+(46,760)
+–
+ 
+ 
+ 
+ 
+ 
+Net cash used in financing activities
+融資活動所用現金淨額
+(1,767,352)
+(958,503)
+ 
+ 
+ 
+ 
+ 
+Net increase in cash and cash equivalents
+現金及現金等價物增加淨額
+8,108,904
+4,004,674
+ 
+ 
+ 
+ 
+ 
+Cash and cash equivalents at  
+beginning of the year
+年初的現金及現金等價物
+6,109,017
+2,077,927
+Exchange (losses)/gains on cash and cash 
+equivalents
+現金及現金等價物的
+ 
+匯兌（虧損）╱收益
+(442,834)
+26,416
+ 
+ 
+ 
+ 
+ 
+Cash and cash equivalents at end of  
+the year
+年末的現金及現金等價物
+13,775,087
+6,109,017
+ 
+ 
+ 
+ 
+ 
+The above consolidated statement of cash flows should be read in 
+conjunction with the accompanying notes.
+以上綜合現金流量表應與隨附附註一併閱讀。
+
+================================================================================
+📊 股息/分红相关 (共22页)
+================================================================================
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 46
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+45
+REPORT OF DIRECTORS
+董事會報告書
+本公司董事（「董事」）會（「董事會」）欣然提呈本
+公司年報連同本公司截至2025年12月31日止年
+度之經審核綜合財務報表。
+主要業務
+本公司是中國領先的潮流玩具公司，中國潮流
+玩具文化的開拓者及主要推廣者。IP是我們業務
+的核心。我們建立了覆蓋潮流玩具IP全產業鏈的
+綜合運營平台，包括IP孵化與運營、潮流玩具與
+零售、主題樂園與體驗、數字娛樂四大版塊，
+通過該平台我們得以激發粉絲對潮流的熱情，
+給他們帶來快樂和美好。
+業績
+本集團截至2025年12月31日止年度之業績載於
+本年報第218至219頁之綜合損益及其他全面收
+益表。
+股息分派
+我們擬每年向股東派付股息，數額不少於我們
+可分派純利的20%，惟須經董事酌情決定。經股
+東於股東大會上批准後，董事會可指示通過分
+派任何類型的特定資產全部或部分償付股息。
+任何股息的宣派和派付以及金額將須遵守我們
+的章程文件及開曼公司法。我們的股東可在股
+東大會上批准任何股息的宣派，但不得超過董
+事會推薦的金額。股息只能從本公司可合法作
+分派用途的溢利及儲備（包括股份溢價）中宣派
+或派付。本公司不會就股息支付利息。
+The board (the “Board”) of directors (the “Directors”) of the Company is 
+pleased to present its report together with the audited consolidated financial 
+statements of the Company for the year ended 31 December 2025.
+PRINCIPAL BUSINESS
+The Company is a leading pop toy company, and a pioneer and key 
+promoter of pop toy culture in China. IP is at the core of our business. We 
+have established an integrated operation platform covering the entire 
+industry chain of pop toy IPs, including four segments being IP incubation 
+and operation, pop toys and retail, theme park and IP experience, and digital 
+entertainment, through which we light up the passion of fans and bring 
+them joy.
+RESULTS
+The results of the Group for the year ended 31 December 2025 are set out in 
+the consolidated statement of profit or loss and other comprehensive income 
+on pages 218 to 219 of this annual report.
+DIVIDEND DISTRIBUTION
+We intend to distribute dividends to our Shareholders on an annual basis 
+of no less than 20% of our distributable net profit, which is subject to the 
+discretion of our Directors. The Board, with the sanction of the Shareholders 
+in general meeting, may direct any dividend be satisfied wholly or in part by 
+the distribution of specific assets of any kind. Any declaration and payment 
+as well as the amount of dividends will be subject to our constitutional 
+documents and the Cayman Companies Law. Our Shareholders in a general 
+meeting may approve any declaration of dividends, which must not exceed 
+the amount recommended by our Board. No dividends shall be declared 
+or payable except out of our profits and reserves of our Company lawfully 
+available for distribution including share premium. No dividend shall carry 
+interest against our Company.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 47
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+46
+REPORT OF DIRECTORS
+董事會報告書
+董事會將根據下列因素不時檢討股息政策，以
+決定是否宣派及派付股息：
+• 
+我們的經營業績；
+• 
+我們的現金流量；
+• 
+我們的財務狀況；
+• 
+我們的資金要求；
+• 
+相關法律規定；及
+• 
+董事會認為相關的其他因素。
+根據第三次經修訂及重述的組織章程細則，本
+公司可在股東大會宣佈以任何貨幣派發股息，
+惟股息金額不得高於董事會所建議者。
+董事會確認就股息作出的所有決定均符合本公
+司股息政策。
+於2025年12月31日，概無本公司股東放棄或同
+意放棄其股息之安排。
+董事會已決定宣派截至2025年12月31日止年度
+的末期股息每股已發行普通股人民幣2.3817元。
+擬派末期股息須待股東在將於2026年5月13日
+（星期三）舉行的本公司應屆股東週年大會（「股
+東週年大會」）上審議及批准。末期股息將向
+2026年5月22日（星期五）名列本公司股東名冊
+的股東派付。待股東週年大會批准，末期股息
+預計將於2026年5月28日（星期四）分派。
+The Board will review dividend policy from time to time in light of the 
+following factors in determining whether dividends are to be declared and 
+paid:
+• 
+our results of operations;
+• 
+our cash flows;
+• 
+our financial condition;
+• 
+our capital requirements;
+• 
+relevant legal requirements; and
+• 
+other factors the Board may deem relevant.
+In accordance with the third amended and restated Articles of Association, 
+the Company in general meeting may declare dividends in any currency but 
+no dividends shall exceed the amount recommended by the Board.
+It is confirmed that all dividend decisions made by the Board were made in 
+accordance with the dividend policy of the Company.
+As at 31 December 2025, no arrangement was reached pursuant to which the 
+shareholders of the Company waived or agreed to waive their dividends.
+The Board has resolved to declare a final dividend of RMB2.3817 per ordinary 
+Share issued for the year ended 31 December 2025. The proposed final 
+dividend is subject to the consideration and approval by the Shareholders 
+at the forthcoming annual general meeting of the Company to be held 
+on Wednesday, 13 May 2026 (the “AGM”). The final dividend is payable to 
+the Shareholders whose names are listed in the register of members of the 
+Company on Friday, 22 May 2026. Once approved by the AGM, the final 
+dividend is expected to be distributed on Thursday, 28 May 2026.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 48
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+47
+REPORT OF DIRECTORS
+董事會報告書
+稅務減免及豁免
+董事並不知悉股東因其持有本公司證券而享有
+的任何稅務減免及豁免。
+股東週年大會
+本公司股東週年大會將於2026年5月13日（星期
+三）舉行。股東週年大會通告將按聯交所證券上
+市規則（「上市規則」）規定的方式於適當時候刊
+發及派發予股東。
+暫停辦理股份過戶登記
+為確定出席股東週年大會並於會上投票之資
+格，本公司將於2026年5月8日（星期五）至2026
+年5 月13 日（星期三）（包括首尾兩天）暫停辦
+理股份過戶登記手續，在此期間將暫停股份過
+戶。為符合資格出席股東週年大會並於會上投
+票，所有填妥之股份過戶表格連同有關股票必
+須不遲於2026年5月7日（星期四）下午四時三
+十分前，一併送達本公司的香港股份過戶登記
+分處香港中央證券登記有限公司以供登記，地
+址為香港灣仔皇后大道東183號合和中心17樓
+1712-1716號舖。
+為確定獲取建議末期股息之資格（須待股東於股
+東週年大會上批准），本公司將於2026年5月19
+日（星期二）至2026年5月22日（星期五）
+（包括首
+尾兩天）暫停辦理股份過戶登記手續，在此期間
+將暫停本公司股份過戶。為符合資格獲取末期
+股息，所有過戶文件連同有關股票必須不遲於
+2026年5月18日（星期一）下午四時三十分前，一
+併送達本公司的香港股份過戶登記分處香港中央
+證券登記有限公司以供登記，地址為香港灣仔皇
+后大道東183號合和中心17樓1712-1716號舖。
+TAX RELIEF AND EXEMPTION
+The Directors are not aware of any tax relief and exemption available to the 
+Shareholders by reason of their holding of the Company’s securities.
+ANNUAL GENERAL MEETING
+The AGM of the Company will be held on Wednesday, 13 May 2026. The 
+notice of the AGM will be published and dispatched to the Shareholders in 
+due course in the manner as required by the Rules Governing the Listing of 
+Securities on the Stock Exchange (the “Listing Rules”).
+CLOSURE OF REGISTER OF MEMBERS
+In order to determine the entitlement to attend and vote at the AGM, the 
+register of members of the Company will be closed from Friday, 8 May 2026 
+to Wednesday, 13 May 2026, both days inclusive, during which period no 
+transfer of Shares will be registered. In order to be qualified to attend and 
+vote at the AGM, all completed transfers forms accompanied by the relevant 
+share certificates must be lodged for registration with the Company’s branch 
+share registrar in Hong Kong, Computershare Hong Kong Investor Services 
+Limited, at Shops 1712-1716, 17th Floor Hopewell Centre, 183 Queen’s Road 
+East, Wanchai, Hong Kong no later than 4:30 p.m. on Thursday, 7 May 2026.
+In order to determine the entitlement to the proposed final dividends, 
+subject to the approval of the Shareholders at the AGM, the register of 
+members of the Company will be closed from Tuesday, 19 May 2026 to 
+Friday, 22 May 2026, both days inclusive, during which period no transfer of 
+Shares of the Company will be registered. In order to be qualified to obtain 
+final dividends, all transfers accompanied by the relevant share certificates 
+must be lodged for registration with the Company’s branch share registrar in 
+Hong Kong, Computershare Hong Kong Investor Services Limited, at Shops 
+1712-1716, 17th Floor Hopewell Centre, 183 Queen’s Road East, Wanchai, 
+Hong Kong no later than 4:30 p.m. on Monday, 18 May 2026.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 67
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+66
+REPORT OF DIRECTORS
+董事會報告書
+確認
+獨立非執行董事已審視合約安排並確認(i)概無於
+報告期內進行的交易未有根據合約安排相關條
+款訂立；(ii)葩趣互娛並無向相關股東作出其後
+未有以其他方式指讓或轉讓予本集團的股息或
+其他分派；(iii)於報告期內，本集團與葩趣互娛
+之間並無訂立、重續或續訂新合約；及(iv)合約
+安排乃於本集團一般及正常業務過程中按一般
+商業條款訂立，就本集團而言屬公平合理，且
+符合本公司及其股東的整體利益。
+截至2025年12月31日止年度，根據獨家諮詢和
+服務協議，葩趣互娛並無向北京泡泡瑪特支付
+服務費。根據合約安排，截至2025年12月31日
+止年度葩趣互娛的收益及虧損淨額分別約為人
+民幣2.7百萬元及人民幣70.5百萬元。根據合約
+安排，於2025 年12月31日葩趣互娛的總資產
+及總負債分別約為人民幣36.6百萬元及人民幣
+155.5百萬元。
+本公司核數師於致董事會函件中確認，就上述
+持續關連交易而言：
+(i) 
+未留意到任何事項導致彼等認為該等已披
+露持續關連交易尚未經董事會批准；
+(ii) 未留意到任何事項導致彼等認為該等交易
+未在所有重大方面按照規管該等交易的相
+關協議而訂立；及
+(iii) 未留意到任何事項致使彼等認為葩趣互娛
+對其股權持有人所派付股息或所作其他分
+派其後並未轉撥或轉讓予本集團。
+Confirmations
+Our Independent non-executive Directors have reviewed the Contractual 
+Arrangements and confirmed that (i) no transaction has been carried 
+out during the Reporting Period which have not been entered into in 
+accordance with the relevant provisions of the Contractual Arrangements; 
+(ii) no dividends or other distributions have been made by Paqu Huyu to 
+the Relevant Shareholders which are not otherwise subsequently assigned 
+or transferred to our Group; (iii) no new contract has been entered into, 
+renewed or reproduced between our Group and Paqu Huyu during the 
+Reporting Period; and (iv) the Contractual Arrangements had been entered 
+into in the ordinary and usual course of business of our Group, and are on 
+normal commercial terms and are fair and reasonable so far as our Group 
+is concerned, and in the interest of our Company and its Shareholders as a 
+whole.
+No service fee was paid by Paqu Huyu to Beijing Pop Mart pursuant to 
+the Exclusive Consultation and Service Agreement for the year ended 31 
+December 2025. The revenue and net loss of Paqu Huyu subject to the 
+Contractual Arrangements amounted to approximately RMB2.7 million and 
+RMB70.5 million for the year ended 31 December 2025, respectively. The 
+total assets and total liabilities of Paqu Huyu subject to the Contractual 
+Arrangements amounted to approximately RMB36.6 million and RMB155.5 
+million as at 31 December 2025, respectively.
+The auditor of the Company confirmed in a letter to the Board that, with 
+respect to the aforesaid continuing connected transactions:
+(i) 
+nothing has come to their attention that causes them to believe that the 
+disclosed continuing connected transactions have not been approved 
+by the Board;
+(ii) nothing has come to their attention that causes them to believe that 
+the transactions were not entered into, in all material respects, in 
+accordance with relevant agreements governing such transactions; and
+(iii) nothing has come to their attention that causes them to believe that 
+dividends or other distributions have been made by Paqu Huyu to the 
+holders of the equity interests of Paqu Huyu which are not otherwise 
+subsequently assigned or transferred to the Group.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 71
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+70
+REPORT OF DIRECTORS
+董事會報告書
+首次公開發售後股份獎勵計劃
+本公司於2020年7月24日（「採納日期」）有條件
+採納並於2023年5月17日（「修訂日期」）修訂首
+次公開發售後股份獎勵計劃。對於董事會根據
+首次公開發售後股份獎勵計劃授出的任何獎勵
+（「獎勵」），本公司委任恒泰信託（香港）有限
+公司為首次公開發售後股份獎勵計劃的受託人
+（「受託人」），以管理首次公開發售後股份獎勵
+計劃，有關獎勵可以股份（「獎勵股份」）或獎勵
+股份之實際售價以現金的形式歸屬。於2025年
+12月31日，首次公開發售後股份獎勵計劃的剩
+餘期限約為四年零八個月。除另有指明外，本
+節所用詞彙具有本公司日期為2023年4月24日之
+通函所界定的相同涵義。
+(a) 計劃的目的
+首次公開發售後股份獎勵計劃的目的為：
+(i)透過股份所有權、股息及就股份支付的其
+他分派及╱或提升股份價值令合資格人士
+的利益與本集團的利益一致；及(ii)鼓勵並
+挽留合資格人士，以就本集團的長期增長
+及溢利作出貢獻。
+(b) 計劃的參與者
+可能被選為首次公開發售後股份獎勵計劃
+參與者的合資格人士可為任何個人或公司
+實體（視情況而定），即(i)僱員參與者；(ii)
+關聯實體參與者；及(iii)服務提供者中的任
+何一類，其經董事會或其代表全權酌情考
+慮後對本集團作出貢獻或將作出貢獻。倘
+有關個人所在地的法律法規不允許根據首
+次公開發售後股份獎勵計劃授予、接受或
+歸屬獎勵，或董事會或其代表認為，為遵
+守所在地的適用法律法規將有關個人排除
+在外乃屬必要或適宜，該等個人無權參與
+首次公開發售後股份獎勵計劃。
+POST-IPO SHARE AWARD SCHEME
+The Company conditionally adopted the Post-IPO Share Award Scheme 
+on 24 July 2020 (the “Adoption Date”) and amended on 17 May 2023 (the 
+“Amendment Date”). Our Company appointed Trident Trust Company (HK) 
+Limited as the trustee (the “Trustee”) of the Post-IPO Share Award Scheme 
+to administer the Post-IPO Share Award Scheme with respect to the grant of 
+any award by the Board (an “Award”) which may vest in the form of Shares 
+(“Award Shares”) or the actual selling price of the Award Shares in cash in 
+accordance with the Post-IPO Share Award Scheme. As at 31 December 2025, 
+the remaining life of the Post-IPO Share Award Scheme was approximately 
+four years and eight months. Unless otherwise stated, capitalized terms used 
+in this section shall have the same meanings as those defined in the circular 
+of the Company dated 24 April 2023.
+(a) Purpose of the Scheme
+The purpose of the Post-IPO Share Award Scheme are: (i) to align the 
+interests of Eligible Persons with those of the Group through ownership 
+of Shares, dividends and other distributions paid on Shares and/or the 
+increase in value of the Shares; and (ii) to encourage and retain eligible 
+persons to make contributions to the long-term growth and profits of 
+the Group.
+(b) Participant of the Scheme
+The eligible persons who may be selected to become a participant of 
+the Post-IPO Share Award Scheme are any individuals, or corporate 
+entities (as the case may be) being any of (i) an Employee Participant; (ii) 
+a Related Entity Participant; and (iii) a Service Provider, who the Board or 
+its delegates considers, in its sole discretion, to have contributed or will 
+contribute to the Group. No individual who is resident in a place where 
+the grant, acceptance or vesting of the Awards pursuant to the Post-IPO 
+Share Award Scheme is not permitted under the laws and regulations 
+of such place or where, in the view of the Board or its delegates, 
+compliance with applicable laws and regulations in such place makes 
+it necessary or expedient to exclude such individual, shall be entitled 
+to participate in the Scheme and such individual, shall be entitled to 
+participate in the Post-IPO Share Award Scheme.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 106
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+105
+CORPORATE GOVERNANCE REPORT
+企業管治報告
+組織章程文件變動
+於截至2025年12月31日止年度，並未對大綱及
+細則作出任何修訂。第三次經修訂及重述大綱
+及細則可於本公司及聯交所網站查閱。
+股息政策
+本公司已就股息派付採納股息政策，詳情載於
+本年報第45至81頁的「董事會報告書」。
+Change in Constitutional Documents
+During the year ended 31 December 2025, no amendments have been 
+made to the Memorandum and Articles. The third amended and restated 
+Memorandum and Articles is available on the websites of the Company and 
+the Stock Exchange.
+Dividend Policy
+The Company has adopted a dividend policy on payment of dividends, and 
+details are provided in the “Report of Directors” on pages 45 to 81 of this 
+annual report.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 224
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+223
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+綜合權益變動表
+Attributable to owners of the Company
+Non-
+controlling 
+interests
+Total
+本公司擁有人應佔
+ 
+Share 
+capital
+Shares held 
+for share 
+award 
+scheme
+Other 
+reserves
+Retained 
+earnings
+Subtotal
+股本
+就股份獎勵
+計劃持有的
+股份
+其他儲備
+保留盈利
+小計
+非控股權益
+合計
+(Note 25)
+(Note 26)
+(Note 27)
+（附註25）
+（附註26）
+（附註27）
+Note
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 1 January 2025
+於2025年1月1日的結餘
+882
+(9)
+4,280,527
+6,402,105
+10,683,505
+201,134
+10,884,639
+Comprehensive income
+全面收益
+Profit for the year
+年內溢利
+–
+–
+–
+12,775,689
+12,775,689
+236,353
+13,012,042
+Other comprehensive income
+其他全面收益
+Currency translation difference
+貨幣換算差額
+–
+–
+(185,585)
+–
+(185,585)
+6,001
+(179,584)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total comprehensive income
+全面收益總額
+–
+–
+(185,585)
+12,775,689
+12,590,104
+242,354
+12,832,458
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transaction with owners
+與擁有人的交易
+Profit appropriation to statutory 
+reserves
+溢利撥入法定儲備
+–
+–
+23,992
+(23,992)
+–
+–
+–
+Capital injection from  
+non-controlling interests
+非控股權益注資
+17(a)(iv)
+–
+–
+–
+–
+–
+33,663
+33,663
+Acquisition of non-controlling 
+interests on subsidiaries
+收購附屬公司非控股權益
+17(a)(iv)(v)
+–
+–
+10,785
+–
+10,785
+(57,545)
+(46,760)
+Dividends declared
+宣派股息
+12
+–
+–
+(1,083,288)
+–
+(1,083,288)
+–
+(1,083,288)
+Dividends paid to a non-controlling 
+shareholder
+支付非控股股東股息
+17(a)(iv)
+–
+–
+–
+–
+–
+(44,974)
+(44,974)
+Share vested under the share award 
+scheme
+根據股份獎勵計劃歸屬的股份
+28
+–
+2
+(2)
+–
+–
+–
+–
+Share-based compensation
+以股份為基礎的報酬
+28
+–
+–
+76,629
+–
+76,629
+–
+76,629
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total transaction with owners
+與擁有人的交易總額
+–
+2
+(971,884)
+(23,992)
+(995,874)
+(68,856)
+(1,064,730)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 31 December 2025
+於2025年12月31日的結餘
+882
+(7)
+3,123,058
+19,153,802
+22,277,735
+374,632
+22,652,367
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 225
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+224
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+綜合權益變動表
+Attributable to owners of the Company
+Non-
+controlling 
+interests
+Total
+本公司擁有人應佔
+ 
+Share 
+capital
+Shares held 
+for share 
+award 
+scheme
+Other 
+reserves
+Retained 
+earnings
+Subtotal
+股本
+就股份獎勵
+計劃持有的
+股份
+其他儲備
+保留盈利
+小計
+非控股權益
+合計
+(Note 25)
+(Note 26)
+(Note 27)
+（附註25）
+（附註26）
+（附註27）
+Note
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 1 January 2024
+於2024年1月1日的結餘
+885
+(12)
+4,438,448
+3,330,606
+7,769,927
+10,455
+7,780,382
+Comprehensive income
+全面收益
+Profit for the year
+年內溢利
+–
+–
+–
+3,125,473
+3,125,473
+182,872
+3,308,345
+Other comprehensive income
+其他全面收益
+Currency translation difference
+貨幣換算差額
+–
+–
+144,344
+–
+144,344
+7,807
+152,151
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total comprehensive income
+全面收益總額
+–
+–
+144,344
+3,125,473
+3,269,817
+190,679
+3,460,496
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transaction with owners
+與擁有人的交易
+Purchase of own shares
+回購自身股份
+25, 27
+–
+–
+(78,031)
+–
+(78,031)
+–
+(78,031)
+Cancellation of shares
+註銷股份
+25, 27
+(3)
+–
+3
+–
+–
+–
+–
+Appropriation to statutory reserves
+撥入法定儲備
+–
+–
+53,974
+(53,974)
+–
+–
+–
+Dividends declared
+宣派的股息
+12
+–
+–
+(373,025)
+–
+(373,025)
+–
+(373,025)
+Share vested under the share award 
+ scheme
+根據股份獎勵計劃歸屬
+ 的股份
+28
+–
+3
+(3)
+–
+–
+–
+–
+Share-based compensation
+以股份為基礎的報酬
+28
+–
+–
+94,817
+–
+94,817
+–
+94,817
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total transaction with owners
+與擁有人的交易總額
+(3)
+3
+(302,265)
+(53,974)
+(356,239)
+–
+(356,239)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 31 December 2024
+於2024年12月31日的結餘
+882
+(9)
+4,280,527
+6,402,105
+10,683,505
+201,134
+10,884,639
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The above consolidated statement of changes in equity should be read in 
+conjunction with the accompanying notes.
+以上綜合權益變動表應與隨附附註一併閱讀。
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 226
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+225
+CONSOLIDATED STATEMENT OF CASH FLOWS
+綜合現金流量表
+Year ended 31 December
+截至12月31日止年度
+2025
+2024
+2025年
+2024年
+Note
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Cash flows from operating activities
+經營活動產生的現金流量
+Cash generated from operations
+經營所得現金
+34(a)
+14,704,780
+5,415,453
+Interest received
+已收利息
+237,628
+227,247
+Income tax paid
+已付所得稅
+(4,077,256)
+(688,480)
+ 
+ 
+ 
+ 
+ 
+Net cash generated from operating 
+activities
+經營活動所得現金淨額
+10,865,152
+4,954,220
+ 
+ 
+ 
+ 
+ 
+Cash flows from investing activities
+投資活動產生的現金流量
+Increase in financial assets at fair value through 
+profit or loss
+按公平值計入損益的
+ 
+金融資產增加
+3.3(a)
+(11,344,669)
+(4,351,977)
+Purchases of property, plant and equipment
+購買物業、廠房及設備
+(985,250)
+(372,668)
+Purchases of intangible assets
+購買無形資產
+(186,287)
+(144,022)
+Proceeds from disposal of financial assets at fair 
+value through profit or loss
+處置按公平值計入損益的
+ 
+金融資產所得款項
+3.3(a)
+11,486,858
+4,386,142
+Dividends received from joint ventures and an 
+associate
+收到合營企業及
+ 
+一間聯營公司股息
+–
+18,001
+Proceeds from sale of property, plant and 
+equipment, intangible assets
+出售物業、廠房及設備、
+ 
+無形資產所得款項
+34(b)
+14,507
+5,424
+Net inflow of cash arising from acquisition of a 
+subsidiary
+收購附屬公司產生的
+ 
+現金流入淨額
+36
+43,386
+–
+Placement of term deposits with initial terms 
+over three months and within one year
+存入初步為期三個月以上及
+ 
+一年以內的定期存款
+(5,593,675)
+(4,945,685)
+Redemption of term deposits with initial terms 
+over three months and within one year
+贖回初步為期三個月以上及
+ 
+一年以內的定期存款
+5,576,234
+5,413,742
+ 
+ 
+ 
+ 
+ 
+Net cash (used in)/generated from  
+investing activities
+投資活動（所使用）╱產生
+ 
+現金淨額
+(988,896)
+8,957
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 227
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+226
+CONSOLIDATED STATEMENT OF CASH FLOWS
+綜合現金流量表
+Year ended 31 December
+截至12月31日止年度
+2025
+2024
+2025年
+2024年
+Note
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Cash flows from financing activities
+融資活動產生的現金流量
+Payment of lease liabilities
+租賃負債付款
+16, 34(c)
+(608,288)
+(505,104)
+Repayment of borrowing
+償還借款
+34(c)
+–
+(15,058)
+Dividends paid
+已付股息
+34(c)
+(1,083,288)
+(378,015)
+Dividends paid to a non-controlling 
+shareholder
+向一名非控股股東派付股息
+17(a)(iv)
+(44,974)
+–
+Payments for purchase of own shares
+回購自身股份付款
+25
+–
+(78,031)
+Advance received from non-controlling interest 
+in relation to capital injection in a non-
+wholly owned subsidiary
+就注資一間非全資附屬公司
+ 
+向非控股權益收取的墊款
+17(a)(iv)
+–
+17,705
+Capital injection from non-controlling interests
+非控股權益注資
+17(a)(iv)
+15,958
+–
+Acquisition of non-controlling interests on 
+subsidiaries
+收購附屬公司非控股權益
+17(a)(iv)(v)
+(46,760)
+–
+ 
+ 
+ 
+ 
+ 
+Net cash used in financing activities
+融資活動所用現金淨額
+(1,767,352)
+(958,503)
+ 
+ 
+ 
+ 
+ 
+Net increase in cash and cash equivalents
+現金及現金等價物增加淨額
+8,108,904
+4,004,674
+ 
+ 
+ 
+ 
+ 
+Cash and cash equivalents at  
+beginning of the year
+年初的現金及現金等價物
+6,109,017
+2,077,927
+Exchange (losses)/gains on cash and cash 
+equivalents
+現金及現金等價物的
+ 
+匯兌（虧損）╱收益
+(442,834)
+26,416
+ 
+ 
+ 
+ 
+ 
+Cash and cash equivalents at end of  
+the year
+年末的現金及現金等價物
+13,775,087
+6,109,017
+ 
+ 
+ 
+ 
+ 
+The above consolidated statement of cash flows should be read in 
+conjunction with the accompanying notes.
+以上綜合現金流量表應與隨附附註一併閱讀。
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 238
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+237
+NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS
+綜合財務報表附註
+2 會計政策概要（續）
+2.1 重大會計政策概要（續）
+(b) 綜合賬目及權益會計處理原則
+（續）
+(iv) 權益法
+根據權益會計法，投資初步按成本
+確認，其後進行調整以確認本集團
+在損益中分佔被投資方的收購後損
+益，以及本集團在其他全面收益中
+分佔被投資方的其他全面收益變
+動。已收或應收合營企業股息確認
+為投資賬面值的減少。
+本集團分佔以權益入賬投資虧損等
+於或超過其於實體中的權益（包括
+任何其他無抵押長期應收款項），
+本集團不會確認進一步虧損，除非
+其已產生責任或代表其他實體作出
+付款則例外。
+本集團與其合營企業及聯營公司間
+交易的未變現收益以本集團於該等
+實體的權益為限予以對銷。除非交
+易提供所轉移資產的減值證據，否
+則未變現虧損亦將予以對銷。以權
+益入賬被投資方的會計政策已作出
+必要之更改，以確保與本集團所採
+納的政策一致。
+以權益入賬投資的賬面值按照附註
+2.1(e)中所述的政策進行減值測試。
+2 SUMMARY OF ACCOUNTING POLICIES (continued)
+2.1 Summary of material accounting policies (continued)
+(b) Principles of consolidation and equity accounting 
+(continued)
+(iv) Equity method
+Under the equity method of accounting, the investments are 
+initially recognised at cost and adjusted thereafter to recognise 
+the Group’s share of the post-acquisition profits or losses of the 
+investee in profit or loss, and the Group’s share of movements 
+in other comprehensive income of the investee in other 
+comprehensive income. Dividends received or receivable from 
+joint ventures are recognised as a reduction in the carrying 
+amount of the investment.
+Where the Group’s share of losses in an equity-accounted 
+investment equals or exceeds its interest in the entity, 
+including any other unsecured long-term receivables, the 
+Group does not recognise further losses, unless it has incurred 
+obligations or made payments on behalf of the other entity.
+Unrealised gains on transactions between the Group and its 
+joint ventures and associates are eliminated to the extent of 
+the Group’s interest in these entities. Unrealised losses are 
+also eliminated unless the transaction provides evidence of 
+an impairment of the asset transferred. Accounting policies 
+of equity-accounted investees have been changed where 
+necessary to ensure consistency with the policies adopted by 
+the Group.
+The carrying amount of equity-accounted investments is tested 
+for impairment in accordance with the policy described in 
+Note 2.1(e).
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 250
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+249
+NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS
+綜合財務報表附註
+2 會計政策概要（續）
+2.1 重大會計政策概要（續）
+(f) 投資及其他金融資產（續）
+(iii) 計量（續）
+債務工具（續）
+• 
+按公平值計入損益：未達攤銷
+成本標準的資產或按公平值計
+入其他全面收益的金融資產乃
+按公平值計入損益計量。其後
+按公平值計入損益計量且不屬
+對沖關係一部分的債務投資之
+收益或虧損於損益內確認，並
+於產生期間在綜合損益及其他
+全面收益表內「其他（虧損）╱
+收益－淨額」列報淨額。
+權益工具
+• 
+本集團以公平值對所有權益投
+資進行後續計量。倘本集團管
+理層選擇於其他全面收益呈列
+權益工具的公平值收益及虧
+損，則當終止確認該項投資
+後，不會將公平值收益及虧
+損其後重新分類至損益。當
+本集團收取派付的權利確立
+時，該等投資的股息繼續於損
+益中確認為「其他（虧損）╱收
+益－淨額」。權益投資減值虧
+損（以及減值虧損撥回）不會
+與其他公平值變動分別列報。
+• 
+按公平值計入損益的金融資產
+的公平值變動於綜合損益及
+其他全面收益表的「其他（虧
+損）╱收益－淨額」確認。
+2 SUMMARY OF ACCOUNTING POLICIES (continued)
+2.1 Summary of material accounting policies (continued)
+(f) Investments and other financial assets (continued)
+(iii) Measurement (continued)
+Debt instruments (continued)
+• 
+FVPL: Assets that do not meet the criteria for amortised 
+cost or financial assets at FVOCI are measured at FVPL. 
+A gain or loss on a debt instrument that is subsequently 
+measured at FVPL and is not part of a hedging relationship 
+is recognised in profit or loss and presented net in 
+the consolidated statement of profit of loss and other 
+comprehensive income within “other (losses)/gains – net” 
+in the period in which it arises.
+Equity instruments
+• 
+The Group subsequently measures all equity investments 
+at fair value. Where the Group’s management has 
+elected to present fair value gains and losses on equity 
+investments in OCI, there is no subsequent reclassification 
+of fair value gains and losses to profit or loss following 
+the derecognition of the investment. Dividends from such 
+investments continue to be recognised in profit or loss 
+as “other (losses)/gains – net” when the Group’s right to 
+receive payments is established. Impairment losses (and 
+reversal of impairment losses) on equity investments 
+measured at FVOCI are not reported separately from other 
+changes in fair value.
+• 
+Changes in the fair value of financial assets at FVPL 
+are recognised in “other (losses)/gains – net” in the 
+consolidated statement of profit or loss and other 
+comprehensive income.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 281
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+280
+NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS
+綜合財務報表附註
+4 關鍵會計估計及判斷（續）
+(d) 當期和遞延所得稅
+本集團在各司法權區均須繳納所得稅。在
+釐定全球所得稅的撥備時，需要作出重大
+判斷。日常業務過程中存在若干不能確定
+最終稅項的交易及計算。本集團根據對是
+否需要繳付額外稅項的估計確認負債。倘
+該等事宜的最終稅務結果有別於初步入賬
+的金額，則有關差額將於作出有關釐定期
+內的所得稅開支及遞延稅項撥備中反映。
+另外，未來所得稅資產的變現取決於本集
+團未來年度產生充足應課稅收入的能力，
+以使用所得稅優惠及稅項虧損結轉。未來
+盈利能力偏離估計或所得稅稅率的偏離將
+造成對未來所得稅資產及負債的價值進行
+調整，這可能對所得稅開支產生重大影響。
+支付予本公司中國內地附屬公司外國投資
+者的股息通常須按10%稅率繳納預扣稅。倘
+於香港註冊成立的外國投資者滿足中國內
+地與香港之間訂立的雙邊稅務條約安排項
+下的條件及規定，則相關的預扣稅稅率將
+為5%。本集團定期評估自中國內地附屬公
+司作出分派的需要。就此而言，預扣稅將
+於分派股息的期間或就預期於未來進行分
+派的未分派股息計提撥備。
+4 CRITICAL ACCOUNTING ESTIMATES AND 
+JUDGMENTS (continued)
+(d) Current and deferred income taxes
+The Group is subject to income taxes in different jurisdictions. Significant 
+judgment is required in determining the worldwide provision for income 
+taxes. There are certain transactions and calculations for which the 
+ultimate tax determination is uncertain during the ordinary course of 
+business. The Group recognises liabilities based on estimates of whether 
+additional taxes will be due. Where the final tax outcome of these 
+matters is different from the amounts that were initially recorded, such 
+differences will be reflected in the income tax expense and deferred 
+tax provisions in the period in which such determination is made. In 
+addition, the realisation of future income tax assets is dependent on 
+the Group’s ability to generate sufficient taxable income in future years 
+to utilise income tax benefits and tax loss carry-forwards. Deviations of 
+future profitability from estimates or in the income tax rate would result 
+in adjustments to the value of future income tax assets and liabilities 
+that could have a significant effect on the income tax expenses.
+Dividends derived from the Company’s subsidiaries in the Chinese 
+mainland to foreign investors are generally subject to a 10% 
+withholding tax. If a foreign investor incorporated in Hong Kong meets 
+the conditions and requirements under the double taxation treaty 
+arrangement entered into between the Chinese mainland and Hong 
+Kong, the relevant withholding tax rate will be 5%. The Group regularly 
+assesses its needs to make distributions out of its subsidiaries in Chinese 
+mainland. In this regard, withholding tax will be provided in the period 
+in which dividends are distributed or on the undistributed profits to the 
+extent they are expected to be distributed in foreseeable future.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 289
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+288
+NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS
+綜合財務報表附註
+11 INCOME TAX EXPENSE (continued)
+(c) Chinese mainland Corporated Income Tax (“CIT”) (continued)
+During the years ended 31 December 2025 and 2024, certain group 
+entities have been granted certain tax concessions to small scale entities 
+by tax authorities in the Chinese mainland whereby the subsidiaries 
+operating in the respective jurisdictions are entitled to tax concessions.
+(d) Chinese mainland Withholding Tax (“WHT”)
+According to the applicable Chinese mainland tax regulations, dividends 
+distributed by a company established in the Chinese mainland to a 
+foreign investor with respect to profit derived after 1 January 2008 are 
+generally subject to a 10% WHT. If a foreign investor incorporated in 
+Hong Kong meets the conditions and requirements under the double 
+taxation treaty arrangement entered into between the Chinese mainland 
+and Hong Kong, the relevant withholding tax rate will be 5%.
+As at 31 December 2025, the aggregate undistributed earnings of 
+the Group’s subsidiaries incorporated in the Chinese mainland are 
+RMB20,163,244,000 (as at 31 December 2024: RMB5,685,934,000). In the 
+opinion of the directors, it is not probable that these subsidiaries will 
+distribute such earnings in the foreseeable future, and that the Company 
+has the ability to control the timing of the distribution from these 
+subsidiaries. Accordingly, despite an assessable temporary difference on 
+such retained earnings exists, no deferred income tax liability has been 
+recognised in the consolidated financial statements.
+(e) Starting from the year ending 31 December 2025, the Group is 
+within the scope of the Organisation for Economic Co-operation and 
+Development (“OECD”) Pillar Two model rules, which was enacted in 
+certain jurisdictions in which some of the Group’s overseas subsidiaries 
+are incorporated. Under the legislation, the Group is liable to pay a top-
+up tax (if any) for the difference between the Global Anti-Base Erosion 
+Proposal (‘GloBE’) effective tax rate for each jurisdiction which the group 
+entities operate and the 15% minimum rate.
+11 所得稅開支（續）
+(c) 中國內地企業所得稅（「企業所得
+稅」）
+（續）
+截至2025年及2024年12月31日止年度，若
+干集團實體已獲中國內地稅務機關授予小
+規模納稅實體的若干稅收優惠，據此在各
+自司法權區經營的附屬公司有權享受稅收
+優惠。
+(d) 中國內地預扣稅（「預扣稅」）
+根據適用的中國內地稅收法規，在中國內
+地成立的公司就於2008年1月1日之後產生
+的溢利向外國投資者分派的股息通常須繳
+納10%的預扣稅。倘於香港註冊成立的外國
+投資者滿足中國內地與香港之間訂立的雙
+邊稅務條約安排項下的條件及規定，則相
+關的預扣稅稅率將為5%。
+於2025 年12 月31 日，本集團在中國內地
+註冊成立的附屬公司的未分配盈利總額為
+人民幣20,163,244,000元（於2024年12月31
+日：人民幣5,685,934,000元）。董事認為，
+該等附屬公司不大可能於可預見的將來分
+配該等盈利，並且本公司有能力控制該等
+附屬公司分配盈利的時間。因此，儘管存
+在該等保留盈利的應課稅暫時性差額，但
+並未於綜合財務報表確認任何遞延所得稅
+負債。
+(e) 自截至2025年12月31日止年度起，本集團
+已納入經濟合作與發展組織（「經合組織」）
+支柱二立法範本的範圍內，該範本已於本
+集團部分海外附屬公司註冊成立的若干司
+法權區頒佈。根據法例，本集團有責任就
+集團實體經營所在的各司法權區的全球反
+侵蝕稅基（「GloBE」）提案實際稅率與15%的
+最低稅率之間的差額支付補足稅。
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 291
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+290
+NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS
+綜合財務報表附註
+12 股息
+於2 0 2 5 年派付的股息總額為人民幣
+1,083,288,000元或每股人民幣81.46分（2024
+年：人民幣373,025,000 元或每股人民幣
+28.21分）
+（扣除就股份獎勵計劃持有的股份
+應佔股息人民幣10,834,000元（2024年：人
+民幣4,763,000元））。
+董事會建議就截至2025年12月31日止年度
+派付末期股息每股本公司已發行普通股人
+民幣2.3817元，根據截至本綜合財務報表批
+准日期本公司已發行股本總數計算，相當
+於合共為人民幣3,193,962,000元。倘於派息
+記錄日期前本公司已發行股本總數有所變
+動，則股息將按每股分派而分派總額將相
+應調整。
+擬派股息並未於綜合財務報表中反映為應
+付股息，而將反映為截至2026年12月31日
+止年度的撥入可分派儲備。
+13 每股盈利
+(a) 每股基本盈利
+每股基本盈利乃根據截至2025年及2024年
+12月31日止年度，本公司擁有人應佔溢利
+除以已發行普通股加權平均數減就股份獎
+勵計劃所持股份及本公司購回以註銷之股
+份之差而計算得出。
+12 DIVIDENDS
+The total dividends paid in 2025 amounted to RMB1,083,288,000 or 
+RMB81.46 cents per share (2024: RMB373,025,000 or RMB28.21 cents 
+per share) (which are net of the dividend of RMB10,834,000 (2024: 
+RMB4,763,000) attributable to the shares held for the Share Award 
+Scheme).
+The Board recommended the payment of a final dividend of RMB2.3817 
+per ordinary share of the Company issued for the year ended 31 
+December 2025, representing an aggregate amount of RMB3,193,962,000 
+based on the total issued share capital of the Company as of the date 
+of approval of this consolidated financial statements. In the event of 
+change in the total issued share capital of the Company before the 
+record date for dividend payment, dividends will be distributed per 
+share and the total distribution amount will be adjusted accordingly.
+The proposed dividend is not reflected as a dividend payable in 
+the consolidated financial statements, but will be reflected as an 
+appropriation of distributable reserves for the year ending 31 December 
+2026.
+13 EARNINGS PER SHARE
+(a) Basic earnings per share
+Basic earnings per share is calculated by dividing the profit attributable 
+to owners of the Company by the weighted average number of ordinary 
+shares in issue less shares held for Share Award Scheme and shares 
+repurchased by the Company for cancellation during the years ended 31 
+December 2025 and 2024.
+Year ended 31 December
+截至12月31日止年度
+2025
+2024
+2025年
+2024年
+ 
+ 
+ 
+ 
+Profit attributable to owners of the 
+ 
+Company (RMB’000)
+本公司擁有人應佔溢利
+ （人民幣千元）
+12,775,689
+3,125,473
+Weighted average number of ordinary shares in 
+ 
+issue less shares held for Share Award Scheme 
+ 
+and shares repurchased by the Company for 
+ 
+cancellation (in thousands)
+已發行普通股加權平均數減就股份
+ 
+獎勵計劃所持股份及本公司購回
+ 
+以註銷之股份之差（千股）
+1,330,007
+1,326,541
+ 
+ 
+ 
+ 
+Basic earnings per share (expressed in 
+ 
+RMB per share)
+每股基本盈利
+ （以每股人民幣元表示）
+9.61
+2.36
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 314
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+313
+NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS 
+綜合財務報表附註
+17 於附屬公司的投資（續）
+(a) 附屬公司（續）
+(iv) 收購Pop Mart (Thailand) Company 
+Limited額外權益（續）
+截至2025年12月31日止年度，於綜合
+權益變動表入賬的非控股權益注資總
+額為153.72百萬泰銖（相當於約人民幣
+33.66百萬元）。
+截至2025年12月31日止年度，Pop Mart 
+Thailand已宣派股息合計488百萬泰銖
+（相當於約人民幣105.44百萬元），其中
+204.96百萬泰銖（相當於約人民幣44.97
+百萬元）已分派予Pop Mart Thailand的
+非控股股東。
+(v) 收購Pop Mart Japan額外權益
+於2025 年3 月，本集團向非控股股東
+收購Pop Mart Japan合計40%股權，購
+買代價為960.00百萬日圓（相當於約人
+民幣45.89百萬元）。收購當日Pop Mart 
+Japan之非控股權益的賬面值為409.40
+百萬日圓（相當於約人民幣19.57百萬
+元）。本集團確認非控股權益減少人民
+幣19.57百萬元及本公司擁有人應佔權
+益減少人民幣26.32百萬元。股份購買
+完成後，Pop Mart Japan成為本集團的
+全資附屬公司。
+(vi) 截至2025年12月31日止年度，本集團
+前合營企業Pop Mart South Asia透過業
+務合併成為本集團的全資附屬公司（附
+註36）。
+(vii) 概無附屬公司於年末發行任何債務證
+券。
+17 INVESTMENT IN SUBSIDIARIES (continued)
+(a) Subsidiaries (continued)
+(iv) Acquisition of additional interest in Pop Mart (Thailand) Company 
+Limited (continued)
+During the year ended 31 December 2025, capital injection from 
+non-controlling interest recorded in the consolidated statement of 
+changes in equity amounted to an aggregate amount of THB153.72 
+million (equivalent to approximately RMB33.66 million).
+During the year ended 31 December 2025, Pop Mart Thailand 
+declared dividends in an aggregated amount of THB488 million 
+(equivalent to approximately RMB105.44 million), among which 
+THB204.96 million (equivalent to approximately RMB44.97 million) 
+was distributed to the non-controlling shareholder of Pop Mart 
+Thailand.
+(v) Acquisition of additional interest in Pop Mart Japan
+In March 2025, the Group acquired an aggregate 40% equity 
+interest in Pop Mart Japan from the non-controlling shareholder, 
+for a purchase consideration of JPY960.00 million (equivalent to 
+approximately RMB45.89 million). The carrying amount of the non-
+controlling interests in Pop Mart Japan on the date of acquisition 
+was JPY409.40 million (equivalent to approximately RMB19.57 
+million). The Group recognised a decrease in non-controlling 
+interests of RMB19.57 million and a decrease in equity attributable 
+to owners of the Company of RMB26.32 million. Upon completion 
+of the share purchase, Pop Mart Japan becomes a wholly-owned 
+subsidiary of the Group.
+(vi) During the year ended 31 December 2025, Pop Mart South Asia, 
+a former joint venture of the Group, became a wholly-owned 
+subsidiary of the Group upon business combination (Note 36).
+(vii) None of the subsidiaries had issued any debt securities at the end 
+of the year.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 315
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+314
+NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS
+綜合財務報表附註
+17 於附屬公司的投資（續）
+(b) 非控股權益
+於2025年12月31日，非控股權益總額為人
+民幣374,632,000元（於2024年12月31日：人
+民幣201,134,000元）。概無附屬公司擁有對
+本集團屬重大的非控股權益。
+(c) 附屬公司的英文名稱乃管理層根據其
+官方中文名稱盡力翻譯所得。
+18 使用權益法入賬的投資
+於2025年12月31日，管理層認為本集團合
+營企業及聯營公司個別而言對本集團不屬
+重大。於合營企業及聯營公司投資的賬面
+值變動（包括本集團個別不重要合營企業及
+聯營公司的合計資料）如下：
+17 INVESTMENT IN SUBSIDIARIES (continued)
+(b) Non-controlling interests
+The total non-controlling interests as at 31 December 2025 amounted 
+to RMB374,632,000 (As at 31 December 2024: RMB201,134,000). No 
+subsidiary has non-controlling interests that are material to the Group.
+(c) The English names of the subsidiaries represent 
+management’s best efforts in translating from their official 
+names in Chinese.
+18 INVESTMENTS ACCOUNTED FOR USING THE 
+EQUITY METHOD
+Management is of the view that none of the Group’s joint ventures and 
+associates is individually material to the Group as at 31 December 2025. 
+The movements of the carrying amount of investments in joint ventures 
+and associates (which also includes the aggregate information of the 
+Group’s individually immaterial joint ventures and associates) are as 
+follows:
+2025
+2024
+2025年
+2024年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Opening balance as at 1 January
+於1月1日的年初結餘
+136,783
+107,001
+Upstream elimination impact
+上游抵銷影響
+(1,090)
+(2,016)
+Share of profit for the year
+分佔年度溢利
+69,653
+48,188
+Dividends from joint ventures
+來自合營企業的股息
+–
+(18,001)
+Transfer to a subsidiary (Note 36)
+轉撥至附屬公司（附註36）
+(74,527)
+–
+Currency translation difference
+匯兌差額
+(2,695)
+1,611
+ 
+ 
+ 
+ 
+Ending balance as at 31 December
+於12月31日的年末結餘
+128,124
+136,783
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 333
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+332
+NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS
+綜合財務報表附註
+27 其他儲備
+(a) 本集團的其他儲備變動
+27 OTHER RESERVES
+(a) Other reserves movement of the Group
+Share
+ premium
+Capital
+ reserves
+Statutory
+ reserves
+Translation
+ reserves
+Share-based 
+compensation
+ reserves
+Treasury
+ shares
+Total
+股份溢價
+資本儲備
+法定儲備
+匯兌儲備
+以股份
+為基礎的
+報酬儲備
+庫存股
+總計
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As at 1 January 2025
+於2025年1月1日
+10,944,659
+(7,383,710)
+132,790
+476,920
+109,868
+–
+4,280,527
+Currency translation difference
+貨幣換算差額
+–
+–
+–
+(185,585)
+–
+–
+(185,585)
+Dividends declared (Note 12)
+宣派股息（附註12）
+(1,083,288)
+–
+–
+–
+–
+–
+(1,083,288)
+Appropriation to statutory reserves
+撥入法定儲備
+–
+–
+23,992
+–
+–
+–
+23,992
+Acquisition of non-controlling interests  
+on subsidiaries (Note 17(a)(iv)(v))
+收購一間附屬公司的非控股權益
+（附註17(a)(iv)(v)）
+–
+10,785
+–
+–
+–
+–
+10,785
+Share vested under the Share Award 
+Scheme
+根據股份獎勵計劃歸屬的股份
+93,767
+–
+–
+–
+(93,769)
+–
+(2)
+Share-based compensation
+以股份為基礎的報酬
+–
+–
+–
+–
+76,629
+–
+76,629
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 31 December 2025
+於2025年12月31日的結餘
+9,955,138
+(7,372,925)
+156,782
+291,335
+92,728
+–
+3,123,058
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As at 1 January 2024
+於2024年1月1日
+11,304,842
+(7,383,710)
+78,816
+332,576
+116,392
+(10,468)
+4,438,448
+Currency translation difference
+貨幣換算差額
+–
+–
+–
+144,344
+–
+–
+144,344
+Dividends declared (Note 12)
+宣派股息（附註12）
+(373,025)
+–
+–
+–
+–
+–
+(373,025)
+Appropriation to statutory reserves
+撥入法定儲備
+–
+–
+53,974
+–
+–
+–
+53,974
+Purchase of own shares (Note 25)
+回購自身股份（附註25）
+–
+–
+–
+–
+–
+(78,031)
+(78,031)
+Cancellation of repurchased shares 
+(Note 25)
+註銷回購股份（附註25）
+(88,496)
+–
+–
+–
+–
+88,499
+3
+Share vested under the Share Award 
+Scheme
+根據股份獎勵計劃歸屬的股份
+101,338
+–
+–
+–
+(101,341)
+–
+(3)
+Share-based compensation
+以股份為基礎的報酬
+–
+–
+–
+–
+94,817
+–
+94,817
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 31 December 2024
+於2024年12月31日的結餘
+10,944,659
+(7,383,710)
+132,790
+476,920
+109,868
+–
+4,280,527
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 345
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+344
+NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS
+綜合財務報表附註
+34 綜合現金流量表附註（續）
+(c) 現金淨額對賬（續）
+34 NOTES TO THE CONSOLIDATED STATEMENT 
+OF CASH FLOWS (continued)
+(c) Net cash reconciliation (continued)
+Cash and cash
+ equivalents
+Liquid
+ investments
+Lease
+ liabilities
+Dividends
+Borrowing
+Net cash
+現金及現金
+等價物
+流動性投資
+租賃負債
+股息
+借款
+現金淨額
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net cash as at 1 January 2025
+於2025年1月1日的現金淨額
+6,109,017
+11,434
+(964,561)
+–
+–
+5,155,890
+Cash flows
+現金流量
+8,108,904
+–
+608,288
+1,083,288
+–
+9,800,480
+Addition
+添置
+–
+–
+(2,388,832)
+(1,083,288)
+–
+(3,472,120)
+Interests accrued for leases liabilities
+租賃負債之應計利息
+–
+–
+(81,887)
+–
+–
+(81,887)
+Acquisition of a subsidiary
+收購附屬公司
+–
+–
+(34,352)
+–
+–
+(34,352)
+Foreign exchange adjustments
+外匯調整
+(442,834)
+(454)
+–
+–
+–
+(443,288)
+Other non-cash movement
+其他非現金變動
+–
+(1,237)
+(231)
+–
+–
+(1,468)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net cash as at 31 December 2025
+於2025年12月31日的現金淨額
+13,775,087
+9,743
+(2,861,575)
+–
+–
+10,923,255
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net cash as at 1 January 2024
+於2024年1月1日的現金淨額
+2,077,927
+8,415
+(777,753)
+–
+(15,058)
+1,293,531
+Cash flows
+現金流量
+4,004,674
+–
+505,104
+378,015
+15,058
+4,902,851
+Addition
+添置
+–
+–
+(695,021)
+(373,025)
+–
+(1,068,046)
+Interests accrued for leases liabilities
+租賃負債之應計利息
+–
+–
+(42,628)
+–
+–
+(42,628)
+Foreign exchange adjustments
+外匯調整
+26,416
+677
+–
+(4,990)
+–
+22,103
+Other non-cash movement
+其他非現金變動
+–
+2,342
+45,737
+–
+–
+48,079
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net cash as at 31 December 2024
+於2024年12月31日的現金淨額
+6,109,017
+11,434
+(964,561)
+–
+–
+5,155,890
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 354
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+353
+NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS
+綜合財務報表附註
+38 本公司的資產負債表及其他儲
+備變動（續）
+附註(a)本公司的其他儲備變動
+38 B A L A N C E S H E E T A N D O T H E R R E S E R V E 
+MOVEMENT OF THE COMPANY (continued)
+Note (a) Other reserve movement of the Company
+Treasury
+ shares
+Share
+ premium
+Translation
+ reserves
+Share-based
+ compensation
+ reserves
+Total
+庫存股
+股份溢價
+匯兌儲備
+以股份為基礎
+的報酬儲備
+總計
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As at 1 January 2025
+於2025年1月1日
+–
+10,936,189
+702,405
+109,868
+11,748,462
+Currency translation difference
+貨幣換算差額
+–
+–
+(494,348)
+–
+(494,348)
+Dividends declared
+宣派股息
+–
+(1,093,990)
+–
+–
+(1,093,990)
+Share vested under the Share Award 
+Scheme
+根據股份獎勵計劃歸屬
+ 之股份
+–
+93,767
+–
+(93,769)
+(2)
+Share-based compensation
+以股份為基礎的報酬
+–
+–
+–
+76,629
+76,629
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 31 December 2025
+於2025年12月31日的結餘
+–
+9,935,966
+208,057
+92,728
+10,236,751
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As at 1 January 2024
+於2024年1月1日
+(10,468)
+11,301,143
+338,406
+116,392
+11,745,473
+Currency translation difference
+貨幣換算差額
+–
+–
+363,999
+–
+363,999
+Dividends declared
+宣派股息
+–
+(377,796)
+–
+–
+(377,796)
+Purchase of own shares
+回購自身股份
+(78,031)
+–
+–
+–
+(78,031)
+Cancellation of shares
+註銷股份
+88,499
+(88,496)
+–
+–
+3
+Share vested under the Share Award 
+Scheme
+根據股份獎勵計劃歸屬
+ 之股份
+–
+101,338
+–
+(101,341)
+(3)
+Share-based compensation
+以股份為基礎的報酬
+–
+–
+–
+94,817
+94,817
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance at 31 December 2024
+於2024年12月31日的結餘
+–
+10,936,189
+702,405
+109,868
+11,748,462
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 359
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+358
+NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS
+綜合財務報表附註
+40 其他會計政策概要（續）
+(a) 物業、廠房及設備（續）
+出售的收益及虧損透過將所得款項與賬面
+值比較而釐定，並於綜合損益及其他全面
+收益表「其他（虧損）╱收益－淨額」內確
+認。
+在建工程指正在建設或有待安裝的樓宇、
+廠房及機械，並按成本減累計減值虧損列
+賬。成本包括建造樓宇、廠房成本及機
+械、安裝、測試及其他直接成本。在建工
+程暫不計提折舊準備，直至有關資產建成
+及可供擬定用途為止。
+(b) 獨立財務報表
+於附屬公司之投資按成本扣除減值入賬。
+成本包括投資的直接應佔成本。附屬公司
+的業績由本集團按已收股息及應收款項入
+賬。
+倘自附屬公司就有關投資所收取的股息超
+出宣派股息期間該附屬公司的全面收益總
+額，或倘獨立財務報表的投資賬面值超出
+財務資料所示被投資方之資產淨值（包括商
+譽）賬面值，則須對該等附屬公司的投資進
+行減值測試。
+(c) 分部報告
+經營分部的呈報方式與提供予主要經營決
+策者的內部報告的方式一致。主要經營決
+策者（負責分配資源及評估經營分部的表
+現）已被確認為本集團執行董事。
+40 SUMMARY OF OTHER ACCOUNTING POLICIES 
+(continued)
+(a) Property, plant and equipment (continued)
+Gains and losses on disposals are determined by comparing the 
+proceeds with the carrying amount and are recognised within “other 
+(losses)/gains – net” in the consolidated statement of profit or loss and 
+other comprehensive income.
+Construction-in-progress represents buildings, plant and machinery 
+under construction or pending installation and is stated at cost less 
+accumulated impairment losses. Cost includes the costs of construction 
+of buildings, the costs of plant and machinery, installation, testing 
+and other direct costs. No provision for depreciation is made on 
+construction-in-progress until such time as the relevant assets are 
+completed and ready for intended use.
+(b) Separate financial statements
+Investments in subsidiaries are accounted for at cost less impairment. 
+Cost includes direct attributable costs of investment. The results of 
+subsidiaries are accounted for by the Group on the basis of dividend 
+received and receivables.
+Impairment testing of the investments in subsidiaries is required upon 
+receiving a dividend from these investments if the dividend exceeds the 
+total comprehensive income of the subsidiary in the period the dividend 
+is declared or if the carrying amount of the investment in the separate 
+financial statements exceeds the carrying amount in the financial 
+information of the investee’s net assets including goodwill.
+(c) Segment reporting
+Operating segments are reported in a manner consistent with the 
+internal reporting provided to the CODM. The CODM, who is responsible 
+for allocating resources and assessing performance of the operating 
+segments, has been identified as executive directors of the Group.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 363
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+362
+NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS
+綜合財務報表附註
+40 其他會計政策概要（續）
+(j) 借款（續）
+除非本集團有無條件權利將負債的結算遞
+延至報告期間後最少12個月，否則借款分
+類為流動負債。
+(k) 借款成本
+可直接歸屬於購置、興建或生產合資格資
+產（需經較長時間方能達至擬定用途或出售
+狀態）的一般及特定借款成本，計入該等資
+產的成本，直至資產大致達至其擬定用途
+或出售狀態為止。
+所有其他借款成本於其產生期間在綜合損
+益及其他全面收益表確認。
+(l) 利息收入
+按公平值計入損益的金融資產所得利息收
+入計入「其他（虧損）╱收益－淨額」。
+倘自為持作現金管理用途的金融資產賺取
+利息收入，利息收入則呈列為財務收入（請
+參閱上文附註10）。任何其他利息收入乃計
+入其他收入。
+利息收入的計算方法是將實際利率應用於
+金融資產的賬面總值，但隨後發生信貸減
+值的金融資產除外。對於信貸減值的金融
+資產，實際利率應用於金融資產的賬面淨
+值（經扣除虧損撥備）。
+(m) 股息
+就於報告期末或之前已宣派股息但於報告
+期末並未分派之任何股息金額（經適當授權
+及不再由實體酌情決定）作出撥備。
+40 SUMMARY OF OTHER ACCOUNTING POLICIES 
+(continued)
+(j) Borrowings (continued)
+Borrowings are classified as current liabilities unless the Group has an 
+unconditional right to defer settlement of the liability for at least 12 
+months after the reporting period.
+(k) Borrowing costs
+General and specific borrowing costs directly attributable to the 
+acquisition, construction or production of qualifying assets, which are 
+assets that necessarily take a substantial period of time to get ready for 
+their intended use or sale, are added to the cost of those assets, until 
+such time as the assets are substantially ready for their intended use or 
+sale.
+All other borrowing costs are recognised in the consolidated statement 
+of profit or loss and other comprehensive income in the period in which 
+they are incurred.
+(l) Interest income
+Interest income from financial assets at FVPL is included in the “other 
+(losses)/gains – net”.
+Interest income is presented as finance income where it is earned from 
+financial assets that are held for cash management purposes, see Note 
+10 above. Any other interest income is included in other income.
+Interest income is calculated by applying the effective interest rate to 
+the gross carrying amount of a financial asset except for financial assets 
+that subsequently become credit-impaired. For credit-impaired financial 
+assets the effective interest rate is applied to the net carrying amount of 
+the financial asset (after deduction of the loss allowance).
+(m) Dividends
+Provision is made for the amount of any dividend declared, being 
+appropriately authorised and no longer at the discretion of the entity, on 
+or before the end of the reporting period but not distributed at the end 
+of the reporting period.
+
+================================================================================
+📊 IP分部(前3页,共59页)
+================================================================================
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 4
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+3
+CORPORATE INFORMATION
+公司資料
+HEADQUARTERS AND PRINCIPAL PLACE OF 
+BUSINESS IN THE PRC
+Floor 36 & 37, Block A, Puxiang Center
+Hongtai East Street
+Dawangjing Technology Business Park
+Chaoyang District, Beijing
+PRC
+PRINCIPAL PLACE OF BUSINESS IN HONG KONG
+19/F, Golden Centre
+188 Des Voeux Road Central
+Hong Kong
+PRINCIPAL SHARE REGISTRAR
+Maples Fund Services (Cayman) Limited
+PO Box 1093
+Boundary Hall
+Cricket Square
+Grand Cayman KY1-1102
+Cayman Islands
+HONG KONG SHARE REGISTRAR
+Computershare Hong Kong Investor Services Limited
+Shops 1712-1716
+17th Floor Hopewell Centre
+183 Queen’s Road East
+Wanchai
+Hong Kong
+總部及中國主要營業地點
+中國
+北京市朝陽區
+大望京科技商務園區
+宏泰東街
+浦項中心A座36及37樓
+香港主要營業地點
+香港
+德輔道中188號
+金龍中心19樓
+股份過戶登記總處
+Maples Fund Services (Cayman) Limited
+PO Box 1093
+Boundary Hall
+Cricket Square
+Grand Cayman KY1-1102
+Cayman Islands
+香港股份過戶登記處
+香港中央證券登記有限公司
+香港
+灣仔
+皇后大道東183號
+合和中心17樓
+1712-1716號舖
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 5
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+4
+CORPORATE INFORMATION
+公司資料
+PRINCIPAL BANKS
+Industrial and Commercial Bank of China Limited
+(Zhu Shi Kou Branch)
+No.15, East Street, Zhushikou
+Dongcheng District, Beijing, PRC
+Bank of Communications Co., Ltd.
+(Wang Jing Branch)
+Wangjing International Commerce Center
+No. 9, Wangjing Street, Chaoyang District, Beijing, PRC
+China Minsheng Banking Corp., Ltd.
+(Wang Jing Branch)
+Botai International, Block B, Building 122
+District 1, Nanhu East Part, Guangshun North Street
+Chaoyang District, Beijing, PRC
+COMPANY WEBSITE
+www.popmart.com
+LEGAL ADVISERS
+As to Hong Kong laws
+Davis Polk & Wardwell
+10/F, The Hong Kong Club Building
+3A Chater Road
+Central
+Hong Kong
+As to PRC law
+Jingtian & Gongcheng
+45/F, K. Wah Centre
+1010 Huaihai Road (M)
+Xuhui District
+Shanghai 200031
+PRC
+As to Cayman Islands laws
+Maples and Calder (Hong Kong) LLP
+26th Floor, Central Plaza
+18 Harbour Road
+Wanchai, Hong Kong
+主要往來銀行
+中國工商銀行股份有限公司
+（珠市口支行）
+中國北京市東城區
+珠市口東大街15號
+交通銀行股份有限公司
+（望京支行）
+中國北京市朝陽區望京街9號
+望京國際商業中心
+中國民生銀行股份有限公司
+（望京支行）
+中國北京市朝陽區
+廣順北大街南湖東園一區
+122號樓博泰國際B座
+公司網站
+www.popmart.com
+法律顧問
+有關香港法律
+達維律師事務所
+香港
+中環
+遮打道三號A
+香港會所大廈十樓
+有關中國法律
+競天公誠律師事務所
+中國
+上海市徐匯區
+淮海中路1010號
+嘉華中心45層
+郵政編碼：200031
+有關開曼群島法律
+邁普達律師事務所（香港）有限法律責任合夥
+香港灣仔
+港灣道18號
+中環廣場26樓
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 9
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+8
+CHAIRMAN’S STATEMENT
+董事長致辭
+尊敬的各位股東及投資人朋友：
+過去一年，對我們來說是具有里程碑意義的一
+年，以LABUBU為代表的泡泡瑪特IP收穫世界
+各地粉絲的喜愛，國際化和集團化戰略落地生
+根，推動品牌影響力實現全球躍升。回顧這一
+年，泡泡瑪特營收、淨利潤再創歷史新高，實
+現營收371.2億元，同比增長184.7%，經調整淨
+利潤130.8億元，同比增長284.5%。
+2025年，集團旗下IP呈現一超多強的發展格局，
+為公司業績持續增長注入了強勁動能。這一年
+THE MONSTERS迎來了十週歲生日，LABUBU火
+爆全球，真正意義上成為了世界級的超級IP。
+THE MONSTERS收入躋身百億俱樂部，全年實
+現營收141.6億元，同比增長365.7%。我們認為
+LABUBU像一個金礦，其價值挖掘才剛剛開始。
+此外，包括SKULLPANDA、CRYBABY、MOLLY、
+DIMOO、星星人在內的6大IP營收突破20億元，
+17個IP營收突破1億元。IP矩陣實現多元繁榮，
+證明了泡泡瑪特持續打造爆款的能力，我們有
+信心通過對IP的長期孵化和運營，讓IP歷久彌
+新，不斷煥發出新的生命力。
+過去一年，公司國際化戰略成果顯著，年初我
+們進行了全球大規模組織架構調整，推動全球
+化佈局不斷深入。我們在德國、丹麥、加拿大
+以及菲律賓開設了首家線下門店，並在曼谷、
+上海、悉尼等全球核心城市的地標位置開設了
+旗艦店，我們看到了快樂與美好背後所蘊含的
+巨大市場潛力，希望將這份獨特的消費體驗持
+續傳遞給全球消費者。
+Dear Shareholders and Investors:
+The past year has been a milestone one for us. Pop Mart’s IP portfolio, 
+represented by LABUBU, has garnered the affection of fans worldwide. Our 
+global expansion strategy and group-level corporate strategy have taken 
+root and flourished, propelling our brand influence to soar globally. In the 
+past year, both revenue and net profit of POP MART reached unprecedented 
+heights, generating revenue of RMB37.12 billion, representing an increase of 
+184.7% year-on-year, while adjusted net profit amounted to RMB13.08 billion 
+with a growth of 284.5% year-on-year.
+In 2025, the Group’s IP portfolio demonstrated a development pattern of 
+“one dominant IP with multiple strong ones”, injecting strong momentum 
+into the Company’s sustained performance growth. This year, THE MONSTERS 
+celebrated its 10th birthday, while LABUBU became a global sensation, truly 
+evolving into a world-class super IP. THE MONSTERS joined the RMB10 billion 
+club in terms of revenue, achieving annual revenue of RMB14.16 billion, 
+representing a year-on-year increase of 365.7%. We believe that LABUBU is 
+like a gold mine, and its value exploration has only just begun. Additionally, 
+revenue of six IPs, including SKULLPANDA, CRYBABY, MOLLY, DIMOO, and 
+Twinkle Twinkle (星星人), exceeded RMB2 billion, while revenue of 17 IPs 
+exceeded RMB100 million. The diverse and thriving IP matrix underscores 
+Pop Mart’s ability to consistently create hit products. We are confident that 
+through long-term incubation and operation, we can keep our IP portfolio 
+vibrant and constantly infuse them with new vitality.
+Over the past year, the Company has achieved significant results in its 
+internationalization strategy. At the beginning of the year, we carried out a 
+large-scale global organizational restructuring to further deepen our global 
+footprint. We opened our first brick-and-mortar stores in Germany, Denmark, 
+Canada, and Philippines, alongside flagship stores at landmark locations in 
+key cities globally including Bangkok, Shanghai, and Sydney. Leveraging the 
+vast market potential of the joy-and-beauty consumer segment, we remain 
+dedicated to delivering this unique, immersive experience to customers 
+around the world.
+
+================================================================================
+📊 受限资产/抵押(前5页,共21页)
+================================================================================
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 34
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+33
+MANAGEMENT DISCUSSION AND ANALYSIS
+管理層討論與分析
+Cash and cash equivalents
+Our cash and cash equivalents primarily comprise cash at bank. Cash and 
+cash equivalents increased from RMB6,109.0 million as of 31 December 2024 
+to RMB13,775.1 million as of 31 December 2025, which was mainly due to the 
+increase in cash generated from our operating activities.
+Trade payables
+Trade payables primarily represent our obligation to pay for merchandise 
+from suppliers in the ordinary course of business. Trade payables increased 
+from RMB1,010.1 million as of 31 December 2024 to RMB1,858.2 million as 
+of 31 December 2025, primarily attributable to the growth in our business, 
+which in turn led to an increase in purchase volume and consequently a rise 
+in the balance of amounts due to suppliers. Trade payable turnover days 
+decreased from 61 days in 2024 to 51 days as of 31 December 2025.
+Bank borrowings
+As of 31 December 2025, the Group did not have any bank borrowings.
+Pledge of Assets
+The Group did not have any pledged assets as of 31 December 2025.
+Gearing Ratio
+The gearing ratio is calculated by dividing total liabilities by total assets and 
+then multiplying by 100%. As of 31 December 2025, the Group’s gearing ratio 
+was 29.4% as compared with the gearing ratio of 26.8% as of 31 December 
+2024.
+Contingency
+We are not currently involved in any material legal proceedings, nor are we 
+aware of any pending or potential material legal proceedings involving us. If 
+we are involved in such material legal proceedings, we would record any loss 
+or contingent liabilities when, based on information then available, it is likely 
+that a loss has been incurred and the amount of the loss can be reasonably 
+estimated.
+現金及現金等價物
+我們的現金及現金等價物主要包括銀行現金。
+現金及現金等價物從截至2024年12月31日的人
+民幣6,109.0百萬元增加至截至2025年12月31日
+的人民幣13,775.1百萬元，主要為我們經營活動
+產生的現金增加。
+貿易應付款項
+貿易應付款項主要指我們在日常業務過程中向
+供應商支付貨款的責任。貿易應付款項從截至
+2024年12月31日的人民幣1,010.1百萬元增加至
+截至2025年12月31日的人民幣1,858.2百萬元，
+主要原因為我們的業務增長，導致採購量增
+加，進而令應付供應商款項的餘額有所增加。
+貿易應付款項周轉天數從2024年的61天降低到
+截至2025年12月31日的51天。
+銀行借款
+截至2025年12月31日，本集團並無任何銀行借
+款。
+資產抵押
+截至2025年12月31日，本集團並無任何資產抵
+押。
+資產負債率
+資產負債率為總負債除以總資產乘以100%。
+截至2025年12月31日，本集團的資產負債率為
+29.4%，而截至2024年12月31日的資產負債率為
+26.8%。
+或有事件
+我們目前並無涉及任何重大法律訴訟，亦不知
+悉我們涉及任何待決或潛在重大法律訴訟。倘
+我們涉及有關重大法律訴訟，則我們會於產生
+虧損且有關虧損金額有合理估計時，按當時所
+得資料記錄任何虧損或或有負債。
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 61
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+60
+REPORT OF DIRECTORS
+董事會報告書
+(2) 
+相關股東以北京泡泡瑪特為受益人訂立獨家購買
+權協議，以收購葩趣互娛全部股權及╱或資產。
+相關股東向北京泡泡瑪特質押（作為第一押記）彼
+等各自於葩趣互娛的全部股權，作為彼等支付結
+欠北京泡泡瑪特的任何或所有款項並確保彼等履
+行於獨家諮詢和服務協議、獨家購買權協議、股
+東表決權委託協議及授權書項下責任的抵押品。
+相關股東以北京泡泡瑪特為受益人訂立股東表決
+權委託協議及授權書。
+(3) 
+王寧先生持有葩趣互娛91.56%股份。27名其他
+股東合共持有葩趣互娛8.44%股份，包括宋泉
+先生(0.31%)、吳忠福先生(0.31%)、趙建宜先生
+(0.31%)、周麗霞女士(0.31%)、肖楊先生(0.31%)、
+麥剛先生(0.31%)、楊鏡冰先生(0.31%)、李雙雙
+女士(0.31%)、王培先生(0.31%)、于春曉女士
+(0.31%)、陳華先生(0.31%)、楊桂芳女士(0.31%)、
+馬紅紅女士(0.31%)、尹巍先生(0.31%)、司德先生
+(0.31%)、楊濤女士(0.31%)、周立峰先生(0.31%)、
+程富先生(0.31%)、張超先生(0.31%)、吳毅先
+生(0.31%)、邢宗宇先生(0.31%)、楊積敢先生
+(0.31%)、于晶女士(0.31%)、胡健先生(0.31%)、蔡
+曉東先生(0.31%)、宣毅郎先生(0.31%)及劉冉女士
+(0.31%)。王寧先生及27名其他股東統稱「相關股
+東」。
+合約安排概要
+獨家購買權協議
+葩趣互娛及其相關股東於2019年12月18日與北
+京泡泡瑪特訂立獨家購買權協議（統稱「獨家購
+買權協議」），據此，北京泡泡瑪特（或其指定的
+第三方，「指定人士」）將獲授一項不可撤銷、無
+條件及獨家權利可按名義價購買葩趣互娛全部
+股權及╱或資產，除非相關政府機關或中國法
+律要求使用另一金額作為購買價，在此情況下
+則採用該要求下的最低金額作為購買價。根據
+相關中國法律法規，相關股東須將彼等已收取
+的任何購買價款項退還予葩趣互娛。應北京泡
+泡瑪特的要求，在北京泡泡瑪特行使其購買權
+後，相關股東及╱或葩趣互娛將即時無條件轉
+讓彼等各自於葩趣互娛的股權及╱或相關資產
+予北京泡泡瑪特或其指定人士。獨家購買權協
+議初步為期10年。倘北京泡泡瑪特於獨家購買
+權協議到期前要求延長，則相關股東及葩趣互
+娛須應北京泡泡瑪特要求簽訂新獨家購買權協
+議或繼續履行獨家購買權協議項下的責任。
+(2) 
+The Relevant Shareholders executed an exclusive option agreement in favour 
+of Beijing Pop Mart, for the acquisition of 100% of the equity interests and/or 
+assets in Paqu Huyu. The Relevant Shareholders pledged as first charge all of their 
+respective equity interests in Paqu Huyu to Beijing Pop Mart as collateral security 
+for any or all of their payments due to Beijing Pop Mart and to secure performance 
+of their obligations under the Exclusive Consultation and Service Agreement, 
+the Exclusive Option Agreement and the Voting Rights Proxy Agreement and 
+Powers of Attorney. The Relevant Shareholders executed the Voting Rights Proxy 
+Agreement and Powers of Attorney in favour of Beijing Pop Mart.
+(3) 
+Mr. Wang Ning holds 91.56% of the shares of Paqu Huyu. 27 other shareholders 
+hold an aggregate of 8.44% of the shares of Paqu Huyu, including Mr. Song Quan 
+(0.31%), Mr. Wu Zhongfu (0.31%), Mr. Zhao Jianyi (0.31%), Ms. Zhou Lixia (0.31%), 
+Mr. Xiao Yang (0.31%), Mr. Mai Gang (0.31%), Mr. Yang Jingbing (0.31%), Ms. Li 
+Shuangshuang (0.31%), Mr. Wang Pei (0.31%), Ms. Yu Chunxiao (0.31%), Mr. Chen 
+Hua (0.31%), Ms. Yang Guifang (0.31%), Ms. Ma Honghong (0.31%), Mr. Yin Wei 
+(0.31%), Mr. Si De (0.31%), Ms. Yang Tao (0.31%), Mr. Zhou Lifeng (0.31%), Mr. 
+Cheng Fu (0.31%), Mr. Zhang Chao (0.31%), Mr. Wu Yi (0.31%), Mr. Xing Zongyu 
+(0.31%), Mr. Yang Jigan (0.31%), Ms. Yu Jing (0.31%), Mr. Hu Jian (0.31%), Mr. Cai 
+Xiaodong (0.31%), Mr. Xuan Yilang (0.31%) and Ms. Liu Ran (0.31%). Mr. Wang 
+Ning and the 27 other shareholders are collectively referred to as the “Relevant 
+Shareholders”.
+Summary of the Contractual Arrangements
+Exclusive Option Agreement
+Paqu Huyu and its Relevant Shareholders entered into an exclusive option 
+agreement with Beijing Pop Mart on 18 December 2019 upon completion 
+of the Reorganization (collectively, the “Exclusive Option Agreement”), 
+pursuant to which Beijing Pop Mart (or a third party designated by it, the 
+“designee”) will be granted an irrevocable, unconditional and exclusive right 
+to purchase 100% of the equity interest in and/or assets of Paqu Huyu for a 
+nominal price, unless the relevant government authorities or the PRC laws 
+request that another amount be used as the purchase price, in which case 
+the purchase price shall be the lowest amount under such request. Subject to 
+relevant PRC laws and regulations, the Relevant Shareholders shall return any 
+amount of purchase price they have received to Paqu Huyu. At Beijing Pop 
+Mart’s request, the Relevant Shareholders and/or Paqu Huyu will promptly 
+and unconditionally transfer their respective equity interests in and/or the 
+relevant assets of Paqu Huyu to Beijing Pop Mart (or its designee) after Beijing 
+Pop Mart exercises its purchase right. The Exclusive Option Agreement is 
+for an initial term of 10 years. The Relevant Shareholders and Paqu Huyu 
+shall agree to an extension of the term of the Exclusive Option Agreement 
+if Beijing Pop Mart requests for extension before the expiry, and shall sign a 
+new Exclusive Option Agreement or continue the obligations of the Exclusive 
+Option Agreement as requested by Beijing Pop Mart.
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 62
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+61
+REPORT OF DIRECTORS
+董事會報告書
+Exclusive Consultation and Service Agreement
+Paqu Huyu entered into an Exclusive Consultation and Service Agreement 
+with Beijing Pop Mart on 18 December 2019 (the “Exclusive Consultation 
+and Service Agreement”), pursuant to which Paqu Huyu will agree to 
+engage Beijing Pop Mart as its exclusive provider of software development 
+and promotion, technical support, business cooperation consultation, market 
+consultancy, customer management consultancy, public relations and 
+human resources consultancy, market research, setting market development 
+plans and other relevant consultation and services required by Paqu Huyu, 
+in exchange for service fees. Under these arrangements, Beijing Pop Mart 
+may adjust the service fees at its sole discretion, which will be wired to 
+the designated account of Beijing Pop Mart upon issuance of payment 
+notification by Beijing Pop Mart.
+Unless terminated by Beijing Pop Mart prior to the expiry of the Exclusive 
+Consultation and Service Agreement, it is for an initial term of 10 years and 
+may be extended by Beijing Pop Mart for a term determined by Beijing Pop 
+Mart, and shall sign a new Exclusive Consultation and Service Agreement 
+or continue the obligations of the Exclusive Consultation and Service 
+Agreement as requested by Beijing Pop Mart.
+Share Pledge Agreement
+Paqu Huyu, the Relevant Shareholders and Beijing Pop Mart entered into 
+a share pledge agreement on 18 December 2019 (collectively, the “Share 
+Pledge Agreement”). Under the Share Pledge Agreement, the Relevant 
+Shareholders will pledge as first charge all of their respective equity 
+interests in Paqu Huyu to Beijing Pop Mart as collateral security for any or 
+all of their payments due to Beijing Pop Mart and to secure performance of 
+their obligations under the Exclusive Consultation and Service Agreement, 
+the Exclusive Option Agreement and the Voting Rights Proxy Agreement. 
+Beijing Pop Mart is entitled to implement the pledge under the Share Pledge 
+Agreement if the above default is not successfully resolved to Beijing Pop 
+Mart’s satisfaction within 10 days upon the written demand. The pledges 
+under the Share Pledge Agreement have been duly registered with the 
+relevant PRC legal authority pursuant to PRC laws and regulations.
+獨家諮詢和服務協議
+葩趣互娛於2019 年12月18日與北京泡泡瑪特
+訂立獨家諮詢和服務協議（「獨家諮詢和服務協
+議」），據此，葩趣互娛將同意委聘北京泡泡瑪
+特為其軟件開發及推廣、技術支援、業務合作
+諮詢、市場諮詢、客戶管理諮詢、公共關係及
+人力資源諮詢、市場研究、制定市場開發計劃
+以及葩趣互娛要求的其他相關諮詢及服務的獨
+家供應商，以換取服務費。根據該等安排，北
+京泡泡瑪特可全權酌情調整服務費，該等服務
+費將於北京泡泡瑪特發出付款通知後電匯至北
+京泡泡瑪特指定賬戶。
+除非由北京泡泡瑪特於獨家諮詢和服務協議到
+期前終止，否則獨家諮詢和服務協議初步為期
+10年，並可由北京泡泡瑪特延長，有關期限由
+北京泡泡瑪特釐定，並須應北京泡泡瑪特要求
+簽訂新獨家諮詢和服務協議或繼續履行獨家諮
+詢和服務協議項下的責任。
+股權質押協議
+葩趣互娛、相關股東及北京泡泡瑪特於2019年
+12月18日訂立股權質押協議（統稱「股權質押協
+議」）。根據股權質押協議，相關股東將向北京
+泡泡瑪特質押（作為第一押記）彼等各自於葩趣
+互娛的全部股權，作為彼等支付結欠北京泡泡
+瑪特的任何或所有款項及確保彼等履行於獨家
+諮詢和服務協議、獨家購買權協議及股東表決
+權委託協議項下責任的抵押品。倘上述違約事
+件未能於書面要求後10天內以令北京泡泡瑪特
+滿意的方式成功解決，則北京泡泡瑪特有權實
+施股權質押協議項下的質押。根據股權質押協
+議作出的質押已根據中國法律法規向相關中國
+法律部門妥為辦理登記手續。
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 221
+────────────────────────────────────────────────────────────
+POP MART INTERNATIONAL GROUP LIMITED  泡泡瑪特國際集團有限公司 
+220
+CONSOLIDATED BALANCE SHEET
+綜合資產負債表
+As at 31 December
+於12月31日
+2025
+2024
+2025年
+2024年
+Note
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Assets
+資產
+Non-current assets
+非流動資產
+Property, plant and equipment
+物業、廠房及設備
+14
+1,417,556
+739,378
+Intangible assets
+無形資產
+15
+208,665
+135,400
+Right-of-use assets
+使用權資產
+16
+2,791,171
+927,558
+Restricted cash
+受限制現金
+24
+256,265
+–
+Investments accounted for using the 
+ 
+equity method
+使用權益法入賬的投資
+18
+128,124
+136,783
+Financial assets at fair value through 
+ 
+profit or loss
+按公平值計入損益的金融資產
+23
+356,906
+411,880
+Prepayments and other receivables
+預付款項及其他應收款項
+21
+274,473
+136,563
+Deferred income tax assets
+遞延所得稅資產
+19
+1,753,551
+147,029
+ 
+ 
+ 
+ 
+ 
+Total non-current assets
+總非流動資產
+7,186,711
+2,634,591
+ 
+ 
+ 
+ 
+ 
+Current assets
+流動資產
+Trade receivables
+貿易應收款項
+20
+921,240
+477,723
+Inventories
+存貨
+22
+5,472,839
+1,524,521
+Prepayments and other receivables
+預付款項及其他應收款項
+21
+1,283,154
+576,594
+Financial assets at fair value through 
+ 
+profit or loss
+按公平值計入損益的金融資產
+23
+9,743
+11,434
+Restricted cash
+受限制現金
+24
+2,658
+25,649
+Term deposits with initial term over three 
+ 
+months and within one year
+初步為期三個月以上及一年以內
+ 
+的定期存款
+24
+3,449,922
+3,511,143
+Cash and cash equivalents
+現金及現金等價物
+24
+13,775,087
+6,109,017
+ 
+ 
+ 
+ 
+ 
+Total current assets
+總流動資產
+24,914,643
+12,236,081
+ 
+ 
+ 
+ 
+ 
+Total assets
+總資產
+32,101,354
+14,870,672
+ 
+ 
+ 
+ 
+ 
+
+────────────────────────────────────────────────────────────
+📄 PDF 物理页 238
+────────────────────────────────────────────────────────────
+二零二五年年報  ANNUAL REPORT 2025
+237
+NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS
+綜合財務報表附註
+2 會計政策概要（續）
+2.1 重大會計政策概要（續）
+(b) 綜合賬目及權益會計處理原則
+（續）
+(iv) 權益法
+根據權益會計法，投資初步按成本
+確認，其後進行調整以確認本集團
+在損益中分佔被投資方的收購後損
+益，以及本集團在其他全面收益中
+分佔被投資方的其他全面收益變
+動。已收或應收合營企業股息確認
+為投資賬面值的減少。
+本集團分佔以權益入賬投資虧損等
+於或超過其於實體中的權益（包括
+任何其他無抵押長期應收款項），
+本集團不會確認進一步虧損，除非
+其已產生責任或代表其他實體作出
+付款則例外。
+本集團與其合營企業及聯營公司間
+交易的未變現收益以本集團於該等
+實體的權益為限予以對銷。除非交
+易提供所轉移資產的減值證據，否
+則未變現虧損亦將予以對銷。以權
+益入賬被投資方的會計政策已作出
+必要之更改，以確保與本集團所採
+納的政策一致。
+以權益入賬投資的賬面值按照附註
+2.1(e)中所述的政策進行減值測試。
+2 SUMMARY OF ACCOUNTING POLICIES (continued)
+2.1 Summary of material accounting policies (continued)
+(b) Principles of consolidation and equity accounting 
+(continued)
+(iv) Equity method
+Under the equity method of accounting, the investments are 
+initially recognised at cost and adjusted thereafter to recognise 
+the Group’s share of the post-acquisition profits or losses of the 
+investee in profit or loss, and the Group’s share of movements 
+in other comprehensive income of the investee in other 
+comprehensive income. Dividends received or receivable from 
+joint ventures are recognised as a reduction in the carrying 
+amount of the investment.
+Where the Group’s share of losses in an equity-accounted 
+investment equals or exceeds its interest in the entity, 
+including any other unsecured long-term receivables, the 
+Group does not recognise further losses, unless it has incurred 
+obligations or made payments on behalf of the other entity.
+Unrealised gains on transactions between the Group and its 
+joint ventures and associates are eliminated to the extent of 
+the Group’s interest in these entities. Unrealised losses are 
+also eliminated unless the transaction provides evidence of 
+an impairment of the asset transferred. Accounting policies 
+of equity-accounted investees have been changed where 
+necessary to ensure consistency with the policies adopted by 
+the Group.
+The carrying amount of equity-accounted investments is tested 
+for impairment in accordance with the policy described in 
+Note 2.1(e).

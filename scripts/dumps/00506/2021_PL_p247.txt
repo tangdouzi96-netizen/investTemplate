@@ -1,0 +1,371 @@
+
+============================================================
+📄 第247页
+============================================================
+For the year ended 31 December 2021 截至2021年12月31日止年度
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+中國食品有限公司  年報 2021 245
+30 遞延收入
+31 股息
+於報告期末後，董事已建議派發就截
+至2021年12月31日止年度之末期股
+息每股普通股12.5港仙（2020年：
+10.6港仙），總金額為349,653,000
+港元，約為人民幣285,317,000元
+（2020年：296,506,000港元（相當於
+人民幣248,953,000元））且待股東周
+年大會上獲股東批准。在綜合財務報
+表中所擬議的股息並不反映為應付股
+息，但將反映在截至2022年12月31
+日的保留溢利上面。
+30 DEFERRED INCOME
+ 
+ 
+ 
+Deferred 
+government 
+grants
+遞延政府補助
+RMB’000
+人民幣千元
+ 
+ 
+ 
+At 31 December 2019
+於2019年12月31日
+207,045
+ 
+ 
+ 
+Addition
+添置
+23,606
+Credited to the consolidated statements of 
+profit or loss
+計入綜合損益表
+(15,091)
+ 
+ 
+ 
+At 31 December 2020
+於2020年12月31日
+215,560
+ 
+ 
+ 
+Addition
+添置
+30,293
+Credited to the consolidated statements of 
+profit or loss
+計入綜合損益表
+(16,811)
+ 
+ 
+ 
+At 31 December 2021
+於2021年12月31日
+229,042
+ 
+ 
+ 
+31 DIVIDENDS
+ 
+ 
+ 
+ 
+2021
+2020
+2021年
+2020年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Dividends for ordinary 
+shareholders of the Company 
+recognised as distribution 
+during the year:
+本年度確認為分派的
+本公司普通股股東之
+股息：
+ 
+ 
+2020 final – HK10.6 cents 
+(2019: final – HK4.8 cents in 
+respect of the year ended 31 
+December 2019) per ordinary 
+share
+2020年末期－每股
+普通股10.6港仙（2019年：
+有關截至2019年12月31日
+止年度末期股息4.8港仙）
+248,953
+122,232
+ 
+ 
+ 
+ 
+Subsequent to the end of the reporting period, a final 
+dividend in respect of the year ended 31 December 2021 
+of HKD12.5 cents (2020: HKD10.6 cents) per ordinary share, 
+in an aggregate amount of HKD349,653,000, equivalent to 
+approximately RMB285,317,000 (2020: HKD296,506,000, 
+equivalent to RMB248,953,000), has been proposed by the 
+Directors and is subject to approval by the shareholders in 
+the forthcoming general meeting. This proposed dividend is 
+not reflected as a dividend payable in these consolidated 
+financial statements, but will be reflected as an appropriation 
+from retained profits for the year ended 31 December 2022.
+
+============================================================
+📄 第248页
+============================================================
+For the year ended 31 December 2021 截至2021年12月31日止年度
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+CHINA FOODS LIMITED ANNUAL REPORT 2021
+246
+32 現金流資料
+(a) 
+經營業務所得之現金
+32 CASH FLOW INFORMATION
+(a) 
+Cash generated from operations
+ 
+ 
+ 
+ 
+2021
+2020
+2021年
+2020年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Profit before income tax:
+除稅前溢利：
+1,422,855
+1,253,218
+Adjustments for:
+就以下項目作出調整：
+Depreciation of property, 
+plant and equipment
+物業、廠房及設備折舊
+530,649
+546,101
+Depreciation of right-of-use 
+assets
+使用權資產折舊
+63,091
+59,211
+Amortisation of intangible 
+assets
+無形資產攤銷
+6,486
+461
+Net impairment loss/
+(reserval of impairment)
+減值虧損╱（減值撥回）
+淨值
+– property, plant and 
+equipment
+－物業、廠房及設備
+6,034
+25,875
+– inventories
+－存貨
+(7,426)
+30,497
+– receivables
+－應收款項
+2,300
+2,884
+(Gains)/losses on disposal of 
+property, plant and 
+equipment
+出售物業、廠房及設備
+（收益）╱虧損
+(2,780)
+4,895
+Gains on disposal of assets 
+classified as held for sale
+出售分類為持有待售資
+產收益
+(13,420)
+–
+Share of profits of associates
+應佔聯營公司溢利
+(29,447)
+(35,602)
+Investment income
+投資收入
+(150)
+–
+Bank interest income
+銀行利息收入
+(30,893)
+(11,186)
+Finance costs
+融資成本
+4,488
+25,059
+Amortisation of deferred 
+income in connection with 
+assets related government 
+grants
+與資產相關之政府補助
+之遞延收入攤銷
+(16,811)
+(65,171)
+ 
+ 
+ 
+ 
+Operating cash flows before 
+movements
+變動前經營現金流量
+1,934,976
+1,836,242
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第249页
+============================================================
+For the year ended 31 December 2021 截至2021年12月31日止年度
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+中國食品有限公司  年報 2021 247
+32 現金流資料（續）
+(a) 
+經營業務所得之現金（續）
+ 
+ 
+ 
+ 
+2021
+2020
+2021年
+2020年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+(Increase)/decrease in trade 
+receivables
+應收款項（增加）╱減少
+(24,331)
+20,849
+(Increase)/decrease in 
+inventories
+存貨（增加）╱減少
+(92,737)
+24,811
+Decrease/(increase) in 
+prepayments, deposits 
+and other receivables
+預付款項、按金及其他
+應收款項減少╱（增加）
+111,455
+(55,032)
+Increase in amounts due 
+from the ultimate holding 
+company
+最終控股公司欠款增加
+(1)
+(1)
+Decrease/(increase) in 
+amounts due from entities 
+under common control
+同一控制下公司欠款減
+少╱（增加）
+38,165
+(69,160)
+(Increase)/decrease in 
+amounts due from non-
+controlling interests in 
+subsidiaries
+應收附屬公司之非控股權
+益款項（增加）╱減少
+(254,462)
+315,229
+Decrease/(increase) in 
+amounts due from 
+associates
+聯營公司欠款減少╱
+（增加）
+811
+(11,116)
+Increase in financial assets 
+at fair value through other 
+comprehensive income
+按公平值計入其他全面
+收益之金融資產增加
+(6,643)
+(15,278)
+(Decrease)/increase in 
+amounts due to entities 
+under common control
+欠同一控制下公司款項
+（減少）╱增加
+(132,434)
+22,042
+Decrease in amounts due to 
+non-controlling interests in 
+subsidiaries
+應付附屬公司之非控股權
+益款項減少
+(9,418)
+(240,982)
+(Decrease)/increase in 
+amounts due to associates
+欠聯營公司款項（減少）╱
+增加
+(34,734)
+31,547
+Decrease in trade and bills 
+payables
+應付貿易賬款及票據減少
+(84,179)
+(220,047)
+Increase in other payables 
+and accruals
+其他應付款項及應計負債
+增加
+171,010
+682,441
+(Decrease)/increase in 
+contract liabilities
+合約負債（減少）╱增加
+(186,278)
+180,413
+ 
+ 
+ 
+ 
+Cash generated from 
+operations
+經營業務所得之現金
+1,431,200
+2,501,958
+ 
+ 
+ 
+ 
+32 CASH FLOW INFORMATION (continued)
+(a) 
+Cash generated from operations (continued)

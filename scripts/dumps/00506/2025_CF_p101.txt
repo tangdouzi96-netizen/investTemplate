@@ -1,0 +1,413 @@
+
+============================================================
+📄 第101页
+============================================================
+For the year ended 31 December 2025 截至2025年12月31日止年度
+(Expressed in Renminbi) （以人民幣列示）
+中國食品有限公司  年報  2025
+99
+CONSOLIDATED STATEMENT OF CASH FLOWS
+綜合現金流量表
+ 
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+OPERATING ACTIVITIES
+經營活動
+Profit before tax
+除稅前溢利
+1,978,742
+1,866,404
+Adjustments for:
+就以下項目作出調整：
+Interest income
+利息收入
+7
+(54,346)
+(35,071)
+Finance costs
+融資成本
+8
+3,446
+4,747
+Share of results of associates
+應佔聯營公司業績
+(3,263)
+(5,252)
+Depreciation of property, plant 
+and equipment
+物業、廠房及設備折舊
+9
+807,383
+769,131
+Depreciation of right-of-use assets 使用權資產折舊
+9
+64,948
+69,962
+Amortisation of intangible assets
+無形資產攤銷
+9
+21,234
+17,442
+Net impairment losses on financial 
+assets
+金融資產減值虧損淨額
+4,061
+8,070
+Impairment loss on:
+就以下項目的減值虧損：
+– property, plant and equipment
+－物業、廠房及設備
+7
+63,689
+162
+– intangible assets
+－無形資產
+7
+52
+–
+(Gains)/losses on disposal of 
+property, plant and equipment
+出售物業、廠房及設備
+（收益）╱虧損
+7
+(6,100)
+10,916
+Write-down/(reversal of write-
+down) of inventories
+存貨減值╱（減值撥回）
+9
+5,788
+(11,910)
+Amortisation of deferred income in 
+connection with assets related 
+government grants
+與資產相關之政府補助 
+之遞延收入攤銷
+(11,314)
+(6,713)
+ 
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第102页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2025
+100
+CONSOLIDATED STATEMENT OF CASH FLOWS 綜合現金流量表
+For the year ended 31 December 2025 截至2025年12月31日止年度
+(Expressed in Renminbi) （以人民幣列示）
+ 
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Operating cash flows before 
+movements in working capital
+營運資金變動前的經營 
+現金流量
+2,874,320
+2,687,888
+(Increase)/decrease in inventories
+存貨（增加）╱減少
+(191,869)
+305,159
+Decrease in trade receivables
+應收貿易款項減少
+7,049
+27,957
+Decrease/(increase) in 
+prepayments, deposits and  
+other receivables
+預付款項、按金及其他 
+應收款項減少╱（增加）
+44,025
+(28,913)
+Decrease in financial assets 
+at fair value through other 
+comprehensive income
+按公平值計入其他全面 
+收益之金融資產減少
+6,581
+1,733
+(Increase)/decrease in amounts 
+due from entities under  
+common control
+同一控制下公司欠款 
+（增加）╱減少
+(34,874)
+29,028
+(Increase)/decrease in amounts  
+due from non-controlling  
+interests of subsidiaries
+欠附屬公司之非控股權益
+款項（增加）╱減少
+(181,673)
+31,947
+Decrease in amounts due from 
+associates
+欠聯營公司款項減少
+–
+11,924
+Decrease in restricted bank 
+deposits
+受限制銀行存款減少
+3,933
+7,142
+Increase in trade and  
+bills payables
+應付貿易賬款及票據增加
+230,461
+29,893
+Increase in other payables and 
+accruals
+其他應付款項及應計負債
+增加
+102,361
+704,208
+(Decrease)/increase in amounts 
+due to entities under common 
+control
+欠同一控制下公司款項
+（減少）╱增加
+(159,278)
+3,049
+Increase in amounts due to 
+non-controlling interests of 
+subsidiaries
+欠附屬公司之非控股權益
+款項增加
+731,154
+106,313
+Increase/(decrease) in contract 
+liabilities
+合約負債增加╱（減少）
+442,002
+(418,452)
+Decrease in deferred income
+遞延收入減少
+(93,333)
+(93,333)
+ 
+ 
+ 
+ 
+ 
+Cash generated from operations
+經營業務所得現金
+3,780,859
+3,405,543
+Income taxes paid
+已付所得稅
+(548,105)
+(553,647)
+Interest paid
+已付利息
+(3,446)
+(4,747)
+ 
+ 
+ 
+ 
+ 
+NET CASH FROM OPERATING  
+ACTIVITIES
+經營活動所得現金淨額
+3,229,308
+2,847,149
+ 
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第103页
+============================================================
+中國食品有限公司  年報  2025
+101
+CONSOLIDATED STATEMENT OF CASH FLOWS 綜合現金流量表
+For the year ended 31 December 2025 截至2025年12月31日止年度
+(Expressed in Renminbi) （以人民幣列示）
+ 
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+INVESTING ACTIVITIES
+投資活動
+Interest received
+已收利息
+54,346
+35,071
+Dividend received from  
+an associate
+已收聯營公司股息
+18
+29,400
+63,000
+Receipt from capital reduction  
+of an associate
+聯營公司減資所得款項
+18
+157,500
+–
+Proceeds from disposal of 
+property, plant and equipment
+出售物業、廠房及設備 
+所得款項
+5,077
+5,730
+Deposits received from  
+relocation of a factory
+一家工廠搬遷所得按金
+15,000
+110,000
+Purchase of property,  
+plant and equipment
+購買物業、廠房及設備
+(1,048,816)
+(712,424)
+Payments for right-of-use assets
+支付使用權資產
+–
+(50,143)
+Payments for intangible assets
+支付無形資產
+(11,699)
+(12,067)
+Loan to an entity under  
+common control
+向同一控制下公司提供 
+貸款
+(390,000)
+–
+Repayment from an associate
+聯營公司還款
+124,843
+–
+ 
+ 
+ 
+ 
+ 
+NET CASH USED IN INVESTING 
+ACTIVITIES
+投資活動所用現金淨額
+(1,064,349)
+(560,833)
+ 
+ 
+ 
+ 
+ 
+FINANCING ACTIVITIES
+融資活動
+Repayment of lease liabilities
+償還租賃負債
+30
+(52,835)
+(60,737)
+Dividends paid
+已付股息
+(427,608)
+(413,989)
+Dividends paid to non-controlling 
+interests
+已付予非控股權益的股息
+(1,149,440)
+(90,201)
+ 
+ 
+ 
+ 
+ 
+NET CASH USED IN FINANCING 
+ACTIVITIES
+融資活動所用現金淨額
+(1,629,883)
+(564,927)
+ 
+ 
+ 
+ 
+ 
+NET INCREASE IN CASH AND  
+CASH EQUIVALENTS
+現金及現金等值項目 
+增加淨額
+535,076
+1,721,389
+CASH AND CASH EQUIVALENTS  
+AT 1 JANUARY
+於1月1日之現金及現金
+等值項目
+4,014,404
+2,293,015
+ 
+ 
+ 
+ 
+ 
+CASH AND CASH EQUIVALENTS  
+AT 31 DECEMBER
+於12月31日之現金及 
+現金等值項目
+24
+4,549,480
+4,014,404
+ 
+ 
+ 
+ 
+ 
+The accompanying notes form part of these consolidated financial 
+statements.
+隨附的附註是本綜合財務報表的一部分。

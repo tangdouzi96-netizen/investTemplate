@@ -1,0 +1,388 @@
+
+============================================================
+📄 第166页
+============================================================
+For the year ended 31 December 2021 截至2021年12月31日止年度
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+綜合損益報表
+CHINA FOODS LIMITED ANNUAL REPORT 2021
+164
+ 
+ 
+ 
+ 
+ 
+2021
+2020
+2021年
+2020年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Revenue
+收入
+6
+19,784,422
+17,249,138
+Cost of sales
+銷售成本
+8
+(12,723,534)
+(10,423,563)
+ 
+ 
+ 
+ 
+ 
+Gross profit
+毛利
+7,060,888
+6,825,575
+Distribution and 
+selling expenses
+分銷及
+銷售支出
+(5,356,260)
+(5,257,982)
+Administrative expenses
+行政支出
+(495,775)
+(482,703)
+Net impairment losses 
+on financial assets
+金融資產減值
+虧損淨額
+(2,300)
+(2,884)
+Other income and 
+other gains-net
+其他收入及其他收益
+－淨額
+9
+191,343
+160,669
+ 
+ 
+ 
+ 
+ 
+Operating profit
+經營溢利
+1,397,896
+1,242,675
+Finance costs
+融資成本
+11
+(4,488)
+(25,059)
+Share of net profit of associates 
+accounted for using the equity 
+method
+使用權益法入賬之
+應佔聯營公司
+淨利
+13
+29,447
+35,602
+ 
+ 
+ 
+ 
+ 
+Profit before income tax
+除稅前溢利
+1,422,855
+1,253,218
+Income tax expense
+所得稅支出
+14
+(348,172)
+(299,955)
+ 
+ 
+ 
+ 
+ 
+Profit for the year
+年內溢利
+1,074,683
+953,263
+ 
+ 
+ 
+ 
+ 
+Profit is attributable to:
+應佔溢利：
+– Owners of the Company
+－本公司擁有人
+572,415
+498,734
+– Non-controlling interests
+－非控股權益
+502,268
+454,529
+ 
+ 
+ 
+ 
+ 
+1,074,683
+953,263
+ 
+ 
+ 
+ 
+ 
+Earnings per share for 
+profit attributable to 
+the ordinary equity holders 
+of the Company:
+歸屬於本公司普通股
+股東的溢利的每股
+盈利：
+Basic earnings per share 
+(RMB cents)
+每股基本盈利
+（人民幣分）
+15
+20.46
+17.83
+Diluted earnings per share 
+(RMB cents)
+每股攤薄盈利
+（人民幣分）
+20.46
+17.83
+ 
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第167页
+============================================================
+For the year ended 31 December 2021 截至2021年12月31日止年度
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+綜合全面收益報表
+中國食品有限公司  年報 2021 165
+ 
+ 
+ 
+ 
+2021
+2020
+2021年
+2020年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Profit for the year
+年內溢利
+1,074,683
+953,263
+Other comprehensive income
+其他全面收益
+–
+–
+ 
+ 
+ 
+ 
+Total comprehensive 
+income for the year
+年內全面
+收益總額
+1,074,683
+953,263
+ 
+ 
+ 
+ 
+Total comprehensive income 
+for the year attributable to:
+應佔年內全面
+收益總額：
+– Owners of the Company
+－本公司擁有人
+572,415
+498,734
+– Non-controlling interests
+－非控股權益
+502,268
+454,529
+ 
+ 
+ 
+ 
+1,074,683
+953,263
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第168页
+============================================================
+As at 31 December 2021 於2021年12月31日
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+綜合財務狀況表
+CHINA FOODS LIMITED ANNUAL REPORT 2021
+166
+ 
+ 
+ 
+ 
+ 
+2021
+2020
+2021年
+2020年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Non-current assets
+非流動資產
+Property, plant and equipment
+物業、廠房及設備
+16
+5,061,110
+4,972,941
+Right-of-use assets
+使用權資產
+17
+601,816
+610,322
+Intangible assets
+無形資產
+18
+3,530,039
+3,508,511
+Deferred income tax assets
+遞延所得稅資產
+29
+262,028
+412,072
+Prepayments and other assets
+預付款項及其他資產
+51,352
+2,888
+Investments accounted 
+for using the equity method
+使用權益法入賬之
+投資
+13
+812,362
+792,164
+ 
+ 
+ 
+ 
+ 
+Total non-current assets
+非流動資產總額
+10,318,707
+10,298,898
+ 
+ 
+ 
+ 
+ 
+Current assets
+流動資產
+Inventories
+存貨
+22
+1,933,314
+1,834,340
+Prepayments, deposits and 
+other receivables
+預付款項、按金及
+其他應收款項
+19
+489,089
+505,847
+Trade receivables
+應收款項
+21
+327,746
+305,674
+Amounts due from related parties
+關聯公司欠款
+35
+383,963
+168,476
+Cash and cash equivalents
+現金及現金等值項目
+23
+1,591,703
+1,860,415
+Pledged bank deposits
+抵押銀行存款
+23
+18,737
+10,540
+Prepaid tax
+預繳稅項
+63,448
+47,772
+Financial assets at 
+fair value through other 
+comprehensive income
+按公平值計入其他
+全面收益之金融
+資產
+20
+41,357
+34,714
+Assets classified as held for sale
+資產分類為持有待售
+16
+–
+43,516
+ 
+ 
+ 
+ 
+ 
+Total current assets
+流動資產總額
+4,849,357
+4,811,294
+ 
+ 
+ 
+ 
+ 
+Total assets
+資產總額
+15,168,064
+15,110,192
+ 
+ 
+ 
+ 
+ 

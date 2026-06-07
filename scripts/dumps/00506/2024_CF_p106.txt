@@ -1,0 +1,412 @@
+
+============================================================
+📄 第106页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2024
+104
+CONSOLIDATED STATEMENT OF CASH FLOWS  綜合現金流量表
+For the year ended 31 December 2024 截至2024 年12 月31 日止年度
+(Expressed in Renminbi)（以人民幣列示）
+ 
+ 
+ 
+ 
+ 
+2024
+2023
+2024年
+2023年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Cash generated from 
+operations
+經營業務所得現金
+3,405,543
+2,767,867
+Interest paid
+已付利息
+(4,747)
+(4,971)
+Income taxes paid
+已付所得稅
+(553,647)
+(333,209)
+ 
+ 
+ 
+ 
+ 
+Net cash from operating 
+activities
+經營活動所得現金淨額
+2,847,149
+2,429,687
+ 
+ 
+ 
+ 
+ 
+Investing activities
+投資活動
+Net cash inflow on acquisition 
+of subsidiaries
+收購附屬公司之現金 
+流入淨額
+33
+–
+51,064
+Payments for property, plant 
+and equipment
+支付物業、廠房及設備
+款項
+(712,424)
+(627,469)
+Payments for right-of-use assets 支付使用權資產
+(50,143)
+–
+Payments for intangible assets
+支付無形資產
+(12,067)
+(20,240)
+Proceeds from disposal 
+of property, plant and 
+equipment
+出售物業、廠房及設備
+所得款項
+5,730
+8,129
+Deposits received from 
+relocation of factory
+已收工廠搬遷所得按金
+110,000
+–
+Dividends received from 
+associates
+已收聯營公司股息
+18
+63,000
+–
+Interest received
+已收利息
+35,071
+24,085
+ 
+ 
+ 
+ 
+ 
+Net cash used in investing 
+activities
+投資活動所用現金淨額
+(560,833)
+(564,431)
+ 
+ 
+ 
+ 
+ 
+Financing activities
+融資活動
+Principal elements of lease 
+payments
+租賃付款的主要項目
+30(a)
+(60,737)
+(61,111)
+Dividends paid
+已付股息
+(413,989)
+(337,361)
+Dividends paid to non-
+controlling shareholders of 
+subsidiaries
+已付附屬公司非控股 
+股東股息
+(90,201)
+(211,177)
+ 
+ 
+ 
+ 
+ 
+Net cash used in financing 
+activities
+融資活動所用現金淨額
+(564,927)
+(609,649)
+ 
+ 
+ 
+ 
+ 
+Net increase in cash and cash 
+equivalents
+現金及現金等值項目 
+增加淨額
+1,721,389
+1,255,607
+Cash and cash equivalents at 
+the beginning of the year
+於年初之現金及現金 
+等值項目
+2,293,015
+1,037,408
+ 
+ 
+ 
+ 
+ 
+Cash and cash equivalents at 
+the end of the year
+於年末之現金及現金 
+等值項目
+24
+4,014,404
+2,293,015
+ 
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these 
+consolidated financial statements.
+隨附的附註是本綜合財務報表的組成部分。
+
+============================================================
+📄 第107页
+============================================================
+105
+中國食品有限公司 年報 2024
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+綜合財務報表附註
+For the year ended 31 December 2024 截至2024年12月31日止年度
+(Expressed in Renminbi)（以人民幣列示）
+1 
+CORPORATE INFORMATION
+China Foods Limited (the “Company”) is a limited liability 
+company incorporated in Bermuda. The registered office 
+of the Company is located at Clarendon House, 2 Church 
+Street, Hamilton HM 11, Bermuda.
+The Company is a subsidiary of China Foods (Holdings) 
+Limited, a company incorporated in the British Virgin 
+Islands. In the opinion of the directors of the Company 
+(the “Directors”), the ultimate holding company is COFCO 
+Corporation, which is a state-owned enterprise registered 
+in the People’s Republic of China (the “PRC”).
+During the year, the Company and its subsidiaries 
+(collectively referred to as the “Group”) were involved in 
+processing, bottling and distribution of sparkling beverage 
+products and still beverage products.
+The consolidated financial statements are presented 
+in Renminbi (“RMB”), which is also the Company’s 
+functional currency.
+2 
+APPLICATION OF NEW AND 
+AMENDMENTS TO HKFRS ACCOUNTING 
+STANDARDS
+2.1 Amendments to HKFRS Accounting Standards 
+that are mandatorily effective for the current 
+year
+In the current year, the Group has applied the 
+following amendments to HKFRS Accounting 
+Standards issued by the Hong Kong Institute of 
+Certified Public Accountants (“HKICPA”) for the first 
+time, which are mandatorily effective for the Group’s 
+annual period beginning on 1 January 2024 for the 
+preparation of the consolidated financial statements.
+Amendments to HKFRS 16
+Lease Liability in a Sale and 
+Leaseback
+Amendments to HKAS 1
+Classification of Liabilities as 
+Current or Non-current and 
+related amendments to Hong 
+Kong Interpretation 5 (2020)
+Amendments to HKAS 1
+Non-current Liabilities with 
+Covenants
+Amendments to HKAS 7 and 
+HKFRS 7
+Supplier Finance Arrangements
+1 
+公司資料
+中國食品有限公司（「本公司」）為
+一家於百慕達註冊成立的有限責
+任公司。本公司之註冊辦事處位於
+Clarendon House, 2 Church Street, 
+Hamilton HM 11, Bermuda。
+本公司乃在英屬維爾京群島註冊成
+立的中國食品（控股）有限公司的
+附屬公司。本公司董事（「董事」）認
+為，最終控股公司為於中華人民共
+和國（「中國」）註冊的國有企業中糧
+集團有限公司。
+於本年度，本公司及其附屬公司（統
+稱「本集團」）參與加工、裝瓶及分銷
+汽水飲料產品以及不含氣飲料產品。
+綜合財務報表以人民幣（「人民幣」）
+列報，人民幣亦為本公司的功能貨
+幣。
+2 
+應用新訂及經修訂香港財
+務報告會計準則
+2.1 於本年度強制生效之香港
+財務報告會計準則（修訂本）
+於本年度，本集團已首次應用
+香港會計師公會（「香港會計師
+公會」）頒佈並於本集團2024年
+1月1日開始之年度期間強制生
+效之以下香港財務報告會計準
+則（修訂本），以編製綜合財務
+報表。
+香港財務報告準則
+第16號（修訂本）
+售後回租的租賃負
+債
+香港會計準則 
+第1號（修訂本）
+將負債分類為流動
+或非流動以及香
+港詮釋第5號（二
+零二零年）的有
+關修訂
+香港會計準則 
+第1號（修訂本）
+附帶契諾的非流動
+負債
+香港會計準則第7 
+號及香港財務報
+告準則第7號（修
+訂本）
+供應商融資安排
+
+============================================================
+📄 第108页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2024
+106
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2024 截至2024 年12 月31 日止年度
+(Expressed in Renminbi)（以人民幣列示）
+2 
+應用新訂及經修訂香港財
+務報告會計準則（續）
+2.1 於本年度強制生效之香港
+財務報告會計準則（修訂本）
+（續）
+於本年度應用香港財務報告會
+計準則（修訂本）對本集團於本
+年度及過往年度的財務狀況及
+表現及╱或該等綜合財務報表
+所載的披露並無重大影響。
+2.2 已頒佈但尚未生效之新訂
+及經修訂香港財務報告會
+計準則
+本集團並無提早應用以下已頒
+佈但尚未生效之新訂及經修訂
+香港財務報告會計準則
+香港財務報告準則第
+9號及香港財務報告
+準則第7號（修訂本）
+金融工具分類及
+計量的修訂本3
+香港財務報告準則第
+9號及香港財報告準
+則第7號（修訂本）
+涉及依賴自然能
+源生產電力的
+合約3
+香港財務報告準則第
+10號及香港會計準
+則第28號（修訂本）
+投資者與其聯營
+公司或合營企
+業之間的資產
+出售或注資1
+香港財務報告會計準
+則（修訂本）
+香港財務報告會
+計準則的年度
+改進－第11卷3
+香港會計準則第21號
+（修訂本）
+缺乏可交換性2
+香港財務報告準則第
+18號
+財務報表的呈列
+及披露4
+1 
+於待定日期或之後開始之年
+度期間生效。
+2 
+於二零二五年一月一日或之
+後開始之年度期間生效。
+3 
+於二零二六年一月一日或之
+後開始之年度期間生效。
+4 
+於二零二七年一月一日或之
+後開始之年度期間生效。
+2 
+APPLICATION OF NEW AND 
+AMENDMENTS TO HKFRS ACCOUNTING 
+STANDARDS (continued)
+2.1 Amendments to HKFRS Accounting Standards 
+that are mandatorily effective for the current 
+year (continued)
+The application of the amendments to HKFRS 
+Accounting Standards in the current year has had 
+no material impact on the Group’s financial positions 
+and performance for the current and prior years and/
+or on the disclosures set out in these consolidated 
+financial statements.
+2.2 New and amendments to HKFRS Accounting 
+Standards in issue but not yet effective
+The Group has not early applied the following new 
+and amendments to HKFRS Accounting Standards 
+that have been issued but are not yet effective:
+Amendments to HKFRS 9  
+and HKFRS 7
+Amendments to the Classification 
+and Measurement of Financial 
+Instruments3
+Amendments to HKFRS 9  
+and HKFRS 7
+Contracts Referencing Nature-
+dependent Electricity3
+Amendments to HKFRS 10  
+and HKAS 28
+Sale or Contribution of Assets 
+between an Investor and its 
+Associate or Joint Venture1
+Amendments to HKFRS 
+Accounting Standards
+Annual Improvements to HKFRS 
+Accounting Standards –  
+Volume 113
+Amendments to HKAS 21
+Lack of Exchangeability2
+HKFRS 18
+Presentation and Disclosure in 
+Financial Statements4
+1 
+Effective for annual periods beginning on or after a 
+date to be determined.
+2 
+Effective for annual periods beginning on or after 1 
+January 2025.
+3 
+Effective for annual periods beginning on or after 1 
+January 2026.
+4 
+Effective for annual periods beginning on or after 1 
+January 2027.

@@ -1,0 +1,390 @@
+
+============================================================
+📄 第169页
+============================================================
+中國食品有限公司  年報  2025
+167
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2025 截至2025年12月31日止年度
+(Expressed in Renminbi) （以人民幣列示）
+24 RESTRICTED BANK DEPOSITS AND CASH 
+AND CASH EQUIVALENTS
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Cash and bank balances
+現金及銀行結餘
+3,759,680
+3,228,537
+Deposits with a non-banking 
+financial institution (note (a))
+存放於非銀行金融機構的 
+存款（附註(a)）
+790,000
+790,000
+ 
+ 
+ 
+ 
+4,549,680
+4,018,537
+Less: Restricted bank deposits  
+(note (b))
+減：受限制的銀行存款（附註
+(b)）
+(200)
+(4,133)
+ 
+ 
+ 
+ 
+Cash and cash equivalents as shown 
+in the consolidated statement of 
+financial position and consolidated 
+statement of cash flows
+如綜合財務狀況表及綜合現
+金流量表所示之現金及現
+金等值項目
+4,549,480
+4,014,404
+ 
+ 
+ 
+ 
+Cash at banks earns interest at floating rates based on daily 
+bank deposit rates. The bank balances and restricted bank 
+deposits are deposited with creditworthy banks with no recent 
+history of default.
+Notes:
+(a) 
+COFCO Finance Corporation Limited (“COFCO Finance”) is an 
+indirect wholly-owned subsidiary of COFCO Corporation and a 
+non-banking financial institution established in the PRC with the 
+approval of People’s Bank of China (“PBOC”) and it is subject 
+to the supervision of PBOC and National Financial Regulatory 
+Administration.
+(b) 
+Restricted deposits mainly represent frozen deposits at banks.
+25 TRADE AND BILLS PAYABLES
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Trade payables
+應付貿易賬款
+1,034,708
+802,896
+Bills payable
+應付票據
+–
+1,351
+ 
+ 
+ 
+ 
+1,034,708
+804,247
+ 
+ 
+ 
+ 
+24 受限制銀行存款及現金及現
+金等值項目
+存放於銀行之現金乃按每日銀行存款
+利率計算之浮息利率賺取利息。銀行
+結餘及受限制的銀行存款存入最近並
+無違約記錄之信譽良好之銀行。
+附註：
+(a) 
+中糧財務有限責任公司（「中糧財
+務」）是中糧集團的間接全資子公
+司，亦是經中國人民銀行（「中國央
+行」）批准在中國成立的非銀行金融
+機構，並受中國央行及國家金融監
+管局監管。
+(b) 
+受限制存款主要指在銀行的凍結存
+款。
+25 應付貿易賬款及票據
+
+============================================================
+📄 第170页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2025
+168
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2025 截至2025年12月31日止年度
+(Expressed in Renminbi) （以人民幣列示）
+25 TRADE AND BILLS PAYABLES (continued)
+The following is an aging analysis of trade and bills payables, 
+presented based on the delivery date:
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Within 3 months
+三個月內
+991,767
+774,157
+3 to 12 months
+三個月至十二個月
+36,574
+27,096
+Over 1 year
+超過一年
+6,367
+2,994
+ 
+ 
+ 
+ 
+1,034,708
+804,247
+ 
+ 
+ 
+ 
+As at 31 December 2024, certain of the Group’s bills payable 
+were secured by the pledge of the Group’s bank deposits 
+amounting to RMB4,133,000.
+26 OTHER PAYABLES AND ACCRUALS
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Accrued marketing and promotion 
+expenses
+應計營銷及促銷開支
+1,586,545
+1,519,188
+Sales rebate
+銷售折扣
+333,861
+267,311
+Accrued expenses
+應計開支
+482,798
+515,188
+Deposit for fridges
+冰箱按金
+528,390
+588,227
+Accrued payroll
+應計工資
+612,286
+660,595
+VAT related to contract liabilities
+合約負債相關增值稅項
+170,056
+112,601
+Payables for purchases of property, 
+plant and equipment and other 
+long-term assets
+購置物業、廠房及設備以及
+其他長期資產應付款項
+109,037
+85,335
+Deposits received for relocation of a 
+factory
+已收一家工廠搬遷按金
+125,000
+110,000
+Dividends payable to  
+non-controlling interests
+應付非控股權益股息
+–
+511,980
+Other taxes payable
+其他應繳稅款
+72,549
+127,812
+Accrued logistics expenses
+應計物流開支
+50,524
+65,520
+Others
+其他
+268,746
+263,764
+ 
+ 
+ 
+ 
+4,339,792
+4,827,521
+ 
+ 
+ 
+ 
+25 應付貿易賬款及票據（續）
+應付貿易賬款及票據按交貨日期列報
+的賬齡分析如下：
+於2024年12月31日，本集團若干應付
+票據以金額為人民幣4,133,000元之本
+集團銀行存款予以擔保。
+26 其他應付款項及應計負債
+
+============================================================
+📄 第171页
+============================================================
+中國食品有限公司  年報  2025
+169
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2025 截至2025年12月31日止年度
+(Expressed in Renminbi) （以人民幣列示）
+27 LEASE LIABILITIES
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Within 1 year
+一年內
+39,587
+39,339
+Within a period of more than 1 year 
+but not exceeding 2 years
+超過一年但不多於兩年內的
+期間
+12,108
+12,744
+Within a period of more than 2 years 
+but not exceeding 5 years
+超過兩年但不多於五年內的
+期間
+16,580
+33,502
+ 
+ 
+ 
+ 
+68,275
+85,585
+Less: Amount due for settlement 
+within 12 months shown 
+under current liabilities
+減：流動負債項下顯示的 
+12個月內到期的應付款項
+(39,587)
+(39,339)
+ 
+ 
+ 
+ 
+Amount due for settlement after  
+12 months shown under non-
+current liabilities
+非流動負債項下顯示的12個
+月後應付款項
+28,688
+46,246
+ 
+ 
+ 
+ 
+28 CONTRACT LIABILITIES
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Sales of beverages
+銷售飲料
+1,307,963
+865,961
+ 
+ 
+ 
+ 
+Contract liabilities relate to the deposits received from 
+customers for sale of beverages. The Group expects to deliver 
+the goods to satisfy the performance obligations of these 
+contract liabilities within one year or less.
+For the total contract liabilities of RMB865,961,000 as at 1 
+January 2025 and RMB1,284,413,000 as at 1 January 2024, 
+the entire amount has been recognised as revenue for the 
+years ended 31 December 2025 and 2024 from performance 
+obligations satisfied.
+27 租賃負債
+28 合約負債
+合約負債與因銷售飲料而自客戶收取
+的押金有關。本集團預期將於一年或
+更短時間內交付貨物，以履行該等合
+約負債的履約義務。
+於2025年1月1日，合約負債總額為人
+民幣865,961,000元（2024年：人民幣
+1,284,413,000元），該全數金額已於
+截至2025年及2024年12月31日止年
+度，因履行完畢之履約義務而確認為
+收入。

@@ -1,0 +1,228 @@
+
+============================================================
+📄 第91页
+============================================================
+89
+中國食品有限公司 年報 2024
+INDEPENDENT AUDITOR’S REPORT
+獨立核數師報告
+To the shareholders of China Foods Limited
+(incorporated in Bermuda with limited liability)
+OPINION
+We have audited the consolidated financial statements of China 
+Foods Limited (the “Company”) and its subsidiaries (collectively 
+referred to as the “Group”) set out on pages 89 to 207, which 
+comprise the consolidated statement of financial position as at 
+31 December 2024, and the consolidated statement of profit 
+or loss, the consolidated statement of comprehensive income, 
+the consolidated statement of changes in equity and the 
+consolidated statement of cash flows for the year then ended, 
+and notes to the consolidated financial statements, including 
+material accounting policy information.
+In our opinion, the consolidated financial statements give a true 
+and fair view of the consolidated financial position of the Group 
+as at 31 December 2024, and of its consolidated financial 
+performance and its consolidated cash flows for the year 
+then ended in accordance with HKFRS Accounting Standards 
+as issued by the Hong Kong Institute of Certified Public 
+Accountants (“HKICPA”) and have been properly prepared in 
+compliance with the disclosure requirements of the Hong Kong 
+Companies Ordinance.
+BASIS FOR OPINION
+We conducted our audit in accordance with Hong Kong 
+Standards on Auditing (“HKSAs”) issued by the HKICPA. Our 
+responsibilities under those standards are further described in 
+the “Auditor’s Responsibilities for the Audit of the Consolidated 
+Financial Statements” section of our report. We are independent 
+of the Group in accordance with the HKICPA’s “Code of Ethics 
+for Professional Accountants” (the “Code”), and we have 
+fulfilled our other ethical responsibilities in accordance with the 
+Code. We believe that the audit evidence we have obtained is 
+sufficient and appropriate to provide a basis for our opinion.
+致中國食品有限公司全體股東
+（於百慕達註冊成立之有限公司）
+意見
+我們已審計了載於第89頁至第207頁的中
+國食品有限公司（「貴公司」）及其附屬公
+司（統稱為「貴集團」）的綜合財務報表，
+此綜合財務報表包括於2024年12月31日
+的綜合財務狀況表、及截至該日止年度之
+綜合損益報表、綜合全面收益報表、綜合
+權益變動報表、綜合現金流量表及綜合財
+務報表附註（包括重大會計政策信息及其
+他解釋信息）。
+我們認為，該等綜合財務報表已根據香港
+會計師公會（「香港會計師公會」）頒佈的
+香港財務報告會計準則真實而中肯地反
+映了貴集團於2024年12月31日的綜合財
+務狀況及貴集團截至該日止年度的綜合
+財務表現及綜合現金流量，並已遵照香港
+《公司條例》的披露規定妥為擬備。
+意見的基礎
+我們已根據香港會計師公會頒佈的《香港
+審計準則》
+（「香港審計準則」）進行審計。
+我們在該等準則下承擔的責任已在本報
+告「核數師就審計綜合財務報表承擔的責
+任」部分中作進一步闡述。根據香港會計
+師公會頒佈的《專業會計師道德守則》
+（以
+下簡稱「守則」），我們獨立於貴集團，並
+已履行守則中的其他專業道德責任。我們
+相信，我們所獲得的審計憑證能充足及適
+當地為我們的審計意見提供基礎。
+
+============================================================
+📄 第92页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2024
+90
+INDEPENDENT AUDITOR’S REPORT 獨立核數師報告
+關鍵審計事項
+關鍵審計事項是根據我們的專業判斷，認
+為對本期綜合財務報表的審計最為重要
+的事項。這些事項是在我們審計整體綜合
+財務報表及出具意見時進行處理的。我們
+不對這些事項提供單獨的意見。
+KEY AUDIT MATTERS
+Key audit matters are those matters that, in our professional 
+judgement, were of most significance in our audit of the 
+consolidated financial statements of the current period. These 
+matters were addressed in the context of our audit of the 
+consolidated financial statements as a whole, and in forming 
+our opinion thereon, and we do not provide a separate opinion 
+on these matters.
+Key audit matter
+How our audit addressed the key audit matter
+關鍵審計事項
+我們的審計如何處理關鍵審計事項
+Impairment assessment of goodwill and indefinite-lived franchise rights
+商譽及使用壽命不確定的特許經營權的減值評估
+As at 31 December 2024, the Group’s goodwill and indefinite-
+lived franchise rights amounted to RMB1,846,799,000 and 
+RMB1,659,475,000 respectively (collectively the “Intangible 
+Assets under Assessment”) and no provision for impairment 
+has been recognised on these assets.
+於2024年12月31日，貴集團的商譽及使用壽命不確定的特許
+經營權分別為人民幣1,846,799,000元和人民幣1,659,475,000
+元（統稱為「評估中的無形資產」），並未對該等資產確認減值
+準備。
+The Company’s management (“management”) has performed 
+impairment assessment on these Intangible Assets under 
+Assessment on an annual basis. For the purpose of the 
+impairment assessment, management has allocated the 
+Intangible Assets under Assessment to a group of cash-
+generating units under the same operating segment (the 
+“Beverage CGUs”) and determined the recoverable amounts 
+of the Beverage CGUs based on value-in-use calculations. 
+These value-in-use calculations require management to 
+forecast the future cash flows of the Beverage CGUs based 
+on the approved financial budgets. The key assumptions as 
+adopted by management in the value-in-use calculations 
+primarily include revenue growth rate, gross profit margins, 
+long-term revenue growth rate and pre-tax discount rate.
+貴公司的管理層（「管理層」）每年都對該等評估中的無形資產
+進行減值評估。就減值評估而言，管理層已將評估中的無形
+資產分配給同一經營分部下的一組現金產生單位（「飲料現金
+產生單位」），並根據使用價值計算確定飲料現金產生單位的
+可收回金額。該等使用價值的計算要求管理層根據批准的財
+務預算預測飲料現金產生單位的未來現金流。管理層在使用
+價值計算中採用的關鍵假設主要包括收入增長率、毛利率、
+長期收入增長率和稅前折現率。
+Our procedures in relation to the impairment 
+assessment of goodwill and indefinite-lived 
+franchise rights included:
+我們與商譽及使用壽命不確定的特許經營權
+的減值評估有關的程序包括：
+• 
+Understanding and evaluating the 
+management’s internal controls in 
+relation to the impairment assessment 
+of goodwill and the indefinite-lived 
+franchise rights;
+ 
+了解並評估管理層在商譽及使用壽命不
+確定的特許經營權的減值評估方面相關
+的內部控制；
+• 
+Assessing the reliability of management’s 
+cash flow forecast by comparing the 
+historical cash flow forecasts with the 
+actual results of the Beverage CGUs;
+ 
+通過比較歷史現金流預測和飲料現金產
+生單位的實際結果來評估管理層現金流
+預測的可靠性；
+• 
+Evaluating the competence, capabilities 
+and objectivity of the valuation expert 
+engaged by management to perform the 
+impairment assessment;
+ 
+評估管理層委聘進行減值評估的估值專
+家的職能、能力及客觀性；
+
+============================================================
+📄 第93页
+============================================================
+91
+中國食品有限公司 年報 2024
+INDEPENDENT AUDITOR’S REPORT 獨立核數師報告
+Key audit matter
+How our audit addressed the key audit matter
+關鍵審計事項
+我們的審計如何處理關鍵審計事項
+Impairment assessment of goodwill and indefinite-lived franchise rights (continued)
+商譽及使用壽命不確定的特許經營權的減值評估（續）
+We have identified the impairment assessment of goodwill 
+and indefinite-lived franchise rights as a key audit matter due 
+to the significance of the related balances and the significant 
+management judgement and estimations involved in the 
+impairment assessment.
+由於相關餘額的重要性以及減值評估中涉及的重大管理判斷
+和估計，我們已將商譽及使用壽命不確定的特許經營權的減
+值評估確定為一個關鍵的審計事項。
+Details of key management judgement and estimation are 
+disclosed in note 4 and note 17 to the consolidated financial 
+statements.
+主要管理判斷及估計的詳情於綜合財務報表附註4及附註17
+中披露。
+• 
+With the assistance of our internal 
+v a l u a t i o n e x p e r t , e v a l u a t i n g t h e 
+appropriateness of the discount cash 
+flow model and pre-tax discount rates as 
+used by management in determining the 
+value-in-use of the Beverage CGUs;
+ 
+在內部估值專家協助下，評估管理層在
+確定飲料現金產生單位的使用價值時所
+使用的折現現金流模型及稅前折現率的
+適當性；
+• 
+Testing the mathematical accuracy of 
+the value-in-use calculations prepared 
+by the management;
+ 
+測試管理層編製的使用價值計算的數學
+準確性；
+• 
+Evaluating the management’s future 
+cash flow forecast of the Beverage 
+CGUs including the reasonableness of 
+the forecast in the context of historical 
+results of the Group’s businesses and 
+production capacity, and comparing 
+the parameters used (including revenue 
+growth rates and gross profit margins) 
+with the market data and information as 
+obtained from our independent research;
+ 
+評估管理層對飲料現金產生單位的未來
+現金流預測，包括在貴集團業務和生產
+能力的歷史業績背景下預測的合理性，
+並將所使用的參數（包括收入增長率及
+毛利率）與我們獨立研究獲得的市場資
+料和資訊進行比較；
+KEY AUDIT MATTERS (continued)
+關鍵審計事項（續）

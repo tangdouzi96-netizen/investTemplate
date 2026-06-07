@@ -1,0 +1,432 @@
+
+============================================================
+📄 第160页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2025
+158
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2025 截至2025年12月31日止年度
+(Expressed in Renminbi) （以人民幣列示）
+16 RIGHT-OF-USE ASSETS
+Amounts recognised in the consolidated statement of financial 
+position:
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Land use rights
+土地使用權
+570,816
+566,795
+Leased property
+租賃物業
+49,032
+57,283
+Leased machinery
+租賃機器
+18,996
+28,966
+ 
+ 
+ 
+ 
+638,844
+653,044
+ 
+ 
+ 
+ 
+For the years ended 31 December 2025 and 2024:
+ 
+ 
+ 
+ 
+2025
+2024
+2025年
+2024年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Depreciation charge of  
+right-of-use assets:
+使用權資產折舊支出：
+Land use rights
+土地使用權
+15,335
+16,804
+Leased property
+租賃物業
+41,680
+44,773
+Leased machinery
+租賃機器
+7,933
+8,385
+ 
+ 
+ 
+ 
+64,948
+69,962
+ 
+ 
+ 
+ 
+Expense relating to short-term 
+leases
+有關短期租賃的開支
+62,009
+55,829
+Additions to right-of-use assets
+添置使用權資產
+52,092
+154,425
+Total cash outflow for leases
+租賃現金流出總額
+118,290
+171,456
+ 
+ 
+ 
+ 
+For both years, the Group leases various warehouses and 
+equipment for its operations. Lease contracts are entered 
+into for a fixed term of 6 months to 4 years. Lease terms are 
+negotiated on an individual basis and contain a wide range of 
+different terms and conditions. In determining the lease term 
+and assessing the length of the non-cancellable period, the 
+Group applies the definition of a contract and determines the 
+period for which the contract is enforceable.
+The Group has obtained the certificates for all land use rights 
+with the term of 30 to 50 years.
+16 使用權資產
+於綜合財務狀況表內確認金額：
+截至2025年及2024年12月31日止年
+度：
+兩年期間，本集團就其營運租賃多個
+倉庫及設備。租賃合約之固定年期為
+六個月至四年。租賃條款乃按個別基
+準磋商，並包含廣泛的不同條款及條
+件。於釐定租賃期及評估不可撤銷期
+間的期限時，本集團應用合約的定
+義，並釐定合約可強制執行的期間。
+本集團已取得所有土地使用權的土地
+使用權證，為期30年至50年。
+
+============================================================
+📄 第161页
+============================================================
+中國食品有限公司  年報  2025
+159
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2025 截至2025年12月31日止年度
+(Expressed in Renminbi) （以人民幣列示）
+17 INTANGIBLE ASSETS
+ 
+ 
+ 
+ 
+ 
+ 
+Goodwill
+Franchise 
+rights
+Others
+Total
+商譽
+特許權
+其他
+總計
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+Year ended 31 December 2025
+截至2025年12月31日 
+止年度
+Opening net carrying amount
+期初賬面淨額
+1,846,799
+1,659,475
+38,317
+3,544,591
+Additions
+添置
+–
+–
+11,699
+11,699
+Transfers (note 15)
+轉撥（附註15）
+–
+–
+6,973
+6,973
+Amortisation charge
+攤銷支出
+–
+–
+(21,234)
+(21,234)
+Impairment charge
+減值支出
+–
+–
+(52)
+(52)
+ 
+ 
+ 
+ 
+ 
+ 
+Closing net carrying amount
+期末賬面淨額
+1,846,799
+1,659,475
+35,703
+3,541,977
+ 
+ 
+ 
+ 
+ 
+ 
+At 31 December 2025
+於2025年12月31日
+Cost
+成本
+1,846,799
+1,659,475
+95,778
+3,602,052
+Accumulated amortisation
+累計攤銷
+–
+–
+(60,023)
+(60,023)
+Accumulated impairment
+累計減值
+–
+–
+(52)
+(52)
+ 
+ 
+ 
+ 
+ 
+ 
+Net carrying amount
+賬面淨額
+1,846,799
+1,659,475
+35,703
+3,541,977
+ 
+ 
+ 
+ 
+ 
+ 
+Year ended 31 December 2024
+截至2024年12月31日 
+止年度
+Opening net carrying amount
+期初賬面淨額
+1,846,799
+1,659,475
+37,455
+3,543,729
+Additions
+添置
+–
+–
+12,067
+12,067
+Transfers (note 15)
+轉撥（附註15）
+–
+–
+6,237
+6,237
+Amortisation charge
+攤銷支出
+–
+–
+(17,442)
+(17,442)
+ 
+ 
+ 
+ 
+ 
+ 
+Closing net carrying amount
+期末賬面淨額
+1,846,799
+1,659,475
+38,317
+3,544,591
+ 
+ 
+ 
+ 
+ 
+ 
+At 31 December 2024
+於2024年12月31日
+Cost
+成本
+1,846,799
+1,659,475
+77,106
+3,583,380
+Accumulated amortisation
+累計攤銷
+–
+–
+(38,789)
+(38,789)
+ 
+ 
+ 
+ 
+ 
+ 
+Net carrying amount
+賬面淨額
+1,846,799
+1,659,475
+38,317
+3,544,591
+ 
+ 
+ 
+ 
+ 
+ 
+The franchise rights related to a number of bottling 
+agreements with The Coca-Cola Company (“TCCC”) which 
+provided the Group with the exclusive rights to prepare, pack, 
+distribute and sell TCCC branded products in 19 provincial-
+level administrative regions in which the Group operates.
+17 無形資產
+特許經營權與可口可樂公司（「TCCC」）
+的多項裝瓶協議有關，為本集團提供
+於本集團經營所在的19個省級行政區
+域準備、包裝、分銷及銷售TCCC品牌
+產品的獨家權利。
+
+============================================================
+📄 第162页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2025
+160
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2025 截至2025年12月31日止年度
+(Expressed in Renminbi) （以人民幣列示）
+17 無形資產（續）
+該協議反映本集團與TCCC之長期及持
+續關係。
+鑑於本集團與TCCC之策略關係及與過
+往經驗一致，於協議續期或延期時毋
+須支付任何代價。
+特許經營權的金額代表其在各個收購
+日的公平值，該等資料價格乃根據合
+資格獨立專業評估師進行估值所得出。
+經評估裝瓶協議之條款、續訂記錄以
+及本集團與交易對手之間的互惠關係
+後，特許經營權已被指定使用壽命不
+確定，乃由於本集團相信該特許經營
+權將繼續於各到期日續新。
+商譽及使用壽命不確定之特許經營
+權減值測試
+透過業務合併收購之商譽及使用壽命
+不確定之特許經營權分配至飲料現金
+產生單位，該現金產生單位由管理層
+按附註6所識別之單一經營分部之級別
+進行減值測試監察。
+飲料現金產生單位的可收回金額是根
+據使用價值計算法釐定的。該計算採
+用基於管理層批准之財務預算所作出
+的現金流量預測，涵蓋期間為五年
+（2024年：五年），並採用14.78%的
+稅前折現率（2024年：14.33%）。飲
+料現金產生單位在五年期（2024年：
+五年）之後的現金流量，採用零增長
+率（2024年：零）進行推算。此增長率
+是基於軟性飲料市場的長期平均增長
+率，且不超過相關產業的長期平均增
+長率。其他用於使用價值計算的關鍵
+假設涉及現金流入的估算，其中包括
+銷售收入的年增長率為0.87%至1.55%
+（2024年：1.26%至1.85%）以及預算
+毛利率為37.34%至37.64%（2024年：
+37.86%至38.18%）。
+17 INTANGIBLE ASSETS (continued)
+The agreements reflect the long and ongoing relationship 
+between the Group and TCCC.
+Given the Group’s strategic relationship with TCCC and 
+consistent with past experience, no consideration is payable 
+upon renewal or extension of the agreements.
+The amounts of franchise rights represented their fair value 
+at the respective acquisition dates, which had been arrived 
+at on the basis of a valuation carried out by an independent 
+qualified professional valuer.
+The franchise rights have been assigned indefinite useful lives 
+as the Group believes those franchise rights will continue to be 
+renewed at each expiration date, after evaluating the term and 
+conditions in the bottling agreements, history of renewals and 
+the strategic and mutual beneficial relationship between the 
+Group and the counterparty.
+Impairment testing of goodwill and franchise rights 
+with indefinite useful lives
+Goodwill and indefinite-lived franchise rights acquired through 
+business combinations are allocated to the Beverage CGU 
+which is monitored by management at the level of the single 
+operating segment identified in note 6 for impairment testing.
+The recoverable amount of Beverage CGU has been 
+determined based on value-in-use calculations. That 
+calculation uses cash flow projections based on financial 
+budgets approved by management covering a five-year period 
+(2024: five-year), and pre-tax discount rate of 14.78% (2024: 
+14.33%). Beverage CGU’s cash flows beyond the five-year 
+period (2024: five-year) are extrapolated using nil growth rate 
+(2024: nil). This growth rate is based on the long-term average 
+growth rate for soft beverages market and does not exceed the 
+average long-term growth rate for the relevant industry. Other 
+key assumptions for the value-in-use calculations relate to the 
+estimation of cash inflows which include annual growth rate 
+of sales revenue of 0.87% to 1.55% (2024: 1.26% to 1.85%) 
+and budgeted gross margin of 37.34% to 37.64% (2024: 
+37.86% to 38.18%).

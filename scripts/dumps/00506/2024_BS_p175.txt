@@ -1,0 +1,478 @@
+
+============================================================
+📄 第175页
+============================================================
+173
+中國食品有限公司 年報 2024
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2024 截至2024 年12 月31 日止年度
+(Expressed in Renminbi)（以人民幣列示）
+19 遞延稅項
+就於綜合財務狀況表呈列而言，若
+干遞延稅項資產及負債已被抵銷。
+以下為就財務報告目的對遞延稅項
+結餘的分析：
+根據中國企業所得稅法，在中國內
+地成立之外資企業或在國外註冊成
+立之中國居民企業（「中國居民企
+業」）向外國投資者宣派股息，有關
+股息須繳納10%之預扣稅。根據本
+公司獲中國國家稅務局頒發的批文，
+本公司及其大部份境外註冊成立的
+附屬公司被認定為中國居民企業，
+及自2013年1月1日起適用有關企業
+所得稅法。因此，本公司及此等附
+屬公司將無須就其於中國內地成立
+之附屬公司產生的保留盈利分派的
+股息繳納預扣稅。於2024年12月31
+日，並未就本集團在中國內地成立
+之附屬公司或聯營公司之未匯付盈
+利預扣稅確認遞延稅項（2023年：
+無）。
+19 DEFERRED TAXATION
+For the purpose of presentation in the consolidated 
+statement of financial position, certain deferred tax assets 
+and liabilities have been offset. The following is the 
+analysis of the deferred tax balances for financial reporting 
+purposes:
+ 
+ 
+ 
+ 
+2024
+2023
+2024年
+2023年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Deferred tax assets
+遞延稅項資產
+458,192
+277,940
+Deferred tax liabilities
+遞延稅項負債
+(97,937)
+(127,074)
+ 
+ 
+ 
+ 
+360,255
+150,866
+ 
+ 
+ 
+ 
+Pursuant to the EIT Law, a 10% withholding tax is levied 
+on dividends declared to foreign investors from the foreign 
+investment enterprises established in Mainland China or 
+offshore incorporated enterprises which are regarded as 
+Chinese Resident Enterprises (the “CREs”). Pursuant to 
+the approvals received by the Company from the State 
+Administration of Taxation of the PRC, the Company and 
+most of its offshore incorporated subsidiaries are regarded 
+as CREs and relevant enterprise income tax policies shall 
+be applicable to the Company and these subsidiaries 
+starting from 1 January 2013. As a result, the Company 
+and these subsidiaries are therefore no longer liable 
+for withholding taxes on dividends distributed by their 
+subsidiaries established in Mainland China in respect 
+of retained earnings generated. No deferred tax has 
+been recognised for withholding taxes on the unremitted 
+earnings of the subsidiaries or associates established in 
+Mainland China at 31 December 2024 (2023: Nil).
+
+============================================================
+📄 第176页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2024
+174
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2024 截至2024 年12 月31 日止年度
+(Expressed in Renminbi)（以人民幣列示）
+19 遞延稅項（續）
+下文載列已確認主要遞延稅項資產╱
+（負債）及其變動：
+20 存貨
+19 DEFERRED TAXATION (continued)
+The following are the major deferred tax assets/(liabilities) 
+recognised and movements thereon:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accruals
+Unrealised 
+profits
+Deferred 
+income
+Impairment 
+of property, 
+plant and 
+equipment
+Provision for 
+impairment 
+of inventories
+Lease 
+liabilities
+Net 
+impairment 
+losses on 
+financial 
+assets
+Tax losses
+Accelerated 
+tax 
+depreciation
+Fair value 
+adjustments 
+of intangible 
+assets
+Right-of-
+use assets
+Others
+Total
+應計負債
+未實現溢利
+遞延收入
+物業、廠房
+及設備減值
+存貨減值
+撥備
+租賃負債
+金融資產減
+值虧損淨額
+稅項虧損
+加速稅項
+折舊
+無形資產之
+公平值調整
+使用權資產
+其他
+總計
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At 1 January 2023
+於2023年1月1日
+421,960
+25,908
+41,428
+16,095
+11,709
+12,619
+4,057
+40,800
+(303,724)
+(32,094)
+(12,252)
+5,582
+232,088
+(Charged)/credited to 
+profit and loss
+於損益中（扣除）╱計入
+(56,562)
+8,569
+(619)
+–
+(6,439)
+7,225
+5,220
+(18,987)
+(14,185)
+1,984
+(7,392)
+(36)
+(81,222)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At 31 December 2023 
+and 1 January 2024
+於2023年12月31日及 
+2024年1月1日
+365,398
+34,477
+40,809
+16,095
+5,270
+19,844
+9,277
+21,813
+(317,909)
+(30,110)
+(19,644)
+5,546
+150,866
+Credited/(charged) to 
+profit and loss
+於損益中計入╱（扣除）
+173,618
+38,767
+(852)
+(1,273)
+(2,582)
+881
+(268)
+(9,403)
+9,582
+847
+(2,133)
+2,205
+209,389
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At 31 December 2024 於2024年12月31日
+539,016
+73,244
+39,957
+14,822
+2,688
+20,725
+9,009
+12,410
+(308,327)
+(29,263)
+(21,777)
+7,751
+360,255
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 INVENTORIES
+ 
+ 
+ 
+ 
+2024
+2023
+2024年
+2023年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Raw materials
+原料
+357,793
+413,384
+Finished goods
+製成品
+1,085,687
+1,323,345
+ 
+ 
+ 
+ 
+1,443,480
+1,736,729
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第177页
+============================================================
+175
+中國食品有限公司 年報 2024
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 綜合財務報表附註
+For the year ended 31 December 2024 截至2024 年12 月31 日止年度
+(Expressed in Renminbi)（以人民幣列示）
+21 應收貿易款項
+本集團授予關鍵客戶信貸期，信貸
+期為交貨後的7至90天。而對於其他
+客戶，則通常須預收款項或於交貨
+時收款。本集團尋求維持嚴格控制
+其未償還應收賬款及設有信貸控制
+專員，務求將信貸風險減至最低。
+高級管理層定期審核逾期結餘。鑒
+於本集團涉及大量不同客戶之應收
+貿易款項，故信貸風險之集中程度
+並不嚴重。本集團並無就其應收貿
+易款項結餘持有任何抵押品或其他
+信用增級。
+以下為按交貨日期呈列應收貿易款
+項的賬齡分析：
+有關減值評估的詳情載於附註37。
+21 TRADE RECEIVABLES
+ 
+ 
+ 
+ 
+2024
+2023
+2024年
+2023年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Trade receivables
+應收貿易款項
+361,976
+404,506
+Allowance for credit loss
+信貸虧損撥備
+(22,566)
+(34,533)
+ 
+ 
+ 
+ 
+339,410
+369,973
+ 
+ 
+ 
+ 
+The Group gives credit term to key customers, which 
+granted with credit term ranging from 7 to 90 days upon 
+delivery. While for other customers, payment in advance 
+or payment on delivery is normally required. The Group 
+seeks to maintain strict control over its outstanding 
+receivables and has credit control commissioners to 
+minimise credit risk. Overdue balances are reviewed 
+regularly by senior management. In view of the fact that 
+the Group’s trade receivables relate to a large number of 
+diversified customers, there is no significant concentration 
+of credit risk. The Group does not hold any collateral 
+or other credit enhancements over its trade receivable 
+balances.
+The following is an aging analysis of trade receivables, 
+presented based on the date of the delivery of goods:
+ 
+ 
+ 
+ 
+2024
+2023
+2024年
+2023年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Within 6 months
+六個月內
+338,566
+368,653
+6 to 12 months
+六至十二個月
+844
+1,320
+ 
+ 
+ 
+ 
+339,410
+369,973
+ 
+ 
+ 
+ 
+Details of impairment assessment are set out in note 37.

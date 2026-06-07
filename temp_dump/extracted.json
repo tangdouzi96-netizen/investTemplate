@@ -1,0 +1,38 @@
+{
+  "2021": {
+    "year": "2021"
+  },
+  "2022": {
+    "year": "2022"
+  },
+  "2023": {
+    "year": "2023"
+  },
+  "2024": {
+    "year": "2024"
+  },
+  "2025": {
+    "year": "2025",
+    "revenue": 1688.38,
+    "revenue_prev": 1708.99,
+    "cost": 148.92,
+    "tax_surcharge": 273.54,
+    "selling_exp": 72.53,
+    "admin_exp": 83.2,
+    "fin_exp": -8.15,
+    "op_profit": 1148.09,
+    "net_profit_parent": 823.2,
+    "cash": 516.91,
+    "lending_to_banks": 990.96,
+    "total_assets": 3038.35,
+    "total_liabilities": 496.1,
+    "deposits_from_banks": 180.38,
+    "equity_parent": 2446.38,
+    "ocf": 615.22,
+    "capex": 620.97,
+    "icf": -316.42,
+    "fcf_fin": -734.27,
+    "net_cash_change": -435.44,
+    "ending_cash": 1264.26
+  }
+}

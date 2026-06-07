@@ -1,0 +1,534 @@
+
+============================================================
+📄 第170页
+============================================================
+As at 31 December 2022 於2022年12月31日
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+綜合財務狀況表
+CHINA FOODS LIMITED ANNUAL REPORT 2022
+168
+ 
+ 
+ 
+ 
+ 
+2022
+2021
+2022年
+2021年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Non-current assets
+非流動資產
+Property, plant and equipment
+物業、廠房及設備
+16
+5,235,033
+5,061,110
+Right-of-use assets
+使用權資產
+17
+564,247
+601,816
+Intangible assets
+無形資產
+18
+3,531,905
+3,530,039
+Deferred income tax assets
+遞延所得稅資產
+29
+315,188
+262,028
+Prepayments and other assets
+預付款項及其他資產
+10,502
+51,352
+Investments accounted for using 
+the equity method
+使用權益法入賬之投資
+13
+839,787
+812,362
+ 
+ 
+ 
+ 
+ 
+Total non-current assets
+非流動資產總額
+10,496,662
+10,318,707
+ 
+ 
+ 
+ 
+ 
+Current assets
+流動資產
+Inventories
+存貨
+22
+1,887,702
+1,933,314
+Prepayments, deposits and 
+other receivables
+預付款項、按金及其他
+應收款項
+19
+855,885
+489,089
+Trade receivables
+應收貿易款項
+21
+360,035
+327,746
+Amounts due from related parties
+關聯公司欠款
+35
+347,975
+383,963
+Cash and cash equivalents
+現金及現金等值項目
+23
+1,037,408
+1,591,703
+Pledged bank deposits
+抵押銀行存款
+23
+2,916
+18,737
+Prepaid tax
+預繳稅項
+69,163
+63,448
+Financial assets at fair value 
+through other comprehensive 
+income
+按公平值計入其他全面
+收益之金融資產
+20
+5,209
+41,357
+ 
+ 
+ 
+ 
+ 
+Total current assets
+流動資產總額
+4,566,293
+4,849,357
+ 
+ 
+ 
+ 
+ 
+Total assets
+資產總額
+15,062,955
+15,168,064
+ 
+ 
+ 
+ 
+ 
+
+============================================================
+📄 第171页
+============================================================
+中國食品有限公司  年報 2022 169
+As at 31 December 2022 於2022年12月31日
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION 綜合財務狀況表
+於2023年3月29日本公司董事會批准及授
+權發行第166頁至第260頁的綜合財務報
+表，並由以下人士代表簽署：
+ 
+ 
+ 
+ 
+ 
+2022
+2021
+2022年
+2021年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Non-current liabilities
+非流動負債
+Lease liabilities
+租賃負債
+27
+21,635
+42,409
+Deferred income tax liabilities
+遞延所得稅負債
+29
+83,100
+38,984
+Deferred income
+遞延收入
+30
+232,685
+229,042
+ 
+ 
+ 
+ 
+ 
+Total non-current liabilities
+非流動負債總額
+337,420
+310,435
+ 
+ 
+ 
+ 
+ 
+Current liabilities
+流動負債
+Trade and bills payables
+應付貿易賬款及票據
+25
+689,980
+474,892
+Amounts due to related parties
+欠關聯公司款項
+35
+439,239
+214,040
+Contract liabilities
+合約負債
+28
+987,013
+1,581,310
+Current income tax liabilities
+即期所得稅負債
+74,987
+66,651
+Lease liabilities
+租賃負債
+27
+36,074
+34,826
+Other payables and accruals
+其他應付款項及
+應計負債
+26
+3,636,030
+4,096,615
+ 
+ 
+ 
+ 
+ 
+Total current liabilities
+流動負債總額
+5,863,323
+6,468,334
+ 
+ 
+ 
+ 
+ 
+Total liabilities
+負債總額
+6,200,743
+6,778,769
+ 
+ 
+ 
+ 
+ 
+Net assets
+資產淨額
+8,862,212
+8,389,295
+ 
+ 
+ 
+ 
+ 
+Equity
+權益
+Share capital
+股本
+24
+293,201
+293,201
+Share premium and reserves
+股份溢價及儲備
+5,227,015
+4,864,230
+ 
+ 
+ 
+ 
+ 
+Equity attributable to owners 
+of the Company
+本公司擁有人應佔權益
+5,520,216
+5,157,431
+Non-controlling interests
+非控股權益
+3,341,996
+3,231,864
+ 
+ 
+ 
+ 
+ 
+Total equity
+權益總額
+8,862,212
+8,389,295
+ 
+ 
+ 
+ 
+ 
+The consolidated financial statements on pages 166 to 260 were 
+approved and authorised for issue by the board of directors of 
+the Company on 29 March 2023 and are signed on its behalf by:
+QING Lijun
+Shen Xinwen
+慶立軍
+沈新文
+Director
+Director
+董事
+董事
+
+============================================================
+📄 第172页
+============================================================
+For the year ended 31 December 2022 截至2022年12月31日止年度
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+綜合權益變動報表
+CHINA FOODS LIMITED ANNUAL REPORT 2022
+170
+ 
+ 
+ 
+ 
+ 
+Attributable to owners of the Group
+本集團擁有人應佔
+ 
+Issued 
+capital
+Share 
+premium
+Capital
+ reserve
+Reserve 
+funds
+Asset 
+revaluation 
+reserve
+Retained 
+profits
+Total
+Non-
+controlling 
+interests
+Total 
+equity
+已發行
+股本
+股份溢價
+資本儲備
+儲備金
+資產重估
+儲備
+保留溢利
+總計
+非控股
+權益
+權益總值
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At 1 January 2021
+於2021年1月1日
+293,201
+30,820
+860,048
+24,622
+3,204
+3,742,026
+4,953,921
+3,125,299
+8,079,220
+Profit and other comprehensive income for the year
+年內溢利及其他全面收益
+–
+–
+–
+–
+–
+572,415
+572,415
+502,268
+1,074,683
+Transactions with owners in their capacity as owners:
+與擁有人以其擁有人身份進行
+的交易：
+Disposal of subsidiaries
+處置附屬公司
+–
+–
+–
+–
+–
+3,219
+3,219
+1,734
+4,953
+Transactions with non-controlling interests (note 12(b))
+與非控股權益交易（附註12(b)）
+–
+–
+(123,171)
+–
+–
+–
+(123,171)
+(106,879)
+(230,050)
+Dividends provided for or paid (note 31)
+已宣告或已付股息（附註31）
+–
+–
+–
+–
+–
+(248,953)
+(248,953)
+(290,558)
+(539,511)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At 31 December 2021
+於2021年12月31日
+293,201
+30,820
+736,877
+24,622
+3,204
+4,068,707
+5,157,431
+3,231,864
+8,389,295
+Profit and other comprehensive income for the year
+年內溢利及其他全面收益
+–
+–
+–
+–
+–
+659,836
+659,836
+550,590
+1,210,426
+Transactions with owners in their capacity as owners:
+與擁有人以其擁有人身份進行
+的交易：
+Dividends provided for or paid (note 31)
+已宣告或已付股息（附註31）
+–
+–
+–
+–
+–
+(297,051)
+(297,051)
+(440,458)
+(737,509)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At 31 December 2022
+於2022年12月31日
+293,201
+30,820
+736,877
+24,622
+3,204
+4,431,492
+5,520,216
+3,341,996
+8,862,212
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

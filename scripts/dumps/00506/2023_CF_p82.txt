@@ -1,0 +1,253 @@
+
+============================================================
+📄 第82页
+============================================================
+CHINA FOODS LIMITED ANNUAL REPORT 2023
+80
+ 
+INDEPENDENT AUDITOR’S REPORT
+獨立核數師報告
+To the Shareholders of China Foods Limited
+(incorporated in Bermuda with limited liability)
+OPINION
+What we have audited
+The consolidated financial statements of China Foods Limited (the 
+“Company”) and its subsidiaries (the “Group”), which are set out 
+on pages 88 to 180, comprise:
+• 
+the consolidated statement of financial position as at 31 
+December 2023;
+• 
+the consolidated statement of profit or loss for the year then 
+ended;
+• 
+the consolidated statement of comprehensive income for the 
+year then ended;
+• 
+the consolidated statement of changes in equity for the year 
+then ended;
+• 
+the consolidated statement of cash flows for the year then 
+ended; and
+• 
+the notes to the consolidated financial statements, comprising 
+material accounting policy information and other explanatory 
+information.
+Our opinion
+In our opinion, the consolidated financial statements give a true 
+and fair view of the consolidated financial position of the Group 
+as at 31 December 2023, and of its consolidated financial 
+performance and its consolidated cash flows for the year then 
+ended in accordance with Hong Kong Financial Reporting Standards 
+(“HKFRSs”) issued by the Hong Kong Institute of Certified Public 
+Accountants (“HKICPA”) and have been properly prepared in 
+compliance with the disclosure requirements of the Hong Kong 
+Companies Ordinance.
+PricewaterhouseCoopers, 22/F Prince’s Building, Central, Hong Kong
+T: +852 2289 8888, F: +852 2810 9888, www.pwchk.com
+羅兵咸永道會計師事務所，香港中環太子大廈廿二樓
+總機：+852 2289 8888，傳真：+852 2810 9888, www.pwchk.com
+致中國食品有限公司全體股東
+（於百慕達註冊成立之有限公司）
+意見
+我們已審計的內容
+載於第88頁至第180頁的中國食品有限公
+司（「貴公司」）及其附屬公司（「貴集團」）的
+綜合財務報表，包括：
+‧ 
+於2023年12月31日的綜合財務狀況
+表；
+‧ 
+截至該日止年度之綜合損益報表；
+‧ 
+截至該日止年度之綜合全面收益報
+表；
+‧ 
+截至該日止年度之綜合權益變動報
+表；
+‧ 
+截至該日止年度之綜合現金流量表；
+及
+‧ 
+綜合財務報表附註（包括重大會計政
+策信息及其他解釋信息）。
+我們的意見
+我們認為，該等綜合財務報表已根據香港會
+計師公會（「香港會計師公會」）頒佈的《香港
+財務報告準則》
+（「香港財務報告準則」）真實
+而中肯地反映了貴集團於2023年12月31日
+的綜合財務狀況及貴集團截至該日止年度
+的綜合財務表現及綜合現金流量，並已遵照
+香港《公司條例》的披露規定妥為擬備。
+
+============================================================
+📄 第83页
+============================================================
+中國食品有限公司  年報 2023 81
+ 
+INDEPENDENT AUDITOR’S REPORT 獨立核數師報告
+意見的基礎
+我們已根據香港會計師公會頒佈的《香港審
+計準則》
+（「香港審計準則」）進行審計。我們
+在該等準則下承擔的責任已在本報告「核數
+師就審計綜合財務報表承擔的責任」部分中
+作進一步闡述。
+我們相信，我們所獲得的審計憑證能充足及
+適當地為我們的審計意見提供基礎。
+獨立性
+根據香港會計師公會頒佈的《專業會計師道
+德守則》
+（以下簡稱「守則」），我們獨立於貴
+集團，並已履行守則中的其他專業道德責
+任。
+關鍵審計事項
+關鍵審計事項是根據我們的專業判斷，認為
+對本期綜合財務報表的審計最為重要的事
+項。這些事項是在我們審計整體綜合財務報
+表及出具意見時進行處理的。我們不對這些
+事項提供單獨的意見。
+我們在審計中識別的關鍵審計事項是關於
+商譽及使用壽命不確定的無形資產之減值
+評估。
+BASIS FOR OPINION
+We conducted our audit in accordance with Hong Kong Standards 
+on Auditing (“HKSAs”) issued by the HKICPA. Our responsibilities 
+under those standards are further described in the Auditor’s 
+Responsibilities for the Audit of the Consolidated Financial 
+Statements section of our report.
+We believe that the audit evidence we have obtained is sufficient 
+and appropriate to provide a basis for our opinion.
+Independence
+We are independent of the Group in accordance with the HKICPA’s 
+Code of Ethics for Professional Accountants (“the Code”), and we 
+have fulfilled our other ethical responsibilities in accordance with 
+the Code.
+KEY AUDIT MATTERS
+Key audit matters are those matters that, in our professional 
+judgment, were of most significance in our audit of the consolidated 
+financial statements of the current period. These matters were 
+addressed in the context of our audit of the consolidated financial 
+statements as a whole, and in forming our opinion thereon, and 
+we do not provide a separate opinion on these matters.
+The key audit matter identified in our audit is related to impairment 
+assessment of goodwill and intangible assets with indefinite useful 
+lives.
+
+============================================================
+📄 第84页
+============================================================
+CHINA FOODS LIMITED ANNUAL REPORT 2023
+82
+ 
+INDEPENDENT AUDITOR’S REPORT 獨立核數師報告
+KEY AUDIT MATTERS (continued)
+關鍵審計事項（續）
+Key Audit Matter
+How our audit addressed the Key Audit Matter
+關鍵審計事項
+我們的審計如何處理關鍵審計事項
+Impairment assessment of goodwill and intangible 
+assets with indefinite useful lives (the “indefinite lives 
+intangible assets”)
+商譽及使用壽命不確定的無形資產（「使用壽命不確定
+的無形資產」）的減值評估
+Refer to Note 4 “Critical accounting judgement and 
+key sources of estimation uncertainty” and Note 
+17 “Intangible assets” to the consolidated financial 
+statements.
+請參考綜合財務報表附註4「關鍵會計判斷和估計不確
+定性的關鍵來源」和附註17「無形資產」。
+As at 31 December 2023, the Group’s goodwill 
+and indefinite lives intangible assets not subject 
+to amortisation (i.e. franchise rights) amounted 
+to RMB1,846,799,000 and RMB1,659,475,000 
+respectively (collectively the “Intangible Assets under 
+Assessment”) and no provision for impairment has 
+been recognised on these assets.
+截至2023年12月31日，貴集團的商譽及無需攤銷的使
+用壽命不確定的無形資產（即特許經營權）分別為人民
+幣1,846,799,000元和人民幣1,659,475,000元（統稱為
+「評估中的無形資產」），沒有對這些資產確認減值準備。
+The Company’s management (“management”) has 
+performed impairment assessment on these Intangible 
+Assets under Assessment on an annual basis. For the 
+purpose of the impairment assessment, management 
+has allocated the Intangible Assets under Assessment 
+to a group of cash-generating units under the same 
+operating segment (the “Beverage CGUs”) and 
+determined the recoverable amounts of the Beverage 
+CGUs based on value-in-use calculations. These value-
+in-use calculations required management to forecast 
+the future cash flows of the Beverage CGUs based on 
+the approved financial budgets. The key assumptions 
+as adopted by management in the value-in-use 
+calculations primarily include revenue growth rate, 
+gross profit margin, long-term revenue growth rate and 
+pre-tax discount rate.
+貴公司的管理層（「管理層」）每年都對這些評估中的無
+形資產進行減值評估。為了進行減值評估，管理層已將
+評估中的無形資產分配給同一經營分部下的一組現金
+產生單位（「飲料現金產生單位」），並根據使用價值計
+算確定飲料現金產生單位的可收回金額。這些使用價
+值的計算要求管理層根據批准的財務預算預測飲料現
+金產生單位的未來現金流。管理層在使用價值計算中
+採用的關鍵假設主要包括收入增長率、毛利率、長期收
+入增長率和稅前折現率。
+Our procedures in relation to the impairment assessment 
+of goodwill and indefinite lives intangible assets included:
+我們與商譽及使用壽命不確定的無形資產的減值評估
+有關的程序包括：
+• 
+We understood and evaluated the management’s 
+internal controls in relation to the impairment 
+assessment of goodwill and the indefinite lives 
+intangible assets, and assessed the risk of material 
+misstatement by considering the degree of 
+estimation uncertainty as complexity, subjectivity 
+and other inherent risk factors;
+ 
+我們了解並評估了管理層在商譽及使用壽命不確
+定的無形資產的減值評估方面相關的內部控制，
+並經考慮估計不確定性的程度（複雜性、主觀性及
+其他固有風險因素）評估存在重大錯誤陳述的風
+險；
+• 
+We assessed the reliability of management’s cash 
+flow forecast by comparing the historical cash flow 
+forecasts with the actual results of the Beverage 
+CGUs;
+ 
+我們通過比較歷史現金流預測和飲料現金產生單
+位的實際結果來評估管理層現金流預測的可靠
+性；
+• 
+We evaluated the competence, capabilities 
+and objectivity of the valuation expert engaged 
+by management to perform the impairment 
+assessment by performing procedures including 
+but not limited to: examining its professional 
+qualification and reputation; inquiring the valuation 
+expert whether it is independent in respect of the 
+Group;
+ 
+我們評估了管理層委聘進行減值評估的估值專家
+的職能、能力及客觀性，程序包括但不限於：審
+查其專業資格及聲譽；詢問估值專家是否獨立於
+貴集團；
+• 
+We evaluated the appropriateness of the discount 
+cash flow model and pre-tax discount rates as 
+used by management in determining the value-in-
+use of the Beverage CGUs, with the assistance of 
+our internal valuation experts;
+ 
+在內部估值專家協助下，我們評估了管理層在確
+定飲料現金產生單位的使用價值時所使用的折現
+現金流模型及稅前折現率的適當性；
+• 
+We verified the mathematical accuracy of the 
+value-in-use calculations;
+ 
+我們驗證了使用價值計算的數學準確性；

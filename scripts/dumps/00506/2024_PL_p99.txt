@@ -1,0 +1,411 @@
+
+============================================================
+📄 第99页
+============================================================
+97
+中國食品有限公司 年報 2024
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS 
+綜合損益報表
+For the year ended 31 December 2024 截至2024年12月31日止年度
+(Expressed in Renminbi)（以人民幣列示）
+隨附的附註是本綜合財務報表的組成部分。
+ 
+ 
+ 
+ 
+ 
+2024
+2023
+2024年
+2023年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Revenue
+收入
+5
+21,491,811
+21,446,436
+Cost of sales
+銷售成本
+(13,370,967)
+(13,902,630)
+ 
+ 
+ 
+ 
+ 
+Gross profit
+毛利
+8,120,844
+7,543,806
+Distribution and selling  
+expenses
+分銷及銷售支出
+(5,871,192)
+(5,469,877)
+Administrative expenses
+行政支出
+(537,598)
+(530,444)
+Net impairment losses on  
+financial assets
+金融資產減值虧損淨額
+(8,070)
+(22,938)
+Other income, gains and  
+losses, net
+其他收入、收益及虧損
+淨額
+7
+161,915
+328,414
+ 
+ 
+ 
+ 
+ 
+Operating profit
+經營溢利
+1,865,899
+1,848,961
+Finance costs
+融資成本
+8
+(4,747)
+(4,971)
+Share of results of associates
+應佔聯營公司業績
+18
+5,252
+–
+ 
+ 
+ 
+ 
+ 
+Profit before tax
+稅前溢利
+1,866,404
+1,843,990
+Income tax expense
+所得稅支出
+9
+(443,827)
+(458,428)
+ 
+ 
+ 
+ 
+ 
+Profit for the year
+年內溢利
+10
+1,422,577
+1,385,562
+ 
+ 
+ 
+ 
+ 
+Profit for the year is  
+attributable to:
+本年度應佔溢利：
+– Owners of the Company
+－本公司擁有人
+860,535
+832,577
+– Non-controlling interests
+－非控股權益
+562,042
+552,985
+ 
+ 
+ 
+ 
+ 
+1,422,577
+1,385,562
+ 
+ 
+ 
+ 
+ 
+Earnings per share
+每股盈利：
+Basic and diluted (RMB cents)
+基本及攤薄（人民幣分）
+14
+30.76
+29.76
+ 
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these 
+consolidated financial statements.
+
+============================================================
+📄 第100页
+============================================================
+CHINA FOODS LIMITED  ANNUAL REPORT 2024
+98
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME 
+綜合全面收益報表
+For the year ended 31 December 2024 截至2024年12月31日止年度
+(Expressed in Renminbi)（以人民幣列示）
+隨附的附註是本綜合財務報表的組成部分。
+ 
+ 
+ 
+ 
+2024
+2023
+2024年
+2023年
+RMB’000
+RMB’000
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+Profit and other comprehensive  
+income for the year
+本年度溢利及其他 
+全面收益
+1,422,577
+1,385,562
+ 
+ 
+ 
+ 
+Total comprehensive income  
+for the year attributable to:
+應佔年內全面收益 
+總額：
+– Owners of the Company
+－本公司擁有人
+860,535
+832,577
+– Non-controlling interests
+－非控股權益
+562,042
+552,985
+ 
+ 
+ 
+ 
+1,422,577
+1,385,562
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these 
+consolidated financial statements.
+
+============================================================
+📄 第101页
+============================================================
+99
+中國食品有限公司 年報 2024
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+綜合財務狀況表
+As at 31 December 2024 於2024年12月31日
+(Expressed in Renminbi)（以人民幣列示）
+ 
+ 
+ 
+ 
+ 
+2024
+2023
+2024年
+2023年
+Notes
+RMB’000
+RMB’000
+附註
+人民幣千元
+人民幣千元
+ 
+ 
+ 
+ 
+ 
+Non-current assets
+非流動資產
+Property, plant and equipment
+物業、廠房及設備
+15
+5,450,960
+5,592,815
+Right-of-use assets
+使用權資產
+16
+653,044
+568,581
+Intangible assets
+無形資產
+17
+3,544,591
+3,543,729
+Interests in associates
+於聯營公司的權益
+18
+194,623
+252,371
+Prepayments and other assets
+預付款項及其他資產
+23,731
+14,991
+Deferred tax assets
+遞延稅項資產
+19
+458,192
+277,940
+ 
+ 
+ 
+ 
+ 
+10,325,141
+10,250,427
+ 
+ 
+ 
+ 
+ 
+Current assets
+流動資產
+Inventories
+存貨
+20
+1,443,480
+1,736,729
+Trade receivables
+應收貿易款項
+21
+339,410
+369,973
+Prepayments, deposits and  
+other receivables
+預付款項、按金及其他
+應收款項
+22
+1,096,624
+1,073,175
+Financial assets at fair value 
+through other comprehensive 
+income
+按公平值計入其他全面
+收益之金融資產
+23
+6,581
+8,314
+Amounts due from related  
+parties
+關聯公司欠款
+34(c)
+354,166
+427,065
+Tax recoverable
+可回收稅項
+14,428
+55,634
+Pledged bank deposits
+抵押銀行存款
+24
+4,133
+11,275
+Cash and cash equivalents
+現金及現金等值項目
+24
+4,014,404
+2,293,015
+ 
+ 
+ 
+ 
+ 
+7,273,226
+5,975,180
+ 
+ 
+ 
+ 
+ 
+Current liabilities
+流動負債
+Trade and bills payables
+應付貿易賬款及票據
+25
+804,247
+774,354
+Other payables and accruals
+其他應付款項及應計 
+負債
+26
+4,827,521
+3,528,879
+Lease liabilities
+租賃負債
+27
+39,339
+39,768
+Contract liabilities
+合約負債
+28
+865,961
+1,284,413
+Amounts due to related parties
+欠關聯公司款項
+34(c)
+331,614
+222,252
+Income tax payable
+應付所得稅
+168,278
+109,915
+ 
+ 
+ 
+ 
+ 
+7,036,960
+5,959,581
+ 
+ 
+ 
+ 
+ 
+Net current assets
+流動資產總額
+236,266
+15,599
+ 
+ 
+ 
+ 
+ 
+Total assets less current 
+liabilities
+總資產減流動負債
+10,561,407
+10,266,026
+ 
+ 
+ 
+ 
+ 
