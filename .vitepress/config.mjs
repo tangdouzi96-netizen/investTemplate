@@ -1,5 +1,24 @@
 import { defineConfig } from 'vitepress'
 
+/** Dev/preview: legacy standalone URL → VitePress 风险跟踪页 */
+function redirectRiskDashboardHtml() {
+  return {
+    name: 'redirect-risk-dashboard-html',
+    configureServer(server) {
+      server.middlewares.use((req, res, next) => {
+        const url = req.url?.split('?')[0] ?? ''
+        if (url === '/risk-dashboard.html' || url === '/risk-dashboard.html/') {
+          res.statusCode = 302
+          res.setHeader('Location', encodeURI('/模拟持仓/个股风险跟踪'))
+          res.end()
+          return
+        }
+        next()
+      })
+    },
+  }
+}
+
 export default defineConfig({
   title: '投资分析模板',
   description: '港股/A股个股投资分析框架 V5.5.12',
@@ -13,7 +32,8 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '🎯 模拟持仓', link: '/模拟持仓/持仓' },
-      { text: '⚠️ 风险跟踪', link: '/risk-dashboard.html' },
+      { text: '⚠️ 风险跟踪', link: '/模拟持仓/个股风险跟踪' },
+      { text: '📊 持仓追踪', link: '/持仓追踪/' },
       { text: '分析模板', link: '/个股分析标准模版' },
       { text: '版本日志', link: '/CHANGELOG' }
     ],
@@ -27,8 +47,18 @@ export default defineConfig({
           items: [
             { text: '总览', link: '/模拟持仓/' },
             { text: '持仓', link: '/模拟持仓/持仓' },
+            { text: '个股风险跟踪', link: '/模拟持仓/个股风险跟踪' },
             { text: '今日操作', link: '/模拟持仓/今日操作' },
             { text: '决策记录', link: '/模拟持仓/决策记录' }
+          ]
+        }
+      ],
+      '/持仓追踪/': [
+        {
+          text: '📊 持仓追踪',
+          collapsed: false,
+          items: [
+            { text: '看板', link: '/持仓追踪/' }
           ]
         }
       ],
@@ -129,8 +159,7 @@ export default defineConfig({
         text: '🤖 08-决策追踪',
         collapsed: true,
         items: [
-          { text: '🎯 模拟持仓', link: '/模拟持仓/持仓' },
-          { text: '⚠️ 风险跟踪预警', link: '/risk-dashboard.html' }
+          { text: '🎯 模拟持仓', link: '/模拟持仓/持仓' }
         ]
       }
       ]
@@ -203,6 +232,10 @@ export default defineConfig({
     config: (md) => {
       // 可以在这里添加 markdown-it 插件
     }
+  },
+
+  vite: {
+    plugins: [redirectRiskDashboardHtml()],
   },
   
   // 头部配置

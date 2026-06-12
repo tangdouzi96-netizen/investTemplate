@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "updated_at": "2026-06-12T16:03:50.085125+08:00",
+    "version": "1.0",
+    "validation": {
+      "total_checks": 4,
+      "passed": 0,
+      "failed": 4,
+      "single_source": 3
+    }
+  },
+  "positions": [
+    {
+      "id": "09992",
+      "company": "泡泡玛特",
+      "code": "09992.HK",
+      "exchange": "港股通",
+      "currency": "HKD",
+      "buy": {
+        "price": 150.107,
+        "pe": 14.13,
+        "net_profit": 127.76,
+        "fcf": 96.94,
+        "growth_rate": "5年内10%-15%，长期5%",
+        "expected_return": "年化15%以上",
+        "logic": "1. 最好的商业模式：低库存低资本开支、高毛利、产品差异化大无成本竞争压力 2. 顶级管理团队且核心团队年轻，可以保证管理长期稳定 3.labubu爆火加速品类进入新市场消费者心智，且验证产品的跨文化感召力 4.按labubu销量减一半来计算pe18倍左右，安全边际足够",
+        "moat": "独家IP、labubu爆火带来的全球知名度和影响力，公司在消费者心智中代表潮玩品类，管理团队优秀",
+        "risk_factor": "潮玩品类整体衰退"
+      },
+      "current": {
+        "price": {
+          "value": 182.0,
+          "source": "akshare(单源)",
+          "cross_validated": false
+        },
+        "pe_ttm": {
+          "value": 16.79,
+          "source": "akshare(单源)",
+          "cross_validated": false
+        },
+        "net_profit_reported": {
+          "value": 127.76,
+          "unit": "亿CNY",
+          "year": "FY2025",
+          "source": "溯源表-B区"
+        },
+        "net_profit_consensus": {
+          "value": null,
+          "unit": "亿CNY",
+          "year": "FY2026E",
+          "source": "东方财富一致预期"
+        },
+        "fcf_reported": {
+          "value": 96.94,
+          "unit": "亿CNY",
+          "year": "FY2025",
+          "source": "溯源表-B区"
+        },
+        "fcf_consensus": {
+          "value": null,
+          "unit": "亿CNY",
+          "year": "FY2026E",
+          "source": "东方财富一致预期"
+        },
+        "growth_consensus": {
+          "value": null,
+          "source": ""
+        },
+        "market_implied": {
+          "implied_growth": 4.04,
+          "implied_return": 10.0,
+          "growth_note": "当前PE反推市场隐含永续增速，假设折现率10%",
+          "return_note": "隐含增速 -> 预期年化收益（含分红）"
+        },
+        "subjective_return": "年化15%以上"
+      }
+    },
+    {
+      "id": "600519",
+      "company": "贵州茅台",
+      "code": "600519.SH",
+      "exchange": "沪股通",
+      "currency": "CNY",
+      "buy": {
+        "price": 1348.972,
+        "pe": 20.388,
+        "net_profit": 823.0,
+        "fcf": 584.0,
+        "growth_rate": "5年内5%，长期3%",
+        "expected_return": "含分红复投年化10%",
+        "logic": "中国商业模式最好的公司，产品拥有唯一性，护城河最高，分红稳健",
+        "moat": "产品质量独一无二，用户忠诚度最高",
+        "risk_factor": "酱酒品类退出心智"
+      },
+      "current": {
+        "price": {
+          "value": 1291.91,
+          "source": "akshare(单源)",
+          "cross_validated": false
+        },
+        "pe_ttm": {
+          "value": null,
+          "source": "获取失败",
+          "cross_validated": false
+        },
+        "net_profit_reported": {
+          "value": 823.2,
+          "unit": "亿CNY",
+          "year": "FY2025",
+          "source": "溯源表-B区"
+        },
+        "net_profit_consensus": {
+          "value": null,
+          "unit": "亿CNY",
+          "year": "FY2026E",
+          "source": "东方财富一致预期"
+        },
+        "fcf_reported": {
+          "value": 583.94,
+          "unit": "亿CNY",
+          "year": "FY2025",
+          "source": "溯源表-B区"
+        },
+        "fcf_consensus": {
+          "value": null,
+          "unit": "亿CNY",
+          "year": "FY2026E",
+          "source": "东方财富一致预期"
+        },
+        "growth_consensus": {
+          "value": null,
+          "source": ""
+        },
+        "market_implied": {
+          "implied_growth": null,
+          "implied_return": null,
+          "growth_note": "当前PE反推市场隐含永续增速，假设折现率10%",
+          "return_note": "隐含增速 -> 预期年化收益（含分红）"
+        },
+        "subjective_return": "含分红复投年化10%"
+      }
+    }
+  ]
+}

@@ -9,7 +9,7 @@ import os
 import sys
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-HTML_PATH = os.path.join(BASE, 'public', 'risk-dashboard.html')
+HTML_PATH = os.path.join(BASE, 'scripts', 'templates', 'risk-dashboard.template.html')
 JSON_PATH = os.path.join(BASE, 'public', 'risk-data.json')
 OUT_PATH = os.path.join(BASE, 'public', 'risk-dashboard-standalone.html')
 
