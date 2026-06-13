@@ -13,7 +13,7 @@
 ## 项目速览
 
 - 类型：港股/A股个股投资分析模板系统
-- 当前版本：V5.5.14（以 `AGENTS.md` 为准）
+- 版本以 `AGENTS.md` 为准（本文件不单独声明版本号）
 - 语言：简体中文
 - LLM 提供商：DeepSeek (deepseek-chat)，API Key 已配置
 
